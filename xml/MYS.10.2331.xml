@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2331">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="八田乃野之"/>
+          <phr type="np-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-sbj">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l052397">
+                        <c type="phon-kun">yata</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l051650">
+                        <c type="log">nwo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="淺茅色付"/>
+                  <w type="n" lemma="l050637">
+                    <c type="log">asadi</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l030224a">
+                  <w type="n" lemma="l050105">
+                    <c type="log">iro</c>
+                  </w>
+                  <w type="vb-adc" lemma="l031130a">
+                    <c type="log">duku</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="有乳山"/>
+              <w type="pln" lemma="l080264">
+                <w type="pln" lemma="l080263">
+                  <c type="phon-kun">arati</c>
+                </w>
+                <w type="n" lemma="l050034">
+                  <c type="log">yama</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="峯之沫雪"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051470">
+                  <c type="log">mine</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="n">
+              <w type="n" lemma="l052555">
+                <c type="log">awa</c>
+              </w>
+              <w type="n" lemma="l050075">
+                <c type="log">yuki</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="寒零良之"/>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007159">
+                <c type="log">samu</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-adc" lemma="l031111a">
+            <c type="log">tiru</c>
+          </w>
+          <w type="xtn-cls" lemma="l000806">
+            <c type="phon">rasi</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

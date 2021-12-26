@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.903">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="倭文手纒"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <cl type="ip-ept">
+                    <w type="mk" lemma="l051978">
+                      <c type="log">situtamaki</c>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="数母不在"/>
+                  <w type="n" lemma="l050057">
+                    <c type="log">kazu</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="nlog">ni</c>
+                </w>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030125a">
+                    <c type="log">ara</c>
+                  </w>
+                  <w type="vax-neg-adn" lemma="l000006a">
+                    <c type="log">nu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="身爾波在等"/>
+              <w type="n" lemma="l050023">
+                <c type="log">mwi</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+            <w type="vb-css" lemma="l030125a">
+              <c type="log">are</c>
+              <c type="phon">do</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="千年爾母何等"/>
+          <cl type="ip-arg">
+            <phr type="np-prd">
+              <w type="n">
+                <w type="num" lemma="l002013">
+                  <c type="log">ti</c>
+                </w>
+                <w type="cl" lemma="l052164">
+                  <c type="log">tose</c>
+                </w>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+            <w type="p-fnl-opt" lemma="l000515">
+              <c type="phon">moga</c>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="意母保由留加母"/>
+          <w type="vb-adn" lemma="l030404a">
+            <c type="phon">omopoyuru</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

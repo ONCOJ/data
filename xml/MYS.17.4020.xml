@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.4020">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="故之能宇美能"/>
+          <cl type="ip-adv">
+            <phr type="pp-pth">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l060212">
+                      <w type="pln" lemma="l052562">
+                        <c type="phon-on">kwosi</c>
+                      </w>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon-on">no</c>
+                      </w>
+                      <w type="n" lemma="l052517">
+                        <c type="phon-on">umi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="信濃乃波麻乎"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l051953">
+                      <c type="phon-on">sinanwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051709">
+                  <c type="phon">pama</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="由伎久良之"/>
+            <w type="vb-inf" lemma="l031833a">
+              <w type="vb-stm" lemma="l031840a">
+                <c type="phon">yuki</c>
+              </w>
+              <w type="vb-inf" lemma="l030662a">
+                <c type="phon">kurasi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="奈我伎波流比毛"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007007">
+                    <c type="phon">naga</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="phon">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050450">
+                <w type="n" lemma="l051724">
+                  <c type="phon">paru</c>
+                </w>
+                <w type="n" lemma="l050090">
+                  <c type="phon">pi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="和須礼弖於毛倍也"/>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l031907a">
+              <c type="phon">wasurete</c>
+            </w>
+          </cl>
+          <w type="vb-exc" lemma="l030399a">
+            <c type="phon">omope</c>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

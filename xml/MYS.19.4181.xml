@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4181">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="左夜深而"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-sbj">
+                    <w type="n" lemma="l051906">
+                      <w type="pfx" lemma="l000061">
+                        <c type="phon">sa</c>
+                      </w>
+                      <w type="n" lemma="l050039">
+                        <c type="log">ywo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="vb-ger" lemma="l031519a">
+                    <c type="log">pukete</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="暁月爾"/>
+                <cl type="ip-adv">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n">
+                        <w type="adj-stm" lemma="l007016">
+                          <c type="log">aka</c>
+                        </w>
+                        <w type="n" lemma="l050059">
+                          <c type="log">toki</c>
+                        </w>
+                        <w type="n" lemma="l050004a">
+                          <c type="log">tukwi</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="影所見而"/>
+                  <phr type="np-sbj">
+                    <w type="n" lemma="l050011a">
+                      <c type="log">kage</c>
+                    </w>
+                  </phr>
+                  <w type="vb-ger">
+                    <w type="vb-stm" lemma="l031712a">
+                      <c type="log">mi</c>
+                    </w>
+                    <w type="vax-pass-ger" lemma="l000011">
+                      <c type="log">yete</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="鳴霍公鳥"/>
+                <w type="vb-adc" lemma="l031267a">
+                  <c type="log">naku</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050160">
+                <c type="log">pototogisu</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="聞者夏借"/>
+            <w type="vb-prv" lemma="l030565a">
+              <c type="log">kikeba</c>
+            </w>
+          </cl>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007125">
+              <c type="phon">natukasi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

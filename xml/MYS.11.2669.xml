@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2669">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="吾背子之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pro-n" lemma="l042057">
+                          <c type="log">wa</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000503">
+                        <c type="nlog">ga</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l050285">
+                      <c type="log">sekwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="log">ga</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="振放見乍"/>
+                <cl type="ip-adv">
+                  <w type="vb-ctt">
+                    <w type="vb-stm" lemma="l031556a">
+                      <c type="log">purisake</c>
+                    </w>
+                    <w type="vb-ctt" lemma="l031712a">
+                      <c type="log">mitutu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="將嘆"/>
+                <w type="vb-adc" lemma="l031276a">
+                  <c type="log">nageku</c>
+                </w>
+                <w type="xtn-adc" lemma="l000805">
+                  <c type="log">ramu</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="清月夜爾"/>
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007086">
+                    <c type="log">kiywo</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="log">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n">
+                <w type="n" lemma="l050004b">
+                  <c type="log">tuku</c>
+                </w>
+                <w type="n" lemma="l050039">
+                  <c type="log">ywo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="雲莫田名引"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050115">
+              <c type="log">kumo</c>
+            </w>
+          </phr>
+          <w type="vb-inf">
+            <w type="pfx-phb" lemma="l000036">
+              <c type="log">na</c>
+            </w>
+            <w type="vb-inf" lemma="l031055a">
+              <c type="phon">tanabiki</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

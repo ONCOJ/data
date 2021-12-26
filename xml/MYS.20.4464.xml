@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4464">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="保等登芸須"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l050160">
+                    <c type="phon">pototogisu</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="可気都都伎美我"/>
+                <w type="vb-ctt" lemma="l030443a">
+                  <c type="phon">kaketutu</c>
+                </w>
+              </cl>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l004266">
+                    <c type="phon">kimi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="麻都可気爾"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050200">
+                    <w type="n" lemma="l050158">
+                      <c type="phon">matu</c>
+                    </w>
+                    <w type="n" lemma="l050011a">
+                      <c type="phon">kage</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="比毛等伎佐久流"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l051763">
+                  <c type="phon">pimo</c>
+                </w>
+              </phr>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l031199a">
+                  <c type="phon">toki</c>
+                </w>
+                <w type="vb-adn" lemma="l030789a">
+                  <c type="phon">sakuru</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="都奇知可都伎奴"/>
+            <w type="n" lemma="l050004a">
+              <c type="phon">tukwi</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031101a">
+              <w type="adj-stm" lemma="l007017">
+                <c type="phon">tika</c>
+              </w>
+              <w type="vb-stm" lemma="l031130a">
+                <c type="phon">duki</c>
+              </w>
+            </w>
+            <w type="vax-prf-cls" lemma="l000018">
+              <c type="phon">nu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1986">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="吾耳哉"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042059">
+                  <c type="log">ware</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000521">
+                <c type="log">nomwi</c>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="log">ya</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="如是戀為良武"/>
+            <phr type="np-adv">
+              <w type="pro-adv" lemma="l042020">
+                <c type="log">kaku</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vb-cls" lemma="l030919a">
+              <c type="log">su</c>
+            </w>
+            <w type="xtn-adc" lemma="l000805">
+              <c type="phon">ramu</c>
+            </w>
+          </s>
+          <lb id="2" corresp="垣津旗"/>
+          <s type="ip-mat">
+            <phr type="pp-arg">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-ept">
+                    <w type="mk" lemma="l080277">
+                      <w type="n" lemma="l051180">
+                        <c type="phon">kakitupata</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="丹頬合妹者"/>
+                  <w type="vb-adc" lemma="l031331a">
+                    <c type="log">ni</c>
+                    <c type="phon">turapu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050027">
+                  <c type="log">imo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="如何将有"/>
+            <w type="adj-inf">
+              <w type="wh-adj-stm" lemma="l042002">
+                <c type="log">ika</c>
+              </w>
+              <w type="cop-inf" lemma="l031965">
+                <c type="log">ni</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="log">ka</c>
+            </w>
+            <w type="vb-adn" lemma="l030125a">
+              <c type="log">aru</c>
+            </w>
+            <w type="xtn-adc" lemma="l000805">
+              <c type="log">ramu</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

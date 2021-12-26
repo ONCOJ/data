@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.42">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="知破椰臂苔"/>
+          <phr type="pp-gol">
+            <phr type="np">
+              <cl type="ip-ept">
+                <w type="mk" lemma="l050474">
+                  <c type="phon">tipayapito</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="于旎能和多利珥"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l052236">
+                    <c type="phon-on">udi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon-on">no</c>
+                </w>
+              </phr>
+              <w type="n-dvb" lemma="l031910b">
+                <c type="phon">watari</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="佐烏刀利珥"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <w type="n" lemma="l090527">
+                      <w type="n" lemma="l051904">
+                        <c type="phon">sawo</c>
+                      </w>
+                      <w type="n-dvb" lemma="l031258b">
+                        <c type="phon">twori</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="破椰鶏務臂苔辞"/>
+                <w type="adj-adc">
+                  <w type="adj-stm" lemma="l004028">
+                    <c type="phon">paya</c>
+                  </w>
+                  <w type="acp-stm" lemma="l000033">
+                    <c type="phon">kye</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="phon">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050046">
+                <c type="phon">pito</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="和餓毛胡珥虚務"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="phon">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090006">
+                <c type="phon">mokwo</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030612a">
+              <c type="phon">ko</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

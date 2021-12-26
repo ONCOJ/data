@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1200">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="吾舟者"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="log">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="nlog">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050007a">
+                  <c type="log">pune</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="従奥莫離"/>
+            <phr type="pp-src-ob1">
+              <phr type="np">
+                <w type="n" lemma="l052520">
+                  <c type="log">oki</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540d">
+                <c type="log">yu</c>
+              </w>
+            </phr>
+            <w type="vb-inf">
+              <w type="pfx-phb" lemma="l000036">
+                <c type="log">na</c>
+              </w>
+              <w type="vb-inf" lemma="l030770a">
+                <c type="log">sakari</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="向舟"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <w type="n" lemma="l090817">
+                <w type="vb-stm" lemma="l031722a">
+                  <c type="log">mukape</c>
+                </w>
+                <w type="n" lemma="l050007a">
+                  <c type="log">bune</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="片待香光"/>
+            <cl type="ip-adv">
+              <phr type="np-adv">
+                <w type="n">
+                  <w type="n-dvb" lemma="l030483b">
+                    <c type="log">katamati</c>
+                  </w>
+                  <w type="sfx" lemma="l001009">
+                    <c type="phon">gateri</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="4" corresp="従浦榜将會"/>
+              <phr type="pp-adv-src">
+                <phr type="np">
+                  <w type="n" lemma="l050108">
+                    <c type="log">ura</c>
+                  </w>
+                </phr>
+                <w type="p-case-abl" lemma="l000540d">
+                  <c type="log">yu</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030698a">
+                <c type="log">kogi</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030071a">
+                <c type="log">apa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

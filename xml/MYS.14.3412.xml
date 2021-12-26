@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3412">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="賀美都家野"/>
+          <phr type="np">
+            <phr type="np">
+              <w type="pln" lemma="l090424">
+                <w type="n" lemma="l050045">
+                  <c type="phon-on">kami</c>
+                </w>
+                <w type="cop-adn" lemma="l031968">
+                  <c type="phon-on">tu</c>
+                </w>
+                <w type="pln" lemma="l051387">
+                  <c type="phon">kyenwo</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="1" corresp="久路保乃祢呂乃"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l051352">
+                  <c type="phon">kurwopo</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="n" lemma="l052485">
+                    <c type="phon">ne</c>
+                  </w>
+                  <w type="sfx" lemma="l001007">
+                    <c type="phon">ro</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="久受葉我多"/>
+            <w type="n" lemma="l050251">
+              <w type="n" lemma="l051370">
+                <c type="phon">kuzu</c>
+              </w>
+              <w type="n" lemma="l052480">
+                <c type="log">pa</c>
+              </w>
+              <w type="n" lemma="l090030">
+                <c type="phon">gata</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="3" corresp="可奈師家児良爾"/>
+          <phr type="pp-src-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007022">
+                    <c type="phon">kanasi</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="phon">kye</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n">
+                <w type="n" lemma="l050028">
+                  <c type="log">kwo</c>
+                </w>
+                <w type="sfx" lemma="l001003">
+                  <c type="phon">ra</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="伊夜射可里久母"/>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030210a">
+              <w type="adv" lemma="l004014">
+                <c type="phon">iya</c>
+              </w>
+              <w type="vb-stm" lemma="l030770a">
+                <c type="phon">zakari</c>
+              </w>
+            </w>
+            <w type="vb-cls" lemma="l030612a">
+              <c type="phon">ku</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

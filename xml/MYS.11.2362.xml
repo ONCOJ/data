@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2362">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="開木代"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-arg">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="pln" lemma="l052385">
+                            <c type="phon-kun">yamasiro</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="nlog">no</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="來背若子"/>
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="pln" lemma="l051357">
+                            <c type="phon-kun">kuse</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="nlog">no</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050292">
+                        <w type="adj-stm" lemma="l007210">
+                          <c type="log">waku</c>
+                        </w>
+                        <w type="n" lemma="l050028">
+                          <c type="log">gwo</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="nlog">ga</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="欲云余"/>
+                  <w type="adj-cls">
+                    <w type="adj-stm" lemma="l007237">
+                      <c type="log">posi</c>
+                    </w>
+                    <w type="acp-cls" lemma="l000033">
+                      <c type="null">*</c>
+                    </w>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="nlog">to</c>
+                  </w>
+                </cl>
+                <w type="vb-adc" lemma="l030199a">
+                  <c type="log">ipu</c>
+                </w>
+              </cl>
+              <w type="pro-n" lemma="l042059">
+                <c type="log">ware</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="3" corresp="相狭丸"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <w type="adj-inf">
+                    <w type="adj-stm" lemma="l004057">
+                      <c type="phon">apusawa</c>
+                    </w>
+                    <w type="cop-inf" lemma="l031965">
+                      <c type="nlog">ni</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="4" corresp="吾欲云"/>
+                <cl type="ip-arg">
+                  <phr type="pp-ob1">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042059">
+                        <c type="log">ware</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-acc" lemma="l000534">
+                      <c type="nlog">wo</c>
+                    </w>
+                  </phr>
+                  <w type="adj-cls">
+                    <w type="adj-stm" lemma="l007237">
+                      <c type="log">posi</c>
+                    </w>
+                    <w type="acp-cls" lemma="l000033">
+                      <c type="null">*</c>
+                    </w>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="nlog">to</c>
+                  </w>
+                </cl>
+                <w type="vb-adc" lemma="l030199a">
+                  <c type="log">ipu</c>
+                </w>
+              </cl>
+              <lb id="5" corresp="開木代來背"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l052385">
+                    <c type="phon">yamasiro</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="pln" lemma="l051357">
+                <c type="phon-kun">kuse</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

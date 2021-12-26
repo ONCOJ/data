@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1657">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="官爾毛"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050144">
+                  <c type="log">tukasa</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="縦賜有"/>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031857a">
+                <c type="log">yurusi</c>
+              </w>
+              <w type="vb-stm" lemma="l031077a">
+                <c type="log">tamap</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="log">yeri</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="今夜耳"/>
+          <s type="ip-mat">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="n" lemma="l051320">
+                      <w type="pro-n" lemma="l042029">
+                        <c type="log">ko</c>
+                      </w>
+                      <w type="n" lemma="l052415">
+                        <c type="log">yopi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-res" lemma="l000521">
+                    <c type="log">nomwi</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="将欲酒可毛"/>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l031386a">
+                    <c type="log">noma</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="log">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050073a">
+                <c type="log">sake</c>
+              </w>
+            </phr>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </s>
+          <lb id="4" corresp="散許須奈由米"/>
+          <s type="ip-mat">
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031111a">
+                <c type="log">tiri</c>
+              </w>
+              <w type="vb-cls" lemma="l031964a">
+                <c type="phon">kosu</c>
+              </w>
+            </w>
+            <w type="p-fnl-phb" lemma="l000517">
+              <c type="phon">na</c>
+            </w>
+            <w type="adv" lemma="l004011a">
+              <c type="phon">yume</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

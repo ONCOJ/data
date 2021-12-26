@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="SNK.1">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="新"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="adj-adn">
+                    <w type="adj-stm" lemma="l007040">
+                      <c type="log">atarasi</c>
+                    </w>
+                    <w type="acp-adn" lemma="l000033">
+                      <c type="log">ki</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="年始迩"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050124">
+                      <c type="log">tosi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n-dvb" lemma="l031416b">
+                  <c type="log">pazime</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="何久志社"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-adv" lemma="l042020">
+                  <c type="phon">kaku</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+              <w type="p-foc" lemma="l000510">
+                <c type="log">koso</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="供奉良米"/>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l031121a">
+                <w type="vb-stm" lemma="l031119a">
+                  <c type="log">tukape</c>
+                </w>
+                <w type="vb-stm" lemma="l031649a">
+                  <c type="log">matura</c>
+                </w>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="万代摩提丹"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n">
+                <w type="num" lemma="l002014">
+                  <c type="log">yorodu</c>
+                </w>
+                <w type="n" lemma="l050040">
+                  <c type="log">yo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000512b">
+              <c type="phon">madeni</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

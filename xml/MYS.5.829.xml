@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.829">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="烏梅能波奈"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l052251">
+                      <c type="phon">ume</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050083">
+                  <c type="phon">pana</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="佐企弖知理奈波"/>
+              <cl type="ip-adv">
+                <w type="vb-ger" lemma="l030778a">
+                  <c type="phon">sakite</c>
+                </w>
+              </cl>
+              <w type="vb-cnd">
+                <w type="vb-stm" lemma="l031111a">
+                  <c type="phon">tiri</c>
+                </w>
+                <w type="vax-prf-cnd" lemma="l000018">
+                  <c type="phon">naba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="佐久良婆那"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050395">
+                <w type="n" lemma="l051875">
+                  <c type="phon">sakura</c>
+                </w>
+                <w type="n" lemma="l050083">
+                  <c type="phon">bana</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="都伎弖佐久倍久"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031139a">
+                <c type="phon">tugite</c>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l030778a">
+              <c type="phon">saku</c>
+            </w>
+            <w type="xtn-inf">
+              <w type="xtn-stm" lemma="l000801">
+                <c type="phon">be</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="奈利爾弖阿良受也"/>
+          <w type="vb-ger">
+            <w type="vb-stm" lemma="l031317a">
+              <c type="phon">nari</c>
+            </w>
+            <w type="vax-prf-ger" lemma="l000018">
+              <c type="phon">nite</c>
+            </w>
+          </w>
+          <w type="vb-ifc">
+            <w type="vb-stv-stm" lemma="l030125a">
+              <c type="phon">ara</c>
+            </w>
+            <w type="vax-neg-ifc" lemma="l000006a">
+              <c type="phon">zu</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

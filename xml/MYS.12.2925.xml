@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2925">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="緑兒之"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l080207">
+                      <c type="log">midorikwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="為社乳母者"/>
+                <w type="n" lemma="l050063">
+                  <c type="log">tame</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000510">
+                <c type="log">koso</c>
+              </w>
+            </phr>
+            <cl type="ip-arg">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l052482">
+                    <c type="phon">omo</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="求云"/>
+              <w type="vb-cls" lemma="l031767a">
+                <c type="log">motomu</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="nlog">to</c>
+              </w>
+            </cl>
+            <w type="vb-exc" lemma="l030199a">
+              <c type="log">ipe</c>
+            </w>
+          </s>
+          <lb id="3" corresp="乳飲哉君之"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050759">
+                  <c type="log">ti</c>
+                </w>
+              </phr>
+              <w type="vb-exc" lemma="l031386a">
+                <c type="log">nome</c>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="log">ya</c>
+              </w>
+            </cl>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="log">ga</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="於毛求覧"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l052482">
+                <c type="phon">omo</c>
+              </w>
+            </phr>
+            <w type="vb-cls" lemma="l031767a">
+              <c type="log">motomu</c>
+            </w>
+            <w type="xtn-adc" lemma="l000805">
+              <c type="phon">ramu</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

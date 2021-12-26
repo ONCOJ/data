@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.20">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="椰勾毛多莵"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk-adc" lemma="l091004">
+                        <w type="n" lemma="l050344">
+                          <w type="num" lemma="l002008">
+                            <c type="phon">ya</c>
+                          </w>
+                          <w type="n" lemma="l050115">
+                            <c type="phon">kumo</c>
+                          </w>
+                        </w>
+                        <w type="vb-adc" lemma="l031043a">
+                          <c type="phon">tatu</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="伊頭毛多鶏流餓"/>
+                    <w type="pen">
+                      <w type="pln" lemma="l051066">
+                        <c type="phon-on">idumo</c>
+                      </w>
+                      <w type="pen" lemma="l052076">
+                        <c type="phon">takyeru</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="波鶏流多知"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031401a">
+                    <c type="phon">pak</c>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000024">
+                    <c type="phon">yeru</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l052508">
+                <c type="phon">tati</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="莵頭邏佐波磨枳"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l052182">
+                  <c type="phon">tudura</c>
+                </w>
+              </phr>
+              <phr type="np-adv">
+                <w type="adv" lemma="l004032a">
+                  <c type="phon">sapa</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031618a">
+                <c type="phon">maki</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="佐微那辞珥阿波礼"/>
+            <cl type="ip-nmz-prd">
+              <phr type="np-sbj">
+                <w type="n">
+                  <w type="pfx" lemma="l000061">
+                    <c type="phon">sa</c>
+                  </w>
+                  <w type="n" lemma="l050023">
+                    <c type="phon">mwi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="adj-cls">
+                <w type="adj-stm" lemma="l007028">
+                  <c type="phon">na</c>
+                </w>
+                <w type="acp-cls" lemma="l000033">
+                  <c type="phon">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <phr type="np-voc">
+            <w type="intj" lemma="l050817">
+              <c type="phon">apare</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

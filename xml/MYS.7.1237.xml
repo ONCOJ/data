@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1237">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="静母"/>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007166">
+                  <c type="log">siduke</c>
+                </w>
+                <w type="acp-inf" lemma="l000033">
+                  <c type="log">ku</c>
+                </w>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="岸者波者"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051372">
+                  <c type="log">kwisi</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="nlog">ni</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l050017">
+                  <c type="log">nami</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="縁家留香"/>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l031872a">
+                <c type="log">yose</c>
+              </w>
+              <w type="vax-mpst-adn" lemma="l000016">
+                <c type="phon">kyeru</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="此屋通"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042029">
+                      <c type="log">ko</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050006a">
+                  <c type="log">ipye</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031231a">
+                <c type="log">toposi</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="聞乍居者"/>
+            <w type="vb-ctt" lemma="l030565a">
+              <c type="log">kikitutu</c>
+            </w>
+            <w type="vb-pgs-prv" lemma="l031957a">
+              <c type="log">woreba</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

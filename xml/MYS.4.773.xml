@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.773">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="事不問"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030718a">
+                      <w type="n" lemma="l050148">
+                        <c type="log">koto</c>
+                      </w>
+                      <w type="vb-stm" lemma="l031226a">
+                        <c type="log">twopa</c>
+                      </w>
+                    </w>
+                    <w type="vax-neg-adn" lemma="l000006a">
+                      <c type="log">nu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="木尚味狭藍"/>
+                <w type="n" lemma="l050003a">
+                  <c type="log">kwi</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000528a">
+                <c type="log">sura</c>
+              </w>
+            </phr>
+            <phr type="np">
+              <w type="n" lemma="l050781">
+                <c type="phon">adisawi</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="2" corresp="諸茅等之"/>
+          <s type="ip-mat">
+            <phr type="pp-agt-ob2">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="n" lemma="l051516">
+                        <c type="phon">moroti</c>
+                      </w>
+                      <w type="sfx" lemma="l001003">
+                        <c type="phon">ra</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="log">ga</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="練乃村戸二"/>
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l080232">
+                      <c type="log">neri</c>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon">no</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051540">
+                  <c type="phon">muratwo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="所詐来"/>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030032a">
+                <c type="log">azamuka</c>
+              </w>
+              <w type="vax-pass-stm" lemma="l000011">
+                <c type="log">ye</c>
+              </w>
+              <w type="vax-mpst-cls" lemma="l000016">
+                <c type="phon-kun">kyeri</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3702">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="多可思吉能"/>
+          <phr type="np-sbj">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l090295">
+                  <c type="phon">takasiki</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="宇良未能毛美知"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l090037">
+                  <w type="n" lemma="l050108">
+                    <c type="phon">ura</c>
+                  </w>
+                  <w type="n" lemma="l080198">
+                    <c type="phon">mwi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n-dvb" lemma="l031780b">
+              <c type="phon">momiti</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="和礼由伎弖"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="pro-n" lemma="l042059">
+                    <c type="phon">ware</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l031840a">
+                  <c type="phon">yukite</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="可敞里久流末低"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030518a">
+                  <c type="phon">kapyeri</c>
+                </w>
+                <w type="vb-adn" lemma="l030612a">
+                  <c type="phon">kuru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512a">
+              <c type="phon">made</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="知里許須奈由米"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031111a">
+              <c type="phon">tiri</c>
+            </w>
+            <w type="vb-adc" lemma="l031964a">
+              <c type="phon">kosu</c>
+            </w>
+          </w>
+          <w type="p-fnl-phb" lemma="l000517">
+            <c type="phon">na</c>
+          </w>
+          <w type="adv" lemma="l004011a">
+            <c type="phon">yume</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

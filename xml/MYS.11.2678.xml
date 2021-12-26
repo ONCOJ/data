@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2678">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <lb id="0" corresp="級子八師"/>
+          <cl type="ip-ept">
+            <w type="mk" lemma="l091065">
+              <c type="phon">pasikiyasi</c>
+            </w>
+          </cl>
+          <lb id="1" corresp="不吹風故"/>
+          <s type="ip-mat">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-adv">
+                    <phr type="np">
+                      <cl type="ip-rel">
+                        <w type="vb-adn">
+                          <w type="vb-stm" lemma="l031516a">
+                            <c type="log">puka</c>
+                          </w>
+                          <w type="vax-neg-adn" lemma="l000006a">
+                            <c type="log">nu</c>
+                          </w>
+                        </w>
+                      </cl>
+                      <w type="n" lemma="l050008a">
+                        <c type="log">kaze</c>
+                      </w>
+                    </phr>
+                    <w type="p-conn" lemma="l000539">
+                      <c type="log">yuwe</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="玉匣"/>
+                  <cl type="ip-adv">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l091060">
+                        <w type="n" lemma="l052080">
+                          <w type="n" lemma="l052078">
+                            <c type="log">tama</c>
+                          </w>
+                          <w type="n" lemma="l050263">
+                            <c type="log">kusige</c>
+                          </w>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="3" corresp="開而左宿之"/>
+                    <w type="vb-ger" lemma="l030021a">
+                      <c type="log">akete</c>
+                    </w>
+                  </cl>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030817a">
+                      <w type="pfx" lemma="l000040">
+                        <c type="phon">sa</c>
+                      </w>
+                      <w type="vb-stm" lemma="l031342a">
+                        <c type="log">ne</c>
+                      </w>
+                    </w>
+                    <w type="vax-prf-stm" lemma="l000018">
+                      <c type="log">ni</c>
+                    </w>
+                    <w type="vax-spst-adn" lemma="l000015">
+                      <c type="phon">si</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="4" corresp="吾其悔寸"/>
+                <w type="pro-n" lemma="l042059">
+                  <c type="log">ware</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </phr>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007100">
+                <c type="log">kuyasi</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="phon">ki</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

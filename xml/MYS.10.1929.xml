@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1929">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="狭野方波"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <w type="n">
+                <w type="pfx" lemma="l000061">
+                  <c type="log">sa</c>
+                </w>
+                <w type="n" lemma="l051650">
+                  <c type="log">nwo</c>
+                </w>
+                <w type="n" lemma="l090030">
+                  <c type="log">kata</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="實爾成西乎"/>
+          <cl type="ip-arg">
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n" lemma="l050093">
+                  <c type="log">mwi</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l031317a">
+                <c type="log">nari</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-spst-adn" lemma="l000015">
+                <c type="phon">si</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000552">
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="今更"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004026">
+              <c type="log">imasara</c>
+              <c type="nlog">ni</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="春雨零而"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n" lemma="l051725">
+                <w type="n" lemma="l051724">
+                  <c type="log">paru</c>
+                </w>
+                <w type="n" lemma="l050001c">
+                  <c type="log">same</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031559a">
+              <c type="log">purite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="花将咲八方"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050083">
+              <c type="log">pana</c>
+            </w>
+          </phr>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l030778a">
+              <c type="log">saka</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="log">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

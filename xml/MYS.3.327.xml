@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.327">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="海若之"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l052325">
+                      <c type="log">watatumi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="奥爾持行而"/>
+                <w type="n" lemma="l052520">
+                  <c type="log">oki</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <cl type="ip-adv">
+              <w type="vb-ger">
+                <w type="vb-stm" lemma="l031761a">
+                  <c type="log">moti</c>
+                </w>
+                <w type="vb-ger" lemma="l031840a">
+                  <c type="log">yukite</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="雖放"/>
+            <w type="vb-adc" lemma="l031425a">
+              <c type="log">panatu</c>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="log">tomo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="宇礼牟曽此之"/>
+          <phr type="pp-adv">
+            <phr type="np-adv">
+              <w type="wh-adv" lemma="l080160">
+                <c type="phon">uremu</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042031">
+                <c type="log">kore</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="log">ga</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="将死還生"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031881a">
+              <c type="log">yomwigapyeri</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">na</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3170">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="思香乃白水郎乃"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <cl type="ip-adv">
+                  <phr type="np-prd">
+                    <cl type="ip-rel">
+                      <phr type="pp-sbj">
+                        <phr type="np">
+                          <phr type="pp">
+                            <phr type="np">
+                              <w type="pln" lemma="l090202">
+                                <c type="phon-on">sika</c>
+                              </w>
+                            </phr>
+                            <w type="p-case-gen" lemma="l000520">
+                              <c type="phon">no</c>
+                            </w>
+                          </phr>
+                          <w type="n" lemma="l050163">
+                            <c type="log">ama</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="釣為燭有"/>
+                      <cl type="ip-adv">
+                        <w type="vb-inf" lemma="l031187a">
+                          <c type="log">turi</c>
+                        </w>
+                        <w type="vb-inf" lemma="l030919a">
+                          <c type="log">si</c>
+                        </w>
+                      </cl>
+                      <w type="vb-adn">
+                        <w type="vb-stm" lemma="l031240a">
+                          <c type="log">tomos</c>
+                        </w>
+                        <w type="vax-stv-adn" lemma="l000024">
+                          <c type="log">eru</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="2" corresp="射去火之"/>
+                    <w type="n" lemma="l051154">
+                      <w type="vb-stm" lemma="l030157a">
+                        <c type="phon">izari</c>
+                      </w>
+                      <w type="n" lemma="l050009a">
+                        <c type="log">pwi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="髣髴妹乎"/>
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l004105">
+                    <c type="log">ponoka</c>
+                  </w>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="log">ni</c>
+                  </w>
+                </w>
+              </cl>
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="将見因毛欲得"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031712a">
+                  <c type="log">mi</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="log">mu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l052527">
+              <c type="log">yosi</c>
+            </w>
+          </phr>
+          <w type="p-fnl-opt" lemma="l000515">
+            <c type="log">moga</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="log">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

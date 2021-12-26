@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.957">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="去来兒等"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <w type="intj" lemma="l051153">
+                <c type="phon">iza</c>
+              </w>
+            </phr>
+            <phr type="np">
+              <w type="n" lemma="l050667">
+                <w type="n" lemma="l050028">
+                  <c type="log">kwo</c>
+                </w>
+                <w type="sfx" lemma="l001002">
+                  <c type="log">domo</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+          <lb id="1" corresp="香椎乃滷爾"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051237">
+                    <c type="plog">kasipi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090028">
+                <c type="log">kata</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="白妙之"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk-adi" lemma="l091087">
+                    <w type="n" lemma="l050620">
+                      <w type="adj-stm" lemma="l007006b">
+                        <c type="log">sirwo</c>
+                      </w>
+                      <w type="n" lemma="l052528">
+                        <c type="phon-kun">tape</c>
+                      </w>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="log">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="袖左倍所沾而"/>
+                <w type="n" lemma="l052043">
+                  <c type="log">swode</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000525a">
+                <c type="phon">sape</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031354a">
+              <c type="log">nurete</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="朝菜採手六"/>
+          <phr type="np-ob1">
+            <w type="n">
+              <w type="n" lemma="l050139">
+                <c type="log">asa</c>
+              </w>
+              <w type="n" lemma="l050067">
+                <c type="log">na</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031178a">
+              <c type="log">tumi</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000023">
+              <c type="phon">te</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

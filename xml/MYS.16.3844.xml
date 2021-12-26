@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3844">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="烏玉之"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <cl type="ip-ept">
+                <w type="mk-adi" lemma="l091019">
+                  <w type="n" lemma="l090444">
+                    <c type="phon-kun">nubatama</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="斐太乃大黒"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051747">
+                    <c type="phon">pida</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="adj-stm" lemma="l007009a">
+                  <c type="log">opo</c>
+                </w>
+                <w type="n" lemma="l051049">
+                  <c type="log">gurwo</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="毎見"/>
+            <w type="vb-adn" lemma="l031712a">
+              <c type="log">miru</c>
+            </w>
+            <w type="p-res" lemma="l000546">
+              <c type="phon">goto</c>
+              <c type="nlog">ni</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="巨勢乃小黒之"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pen" lemma="l060078">
+                    <c type="phon-on">kose</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="pfx" lemma="l000060">
+                  <c type="log">wo</c>
+                </w>
+                <w type="n" lemma="l051049">
+                  <c type="log">gurwo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="所念可聞"/>
+          <w type="vb-adn" lemma="l030404a">
+            <c type="log">omopoyuru</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

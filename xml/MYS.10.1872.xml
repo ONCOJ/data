@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1872">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="見渡者"/>
+          <cl type="ip-adv">
+            <w type="vb-prv" lemma="l031715a">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vb-prv" lemma="l031908a">
+                <c type="log">wataseba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="1" corresp="春日之野邊爾"/>
+          <phr type="pp-sbj">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pln" lemma="l051241">
+                          <c type="plog">kasuga</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="nlog">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l051651">
+                      <w type="n" lemma="l051650">
+                        <c type="log">nwo</c>
+                      </w>
+                      <w type="n" lemma="l050133">
+                        <c type="log">pye</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="霞立"/>
+                <phr type="np-sbj">
+                  <w type="n" lemma="l090183">
+                    <c type="log">kasumi</c>
+                  </w>
+                </phr>
+                <w type="vb-inf" lemma="l031043a">
+                  <c type="log">tati</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="開艶者"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030778a">
+                  <c type="log">saki</c>
+                </w>
+                <w type="vb-stm" lemma="l031335a">
+                  <c type="log">nipop</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000024">
+                  <c type="log">yeru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="櫻花鴨"/>
+          <phr type="np-prd">
+            <w type="n" lemma="l050395">
+              <w type="n" lemma="l051875">
+                <c type="log">sakura</c>
+              </w>
+              <w type="n" lemma="l050083">
+                <c type="log">bana</c>
+              </w>
+            </w>
+          </phr>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

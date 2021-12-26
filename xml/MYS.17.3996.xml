@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3996">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="和我勢古我"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="phon">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050285">
+                  <c type="phon">sekwo</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="久爾敞麻之奈婆"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051337">
+                  <c type="phon">kuni</c>
+                </w>
+              </phr>
+              <w type="p-case-all" lemma="l000523">
+                <c type="phon">pye</c>
+              </w>
+            </phr>
+            <w type="vb-cnd">
+              <w type="vb-stm" lemma="l030206a">
+                <c type="phon">masi</c>
+              </w>
+              <w type="vax-prf-cnd" lemma="l000018">
+                <c type="phon">naba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="保等登芸須"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np">
+                  <w type="n" lemma="l050160">
+                    <c type="phon">pototogisu</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="奈可牟佐都奇波"/>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l031267a">
+                    <c type="phon">naka</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="phon">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050705">
+                <c type="phon">satukwi</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="佐夫之家牟可母"/>
+          <w type="adj-adc">
+            <w type="adj-stm" lemma="l007154">
+              <c type="phon">sabusi</c>
+            </w>
+            <w type="acp-stm" lemma="l000033">
+              <c type="phon">kye</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.2">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="都久波尼爾"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-arg">
+                  <phr type="pp-adv">
+                    <phr type="np">
+                      <w type="pln" lemma="l052192">
+                        <w type="pln" lemma="l092047">
+                          <c type="phon-on">tukupa</c>
+                        </w>
+                        <w type="n" lemma="l052485">
+                          <c type="phon-on">ne</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="阿波牟等"/>
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l030071a">
+                      <c type="phon">apa</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">to</c>
+                  </w>
+                </cl>
+                <lb id="2" corresp="伊比志古波"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030199a">
+                    <c type="phon">ipi</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050028">
+                <c type="phon">kwo</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="多賀己等岐気波加"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="wh-n" lemma="l042000">
+                    <c type="phon">ta</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050148">
+                <c type="phon">koto</c>
+              </w>
+            </phr>
+            <w type="vb-prv" lemma="l030565a">
+              <c type="phon">kikeba</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="弥尼阿波巣気牟也"/>
+          <cl type="ip-prp">
+            <w type="vb-inf">
+              <w type="pfx-hon" lemma="l000035">
+                <c type="phon">mi</c>
+              </w>
+              <w type="vb-stm" lemma="l031342a">
+                <c type="phon">ne</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030071a">
+              <c type="phon">apa</c>
+            </w>
+            <w type="vax-neg-stm" lemma="l000006a">
+              <c type="phon">zu</c>
+            </w>
+            <w type="vax-spst-stm" lemma="l000015">
+              <c type="phon">kye</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

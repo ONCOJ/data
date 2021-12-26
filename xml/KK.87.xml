@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.87">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="那都久佐能"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050361">
+                      <w type="n" lemma="l051598">
+                        <c type="phon">natu</c>
+                      </w>
+                      <w type="n" lemma="l050114">
+                        <c type="phon">kusa</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="阿比泥能波麻能"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l050821">
+                      <c type="phon">apine</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051709">
+                      <c type="phon">pama</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="加岐賀比爾"/>
+                <w type="n" lemma="l050233">
+                  <w type="n" lemma="l052540">
+                    <c type="phon">kaki</c>
+                  </w>
+                  <w type="n" lemma="l052551">
+                    <c type="phon">gapi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="阿斯布麻須那"/>
+            <phr type="np">
+              <w type="n" lemma="l050064">
+                <c type="phon">asi</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031553a">
+                <c type="phon">puma</c>
+              </w>
+              <w type="vax-rsp-adc" lemma="l000009">
+                <c type="phon">su</c>
+              </w>
+            </w>
+            <w type="p-fnl-phb" lemma="l000517">
+              <c type="phon">na</c>
+            </w>
+          </s>
+          <lb id="4" corresp="阿加斯弖杼富禮"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l030002a">
+                <c type="phon">akasite</c>
+              </w>
+            </cl>
+            <w type="vb-imp" lemma="l031233a">
+              <c type="phon">topore</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

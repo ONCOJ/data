@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4370" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="阿良例布理"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050836">
+                  <c type="phon">arare</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031559a">
+                <c type="phon">puri</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="可志麻能可美乎"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l051236">
+                      <c type="phon-on">kasima</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050005a">
+                  <c type="phon">kami</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="伊能利都都"/>
+            <w type="vb-ctt" lemma="l030188a">
+              <c type="phon">inoritutu</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="須米良美久佐爾"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="np">
+                <w type="n" lemma="l052019">
+                  <c type="phon">sumera</c>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="pfx-hon" lemma="l000035">
+                  <c type="phon">mi</c>
+                </w>
+                <w type="n" lemma="l051082">
+                  <c type="phon">kusa</c>
+                </w>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="和例波伎爾之乎"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <w type="pro-n" lemma="l042059">
+                <c type="phon">ware</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030612a">
+              <c type="phon">ki</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-spst-adn" lemma="l000015">
+              <c type="phon">si</c>
+            </w>
+          </w>
+          <w type="p-conn" lemma="l000552">
+            <c type="phon">wo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3059">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="百爾千爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="conjp">
+                <cl type="ip-adv">
+                  <phr type="np-prd">
+                    <w type="num" lemma="l002012">
+                      <c type="log">momo</c>
+                    </w>
+                  </phr>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="phon">ni</c>
+                  </w>
+                </cl>
+              </phr>
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <w type="num" lemma="l002013">
+                    <c type="log">ti</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+              </cl>
+            </cl>
+            <lb id="1" corresp="人者雖言"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030199a">
+              <c type="log">ipu</c>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="log">tomo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="月草之"/>
+          <phr type="np-ob1">
+            <cl type="ip-rel">
+              <cl type="ip-ept">
+                <w type="mk-adi" lemma="l090388">
+                  <w type="n" lemma="l090383">
+                    <c type="phon">tukwi</c>
+                    <c type="log">kusa</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="移情"/>
+              <w type="vb-adc" lemma="l030277a">
+                <c type="log">uturopu</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l050037">
+              <c type="log">kokoro</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="吾将持八方"/>
+          <phr type="np-sbj">
+            <w type="pro-n" lemma="l042059">
+              <c type="log">ware</c>
+            </w>
+          </phr>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l031761a">
+              <c type="log">mota</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="log">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

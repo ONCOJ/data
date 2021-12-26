@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1746">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="遠妻四"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l090461">
+                  <w type="adj-stm" lemma="l007008">
+                    <c type="log">topo</c>
+                  </w>
+                  <w type="n" lemma="l050120">
+                    <c type="log">duma</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="高爾有世婆"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l060094">
+                  <c type="phon-kun">taka</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-cnd">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ari</c>
+              </w>
+              <w type="vax-spst-cnd" lemma="l000015">
+                <c type="phon">seba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="不知十方"/>
+          <cl type="ip-adv">
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l031967a">
+                <c type="log">sira</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="phon">tomo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="手綱乃濱能"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l090346">
+                    <c type="phon">taduna</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l051709">
+                <c type="log">pama</c>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="phon">no</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="尋夾名益"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031047a">
+              <c type="log">tadune</c>
+            </w>
+            <w type="vb-stm" lemma="l030612a">
+              <c type="log">ki</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">na</c>
+            </w>
+            <w type="vax-sjv-adc" lemma="l000004">
+              <c type="phon">masi</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

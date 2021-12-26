@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1274">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="住吉"/>
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l052023">
+                      <c type="plog">suminoye</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="出見濱"/>
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l092044">
+                        <c type="phon-kun">idemi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="nlog">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l051709">
+                    <c type="log">pama</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="柴莫苅曽尼"/>
+              <w type="n" lemma="l051919">
+                <c type="log">siba</c>
+              </w>
+            </phr>
+            <w type="vb">
+              <w type="cfx" lemma="l000037">
+                <c type="log">na</c>
+              </w>
+              <w type="vb-stm" lemma="l030545a">
+                <c type="log">kari</c>
+              </w>
+              <w type="cfx-phb" lemma="l000037">
+                <c type="phon">sone</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="未通女等"/>
+          <s type="ip-mat">
+            <cl type="ip-nmz-ob1">
+              <cl type="ip-adv">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="n" lemma="l050145">
+                            <c type="log">wotomye</c>
+                          </w>
+                          <w type="sfx" lemma="l001003">
+                            <c type="log">ra</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000503">
+                        <c type="nlog">ga</c>
+                      </w>
+                    </phr>
+                    <lb id="4" corresp="赤裳下"/>
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="adj-stm" lemma="l007016">
+                            <c type="log">aka</c>
+                          </w>
+                          <w type="n" lemma="l050099">
+                            <c type="log">mo</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="nlog">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l050079">
+                      <c type="log">suswo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <lb id="5" corresp="閏将徃見"/>
+                <w type="vb-ger" lemma="l031354a">
+                  <c type="log">nurete</c>
+                </w>
+              </cl>
+              <w type="vb-adc" lemma="l031840a">
+                <c type="log">yuku</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

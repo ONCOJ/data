@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4261">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="大王者"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050267">
+                <w type="adj-stm" lemma="l007009a">
+                  <c type="log">opo</c>
+                </w>
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="神爾之座者"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <w type="n" lemma="l050005a">
+                <c type="log">kamwi</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="vb-prv" lemma="l030206a">
+              <c type="log">maseba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="水鳥乃"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l050679">
+                      <w type="n" lemma="l050128">
+                        <c type="log">midu</c>
+                      </w>
+                      <w type="n" lemma="l050970">
+                        <c type="log">tori</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="須太久水奴麻乎"/>
+                <w type="vb-adc" lemma="l030941a">
+                  <c type="phon">sudaku</c>
+                </w>
+              </cl>
+              <w type="n">
+                <w type="n" lemma="l050092">
+                  <c type="phon">mi</c>
+                </w>
+                <w type="n" lemma="l051642">
+                  <c type="phon">numa</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="皇都常成通"/>
+          <cl type="ip-arg">
+            <phr type="np-prd">
+              <w type="n" lemma="l050129">
+                <c type="log">miyakwo</c>
+              </w>
+            </phr>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031279a">
+              <c type="log">nasi</c>
+            </w>
+            <w type="vax-prf-cls" lemma="l000023">
+              <c type="phon">tu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

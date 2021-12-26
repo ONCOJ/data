@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2445">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="淡海々"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="np-zyo">
+                  <cl type="ip-rel">
+                    <phr type="np">
+                      <w type="pln" lemma="l060178">
+                        <w type="pln" lemma="l050824">
+                          <c type="plog">apumi</c>
+                        </w>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="nlog">no</c>
+                        </w>
+                        <w type="n" lemma="l052517">
+                          <c type="log">umi</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="沈白玉"/>
+                    <w type="vb-adc" lemma="l030874a">
+                      <c type="log">siduku</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050611">
+                    <w type="adj-stm" lemma="l007006a">
+                      <c type="log">sira</c>
+                    </w>
+                    <w type="n" lemma="l052078">
+                      <c type="log">tama</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="2" corresp="不知"/>
+                <w type="vb-ger">
+                  <w type="vb-stm" lemma="l031967a">
+                    <c type="log">sira</c>
+                  </w>
+                  <w type="vax-neg-ger" lemma="l000006a">
+                    <c type="log">zusite</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="従戀者"/>
+              <w type="vb-inf" lemma="l030731a">
+                <c type="log">kwopwi</c>
+              </w>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030919a">
+                  <c type="log">se</c>
+                </w>
+                <w type="vax-spst-adn" lemma="l000015">
+                  <c type="log">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-case-abl" lemma="l000540a">
+              <c type="log">ywori</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="今益"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="n" lemma="l004025">
+                <c type="log">ima</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000510">
+              <c type="nlog">koso</c>
+            </w>
+          </phr>
+          <w type="vb-exc" lemma="l031630a">
+            <c type="log">masare</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1278">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="夏影"/>
+          <s type="ip-mat">
+            <phr type="np-arg">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l090497">
+                          <w type="n" lemma="l051598">
+                            <c type="log">natu</c>
+                          </w>
+                          <w type="n" lemma="l050011a">
+                            <c type="log">kage</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="nlog">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="房之下邇"/>
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l052199">
+                          <w type="n" lemma="l050120">
+                            <c type="log">tuma</c>
+                          </w>
+                          <w type="n" lemma="l050182">
+                            <c type="log">ya</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l050026">
+                      <c type="log">sita</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="衣裁吾妹"/>
+                <phr type="np-ob1">
+                  <w type="n" lemma="l090099">
+                    <c type="log">kinu</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031042a">
+                  <c type="log">tatu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050020">
+                <c type="log">wagimo</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="3" corresp="裏儲"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050109">
+                  <c type="log">ura</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031624a">
+                <c type="log">makete</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="吾為裁者"/>
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="log">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="nlog">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050063">
+                <c type="log">tame</c>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l031042a">
+              <c type="log">tataba</c>
+            </w>
+          </cl>
+          <lb id="5" corresp="差大裁"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <w type="adv" lemma="l004048">
+                <c type="log">yaya</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007009a">
+                <c type="log">opo</c>
+              </w>
+              <w type="cop-inf" lemma="l031965">
+                <c type="nlog">ni</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-imp" lemma="l031042a">
+            <c type="log">tate</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

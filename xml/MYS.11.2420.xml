@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2420">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="月見"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050004a">
+                  <c type="log">tukwi</c>
+                </w>
+              </phr>
+              <w type="vb-prv" lemma="l031712a">
+                <c type="log">mireba</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="國同"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l051337">
+                  <c type="log">kuni</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="nlog">pa</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007138">
+                <c type="log">oyazi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="nlog">so</c>
+            </w>
+          </s>
+          <lb id="2" corresp="山隔"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050034">
+                  <c type="log">yama</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031577a">
+                <c type="log">pyenari</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="愛妹"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="adj-cls">
+                    <w type="adj-stm" lemma="l007207">
+                      <c type="log">utukusi</c>
+                    </w>
+                    <w type="acp-cls" lemma="l000033">
+                      <c type="null">*</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050027">
+                  <c type="log">imo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="nlog">pa</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="隔有鴨"/>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l031572a">
+                <c type="log">pyedati</c>
+              </w>
+              <w type="vax-stv-adn" lemma="l000022">
+                <c type="log">taru</c>
+              </w>
+            </w>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3895">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="多麻波夜須"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk-adc" lemma="l091064">
+                        <w type="n" lemma="l052078">
+                          <c type="phon">tama</c>
+                        </w>
+                        <w type="vb-adc" lemma="l031446a">
+                          <c type="phon">payasu</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="武庫能和多里爾"/>
+                    <w type="pln" lemma="l051534">
+                      <c type="phon-on">mukwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n-dvb" lemma="l031910b">
+                  <c type="phon">watari</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="天伝"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk-adc" lemma="l091033">
+                    <w type="vb-adc" lemma="l030090a">
+                      <w type="n" lemma="l050001b">
+                        <c type="log">ama</c>
+                      </w>
+                      <w type="vb-adc" lemma="l031147a">
+                        <c type="log">dutapu</c>
+                      </w>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="日能久礼由気婆"/>
+                <w type="n" lemma="l050090">
+                  <c type="log">pi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l030668a">
+                <c type="phon">kure</c>
+              </w>
+              <w type="vb-prv" lemma="l031840a">
+                <c type="phon">yukeba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="家乎之曽於毛布"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l050006a">
+                <c type="log">ipye</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030399a">
+            <c type="phon">omopu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

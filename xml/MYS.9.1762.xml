@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1762">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="明日之夕"/>
+            <phr type="np-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050864">
+                    <c type="log">asu</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l052415">
+                <c type="log">yopi</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="不相有八方"/>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030071a">
+                <c type="log">apa</c>
+              </w>
+              <w type="vax-neg-stm" lemma="l000012">
+                <c type="log">zara</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="log">me</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+          <lb id="2" corresp="足日木乃"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <cl type="ip-ept">
+                  <w type="mk-adi" lemma="l091054">
+                    <w type="n" lemma="l050860">
+                      <c type="log">asi</c>
+                      <c type="phon">pikwi</c>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="phon">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="山彦令動"/>
+                <w type="n" lemma="l050457">
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                  <w type="n" lemma="l051759">
+                    <c type="log">bikwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031246a">
+                <c type="log">toyome</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="呼立哭毛"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031880a">
+                <c type="log">ywobi</c>
+              </w>
+              <w type="vb-stm" lemma="l031044a">
+                <c type="log">tate</c>
+              </w>
+              <w type="vb-adc" lemma="l031267a">
+                <c type="log">naku</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3853">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="石麿爾"/>
+            <phr type="pp-ob2">
+              <phr type="np">
+                <w type="pen" lemma="l080173">
+                  <c type="phon">ipamaro</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="吾物申"/>
+            <phr type="np-sbj">
+              <w type="pro-n" lemma="l042059">
+                <c type="log">ware</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031774a">
+              <w type="n" lemma="l050042">
+                <c type="log">mono</c>
+              </w>
+              <w type="vb-adc" lemma="l031678a">
+                <c type="log">mawosu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="夏痩爾"/>
+          <s type="ip-mat">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <cl type="ip-arg">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n">
+                        <w type="n" lemma="l051598">
+                          <c type="log">natu</c>
+                        </w>
+                        <w type="n-dvb" lemma="l031799b">
+                          <c type="log">yase</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="吉跡云物曽"/>
+                  <w type="adj-cls">
+                    <w type="adj-stm" lemma="l007015">
+                      <c type="log">yo</c>
+                    </w>
+                    <w type="acp-cls" lemma="l000033">
+                      <c type="nlog">si</c>
+                    </w>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">to</c>
+                  </w>
+                </cl>
+                <w type="vb-adc" lemma="l030199a">
+                  <c type="log">ipu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050042">
+                <c type="log">mono</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </s>
+          <lb id="4" corresp="武奈伎取喫"/>
+          <s type="ip-mat">
+            <phr type="np-ob1">
+              <w type="n" lemma="l051536">
+                <c type="phon">munagi</c>
+              </w>
+            </phr>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l031258a">
+                <c type="log">tori</c>
+              </w>
+              <w type="vb-imp" lemma="l031751a">
+                <c type="log">myese</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1730">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="山品之"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l052384">
+                    <c type="phon-kun">yamasina</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="石田乃小野之"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l090277">
+                    <c type="plog">ipata</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l080287">
+                    <w type="pfx" lemma="l000060">
+                      <c type="log">wo</c>
+                    </w>
+                    <w type="n" lemma="l051650">
+                      <c type="log">nwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="母蘇原"/>
+              <w type="n" lemma="l090704">
+                <w type="n" lemma="l051721">
+                  <c type="phon">papaswo</c>
+                </w>
+                <w type="n" lemma="l051723">
+                  <c type="log">para</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="見乍哉公之"/>
+            <w type="vb-ctt" lemma="l031712a">
+              <c type="log">mitutu</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="log">ka</c>
+            </w>
+          </cl>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="log">ga</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="山道越良武"/>
+          <phr type="np-pth-ob1">
+            <w type="n">
+              <w type="n" lemma="l050034">
+                <c type="log">yama</c>
+              </w>
+              <w type="n" lemma="l050091">
+                <c type="log">di</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-cls" lemma="l030747a">
+            <c type="log">kwoyu</c>
+          </w>
+          <w type="xtn-adc" lemma="l000805">
+            <c type="phon">ramu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

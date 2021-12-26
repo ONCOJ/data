@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4276">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="嶋山爾"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <cl type="ip-rel">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l060237">
+                          <c type="log">simayama</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-dat" lemma="l000519">
+                        <c type="phon">ni</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="照在橘"/>
+                    <w type="vb-adn">
+                      <w type="vb-stm" lemma="l031193a">
+                        <c type="log">ter</c>
+                      </w>
+                      <w type="vax-stv-adn" lemma="l000024">
+                        <c type="log">eru</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050150">
+                    <c type="log">tatibana</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="宇受爾左之"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l052297">
+                      <c type="phon">uzu</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-inf" lemma="l030805a">
+                  <c type="phon">sasi</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="仕奉者"/>
+              <w type="vb-adc" lemma="l031121a">
+                <w type="vb-stm" lemma="l031119a">
+                  <c type="log">tukape</c>
+                </w>
+                <w type="vb-adc" lemma="l031649a">
+                  <c type="log">maturu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="卿大夫等"/>
+          <phr type="np">
+            <w type="n">
+              <w type="n" lemma="l051412">
+                <c type="log">mapyetukimi</c>
+              </w>
+              <w type="sfx" lemma="l001004">
+                <c type="log">tati</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

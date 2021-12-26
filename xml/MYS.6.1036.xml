@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.1036">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="關無者"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n-dvb" lemma="l030956b">
+                <c type="log">seki</c>
+              </w>
+            </phr>
+            <w type="adj-cnd">
+              <w type="adj-stm" lemma="l007028">
+                <c type="log">na</c>
+              </w>
+              <w type="acp-cnd" lemma="l000033">
+                <c type="log">kupa</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="1" corresp="還爾谷藻"/>
+          <cl type="ip-adv">
+            <cl type="ip-prp">
+              <w type="vb-inf" lemma="l030518a">
+                <c type="log">kapyeri</c>
+              </w>
+              <w type="p-conn" lemma="l000551">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-res" lemma="l000502">
+                <c type="phon">dani</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="打行而"/>
+            <w type="vb-ger">
+              <w type="pfx-mph" lemma="l000043">
+                <c type="log">uti</c>
+              </w>
+              <w type="vb-ger" lemma="l031840a">
+                <c type="log">yukite</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="妹之手枕"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="log">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090275">
+                <w type="n" lemma="l050012b">
+                  <c type="log">ta</c>
+                </w>
+                <w type="n" lemma="l050016">
+                  <c type="log">makura</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="4" corresp="巻手宿益乎"/>
+            <w type="vb-ger" lemma="l031618a">
+              <c type="log">makite</c>
+            </w>
+          </cl>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031342a">
+              <c type="log">ne</c>
+            </w>
+            <w type="vax-sjv-adc" lemma="l000004">
+              <c type="phon">masi</c>
+            </w>
+          </w>
+          <w type="p-conn" lemma="l000552">
+            <c type="phon">wo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

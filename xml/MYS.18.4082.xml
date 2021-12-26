@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4082">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安万射可流"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk-adc" lemma="l091035">
+                        <w type="n" lemma="l050001b">
+                          <c type="phon">ama</c>
+                        </w>
+                        <w type="vb-adc" lemma="l030770a">
+                          <c type="phon">zakaru</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="比奈能都夜故爾"/>
+                    <w type="n" lemma="l050089">
+                      <c type="phon">pina</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l042087">
+                  <c type="phon">yatukwo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="安米比度之"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050466">
+                  <w type="n" lemma="l050001a">
+                    <c type="phon">ame</c>
+                  </w>
+                  <w type="n" lemma="l050046">
+                    <c type="phon">pito</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="可久古非須良波"/>
+            <phr type="np-adv">
+              <w type="pro-adv" lemma="l042020">
+                <c type="phon">kaku</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l030731a">
+              <c type="phon">kwopwi</c>
+            </w>
+            <w type="vb-cnd" lemma="l030919a">
+              <c type="phon">suraba</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊家流思留事安里"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030146a">
+                  <c type="phon">ik</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000024">
+                  <c type="phon">yeru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n-dvb" lemma="l030915b">
+              <c type="phon">sirusi</c>
+            </w>
+          </phr>
+          <w type="vb-ifc" lemma="l030125a">
+            <c type="phon">ari</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

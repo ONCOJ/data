@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.1.69">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="草枕"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l090352">
+                        <w type="n" lemma="l050114">
+                          <c type="log">kusa</c>
+                        </w>
+                        <w type="n" lemma="l050016">
+                          <c type="log">makura</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="客去君跡"/>
+                    <w type="n" lemma="l050049">
+                      <c type="log">tabi</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031840a">
+                    <c type="log">yuku</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="知麻世婆"/>
+            <w type="vb-cnd">
+              <w type="vb-stm" lemma="l031967a">
+                <c type="log">sira</c>
+              </w>
+              <w type="vax-sjv-cnd" lemma="l000004">
+                <c type="phon">maseba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="崖之埴布爾"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051372">
+                    <c type="log">kwisi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050504">
+                <c type="log">pani</c>
+                <c type="phon">pu</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="仁寶播散麻思呼"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031334a">
+              <c type="phon">nipopasa</c>
+            </w>
+            <w type="vax-sjv-adc" lemma="l000004">
+              <c type="phon">masi</c>
+            </w>
+          </w>
+          <w type="p-conn" lemma="l000552">
+            <c type="phon">wo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

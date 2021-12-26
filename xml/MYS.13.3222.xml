@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.13.3222">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="三諸者"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="pln" lemma="l080132">
+                  <c type="phon-kun">mimoro</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="人之守山"/>
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l050046">
+                      <c type="log">pito</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031788a">
+                  <c type="log">moru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050034">
+                <c type="log">yama</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="本邊者"/>
+            <phr type="conjp">
+              <cl type="ip-adv">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="n" lemma="l050429">
+                      <w type="n" lemma="l051520">
+                        <c type="log">moto</c>
+                      </w>
+                      <w type="n" lemma="l050133">
+                        <c type="log">pye</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-top" lemma="l000522">
+                    <c type="log">pa</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="馬酔木花開"/>
+                <phr type="np-sbj">
+                  <w type="n">
+                    <w type="n" lemma="l050854">
+                      <c type="log">asibi</c>
+                    </w>
+                    <w type="n" lemma="l050083">
+                      <c type="log">pana</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="vb-inf" lemma="l030778a">
+                  <c type="log">saki</c>
+                </w>
+              </cl>
+            </phr>
+            <lb id="4" corresp="末邊方"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050434">
+                  <w type="n" lemma="l052470">
+                    <c type="log">suwe</c>
+                  </w>
+                  <w type="n" lemma="l050133">
+                    <c type="log">pye</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="5" corresp="椿花開"/>
+            <phr type="np-sbj">
+              <w type="n">
+                <w type="n" lemma="l050172">
+                  <c type="log">tubaki</c>
+                </w>
+                <w type="n" lemma="l050083">
+                  <c type="log">pana</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030778a">
+              <c type="log">saku</c>
+            </w>
+          </s>
+          <lb id="6" corresp="浦妙"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <w type="adj-cls">
+                    <w type="adj-stm" lemma="l080253">
+                      <w type="n" lemma="l050109">
+                        <c type="phon">ura</c>
+                      </w>
+                      <w type="adj-stm" lemma="l007091">
+                        <c type="phon">gupasi</c>
+                      </w>
+                    </w>
+                    <w type="acp-cls" lemma="l000033">
+                      <c type="null">*</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="7" corresp="山曽"/>
+                <w type="n" lemma="l050034">
+                  <c type="log">yama</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">zo</c>
+              </w>
+            </cl>
+            <lb id="8" corresp="泣兒守山"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-zyo">
+                  <cl type="ip-rel">
+                    <w type="vb-adc" lemma="l031267a">
+                      <c type="log">naku</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050028">
+                    <c type="log">kwo</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031788a">
+                  <c type="log">moru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050034">
+                <c type="log">yama</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

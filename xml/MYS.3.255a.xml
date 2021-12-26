@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.255a">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="天離"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk-adc" lemma="l091035">
+                    <w type="n" lemma="l050001b">
+                      <c type="log">ama</c>
+                    </w>
+                    <w type="vb-adc" lemma="l030770a">
+                      <c type="log">zakaru</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="夷之長道従"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050089">
+                      <c type="log">pina</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l090484">
+                  <w type="adj-stm" lemma="l007007">
+                    <c type="log">naga</c>
+                  </w>
+                  <w type="n" lemma="l050091">
+                    <c type="log">ti</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540d">
+                <c type="log">yu</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="戀来者"/>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l030731a">
+                <c type="log">kwopwi</c>
+              </w>
+              <w type="vb-prv" lemma="l030612a">
+                <c type="log">kureba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="自明門"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="pln" lemma="l060202">
+                <w type="pln" lemma="l090036">
+                  <c type="plog">akasi</c>
+                </w>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="nlog">no</c>
+                </w>
+                <w type="n" lemma="l090263">
+                  <c type="log">two</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-abl" lemma="l000540a">
+              <c type="log">ywori</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="倭嶋所見"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050550">
+              <w type="pln" lemma="l052386">
+                <c type="plog">yamato</c>
+              </w>
+              <w type="n" lemma="l050078">
+                <c type="log">sima</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031712a">
+              <c type="log">mi</c>
+            </w>
+            <w type="vax-pass-cls" lemma="l000011">
+              <c type="log">yu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

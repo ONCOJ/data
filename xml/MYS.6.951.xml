@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.951">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="見渡者"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="vb-prv" lemma="l031715a">
+                <w type="vb-stm" lemma="l031712a">
+                  <c type="log">mi</c>
+                </w>
+                <w type="vb-prv" lemma="l031908a">
+                  <c type="log">wataseba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="近物可良"/>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007017">
+                <c type="log">tika</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="log">ki</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="log">mono</c>
+              <c type="phon">kara</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="石隠"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <w type="vb-inf" lemma="l030160a">
+                      <w type="n" lemma="l050104">
+                        <c type="log">iswo</c>
+                      </w>
+                      <w type="vb-inf" lemma="l030448a">
+                        <c type="log">gakuri</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="加我欲布珠乎"/>
+                  <w type="vb-adc" lemma="l030427a">
+                    <c type="phon">kagaywopu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l052078">
+                  <c type="log">tama</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="不取不巳"/>
+            <w type="vb-cnd">
+              <w type="vb-stm" lemma="l031258a">
+                <c type="log">tora</c>
+              </w>
+              <w type="vax-neg-cnd" lemma="l000006a">
+                <c type="log">zupa</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-ngc" lemma="l031818a">
+            <c type="log">yamazi</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="BS.9">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="舎加乃美阿止"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pen" lemma="l090152">
+                      <c type="phon">saka</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n">
+                  <w type="pfx-hon" lemma="l000035">
+                    <c type="phon">mi</c>
+                  </w>
+                  <w type="n" lemma="l050877">
+                    <c type="phon">ato</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="1" corresp="伊波爾宇都志於伎"/>
+              <phr type="pp-gol-ob2">
+                <phr type="np">
+                  <w type="n" lemma="l050014">
+                    <c type="phon">ipa</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <w type="vb-inf">
+                <w type="vb-stm" lemma="l030270a">
+                  <c type="phon">utusi</c>
+                </w>
+                <w type="vb-inf" lemma="l030327a">
+                  <c type="phon">oki</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="宇夜麻比弖"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l030296a">
+                <c type="phon">uyamapite</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="乃知乃保止気爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l004087">
+                      <c type="phon">noti</c>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon">no</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051814">
+                  <c type="phon">potoke</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="由豆利麻都良牟"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031845a">
+                <c type="phon">yuduri</c>
+              </w>
+              <w type="vb-stm" lemma="l031649a">
+                <c type="phon">matura</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="5" corresp="佐佐義麻宇佐牟"/>
+          <s type="ip-mat">
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030794a">
+                <c type="phon">sasage</c>
+              </w>
+              <w type="vb-stm" lemma="l031605a">
+                <c type="phon">mausa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

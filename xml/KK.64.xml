@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.64">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="夜多能"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l052397">
+                      <c type="phon">yata</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="比登母登須宜波"/>
+                <w type="n">
+                  <w type="n">
+                    <w type="num" lemma="l002001">
+                      <c type="phon">pito</c>
+                    </w>
+                    <w type="cl" lemma="l002035">
+                      <c type="phon">moto</c>
+                    </w>
+                  </w>
+                  <w type="n" lemma="l050010a">
+                    <c type="phon">suge</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="古母多受"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050028">
+                  <c type="phon">kwo</c>
+                </w>
+              </phr>
+              <w type="vb-ifc">
+                <w type="vb-stm" lemma="l031761a">
+                  <c type="phon">mota</c>
+                </w>
+                <w type="vax-neg-ifc" lemma="l000006a">
+                  <c type="phon">zu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="多知迦阿那牟"/>
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l031043a">
+                <c type="phon">tati</c>
+              </w>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030136a">
+                <c type="phon">are</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">na</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="阿多良須賀波良"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <w type="n">
+                <w type="adj-stm" lemma="l007039">
+                  <c type="phon">atara</c>
+                </w>
+                <w type="n" lemma="l050409">
+                  <w type="n" lemma="l050010b">
+                    <c type="phon">suga</c>
+                  </w>
+                  <w type="n" lemma="l051723">
+                    <c type="phon">para</c>
+                  </w>
+                </w>
+              </w>
+            </phr>
+          </s>
+          <lb id="5" corresp="許登袁許曾"/>
+          <s type="ip-mat">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050148">
+                  <c type="phon">koto</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+            </phr>
+            <lb id="6" corresp="須宜波良登伊波米"/>
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <w type="n" lemma="l050409">
+                  <w type="n" lemma="l050010a">
+                    <c type="phon">suge</c>
+                  </w>
+                  <w type="n" lemma="l051723">
+                    <c type="phon">para</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030199a">
+                <c type="phon">ipa</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+          </s>
+          <lb id="7" corresp="阿多良須賀志賣"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <w type="n">
+                <w type="adj-stm" lemma="l007039">
+                  <c type="phon">atara</c>
+                </w>
+                <w type="adj-stm" lemma="l052002a">
+                  <c type="phon">sugasi</c>
+                </w>
+                <w type="n" lemma="l050132">
+                  <c type="phon">mye</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

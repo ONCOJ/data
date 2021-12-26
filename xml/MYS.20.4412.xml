@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4412">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="之麻可気爾"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050198">
+                  <w type="n" lemma="l050078">
+                    <c type="phon">sima</c>
+                  </w>
+                  <w type="n" lemma="l050011a">
+                    <c type="phon">kage</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="和我布祢波弖低"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="phon">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050007a">
+                <c type="phon">pune</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031421a">
+              <c type="phon">patete</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="都気也良牟"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l031140a">
+                      <c type="phon">tuge</c>
+                    </w>
+                    <w type="vb-stm" lemma="l031823a">
+                      <c type="phon">yara</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="都可比乎奈美也"/>
+                <w type="n" lemma="l080098">
+                  <c type="phon">tukapi</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="古非都都由加牟"/>
+          <cl type="ip-adv">
+            <w type="vb-ctt" lemma="l030731a">
+              <c type="phon">kwopwitutu</c>
+            </w>
+          </cl>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031840a">
+              <c type="phon">yuka</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

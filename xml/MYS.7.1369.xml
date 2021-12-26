@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1369">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="天雲"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <cl type="ip-adv">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n" lemma="l050340">
+                            <w type="n" lemma="l050001b">
+                              <c type="log">ama</c>
+                            </w>
+                            <w type="n" lemma="l050115">
+                              <c type="log">kumo</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="p-case-dat" lemma="l000519">
+                          <c type="nlog">ni</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="近光而"/>
+                      <w type="adj-inf">
+                        <w type="adj-stm" lemma="l007017">
+                          <c type="log">tika</c>
+                        </w>
+                        <w type="acp-inf" lemma="l000033">
+                          <c type="log">ku</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <w type="vb-ger" lemma="l031464a">
+                      <c type="log">pikarite</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="響神之"/>
+                  <w type="vb-adc" lemma="l031316a">
+                    <c type="log">naru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050005a">
+                  <c type="log">kamwi</c>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="log">no</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="見者恐"/>
+            <cl type="ip-adv">
+              <w type="vb-prv" lemma="l031712a">
+                <c type="log">mireba</c>
+              </w>
+            </cl>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007078">
+                <c type="log">kasikwo</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="nlog">si</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="不見者悲毛"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-prv">
+                <w type="vb-stm" lemma="l031712a">
+                  <c type="log">mi</c>
+                </w>
+                <w type="vax-neg-prv" lemma="l000006a">
+                  <c type="log">neba</c>
+                </w>
+              </w>
+            </cl>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007022">
+                <c type="log">kanasi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

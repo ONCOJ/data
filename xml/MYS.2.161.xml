@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.2.161">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="向南山"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <cl type="ip-rel">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="n" lemma="l051275">
+                            <c type="log">kita</c>
+                          </w>
+                          <w type="n" lemma="l050034">
+                            <c type="log">yama</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-dat" lemma="l000519">
+                        <c type="log">ni</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="陳雲之"/>
+                    <w type="vb-adc" lemma="l031055a">
+                      <c type="log">tanabiku</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050115">
+                    <c type="log">kumo</c>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="log">no</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="青雲之"/>
+              <w type="n" lemma="l050341">
+                <w type="adj-stm" lemma="l007042">
+                  <c type="log">awo</c>
+                </w>
+                <w type="n" lemma="l050115">
+                  <c type="log">kumo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="log">no</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="星離去"/>
+          <cl type="ip-adv">
+            <phr type="np-src-ob1">
+              <w type="n" lemma="l052545">
+                <c type="log">posi</c>
+              </w>
+            </phr>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l030770a">
+                <c type="log">sakari</c>
+              </w>
+              <w type="vb-inf" lemma="l031840a">
+                <c type="log">yuki</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="月矣離而"/>
+          <phr type="pp-src-ob1">
+            <phr type="np">
+              <w type="n" lemma="l050004a">
+                <c type="log">tukwi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="log">wo</c>
+            </w>
+          </phr>
+          <w type="vb-ger" lemma="l030770a">
+            <c type="log">sakarite</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

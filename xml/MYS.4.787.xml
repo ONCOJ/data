@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.787">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="如夢"/>
+            <cl type="ip-arg">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l051086">
+                    <c type="log">ime</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="adj" lemma="l007004a">
+                <c type="log">goto</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="所念鴨"/>
+            <w type="vb-adn" lemma="l030404a">
+              <c type="log">omopoyuru</c>
+            </w>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="愛八師"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l091065">
+                        <c type="phon">pasikiyasi</c>
+                      </w>
+                    </cl>
+                    <lb id="3" corresp="君之使乃"/>
+                    <w type="n" lemma="l004266">
+                      <c type="log">kimi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="log">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l080098">
+                  <c type="log">tukapi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="麻祢久通者"/>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007231">
+                  <c type="phon">mane</c>
+                </w>
+                <w type="acp-inf" lemma="l000033">
+                  <c type="phon">ku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-prv" lemma="l030536a">
+              <c type="log">kaywopeba</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

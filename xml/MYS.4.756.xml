@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.756">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="外居而"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l052428">
+                      <c type="log">yoso</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="nlog">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l031926a">
+                  <c type="log">wite</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="戀者苦"/>
+              <w type="vb-prv" lemma="l030731a">
+                <c type="log">kwopureba</c>
+              </w>
+            </cl>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007096">
+                <c type="log">kurusi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="吾妹子乎"/>
+          <s type="ip-mat">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050290">
+                  <w type="n" lemma="l050020">
+                    <c type="log">wagimo</c>
+                  </w>
+                  <w type="n" lemma="l050028">
+                    <c type="log">kwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="次相見六"/>
+            <phr type="np-ob1">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <w type="vb-ger" lemma="l031139a">
+                    <c type="log">tugite</c>
+                  </w>
+                </cl>
+                <w type="vb-adc">
+                  <w type="pfx-rcp" lemma="l000025">
+                    <c type="log">api</c>
+                  </w>
+                  <w type="vb-stm" lemma="l031712a">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="phon">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="事計為与"/>
+              <w type="n" lemma="l050041">
+                <c type="log">koto</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031397a">
+              <c type="log">pakari</c>
+            </w>
+            <w type="vb-imp" lemma="l030919a">
+              <c type="log">se</c>
+              <c type="phon">yo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

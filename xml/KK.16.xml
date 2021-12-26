@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.16">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="加都賀都母"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n">
+                <w type="n" lemma="l004034">
+                  <c type="phon">katu</c>
+                </w>
+                <w type="n" lemma="l004034">
+                  <c type="phon">gatu</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="伊夜佐岐陀弖流"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004014">
+              <c type="phon">iya</c>
+            </w>
+          </phr>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030773a">
+                    <w type="n" lemma="l050116">
+                      <c type="phon">saki</c>
+                    </w>
+                    <w type="vb-stm" lemma="l031043a">
+                      <c type="phon">dat</c>
+                    </w>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000024">
+                    <c type="phon">eru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="延袁斯麻加牟"/>
+              <w type="n">
+                <c type="phon">ye</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031618a">
+              <c type="phon">maka</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

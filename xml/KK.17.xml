@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.17">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="阿米都都"/>
+            <phr type="np-voc">
+              <phr type="conjp">
+                <phr type="np">
+                  <w type="n" lemma="l050806">
+                    <c type="phon">ametutu</c>
+                  </w>
+                </phr>
+              </phr>
+              <lb id="1" corresp="知杼理麻斯登登"/>
+              <phr type="conjp">
+                <phr type="np">
+                  <w type="n" lemma="l050674">
+                    <c type="phon">tidori</c>
+                  </w>
+                </phr>
+              </phr>
+              <phr type="np">
+                <w type="n" lemma="l050566">
+                  <w type="n" lemma="l000062">
+                    <c type="phon">ma</c>
+                  </w>
+                  <w type="n" lemma="l090220">
+                    <c type="phon">sitoto</c>
+                  </w>
+                </w>
+              </phr>
+            </phr>
+            <lb id="2" corresp="那杼佐祁流斗米"/>
+            <phr type="np-adv">
+              <w type="wh-adv" lemma="l042078a">
+                <c type="phon">nado</c>
+              </w>
+            </phr>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030780a">
+                <c type="phon">sak</c>
+              </w>
+              <w type="vax-stv-adn" lemma="l000024">
+                <c type="phon">yeru</c>
+              </w>
+            </w>
+          </cl>
+          <phr type="np">
+            <w type="n">
+              <w type="adj-stm" lemma="l007199">
+                <c type="phon">two</c>
+              </w>
+              <w type="n" lemma="l050048a">
+                <c type="phon">me</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

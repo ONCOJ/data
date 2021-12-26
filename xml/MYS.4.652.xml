@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.652">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="玉主爾"/>
+          <cl type="ip-adv">
+            <phr type="pp-gol-ob2">
+              <phr type="np">
+                <w type="n" lemma="l052084">
+                  <w type="n" lemma="l052507">
+                    <c type="log">tama</c>
+                  </w>
+                  <w type="n" lemma="l031788b">
+                    <c type="log">mori</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="珠者授而"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l052078">
+                  <c type="log">tama</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030814a">
+              <c type="log">sadukete</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="勝且毛"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="adv" lemma="l004018">
+                <c type="phon">katugatu</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="枕与吾者"/>
+          <phr type="pp">
+            <phr type="conjp">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050016">
+                    <c type="log">makura</c>
+                  </w>
+                </phr>
+                <w type="p-case-com" lemma="l000529">
+                  <c type="log">to</c>
+                </w>
+              </phr>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042059">
+                  <c type="log">ware</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+          </phr>
+          <lb id="4" corresp="率二将宿"/>
+          <s type="ip-mat">
+            <w type="intj" lemma="l051153">
+              <c type="log">iza</c>
+            </w>
+          </s>
+          <phr type="np-adv">
+            <w type="n">
+              <w type="num" lemma="l002002">
+                <c type="log">puta</c>
+              </w>
+              <w type="cl" lemma="l002016">
+                <c type="log">ri</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031342a">
+              <c type="log">ne</c>
+            </w>
+            <w type="vax-cjr-cls" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

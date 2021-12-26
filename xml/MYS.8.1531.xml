@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1531">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="珠匣"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l091060">
+                        <w type="n" lemma="l052080">
+                          <w type="n" lemma="l052078">
+                            <c type="log">tama</c>
+                          </w>
+                          <w type="n" lemma="l050263">
+                            <c type="log">kusige</c>
+                          </w>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="葦木乃河乎"/>
+                    <w type="pln" lemma="l050858">
+                      <c type="phon-kun">asikwi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050025">
+                  <c type="log">kapa</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="今日見者"/>
+            <phr type="np-adv">
+              <w type="n" lemma="l051388">
+                <c type="log">kyepu</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031712a">
+              <c type="log">mite</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="迄萬代"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="n">
+                  <w type="num" lemma="l002014">
+                    <c type="log">yorodu</c>
+                  </w>
+                  <w type="n" lemma="l050040">
+                    <c type="log">yo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000512b">
+                <c type="log">madeni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="将忘八方"/>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l031906a">
+                <c type="log">wasura</c>
+              </w>
+              <w type="vax-pass-stm" lemma="l000011">
+                <c type="log">ye</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="log">me</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2223">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="天海"/>
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="np-prd">
+                      <w type="n" lemma="l050001a">
+                        <c type="log">ame</c>
+                      </w>
+                    </phr>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="nlog">no</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l052517">
+                    <c type="log">umi</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="nlog">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="月船浮"/>
+              <phr type="np-ob1">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l050004a">
+                      <c type="log">tukwi</c>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="nlog">no</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050007a">
+                  <c type="log">pune</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030239a">
+                <c type="log">uke</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="桂梶"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n">
+                  <w type="n" lemma="l051248">
+                    <c type="log">katura</c>
+                  </w>
+                  <w type="n" lemma="l051162">
+                    <c type="log">kadi</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="3" corresp="懸而滂所見"/>
+              <w type="vb-ger" lemma="l030443a">
+                <c type="log">kakete</c>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l030698a">
+              <c type="log">kogu</c>
+            </w>
+            <w type="p-fnl-evd" lemma="l000513">
+              <c type="log">miyu</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="月人壮子"/>
+          <phr type="np">
+            <w type="n">
+              <w type="n" lemma="l050004a">
+                <c type="log">tukwi</c>
+              </w>
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+              <w type="n" lemma="l050146">
+                <c type="log">wotokwo</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

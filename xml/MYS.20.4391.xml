@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4391" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="久爾具爾乃"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n">
+                            <w type="n" lemma="l051337">
+                              <c type="phon">kuni</c>
+                            </w>
+                            <w type="n" lemma="l051337">
+                              <c type="phon">guni</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="夜之里乃加美爾"/>
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n" lemma="l050562">
+                            <c type="phon">yasiro</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050005a">
+                        <c type="phon">kami</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="奴佐麻都理"/>
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l051646">
+                      <c type="phon">nusa</c>
+                    </w>
+                  </phr>
+                  <w type="vb-inf" lemma="l031649a">
+                    <c type="phon">maturi</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="阿加古比須奈牟"/>
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042054">
+                      <c type="phon">a</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ka</c>
+                  </w>
+                </phr>
+                <w type="vb-inf" lemma="l030731a">
+                  <c type="phon">kwopi</c>
+                </w>
+                <w type="vb-cls" lemma="l030919a">
+                  <c type="phon">su</c>
+                </w>
+                <w type="xtn-adc" lemma="l000805">
+                  <c type="phon">namu</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="伊母賀加奈志作"/>
+              <w type="n" lemma="l050027">
+                <c type="phon">imo</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="phon">ga</c>
+            </w>
+          </phr>
+          <w type="adj-exc">
+            <w type="adj-stm" lemma="l007022">
+              <c type="phon">kanasi</c>
+            </w>
+            <w type="acp-exc" lemma="l000039">
+              <c type="phon">sa</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

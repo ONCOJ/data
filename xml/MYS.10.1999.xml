@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1999">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="朱羅引"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adc" lemma="l030008a">
+                    <w type="adj-stm" lemma="l004164">
+                      <c type="log">aka</c>
+                      <c type="phon">ra</c>
+                    </w>
+                    <w type="vb-adc" lemma="l031474a">
+                      <c type="log">piku</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="色妙子"/>
+                <cl type="ip-rel">
+                  <w type="adj-cls">
+                    <w type="n" lemma="l050105">
+                      <c type="log">iro</c>
+                    </w>
+                    <w type="adj-stm" lemma="l007091">
+                      <c type="log">gupasi</c>
+                    </w>
+                    <w type="acp-cls" lemma="l000033">
+                      <c type="null">*</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050028">
+                  <c type="log">kwo</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="nlog">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="數見者"/>
+            <w type="vb-prv" lemma="l030892a">
+              <w type="adv" lemma="l007013">
+                <c type="log">siba</c>
+              </w>
+              <w type="vb-prv" lemma="l031712a">
+                <c type="log">mireba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="人妻故"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="n" lemma="l050716">
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+                <w type="n" lemma="l050120">
+                  <c type="log">duma</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-conn" lemma="l000539">
+              <c type="log">yuweni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="吾可戀奴"/>
+          <phr type="np-sbj">
+            <w type="pro-n" lemma="l042059">
+              <c type="log">ware</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vax-prf-cls" lemma="l000018">
+              <c type="phon">nu</c>
+            </w>
+          </w>
+          <w type="xtn-cls">
+            <w type="xtn-stm" lemma="l000801">
+              <c type="log">be</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="nlog">si</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2702">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="飛鳥川"/>
+          <cl type="ip-adv">
+            <cl type="ip-zyo">
+              <phr type="np-sbj">
+                <phr type="np">
+                  <w type="pln" lemma="l060010">
+                    <w type="pln" lemma="l050865">
+                      <c type="plog">asuka</c>
+                    </w>
+                    <w type="n" lemma="l050025">
+                      <c type="log">gapa</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="水徃増"/>
+                <w type="n" lemma="l050128">
+                  <c type="log">midu</c>
+                </w>
+              </phr>
+              <w type="vb-ifc">
+                <w type="vb-stm" lemma="l031840a">
+                  <c type="log">yuki</c>
+                </w>
+                <w type="vb-ifc" lemma="l031630a">
+                  <c type="log">masari</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="弥日異"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004014">
+                <c type="log">iya</c>
+              </w>
+            </phr>
+            <phr type="np-adv">
+              <w type="adv" lemma="l080292">
+                <w type="n" lemma="l050090">
+                  <c type="log">pi</c>
+                </w>
+                <w type="adv" lemma="l004070">
+                  <c type="log">kyeni</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="戀乃増者"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n-dvb" lemma="l030731b">
+                  <c type="log">kwopwi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l031630a">
+              <c type="log">masaraba</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="在勝申自"/>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030125a">
+              <c type="log">ari</c>
+            </w>
+            <w type="vb-cls" lemma="l030495a">
+              <c type="log">katu</c>
+            </w>
+          </w>
+          <w type="xtn-cls">
+            <w type="xtn-stm" lemma="l000802">
+              <c type="phon">masizi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

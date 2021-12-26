@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3982">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="春花能"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <cl type="ip-nmz">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l050398">
+                      <w type="n" lemma="l051724">
+                        <c type="log">paru</c>
+                      </w>
+                      <w type="n" lemma="l050083">
+                        <c type="log">pana</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="宇都路布麻泥爾"/>
+                <w type="vb-adc" lemma="l030277a">
+                  <c type="phon">uturwopu</c>
+                </w>
+              </cl>
+              <w type="p-res" lemma="l000512b">
+                <c type="phon">madeni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="相見祢婆"/>
+            <w type="vb-prv">
+              <w type="pfx-rcp" lemma="l000025">
+                <c type="log">api</c>
+              </w>
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vax-neg-prv" lemma="l000006a">
+                <c type="phon">neba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="月日餘美都追"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l090725">
+                <w type="n" lemma="l050004a">
+                  <c type="log">tukwi</c>
+                </w>
+                <w type="n" lemma="l050090">
+                  <c type="log">pi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-ctt" lemma="l031883a">
+              <c type="phon">yomitutu</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊母麻都良牟曾"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050027">
+              <c type="phon">imo</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031644a">
+            <c type="phon">matu</c>
+          </w>
+          <w type="xtn-adc" lemma="l000805">
+            <c type="phon">ramu</c>
+          </w>
+          <w type="p-foc" lemma="l000527">
+            <c type="phon">so</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

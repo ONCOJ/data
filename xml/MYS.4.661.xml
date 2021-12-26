@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.661">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="戀々而"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <w type="vb-ger">
+                      <w type="vb-stm" lemma="l030731a">
+                        <c type="log">kwopwi</c>
+                      </w>
+                      <w type="vb-ger" lemma="l030731a">
+                        <c type="log">kwopwite</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="相有時谷"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030071a">
+                      <c type="phon">ap</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="log">yeru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050059">
+                  <c type="log">toki</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000502">
+                <c type="phon">dani</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="愛寸"/>
+            <phr type="np-ob1">
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007207">
+                    <c type="log">utukusi</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="phon">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="事盡手四"/>
+              <w type="n" lemma="l050148">
+                <c type="phon">koto</c>
+              </w>
+            </phr>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l031141a">
+                <c type="log">tuku</c>
+                <c type="phon">si</c>
+              </w>
+              <w type="vax-prf-imp" lemma="l000023">
+                <c type="phon">teyo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="長常念者"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007007">
+                  <c type="log">naga</c>
+                </w>
+                <w type="acp-inf" lemma="l000033">
+                  <c type="log">ku</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="vb-cnd" lemma="l030399a">
+              <c type="log">omopaba</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

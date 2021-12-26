@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.272">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="四極山"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <w type="pln" lemma="l060088">
+                    <w type="pln" lemma="l090452">
+                      <c type="phon-on">si</c>
+                      <c type="phon-kun">patu</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="打越見者"/>
+                <w type="vb-inf">
+                  <w type="pfx-mph" lemma="l000043">
+                    <c type="log">uti</c>
+                  </w>
+                  <w type="vb-inf" lemma="l030747a">
+                    <c type="log">kwoye</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="vb-prv">
+                <w type="vb-prv" lemma="l031712a">
+                  <c type="log">mireba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="笠縫之"/>
+            <phr type="np-ob1">
+              <w type="pln" lemma="l060050">
+                <w type="pln" lemma="l051232">
+                  <c type="phon-kun">kasanupi</c>
+                </w>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+                <lb id="3" corresp="嶋榜隠"/>
+                <w type="n" lemma="l050078">
+                  <c type="log">sima</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030698a">
+                <c type="log">kogi</c>
+              </w>
+              <w type="vb-cls" lemma="l030449a">
+                <c type="log">kakuru</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="棚無小舟"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050949">
+                  <c type="log">tana</c>
+                </w>
+              </phr>
+              <w type="adj-cls">
+                <w type="adj-stm" lemma="l007028">
+                  <c type="log">na</c>
+                </w>
+                <w type="acp-cls" lemma="l000033">
+                  <c type="nlog">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050516">
+              <w type="pfx" lemma="l000060">
+                <c type="log">wo</c>
+              </w>
+              <w type="n" lemma="l050007a">
+                <c type="log">bune</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

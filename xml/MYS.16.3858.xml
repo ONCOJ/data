@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3858">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="比來之"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042029">
+                      <c type="log">ko</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051303">
+                      <c type="log">koro</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="吾戀力"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="log">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="nlog">ga</c>
+                  </w>
+                </phr>
+                <w type="n">
+                  <w type="n-dvb" lemma="l030731b">
+                    <c type="log">kwopwi</c>
+                  </w>
+                  <w type="n" lemma="l052132">
+                    <c type="log">dikara</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="2" corresp="記集"/>
+              <w type="vb-inf">
+                <w type="vb-stm" lemma="l030915a">
+                  <c type="log">sirusi</c>
+                </w>
+                <w type="vb-inf" lemma="l031180a">
+                  <c type="log">tume</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="功爾申者"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051366">
+                  <c type="log">kuu</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l031678a">
+              <c type="log">mawosaba</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="五位乃冠"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <phr type="np-prd">
+                <w type="n">
+                  <w type="num" lemma="l002022">
+                    <c type="log">go</c>
+                  </w>
+                  <w type="n" lemma="l080243">
+                    <c type="log">wi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="phon">no</c>
+              </w>
+            </cl>
+            <w type="n-dvb" lemma="l030423b">
+              <c type="log">kagapuri</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2860b">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="八釣川"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <cl type="ip-rel">
+                    <cl type="ip-adv">
+                      <phr type="pp">
+                        <phr type="np">
+                          <phr type="np">
+                            <w type="pln" lemma="l060162">
+                              <w type="pln" lemma="l080064">
+                                <c type="phon-kun">yaturi</c>
+                              </w>
+                              <w type="n" lemma="l050025">
+                                <c type="log">gapa</c>
+                              </w>
+                            </w>
+                          </phr>
+                          <lb id="1" corresp="水尾母不絶"/>
+                          <w type="n" lemma="l050130">
+                            <c type="log">mi</c>
+                            <c type="phon">wo</c>
+                          </w>
+                        </phr>
+                        <w type="p-top" lemma="l000514">
+                          <c type="phon">mo</c>
+                        </w>
+                      </phr>
+                      <w type="vb-inf" lemma="l031090a">
+                        <c type="log">taye</c>
+                      </w>
+                      <w type="vb-ifc">
+                        <w type="vb-stm" lemma="l030919a">
+                          <c type="log">se</c>
+                        </w>
+                        <w type="vax-neg-ifc" lemma="l000006a">
+                          <c type="log">zu</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="2" corresp="行水"/>
+                    <w type="vb-adc" lemma="l031840a">
+                      <c type="log">yuku</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050128">
+                    <c type="log">midu</c>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="nlog">no</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="續戀"/>
+              <w type="vb-ger" lemma="l031139a">
+                <c type="log">tugite</c>
+              </w>
+              <w type="p-foc" lemma="l000527">
+                <c type="nlog">so</c>
+              </w>
+            </cl>
+            <w type="vb-adn" lemma="l030731a">
+              <c type="log">kwopuru</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="是比歳"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="log">ko</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050308">
+                <w type="n" lemma="l050124">
+                  <c type="log">tosi</c>
+                </w>
+                <w type="n" lemma="l051303">
+                  <c type="log">koro</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="nlog">wo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

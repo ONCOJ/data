@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.1.46">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="阿騎乃野爾"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l060005">
+                      <w type="pln" lemma="l050804">
+                        <c type="phon-on">akwi</c>
+                      </w>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon-on">no</c>
+                      </w>
+                      <w type="n" lemma="l051650">
+                        <c type="log">nwo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="宿旅人"/>
+                <w type="vb-adc" lemma="l031807a">
+                  <c type="log">yadoru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050737">
+                <w type="n" lemma="l050049">
+                  <c type="log">tabi</c>
+                </w>
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="打靡"/>
+            <cl type="ip-adv">
+              <w type="vb-inf">
+                <w type="pfx-mph" lemma="l000043">
+                  <c type="log">uti</c>
+                </w>
+                <w type="vb-inf" lemma="l031294a">
+                  <c type="log">nabiki</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="寐毛宿良目八方"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050103">
+                  <c type="log">i</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-cls" lemma="l031342a">
+              <c type="log">nu</c>
+            </w>
+            <w type="xtn-exc" lemma="l000805">
+              <c type="phon">rame</c>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="古部念爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-prd">
+              <phr type="np-ob1">
+                <w type="n" lemma="l051101">
+                  <c type="log">inisi</c>
+                  <c type="phon">pye</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l030399a">
+                <c type="log">omopu</c>
+              </w>
+            </cl>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

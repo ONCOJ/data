@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4069">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安須欲里波"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050864">
+                <c type="phon">asu</c>
+              </w>
+            </phr>
+            <w type="p-case-abl" lemma="l000540a">
+              <c type="phon">ywori</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="都芸弖伎許要牟"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <w type="vb-ger" lemma="l031139a">
+                  <c type="phon">tugite</c>
+                </w>
+              </cl>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030569a">
+                  <c type="phon">kikoye</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="保登等芸須"/>
+            <w type="n" lemma="l050160">
+              <c type="phon">pototogisu</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="比登欲能可良爾"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="n">
+                <w type="num" lemma="l002001">
+                  <c type="phon">pito</c>
+                </w>
+                <w type="n" lemma="l050039">
+                  <c type="phon">ywo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="phon">no</c>
+            </w>
+            <w type="p-conn" lemma="l000508b">
+              <c type="phon">karani</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="古非和多流加母"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="phon">kwopwi</c>
+            </w>
+            <w type="vb-adc" lemma="l031910a">
+              <c type="phon">wataru</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

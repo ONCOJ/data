@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3498">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="宇奈波良乃"/>
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050407">
+                      <w type="n" lemma="l050107">
+                        <c type="phon">una</c>
+                      </w>
+                      <w type="n" lemma="l051723">
+                        <c type="phon">para</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="根夜波良古須気"/>
+                <w type="n" lemma="l051606">
+                  <w type="adj-stm" lemma="l090813">
+                    <w type="n" lemma="l050036">
+                      <c type="phon">ne</c>
+                    </w>
+                    <w type="adj-stm" lemma="l080196">
+                      <c type="phon">yapara</c>
+                    </w>
+                  </w>
+                  <w type="n" lemma="l050578">
+                    <w type="pfx" lemma="l000063">
+                      <c type="phon">kwo</c>
+                    </w>
+                    <w type="n" lemma="l050010a">
+                      <c type="phon">suge</c>
+                    </w>
+                  </w>
+                </w>
+              </phr>
+              <lb id="2" corresp="安麻多安礼婆"/>
+              <phr type="np-adv">
+                <w type="adv" lemma="l004047">
+                  <c type="phon">amata</c>
+                </w>
+              </phr>
+              <w type="vb-prv" lemma="l030125a">
+                <c type="phon">areba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="伎美波和須良酒"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l004266">
+                  <c type="phon">kimi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031906a">
+                <c type="phon">wasura</c>
+              </w>
+              <w type="vax-rsp-adc" lemma="l000009">
+                <c type="phon">su</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="和礼和須流礼夜"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <w type="pro-n" lemma="l042059">
+                <c type="phon">ware</c>
+              </w>
+            </phr>
+            <w type="vb-exc" lemma="l031907a">
+              <c type="phon">wasurure</c>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

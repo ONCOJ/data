@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.68">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="等虚辞陪邇"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004129">
+                <c type="phon">tokosipeni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="枳弥母阿閇椰毛"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l004266">
+                  <c type="phon">kimi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-exc" lemma="l030071a">
+              <c type="phon">ape</c>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="異舎儺等利"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <cl type="ip-ept">
+                          <w type="mk" lemma="l091013">
+                            <w type="n" lemma="l051125">
+                              <c type="phon">isana</c>
+                            </w>
+                            <w type="vb-inf" lemma="l031258a">
+                              <c type="phon">tori</c>
+                            </w>
+                          </w>
+                        </cl>
+                        <lb id="3" corresp="宇弥能波摩毛能"/>
+                        <w type="n" lemma="l052517">
+                          <c type="phon">umi</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l051711">
+                      <w type="n" lemma="l051709">
+                        <c type="phon">pama</c>
+                      </w>
+                      <w type="n" lemma="l052491">
+                        <c type="phon">mo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="4" corresp="余留等枳等枳弘"/>
+                <w type="vb-adc" lemma="l031887a">
+                  <c type="phon">yoru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050661">
+                <w type="n" lemma="l050059">
+                  <c type="phon">toki</c>
+                </w>
+                <w type="n" lemma="l050059">
+                  <c type="phon">doki</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

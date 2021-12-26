@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3933">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="阿里佐利底"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <cl type="ip-adv">
+                <w type="vb-ger">
+                  <w type="pfx-stv" lemma="l000026">
+                    <c type="phon">ari</c>
+                  </w>
+                  <w type="vb-ger" lemma="l030841a">
+                    <c type="phon">sarite</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="能知毛相牟等"/>
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="n" lemma="l004087">
+                    <c type="phon">noti</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="log">apa</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="於母倍許曾"/>
+            <w type="vb-exc" lemma="l030399a">
+              <c type="phon">omope</c>
+            </w>
+            <w type="p-foc" lemma="l000510">
+              <c type="phon">koso</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="都由能伊能知母"/>
+          <phr type="pp-pth">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <w type="n" lemma="l052223">
+                    <c type="phon">tuyu</c>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l051102">
+                <c type="phon">inoti</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="都芸都追和多礼"/>
+          <cl type="ip-adv">
+            <w type="vb-ctt" lemma="l031139a">
+              <c type="phon">tugitutu</c>
+            </w>
+          </cl>
+          <w type="vb-exc" lemma="l031910a">
+            <c type="phon">watare</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

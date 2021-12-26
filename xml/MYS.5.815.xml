@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.815">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="武都紀多知"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050707">
+                    <c type="phon">mutukwi</c>
+                  </w>
+                </phr>
+                <w type="vb-inf" lemma="l031043a">
+                  <c type="phon">tati</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="波流能吉多良婆"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l051724">
+                    <c type="phon">paru</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l030582a">
+                <w type="vb-stm" lemma="l030612a">
+                  <c type="phon">ki</c>
+                </w>
+                <w type="vb-cnd" lemma="l030170a">
+                  <c type="phon">taraba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="可久斯許曾"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-adv" lemma="l042020">
+                  <c type="phon">kaku</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="烏梅乎乎岐都都"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l052251">
+                  <c type="phon">ume</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-ctt" lemma="l031940a">
+              <c type="phon">wokitutu</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="多努之岐乎倍米"/>
+          <cl type="ip-adv">
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007182">
+                <c type="phon">tanwosi</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="phon">ki</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l031954a">
+              <c type="phon">wope</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="phon">me</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

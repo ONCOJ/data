@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4388" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="多妣等弊等"/>
+            <cl type="ip-adv">
+              <cl type="ip-arg">
+                <phr type="np">
+                  <w type="n" lemma="l050049">
+                    <c type="phon">tabi</c>
+                  </w>
+                </phr>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <w type="vb-css" lemma="l030199a">
+                <c type="phon">pyedo</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="麻多妣爾奈理奴"/>
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <w type="n">
+                  <w type="pfx" lemma="l000062">
+                    <c type="phon">ma</c>
+                  </w>
+                  <w type="n" lemma="l050049">
+                    <c type="phon">tabi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031317a">
+                <c type="phon">nari</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="phon">nu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="以弊乃母加"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n" lemma="l050006a">
+                            <c type="phon">ipye</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050027">
+                        <c type="phon">mo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="枳世之己呂母爾"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030575a">
+                      <c type="phon">kise</c>
+                    </w>
+                    <w type="vax-spst-adn" lemma="l000015">
+                      <c type="phon">si</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051304">
+                  <c type="phon">koromo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="阿加都枳爾迦理"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l090447">
+                <c type="phon">aka</c>
+              </w>
+            </phr>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l031130a">
+                <c type="phon">tuki</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-mpst-ifc" lemma="l000016">
+                <c type="phon">kari</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

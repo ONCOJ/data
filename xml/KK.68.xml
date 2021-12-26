@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.68">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="比婆理波"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051746">
+                  <c type="phon">pibari</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="阿米迩迦気流"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050001a">
+                  <c type="phon">ame</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030451a">
+              <c type="phon">kakeru</c>
+            </w>
+          </s>
+          <lb id="2" corresp="多迦由玖夜"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <cl type="ip-ept">
+                <w type="mk" lemma="l091050">
+                  <w type="vb-adc" lemma="l030996a">
+                    <w type="adj-stm" lemma="l007005">
+                      <c type="phon">taka</c>
+                    </w>
+                    <w type="vb-adc" lemma="l031840a">
+                      <c type="phon">yuku</c>
+                    </w>
+                  </w>
+                  <w type="p-foc" lemma="l000537">
+                    <c type="phon">ya</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="波夜夫佐和気"/>
+              <w type="pen" lemma="l080089">
+                <c type="phon">payabusawake</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="佐邪岐登良佐泥"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050153">
+                <c type="phon">sazaki</c>
+              </w>
+            </phr>
+            <w type="vb-opt">
+              <w type="vb-stm" lemma="l031258a">
+                <c type="phon">tora</c>
+              </w>
+              <w type="vax-rsp-opt" lemma="l000009">
+                <c type="phon">sane</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

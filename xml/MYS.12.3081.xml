@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3081">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="玉緒乎"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-zyo">
+                  <cl type="ip-adv">
+                    <phr type="pp-ob1">
+                      <phr type="np">
+                        <phr type="pp">
+                          <phr type="np">
+                            <w type="n" lemma="l052078">
+                              <c type="log">tama</c>
+                            </w>
+                          </phr>
+                          <w type="p-case-gen" lemma="l000520">
+                            <c type="nlog">no</c>
+                          </w>
+                        </phr>
+                        <w type="n" lemma="l050117">
+                          <c type="log">wo</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-acc" lemma="l000534">
+                        <c type="phon">wo</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="片緒爾搓而"/>
+                    <cl type="ip-adv">
+                      <phr type="np-prd">
+                        <w type="n">
+                          <w type="adj-stm" lemma="l090031">
+                            <c type="log">kata</c>
+                          </w>
+                          <w type="n" lemma="l050117">
+                            <c type="log">wo</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="cop-inf" lemma="l031965">
+                        <c type="phon">ni</c>
+                      </w>
+                    </cl>
+                    <w type="vb-ger" lemma="l031888a">
+                      <c type="log">yorite</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="緒乎弱弥"/>
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="n" lemma="l050117">
+                        <c type="log">wo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-acc" lemma="l000534">
+                      <c type="phon">wo</c>
+                    </w>
+                  </phr>
+                  <w type="adj-inf">
+                    <w type="adj-stm" lemma="l007218b">
+                      <c type="log">ywowa</c>
+                    </w>
+                    <w type="acp-inf" lemma="l000034">
+                      <c type="phon">mi</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="乱時爾"/>
+                <w type="vb-adn" lemma="l031692a">
+                  <c type="log">midaruru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050059">
+                <c type="log">toki</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="不戀有目八方"/>
+          <w type="vb-ifc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vax-neg-ifc" lemma="l000006a">
+              <c type="log">zu</c>
+            </w>
+          </w>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l030125a">
+              <c type="log">ara</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="phon">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

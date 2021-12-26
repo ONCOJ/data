@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1884">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="寒過"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l051846">
+                  <c type="log">puyu</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l030926a">
+                <c type="log">sugwite</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="暖来者"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l051724">
+                  <c type="log">paru</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="nlog">si</c>
+              </w>
+            </phr>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="log">ki</c>
+              </w>
+              <w type="vax-stv-prv" lemma="l000022">
+                <c type="log">tareba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="年月者"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l090632">
+                  <w type="n" lemma="l050124">
+                    <c type="log">tosi</c>
+                  </w>
+                  <w type="n" lemma="l050004a">
+                    <c type="log">tukwi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="雖新有"/>
+            <w type="adj-css">
+              <w type="adj-stm" lemma="l007035">
+                <c type="log">arata</c>
+              </w>
+              <w type="cop-css" lemma="l031966">
+                <c type="log">naredomo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="人者舊去"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031563a">
+              <c type="log">puri</c>
+            </w>
+            <w type="vb-adc" lemma="l031840a">
+              <c type="log">yuku</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

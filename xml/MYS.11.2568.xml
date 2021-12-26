@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2568">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="凡"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l004088">
+                  <c type="log">oboroka</c>
+                </w>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="nlog">ni</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="吾之念者"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042059">
+                  <c type="log">ware</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l030399a">
+              <c type="log">omopaba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="如是許"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="pro-adv" lemma="l042020">
+                      <c type="log">kaku</c>
+                    </w>
+                  </phr>
+                  <w type="p-res" lemma="l000501">
+                    <c type="log">bakari</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="難御門乎"/>
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007001">
+                    <c type="log">kata</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="log">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050749">
+                <c type="log">mikadwo</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="退出米也母"/>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l031612a">
+              <w type="vb-stm" lemma="l031613a">
+                <c type="log">makari</c>
+              </w>
+              <w type="vb-stm" lemma="l030172a">
+                <c type="log">de</c>
+              </w>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="log">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3590">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="伊毛爾安波受"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050027">
+                  <c type="phon">imo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030071a">
+                <c type="phon">apa</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="phon">zu</c>
+              </w>
+            </w>
+            <lb id="1" corresp="安良婆須敞奈美"/>
+            <w type="vb-cnd" lemma="l030125a">
+              <c type="phon">araba</c>
+            </w>
+          </cl>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n" lemma="l051999">
+                <c type="phon">subye</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="伊波祢布牟"/>
+          <cl type="ip-adv">
+            <phr type="pp-pth-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l050035">
+                      <c type="phon">ipane</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031553a">
+                    <c type="phon">pumu</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="伊故麻乃山乎"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l051084">
+                      <c type="phon-on">ikwoma</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050034">
+                  <c type="log">yama</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="故延弖曾安我久流"/>
+            <w type="vb-ger" lemma="l030747a">
+              <c type="phon">kwoyete</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </cl>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042054">
+                <c type="phon">a</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="phon">ga</c>
+            </w>
+          </phr>
+          <w type="vb-adn" lemma="l030612a">
+            <c type="phon">kuru</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

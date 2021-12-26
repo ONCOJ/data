@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4456">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="麻須良乎等"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n" lemma="l080256">
+                  <w type="adj-stm" lemma="l007110">
+                    <c type="phon">masura</c>
+                  </w>
+                  <w type="n" lemma="l052501">
+                    <c type="phon">wo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031968">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="於毛敞流母能乎"/>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030399a">
+                <c type="phon">omop</c>
+              </w>
+              <w type="vax-stv-adn" lemma="l000024">
+                <c type="phon">yeru</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="phon">monowo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="多知波吉弖"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l052508">
+                <c type="phon">tati</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031401a">
+              <c type="phon">pakite</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="可爾波乃多為爾"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l080280">
+                    <c type="phon">kanipa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l052120">
+                <c type="phon">tawi</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="世理曾都美家流"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l051915">
+                <c type="phon">seri</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l031178a">
+              <c type="phon">tumi</c>
+            </w>
+            <w type="vax-mpst-adn" lemma="l000016">
+              <c type="phon">kyeru</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

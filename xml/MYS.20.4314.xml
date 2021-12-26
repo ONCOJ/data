@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4314">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="八千種爾"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050369">
+                  <w type="num" lemma="l002036">
+                    <w type="num" lemma="l002008">
+                      <c type="log">ya</c>
+                    </w>
+                    <w type="num" lemma="l002036">
+                      <c type="log">ti</c>
+                    </w>
+                  </w>
+                  <w type="n" lemma="l052472">
+                    <c type="log">gusa</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="久佐奇乎宇恵弖"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050270">
+                  <w type="n" lemma="l050114">
+                    <c type="phon">kusa</c>
+                  </w>
+                  <w type="n" lemma="l050003a">
+                    <c type="phon">kwi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030229a">
+              <c type="phon">uwete</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="等伎其等爾"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050059">
+                        <c type="phon">toki</c>
+                      </w>
+                    </phr>
+                    <w type="p-res" lemma="l000546">
+                      <c type="phon">gotoni</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="佐加牟波奈乎之"/>
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l030778a">
+                      <c type="phon">saka</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050083">
+                  <c type="phon">pana</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="見都追思努波奈"/>
+            <w type="vb-ctt" lemma="l031712a">
+              <c type="log">mi</c>
+              <c type="phon">tutu</c>
+            </w>
+          </cl>
+          <w type="vb-opt" lemma="l030886a">
+            <c type="phon">sinwopana</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

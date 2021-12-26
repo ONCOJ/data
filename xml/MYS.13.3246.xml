@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.13.3246">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="天有哉"/>
+          <cl type="ip-nmz-sbj">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-arg">
+                    <phr type="pp-sbj">
+                      <phr type="np">
+                        <cl type="ip-rel">
+                          <phr type="pp">
+                            <phr type="np">
+                              <w type="n" lemma="l050001a">
+                                <c type="log">ame</c>
+                              </w>
+                            </phr>
+                            <w type="p-case-dat" lemma="l000519">
+                              <c type="nlog">n</c>
+                            </w>
+                          </phr>
+                          <w type="vb-adn" lemma="l030125a">
+                            <c type="log">aru</c>
+                          </w>
+                          <w type="p-foc" lemma="l000537">
+                            <c type="log">ya</c>
+                          </w>
+                        </cl>
+                        <lb id="1" corresp="月日如"/>
+                        <w type="n" lemma="l090725">
+                          <w type="n" lemma="l050004a">
+                            <c type="log">tukwi</c>
+                          </w>
+                          <w type="n" lemma="l050090">
+                            <c type="log">pi</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <w type="adj-inf">
+                      <w type="adj-stm" lemma="l007004b">
+                        <c type="log">goto</c>
+                      </w>
+                      <w type="acp-inf" lemma="l000033">
+                        <c type="log">ku</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="吾思有"/>
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042057">
+                        <c type="log">wa</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="log">ga</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030399a">
+                      <c type="log">omop</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="log">yeru</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="君之日異"/>
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="log">ga</c>
+              </w>
+            </phr>
+            <phr type="np-adv">
+              <w type="adv" lemma="l080293">
+                <w type="n" lemma="l050090">
+                  <c type="log">pi</c>
+                </w>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="nlog">ni</c>
+                </w>
+                <w type="adv" lemma="l004070">
+                  <c type="log">kyeni</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="4" corresp="老落惜文"/>
+            <w type="vb-nml" lemma="l030407a">
+              <c type="log">oyu</c>
+              <c type="phon">raku</c>
+            </w>
+          </cl>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007229">
+              <c type="log">wosi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

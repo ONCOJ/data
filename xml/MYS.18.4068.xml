@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4068">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <lb id="0" corresp="乎里安加之母"/>
+              <w type="vb-inf" lemma="l031958a">
+                <w type="vb-stm" lemma="l031957a">
+                  <c type="phon">wori</c>
+                </w>
+                <w type="vb-inf" lemma="l030002a">
+                  <c type="phon">akasi</c>
+                </w>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="許余比波能麻牟"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051320">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="phon">ko</c>
+                  </w>
+                  <w type="n" lemma="l052415">
+                    <c type="phon">yopi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <cl type="ip-adv">
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031386a">
+                  <c type="phon">noma</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+            </cl>
+          </s>
+          <lb id="2" corresp="保等登芸須"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <w type="n" lemma="l050160">
+                <c type="phon">pototogisu</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="安気牟安之多波"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l030022a">
+                      <c type="phon">ake</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050862">
+                  <c type="phon">asita</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="奈伎和多良牟曾"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031267a">
+                <c type="phon">naki</c>
+              </w>
+              <w type="vb-stm" lemma="l031910a">
+                <c type="phon">watara</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

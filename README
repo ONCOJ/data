@@ -1,0 +1,75 @@
+Oxford NINJAL Corpus of Old Japanese (ONCOJ)
+============================================
+
+Contents of this File
+=====================
+
+(A) About the corpus
+(B) Corpus format
+(C) Citation
+(D) Licence
+
+
+(A) About the corpus
+====================
+
+The Oxford-NINJAL Corpus of Old Japanese (abbreviated ONCOJ) is
+a lemmatized, parsed and comprehensively annotated digital
+corpus of poetic texts in Japanese from the Old Japanese period.
+
+Creation of the ONCOJ has been ongoing since 2011 (until 2017
+under the name “The Oxford Corpus of Old Japanese (OCOJ)”).
+Development continues as a long-term collaborative research project
+between the University of Oxford and the National Institute for
+Japanese Language and Linguistics (NINJAL).
+
+The ONCOJ is supported and recognized by the British
+Academy as an Academy Research Project, and at NINJAL it
+forms part of The Construction of Diachronic Corpora and New
+Developments in Research on the History of Japanese project
+(https://www.ninjal.ac.jp/english/research/project-3/institute/diachronic-corpora/).
+
+More information about the corpus can be found on the project website:
+
+https://oncoj.ninjal.ac.jp/
+
+
+(B) Corpus format
+=================
+
+The "lexicon.xml" file is the dictionary database for the corpus in an
+XML format.
+
+The "oncoj.csv" file contains all the corpus data given as comma-separated
+values that can be seen with a spreadsheet program.
+
+Files of the "psd" folder are formatted to be compatible with CorpusSearch,
+see http://corpussearch.sourceforge.net/CS-manual/YourCorpus.html for
+details. The corpus has been compiled into 26 ".psd" files according
+to the sources of the texts.
+
+Files of the "xml" folder are formatted to be TEI compatible. There are
+4991 individual texts in the corpus, and each text is contained in a
+single XML file.
+
+
+(C) Citation
+============
+
+Presentations of research results using the Oxford-NINJAL Corpus of Old
+Japanese should include a citation taking the general form of the example
+below (with appropriate modifications depending on the date of access):
+
+    National Institute for Japanese Language and Linguistics (2021)
+    “Oxford-NINJAL Corpus of Old Japanese” http://oncoj.ninjal.ac.jp/
+    (accessed 26 December 2021)
+
+
+(D) Licence
+===========
+
+The corpus annotation (the grammatical analysis) is licensed under
+the Creative Commons Attribution 4.0 International License. To view a copy
+of this license, visit http://creativecommons.org/licenses/by/4.0/ or send
+a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+

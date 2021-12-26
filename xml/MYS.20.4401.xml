@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4401" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="可良己呂武"/>
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <cl type="ip-adv">
+                      <phr type="pp-gol">
+                        <phr type="np">
+                          <phr type="np">
+                            <w type="n" lemma="l050309">
+                              <w type="pln" lemma="l051219">
+                                <c type="phon-on">kara</c>
+                              </w>
+                              <w type="n" lemma="l051304">
+                                <c type="phon-on">koromu</c>
+                              </w>
+                            </w>
+                          </phr>
+                          <lb id="1" corresp="須宗爾等里都伎"/>
+                          <w type="n" lemma="l050079">
+                            <c type="phon">suswo</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-dat" lemma="l000519">
+                          <c type="phon">ni</c>
+                        </w>
+                      </phr>
+                      <w type="vb-inf">
+                        <w type="vb-stm" lemma="l031258a">
+                          <c type="phon">tori</c>
+                        </w>
+                        <w type="vb-inf" lemma="l031130a">
+                          <c type="phon">tuki</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="2" corresp="奈苦古良乎"/>
+                    <w type="vb-adc" lemma="l031267a">
+                      <c type="phon">naku</c>
+                    </w>
+                  </cl>
+                  <w type="n">
+                    <w type="n" lemma="l050028">
+                      <c type="phon">kwo</c>
+                    </w>
+                    <w type="sfx" lemma="l001003">
+                      <c type="phon">ra</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="意伎弖曾伎怒也"/>
+              <w type="vb-ger" lemma="l030327a">
+                <c type="phon">okite</c>
+              </w>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </cl>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="phon">ki</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="phon">nu</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="意母奈之爾志弖"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l052482">
+                  <c type="phon">omo</c>
+                </w>
+              </phr>
+              <w type="adj-cls">
+                <w type="adj-stm" lemma="l007028">
+                  <c type="phon">na</c>
+                </w>
+                <w type="acp-cls" lemma="l000033">
+                  <c type="phon">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="cop-ger" lemma="l031965">
+              <c type="phon">nisite</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

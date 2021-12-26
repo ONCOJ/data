@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4097">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="須賣呂伎能"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052029">
+                    <c type="phon">sumyeroki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="御代佐可延牟等"/>
+              <w type="n">
+                <w type="pfx-hon" lemma="l000035">
+                  <c type="log">mi</c>
+                </w>
+                <w type="n" lemma="l050040">
+                  <c type="log">yo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030768a">
+                <c type="phon">sakaye</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="阿頭麻奈流"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050785">
+                      <c type="phon">aduma</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">n</c>
+                  </w>
+                </phr>
+                <w type="vb-adn" lemma="l030125a">
+                  <c type="phon">aru</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="美知乃久夜麻爾"/>
+              <w type="pln" lemma="l060216">
+                <w type="pln" lemma="l051484">
+                  <c type="phon-on">mitinoku</c>
+                </w>
+                <w type="n" lemma="l050034">
+                  <c type="phon-on">yama</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="金花佐久"/>
+          <phr type="np-sbj">
+            <w type="n">
+              <w type="n" lemma="l050221">
+                <w type="adj-stm" lemma="l090080a">
+                  <c type="log">ku</c>
+                </w>
+                <w type="n" lemma="l051198a">
+                  <c type="log">gane</c>
+                </w>
+              </w>
+              <w type="n" lemma="l050083">
+                <c type="log">bana</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030778a">
+            <c type="phon">saku</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

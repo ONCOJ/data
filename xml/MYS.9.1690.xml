@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1690">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="高嶋之"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l090294">
+                        <c type="plog">takasima</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="阿渡川波者"/>
+                  <w type="n">
+                    <w type="pln" lemma="l060284">
+                      <w type="pln" lemma="l050788">
+                        <c type="phon-on">adwo</c>
+                      </w>
+                      <w type="n" lemma="l050025">
+                        <c type="log">kapa</c>
+                      </w>
+                    </w>
+                    <w type="n" lemma="l050017">
+                      <c type="log">nami</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="驟鞆"/>
+              <w type="vb-adc" lemma="l030843a">
+                <c type="log">sawaku</c>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="phon">tomo</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="吾者家思"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="pro-n" lemma="l042059">
+                  <c type="log">ware</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050006a">
+                <c type="log">ipye</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030399a">
+              <c type="log">omopu</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="宿加奈之弥"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n-dvb" lemma="l031807b">
+                <c type="log">yadori</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007022">
+                <c type="phon">kanasi</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

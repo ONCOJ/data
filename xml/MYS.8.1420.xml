@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1420">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="沫雪香"/>
+          <phr type="pp-arg">
+            <cl type="ip-nmz">
+              <phr type="pp-adv">
+                <cl type="ip-nmz">
+                  <cl type="ip-arg">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="n" lemma="l052555">
+                            <c type="log">awa</c>
+                          </w>
+                          <w type="n" lemma="l050075">
+                            <c type="log">yuki</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-foc" lemma="l000506">
+                        <c type="phon">ka</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="薄太礼爾零登"/>
+                    <cl type="ip-adv">
+                      <phr type="np-prd">
+                        <w type="n" lemma="l004095">
+                          <c type="phon">padare</c>
+                        </w>
+                      </phr>
+                      <w type="cop-inf" lemma="l031965">
+                        <c type="phon">ni</c>
+                      </w>
+                    </cl>
+                    <w type="vb-adc" lemma="l031559a">
+                      <c type="log">puru</c>
+                    </w>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="phon">to</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="見左右二"/>
+                  <w type="vb-adn" lemma="l031712a">
+                    <c type="log">miru</c>
+                  </w>
+                </cl>
+                <w type="p-res" lemma="l000512b">
+                  <c type="log">madeni</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="流倍散波"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031265a">
+                  <c type="log">nagara</c>
+                  <c type="phon">pe</c>
+                </w>
+                <w type="vb-adc" lemma="l031111a">
+                  <c type="log">tiru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="何物之花其毛"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <phr type="np-prd">
+                <w type="wh-n" lemma="l042003">
+                  <c type="log">nani</c>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="log">no</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l050083">
+              <c type="log">pana</c>
+            </w>
+          </phr>
+          <w type="p-foc" lemma="l000527">
+            <c type="phon">so</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

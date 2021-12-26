@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3118">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="門立而"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l051167">
+                  <c type="log">kadwo</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031044a">
+                <c type="log">tatete</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="戸者雖闔"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l090263">
+                  <c type="log">two</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-css">
+              <w type="vb-stm" lemma="l030807a">
+                <c type="log">sasi</c>
+              </w>
+              <w type="vax-stv-css" lemma="l000022">
+                <c type="log">taredo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="盗人之"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                        <w type="n" lemma="l051647">
+                          <c type="log">nusubito</c>
+                        </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="穿穴従"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031598a">
+                      <c type="log">por</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="log">eru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050809">
+                  <c type="log">ana</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540a">
+                <c type="log">ywori</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="入而所見牟"/>
+            <w type="vb-ger" lemma="l030220a">
+              <c type="log">irite</c>
+            </w>
+          </cl>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031712a">
+              <c type="log">mi</c>
+            </w>
+            <w type="vax-pass-stm" lemma="l000011">
+              <c type="log">ye</c>
+            </w>
+            <w type="vax-spst-stm" lemma="l000015">
+              <c type="log">kye</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

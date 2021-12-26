@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.110">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="烏智可柂能"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="np-prd">
+                        <w type="n" lemma="l050248">
+                          <w type="pro-n" lemma="l042085a">
+                            <c type="phon">woti</c>
+                          </w>
+                          <w type="n" lemma="l050111">
+                            <c type="phon">kata</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="phon">no</c>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="阿娑努能枳枳始"/>
+                    <w type="n" lemma="l080420">
+                      <w type="adj-stm" lemma="l007235">
+                        <c type="phon">asa</c>
+                      </w>
+                      <w type="n" lemma="l051650">
+                        <c type="phon">nwo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050180">
+                  <c type="phon">kigisi</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="騰余謀佐儒"/>
+              <w type="vb-ifc">
+                <w type="vb-stm" lemma="l031247a">
+                  <c type="phon">toyomosa</c>
+                </w>
+                <w type="vax-neg-ifc" lemma="l000006a">
+                  <c type="phon">zu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="倭例播祢始柯騰"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042059">
+                  <c type="phon">ware</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-css">
+              <w type="vb-stm" lemma="l031342a">
+                <c type="phon">ne</c>
+              </w>
+              <w type="vax-spst-css" lemma="l000015">
+                <c type="phon">sikado</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="比騰曾騰余謀須"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l050046">
+                <c type="phon">pito</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031247a">
+            <c type="phon">toyomosu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

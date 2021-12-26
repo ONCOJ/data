@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.882">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="阿我農斯能"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042054">
+                      <c type="phon">a</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050024">
+                      <c type="phon">nusi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="美多麻多麻比弖"/>
+                <w type="n" lemma="l050754">
+                  <w type="pfx-hon" lemma="l000035">
+                    <c type="phon">mi</c>
+                  </w>
+                  <w type="n" lemma="l052507">
+                    <c type="phon">tama</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031077a">
+                <c type="phon">tamapite</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="波流佐良婆"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l051724">
+                <c type="phon">paru</c>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l030841a">
+              <c type="phon">saraba</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="奈良能美夜故爾"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="pln" lemma="l060121">
+                <w type="pln" lemma="l092001">
+                  <c type="phon-on">nara</c>
+                </w>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon-on">no</c>
+                </w>
+                <w type="n" lemma="l050129">
+                  <c type="phon-on">miyakwo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="咩佐宜多麻波祢"/>
+          <w type="vb-opt">
+            <w type="vb-stm" lemma="l031750a">
+              <c type="phon">myesage</c>
+            </w>
+            <w type="vb-opt" lemma="l031077a">
+              <c type="phon">tamapane</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

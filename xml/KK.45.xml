@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.45">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="美知能斯理"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-ept">
+                <w type="mk" lemma="l099999">
+                  <w type="n" lemma="l050091">
+                    <c type="phon">miti</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                  <w type="n" lemma="l050118">
+                    <c type="phon">siri</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="古波陀袁登賣袁"/>
+              <w type="n">
+                <w type="pln" lemma="l051381">
+                  <c type="phon">kwopada</c>
+                </w>
+                <w type="n" lemma="l050145">
+                  <c type="phon">wotomye</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="迦微能碁登"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050005a">
+                    <c type="phon">kamwi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="adj" lemma="l007004a">
+                <c type="phon">goto</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="岐許延斯迦杼母"/>
+            <w type="vb-css">
+              <w type="vb-stm" lemma="l030569a">
+                <c type="phon">kikoye</c>
+              </w>
+              <w type="vax-spst-css" lemma="l000015">
+                <c type="phon">sikadomo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="阿比麻久良麻久"/>
+          <w type="vb-nml">
+            <w type="pfx-rcp" lemma="l000025">
+              <c type="phon">api</c>
+            </w>
+            <w type="vb-stm" lemma="l031975a">
+              <c type="phon">makura</c>
+            </w>
+            <w type="vax-cjr-nml" lemma="l000002">
+              <c type="phon">maku</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

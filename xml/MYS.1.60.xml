@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.1.60">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="暮相而"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-zyo">
+                <cl type="ip-adv">
+                  <phr type="pp-adv">
+                    <phr type="np">
+                      <w type="n" lemma="l052415">
+                        <c type="log">yopi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="nlog">ni</c>
+                    </w>
+                  </phr>
+                  <w type="vb-ger" lemma="l030071a">
+                    <c type="log">apite</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="朝面無美"/>
+                <phr type="np-adv">
+                  <w type="n" lemma="l050862">
+                    <c type="log">asita</c>
+                  </w>
+                </phr>
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050085">
+                    <c type="log">omo</c>
+                  </w>
+                </phr>
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l007028">
+                    <c type="log">na</c>
+                  </w>
+                  <w type="acp-inf" lemma="l000034">
+                    <c type="phon">mi</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="隠爾加"/>
+              <w type="pln-kke" lemma="l080127">
+                <c type="phon-kun">nabari</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="氣長妹之"/>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007081b">
+                <w type="n" lemma="l050033a">
+                  <c type="phon">ke</c>
+                </w>
+                <w type="adj-stm" lemma="l007007">
+                  <c type="log">naga</c>
+                </w>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l050027">
+                <c type="log">imo</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="log">ga</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="廬利為里計武"/>
+          <w type="vb-inf" lemma="l030204a">
+            <c type="log">ipo</c>
+            <c type="phon">ri</c>
+          </w>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030919a">
+              <c type="log">s</c>
+            </w>
+            <w type="vax-stv-stm" lemma="l000024">
+              <c type="log">e</c>
+              <c type="phon">ri</c>
+            </w>
+            <w type="vax-spst-stm" lemma="l000015">
+              <c type="phon">kye</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3019">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="浣衣"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-zyo">
+                <phr type="np-prd">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="vb-stm" lemma="l030123a">
+                        <c type="log">arapi</c>
+                      </w>
+                      <w type="n" lemma="l090099">
+                        <c type="log">kinu</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="取替河之"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l092042">
+                        <w type="pln" lemma="l080372">
+                          <c type="phon-kun">torikapi</c>
+                        </w>
+                        <w type="n" lemma="l050025">
+                          <c type="log">gapa</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="河余杼能"/>
+                  <w type="n">
+                    <w type="n" lemma="l050025">
+                      <c type="log">kapa</c>
+                    </w>
+                    <w type="n" lemma="l052405">
+                      <c type="phon">yodo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="不通牟心"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031878a">
+                  <c type="log">yodoma</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050037">
+              <c type="log">kokoro</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="思兼都母"/>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030390a">
+              <w type="vb-stm" lemma="l030399a">
+                <c type="log">omopi</c>
+              </w>
+              <w type="vb-stm" lemma="l030505a">
+                <c type="log">kane</c>
+              </w>
+            </w>
+            <w type="vax-prf-cls" lemma="l000023">
+              <c type="phon">tu</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

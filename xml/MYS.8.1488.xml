@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1488">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <lb id="0" corresp="何處者"/>
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="wh-n" lemma="l042007">
+                    <c type="log">iduku</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="nlog">ni</c>
+                </w>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="鳴毛思仁家武"/>
+              <w type="vb-inf" lemma="l031267a">
+                <c type="log">naki</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030919a">
+                  <c type="phon">si</c>
+                </w>
+                <w type="vax-prf-stm" lemma="l000018">
+                  <c type="phon">ni</c>
+                </w>
+                <w type="vax-spst-stm" lemma="l000015">
+                  <c type="phon">kye</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="霍公鳥"/>
+            <phr type="np-voc">
+              <w type="n" lemma="l050160">
+                <c type="log">pototogisu</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="3" corresp="吾家乃里爾"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050019">
+                      <c type="log">wagipye</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050051">
+                  <c type="log">satwo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="今日耳曽鳴"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051388">
+                  <c type="log">kyepu</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000521">
+                <c type="log">nomwi</c>
+              </w>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031267a">
+              <c type="log">naku</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

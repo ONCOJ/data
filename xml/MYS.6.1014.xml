@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.1014">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="前日毛"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="pp-adv">
+                  <phr type="conjp">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l080176">
+                          <w type="pro-n" lemma="l042085b">
+                            <c type="log">woto</c>
+                          </w>
+                          <w type="p-case-gen" lemma="l000532">
+                            <c type="nlog">tu</c>
+                          </w>
+                          <w type="n" lemma="l050090">
+                            <c type="log">pi</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-top" lemma="l000514">
+                        <c type="phon">mo</c>
+                      </w>
+                    </phr>
+                  </phr>
+                  <lb id="1" corresp="昨日毛今日毛"/>
+                  <phr type="conjp">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l051268">
+                          <c type="log">kinopu</c>
+                        </w>
+                      </phr>
+                      <w type="p-top" lemma="l000514">
+                        <c type="phon">mo</c>
+                      </w>
+                    </phr>
+                  </phr>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l051388">
+                        <c type="log">kyepu</c>
+                      </w>
+                    </phr>
+                    <w type="p-top" lemma="l000514">
+                      <c type="phon">mo</c>
+                    </w>
+                  </phr>
+                </phr>
+                <lb id="2" corresp="雖見"/>
+                <w type="vb-css">
+                  <w type="vb-stm" lemma="l031712a">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="vax-prf-css" lemma="l000023">
+                    <c type="log">turedomo</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="明日左倍見巻"/>
+              <cl type="ip-arg">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="n" lemma="l050864">
+                      <c type="log">asu</c>
+                    </w>
+                  </phr>
+                  <w type="p-res" lemma="l000525a">
+                    <c type="phon">sape</c>
+                  </w>
+                </phr>
+                <w type="vb-nml">
+                  <w type="vb-stm" lemma="l031712a">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="vax-cjr-nml" lemma="l000002">
+                    <c type="phon">maku</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="欲寸君香聞"/>
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007237">
+                  <c type="log">posi</c>
+                </w>
+                <w type="acp-adn" lemma="l000033">
+                  <c type="phon">ki</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l004266">
+              <c type="log">kimi</c>
+            </w>
+          </phr>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

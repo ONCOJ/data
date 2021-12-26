@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3615">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="和我由恵仁"/>
+            <cl type="ip-adv">
+              <phr type="pp-prd">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="phon">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="p-conn" lemma="l000539">
+                  <c type="phon">yuwe</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="妹奈気久良之"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050027">
+                <c type="log">imo</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031276a">
+              <c type="phon">nageku</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </s>
+          <lb id="2" corresp="風早能"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pln" lemma="l090021">
+                          <c type="log">kazapaya</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <lb id="3" corresp="宇良能於伎敞爾"/>
+                    <w type="n" lemma="l050108">
+                      <c type="phon">ura</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050425">
+                  <w type="n" lemma="l052520">
+                    <c type="phon">oki</c>
+                  </w>
+                  <w type="n" lemma="l050133">
+                    <c type="phon">pye</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="奇里多奈妣家利"/>
+            <phr type="np">
+              <w type="n" lemma="l090101">
+                <c type="phon">kwiri</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031055a">
+                <c type="phon">tanabik</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="phon">yeri</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

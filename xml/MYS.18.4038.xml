@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4038">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="多麻久之気"/>
+            <cl type="ip-ept">
+              <w type="mk" lemma="l091060">
+                <w type="n" lemma="l052080">
+                  <w type="n" lemma="l052078">
+                    <c type="phon">tama</c>
+                  </w>
+                  <w type="n" lemma="l050263">
+                    <c type="phon">kusige</c>
+                  </w>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="伊都之可安気牟"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="wh-adv" lemma="l042014">
+                  <c type="phon">itu</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030022a">
+                <c type="phon">ake</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="布勢能宇美能"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="pp-arg-pth">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l090774">
+                        <c type="plog">puse</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l052517">
+                        <c type="phon">umi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="宇良乎由伎都追"/>
+                  <w type="n" lemma="l050108">
+                    <c type="phon">ura</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <w type="vb-ctt" lemma="l031840a">
+                <c type="phon">yukitutu</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="多麻母比利波牟"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l052078">
+                  <c type="phon">tama</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031503a">
+                <c type="phon">piripa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3758b">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="佐須太気能"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-ept">
+                <w type="mk-adi" lemma="l099999">
+                  <w type="mk" lemma="l090179">
+                    <c type="phon">sasutake</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="nlog">no</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="大宮人者"/>
+              <w type="n" lemma="l050469">
+                <w type="adj-stm" lemma="l007009a">
+                  <c type="log">opo</c>
+                </w>
+                <w type="n" lemma="l050018">
+                  <c type="log">miya</c>
+                </w>
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="伊麻左倍也"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l004025">
+                <c type="phon">ima</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000525a">
+              <c type="phon">sape</c>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="比等奈夫理能未"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n-dvb" lemma="l090570">
+                <w type="n" lemma="l050046">
+                  <c type="phon">pito</c>
+                </w>
+                <w type="n-dvb" lemma="l031300b">
+                  <c type="phon">naburi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000521">
+              <c type="phon">nomwi</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="許能美多流良武"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030725a">
+              <c type="phon">konomi</c>
+            </w>
+            <w type="vax-stv-adn" lemma="l000022">
+              <c type="phon">taru</c>
+            </w>
+          </w>
+          <w type="xtn-adc" lemma="l000805">
+            <c type="phon">ramu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

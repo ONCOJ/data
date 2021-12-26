@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4376" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="多妣由岐爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050049">
+                  <c type="phon">tabi</c>
+                </w>
+              </phr>
+              <cl type="ip-rdp">
+                <w type="vb-inf" lemma="l031840a">
+                  <c type="phon">yuki</c>
+                </w>
+                <w type="p-conn" lemma="l000551">
+                  <c type="phon">ni</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="由久等之良受弖"/>
+              <w type="vb-cls" lemma="l031840a">
+                <c type="phon">yuku</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l031967a">
+                <c type="phon">sira</c>
+              </w>
+              <w type="vax-neg-ger" lemma="l000006a">
+                <c type="phon">zute</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="阿母志志爾"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l090210">
+                  <w type="n" lemma="l052482">
+                    <c type="phon">amo</c>
+                  </w>
+                  <w type="n" lemma="l050641">
+                    <c type="phon">sisi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="己等麻乎佐受弖"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050148">
+                <c type="phon">koto</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l031678a">
+                <c type="phon">mawosa</c>
+              </w>
+              <w type="vax-neg-ger" lemma="l000006a">
+                <c type="phon">zute</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊麻叙久夜之気"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="n" lemma="l004025">
+                <c type="phon">ima</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">zo</c>
+            </w>
+          </phr>
+          <w type="adj-adn">
+            <w type="adj-stm" lemma="l007100">
+              <c type="phon">kuyasi</c>
+            </w>
+            <w type="acp-adn" lemma="l000033">
+              <c type="phon">ke</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

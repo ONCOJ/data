@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2283">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="吾妹兒爾"/>
+          <cl type="ip-adv">
+            <phr type="np-zyo">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-ept">
+                    <w type="mk" lemma="l099999">
+                      <w type="n" lemma="l050290">
+                        <w type="n" lemma="l050020">
+                          <c type="log">wagimo</c>
+                        </w>
+                        <w type="n" lemma="l050028">
+                          <c type="log">kwo</c>
+                        </w>
+                      </w>
+                      <w type="p-case-dat" lemma="l000519">
+                        <c type="phon">ni</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="相坂山之"/>
+                  <w type="n">
+                    <w type="pln" lemma="l050827">
+                      <c type="phon">apusaka</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="皮為酢寸"/>
+              <cl type="ip-ept">
+                <w type="mk" lemma="l090621">
+                  <w type="n" lemma="l050588">
+                    <w type="n" lemma="l090325">
+                      <c type="phon-kun">pada</c>
+                    </w>
+                    <w type="n" lemma="l050165">
+                      <c type="phon">susuki</c>
+                    </w>
+                  </w>
+                </w>
+              </cl>
+            </phr>
+            <lb id="3" corresp="穂庭開不出"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n" lemma="l080146">
+                  <c type="phon-kun">po</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon-kun">ni</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon-kun">pa</c>
+              </w>
+            </cl>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030778a">
+                <c type="log">saki</c>
+              </w>
+              <w type="vb-stm" lemma="l030172a">
+                <c type="log">de</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="戀度鴨"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vb-adc" lemma="l031910a">
+              <c type="log">wataru</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

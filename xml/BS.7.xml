@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="BS.7">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="麻須良乎乃"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="n" lemma="l080256">
+                        <w type="adj-stm" lemma="l007110">
+                          <c type="phon">masura</c>
+                        </w>
+                        <w type="n" lemma="l052501">
+                          <c type="phon">wo</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="布美於祁留阿止波"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031553a">
+                      <c type="phon">pumi</c>
+                    </w>
+                    <w type="vb-stm" lemma="l030327a">
+                      <c type="phon">ok</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="phon">yeru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050877">
+                  <c type="phon">ato</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="伊波乃宇閇爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050014">
+                      <c type="phon">ipa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050029a">
+                  <c type="phon">upe</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="伊麻毛乃己礼利"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="n" lemma="l004025">
+                  <c type="phon">ima</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031374a">
+                <c type="phon">nokor</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="phon">eri</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="美都都志乃覇止"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-ctt" lemma="l031712a">
+                <c type="phon">mitutu</c>
+              </w>
+            </cl>
+            <w type="vb-imp" lemma="l030886a">
+              <c type="phon">sinopye</c>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </s>
+          <lb id="5" corresp="奈賀久志乃覇止"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007007">
+                  <c type="phon">naga</c>
+                </w>
+                <w type="acp-inf" lemma="l000033">
+                  <c type="phon">ku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-imp" lemma="l030886a">
+              <c type="phon">sinopye</c>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

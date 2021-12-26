@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.20">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="麻須羅遠能"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <phr type="np">
+                <cl type="ip-zyo">
+                  <cl type="ip-adv">
+                    <cl type="ip-adv">
+                      <phr type="pp-sbj">
+                        <phr type="np">
+                          <w type="n" lemma="l080256">
+                            <w type="adj-stm" lemma="l007110">
+                              <c type="phon">masura</c>
+                            </w>
+                            <w type="n" lemma="l052501">
+                              <c type="phon">wo</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <phr type="np-ob1">
+                        <lb id="1" corresp="佐都夜多波佐美"/>
+                        <w type="n">
+                          <w type="n" lemma="l051899">
+                            <c type="phon">satu</c>
+                          </w>
+                          <w type="n" lemma="l052580">
+                            <c type="phon">ya</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="vb-inf" lemma="l031061a">
+                        <w type="n" lemma="l050012b">
+                          <c type="phon">ta</c>
+                        </w>
+                        <w type="vb-inf" lemma="l031413a">
+                          <c type="phon">basami</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="2" corresp="牟加比多知"/>
+                    <w type="vb-inf">
+                      <w type="vb-stm" lemma="l031721a">
+                        <c type="phon">mukapi</c>
+                      </w>
+                      <w type="vb-inf" lemma="l031043a">
+                        <c type="phon">tati</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="伊流夜麻度加多"/>
+                  <w type="vb-adc" lemma="l030222a">
+                    <c type="phon">iru</c>
+                  </w>
+                  <w type="p-foc" lemma="l000537">
+                    <c type="phon">ya</c>
+                  </w>
+                </cl>
+                <w type="pln-kke" lemma="l090033">
+                  <c type="phon-on">matwokata</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="波麻乃佐夜気佐"/>
+              <w type="n" lemma="l051709">
+                <c type="phon">pama</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="phon">no</c>
+            </w>
+          </phr>
+          <w type="adj-exc">
+            <w type="adj-stm" lemma="l007162">
+              <c type="phon">sayake</c>
+            </w>
+            <w type="acp-exc" lemma="l000039">
+              <c type="phon">sa</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

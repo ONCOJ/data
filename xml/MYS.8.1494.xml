@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1494">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="夏山之"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="n" lemma="l051598">
+                            <c type="log">natu</c>
+                          </w>
+                          <w type="n" lemma="l050034">
+                            <c type="log">yama</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="木末乃繁爾"/>
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l050021">
+                          <c type="log">konure</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l004111">
+                      <c type="log">sige</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="霍公鳥"/>
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050160">
+                    <c type="log">pototogisu</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="鳴響奈流"/>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l031267a">
+                    <c type="log">naki</c>
+                  </w>
+                  <w type="vb-adc" lemma="l031245a">
+                    <c type="log">toyomu</c>
+                  </w>
+                </w>
+                <w type="xtn-adn" lemma="l000804">
+                  <c type="phon">naru</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="聲之遥佐"/>
+              <w type="n" lemma="l051318">
+                <c type="log">kowe</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="log">no</c>
+            </w>
+          </phr>
+          <w type="adj-exc">
+            <w type="adj-stm" lemma="l007140">
+              <c type="log">paruke</c>
+            </w>
+            <w type="acp-exc" lemma="l000039">
+              <c type="phon">sa</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

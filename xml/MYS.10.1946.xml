@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1946">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="木高者"/>
+            <cl type="ip-adv">
+              <w type="adj-cnd">
+                <w type="n" lemma="l050003b">
+                  <c type="log">ko</c>
+                </w>
+                <w type="adj-stm" lemma="l007005">
+                  <c type="log">daka</c>
+                </w>
+                <w type="acp-cnd" lemma="l000033">
+                  <c type="log">kupa</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="曽木不殖"/>
+            <phr type="np-adv">
+              <w type="n" lemma="l004043">
+                <c type="phon">katute</c>
+              </w>
+            </phr>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050003a">
+                <c type="log">kwi</c>
+              </w>
+            </phr>
+            <w type="vb-ngc" lemma="l030229a">
+              <c type="log">uwezi</c>
+            </w>
+          </s>
+          <lb id="2" corresp="霍公鳥"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050160">
+                  <c type="log">pototogisu</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="来鳴令響而"/>
+              <w type="vb-ger">
+                <w type="vb-stm" lemma="l030585a">
+                  <w type="vb-stm" lemma="l030612a">
+                    <c type="log">ki</c>
+                  </w>
+                  <w type="vb-stm" lemma="l031267a">
+                    <c type="log">naki</c>
+                  </w>
+                </w>
+                <w type="vb-ger" lemma="l031245a">
+                  <c type="log">toyomete</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="戀令益"/>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030731a">
+                <c type="log">kwopwi</c>
+              </w>
+              <w type="vb-stm" lemma="l031630a">
+                <c type="log">masara</c>
+              </w>
+              <w type="vax-ctv-cls" lemma="l000010">
+                <c type="log">simu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

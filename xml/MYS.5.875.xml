@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.875">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="由久布祢遠"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adc" lemma="l031840a">
+                    <c type="phon">yuku</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050007a">
+                  <c type="phon">pune</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="布利等騰尾加祢"/>
+            <cl type="ip-adv">
+              <w type="vb-inf">
+                <w type="vb-stm" lemma="l031560a">
+                  <c type="phon">puri</c>
+                </w>
+                <w type="vb-stm" lemma="l031214a">
+                  <c type="phon">todomwi</c>
+                </w>
+                <w type="vb-inf" lemma="l030505a">
+                  <c type="phon">kane</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="伊加婆加利"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="wh-adj-stm" lemma="l042002">
+                  <c type="phon">ika</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000501">
+                <c type="phon">bakari</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="故保斯苦阿利家武"/>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007102">
+                <c type="phon">kwoposi</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="phon">ari</c>
+              </w>
+              <w type="vax-spst-stm" lemma="l000015">
+                <c type="phon">kye</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="麻都良佐欲比売"/>
+          <phr type="np">
+            <w type="pen" lemma="l090148">
+              <c type="phon">saywopimye</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

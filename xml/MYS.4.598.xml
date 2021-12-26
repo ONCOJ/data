@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.598">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="戀爾毛曽"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n-dvb" lemma="l030731b">
+                  <c type="log">kwopwi</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="人者死為"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l030883a">
+              <c type="log">sini</c>
+            </w>
+            <w type="vb-adn" lemma="l030919a">
+              <c type="log">suru</c>
+            </w>
+          </s>
+          <lb id="2" corresp="水無瀬河"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="np-prd">
+                <w type="n" lemma="l051465">
+                  <c type="log">minasegapa</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="下従吾痩"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050026">
+                    <c type="log">sita</c>
+                  </w>
+                </phr>
+                <w type="p-case-abl" lemma="l000540d">
+                  <c type="log">yu</c>
+                </w>
+              </phr>
+              <phr type="np-sbj">
+                <w type="pro-n" lemma="l042059">
+                  <c type="log">ware</c>
+                </w>
+              </phr>
+              <w type="vb-cls" lemma="l031799a">
+                <c type="log">yasu</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="月日異"/>
+            <phr type="np-adv">
+              <phr type="conjp">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050004a">
+                      <c type="log">tukwi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="nlog">ni</c>
+                  </w>
+                </phr>
+              </phr>
+              <phr type="conjp">
+                <phr type="np">
+                  <w type="adv" lemma="l080293">
+                    <w type="n" lemma="l050090">
+                      <c type="log">pi</c>
+                    </w>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="nlog">ni</c>
+                    </w>
+                    <w type="adv" lemma="l004070">
+                      <c type="log">kyeni</c>
+                    </w>
+                  </w>
+                </phr>
+              </phr>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

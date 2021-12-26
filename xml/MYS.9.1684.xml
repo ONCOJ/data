@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1684">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="春山者"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l090723">
+                    <w type="n" lemma="l051724">
+                      <c type="log">paru</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="散過去鞆"/>
+              <w type="vb-css">
+                <w type="vb-stm" lemma="l031111a">
+                  <c type="log">tiri</c>
+                </w>
+                <w type="vb-css" lemma="l030926a">
+                  <c type="log">suguredomo</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="三和山者"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pln" lemma="l060153">
+                  <w type="pln" lemma="l051490">
+                    <c type="phon-kun">mi</c>
+                    <c type="phon-on">wa</c>
+                  </w>
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="未含"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004005">
+                <c type="log">imada</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031544a">
+                <c type="log">pupum</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="log">yeri</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="君持勝爾"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l031644a">
+                <c type="log">mati</c>
+              </w>
+              <w type="vb-stm" lemma="l030495a">
+                <c type="log">kate</c>
+              </w>
+              <w type="vax-neg-inf" lemma="l000006a">
+                <c type="phon">ni</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

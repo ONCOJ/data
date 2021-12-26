@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.289">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="天原"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050001b">
+                      <c type="log">ama</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051723">
+                  <c type="log">para</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="振離見者"/>
+              <w type="vb-prv">
+                <w type="vb-stm" lemma="l031556a">
+                  <c type="log">purisake</c>
+                </w>
+                <w type="vb-prv" lemma="l031712a">
+                  <c type="log">mireba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="白真弓"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n">
+                  <w type="adj-stm" lemma="l007006a">
+                    <c type="log">sira</c>
+                  </w>
+                  <w type="n" lemma="l051435">
+                    <c type="log">mayumi</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="3" corresp="張而懸有"/>
+              <w type="vb-ger" lemma="l031455a">
+                <c type="log">parite</c>
+              </w>
+            </cl>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030443a">
+                <c type="log">kake</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000022">
+                <c type="log">tari</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="夜路者将吉"/>
+          <s type="ip-mat">
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n">
+                  <w type="n" lemma="l050039">
+                    <c type="log">ywo</c>
+                  </w>
+                  <w type="n" lemma="l050091">
+                    <c type="log">miti</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="adj-adc">
+              <w type="adj-stm" lemma="l007015">
+                <c type="log">yo</c>
+              </w>
+              <w type="acp-stm" lemma="l000033">
+                <c type="log">kye</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3376a">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="古非思家波"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007103">
+                  <c type="phon">kwopwisi</c>
+                </w>
+                <w type="acp-cnd" lemma="l000033">
+                  <c type="phon">kyeba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="素弖毛布良武乎"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l052043">
+                  <c type="phon">swode</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031560a">
+                <c type="phon">pura</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000552">
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="牟射志野乃"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln">
+                    <w type="pln" lemma="l051548">
+                      <c type="phon">muzasi</c>
+                    </w>
+                    <w type="n" lemma="l051650">
+                      <c type="phon">nwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="宇家良我波奈乃"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052244">
+                    <c type="phon">ukyera</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050083">
+                <c type="phon">pana</c>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="phon">no</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊呂爾豆奈由米"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <w type="n" lemma="l050105">
+                <c type="phon">iro</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">n</c>
+            </w>
+          </cl>
+          <w type="vb-cls" lemma="l030172a">
+            <c type="phon">idu</c>
+          </w>
+          <w type="p-fnl-phb" lemma="l000517">
+            <c type="phon">na</c>
+          </w>
+          <w type="adv" lemma="l004011a">
+            <c type="phon">yume</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

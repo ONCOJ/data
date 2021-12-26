@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3436">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="志良登保布"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <cl type="ip-ept">
+                        <w type="mk" lemma="l051968">
+                          <c type="phon">siratopopu</c>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="乎爾比多夜麻乃"/>
+                      <w type="pln">
+                        <w type="pfx" lemma="l000060">
+                          <c type="phon">wo</c>
+                        </w>
+                        <w type="pln" lemma="l051619">
+                          <c type="phon">nipita</c>
+                        </w>
+                        <w type="n" lemma="l050034">
+                          <c type="phon">yama</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="毛流夜麻乃"/>
+                  <w type="vb-adc" lemma="l031788a">
+                    <c type="phon">moru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050034">
+                  <c type="phon">yama</c>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="phon">no</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="宇良賀礼勢奈那"/>
+            <w type="vb-inf" lemma="l030299a">
+              <w type="n" lemma="l050022b">
+                <c type="phon">ura</c>
+              </w>
+              <w type="vb-inf" lemma="l030548a">
+                <c type="phon">gare</c>
+              </w>
+            </w>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l030919a">
+                <c type="phon">se</c>
+              </w>
+              <w type="vax-neg-inf" lemma="l000006b">
+                <c type="phon">nana</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="登許波爾毛我母"/>
+          <phr type="np-prd">
+            <w type="n" lemma="l050387">
+              <c type="phon">tokopa</c>
+            </w>
+          </phr>
+          <w type="cop-inf" lemma="l031965">
+            <c type="phon">ni</c>
+          </w>
+          <w type="p-fnl-opt" lemma="l000515">
+            <c type="phon">moga</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

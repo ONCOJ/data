@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.585">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="出而将去"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <w type="vb-ger" lemma="l030172a">
+                      <c type="log">idete</c>
+                    </w>
+                  </cl>
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l030186a">
+                      <c type="log">ina</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="log">mu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="時之波将有乎"/>
+                <w type="n" lemma="l050059">
+                  <c type="log">toki</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ara</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000552">
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="故"/>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l004038a">
+                <c type="log">kotosara</c>
+              </w>
+              <w type="cop-inf" lemma="l031965">
+                <c type="nlog">ni</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="妻戀為乍"/>
+          <cl type="ip-adv">
+            <w type="vb-inf">
+              <w type="n" lemma="l050120">
+                <c type="log">tuma</c>
+              </w>
+              <w type="vb-inf" lemma="l030731a">
+                <c type="log">gwopwi</c>
+              </w>
+            </w>
+            <w type="vb-ctt" lemma="l030919a">
+              <c type="log">situtu</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="立而可去哉"/>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l031043a">
+              <c type="log">tatite</c>
+            </w>
+          </cl>
+          <w type="vb-cls" lemma="l030186a">
+            <c type="log">inu</c>
+          </w>
+          <w type="xtn-adn">
+            <w type="xtn-stm" lemma="l000801">
+              <c type="log">be</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="log">si</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="log">ya</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

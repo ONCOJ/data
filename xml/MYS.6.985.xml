@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.985">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="天爾座"/>
+            <phr type="np-voc">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050001a">
+                      <c type="log">ame</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l030206a">
+                  <c type="log">masu</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="月讀壮子"/>
+              <w type="n">
+                <w type="n" lemma="l052194">
+                  <c type="log">tuku</c>
+                  <c type="phon">yomi</c>
+                </w>
+                <w type="n" lemma="l050146">
+                  <c type="log">wotokwo</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="幣者将為"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l052484">
+                  <c type="log">mapi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030919a">
+                <c type="log">se</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="今夜乃長者"/>
+          <s type="ip-mat">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l051320">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="log">ko</c>
+                  </w>
+                  <w type="n" lemma="l052415">
+                    <c type="log">yopi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="adj-exc">
+              <w type="adj-stm" lemma="l007007">
+                <c type="log">naga</c>
+              </w>
+              <w type="acp-exc" lemma="l000039">
+                <c type="log">sa</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="五百夜継許増"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <w type="n">
+                <w type="num" lemma="l002005">
+                  <c type="log">i</c>
+                </w>
+                <w type="num" lemma="l002031">
+                  <c type="log">po</c>
+                </w>
+                <w type="n" lemma="l050039">
+                  <c type="log">ywo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l031139a">
+                <c type="log">tugi</c>
+              </w>
+              <w type="vb-imp" lemma="l031964a">
+                <c type="phon">koso</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

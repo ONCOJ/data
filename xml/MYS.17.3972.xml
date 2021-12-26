@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3972">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="伊泥多多武"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l030176a">
+                      <w type="vb-stm" lemma="l030172a">
+                        <c type="phon">ide</c>
+                      </w>
+                      <w type="vb-stm" lemma="l031043a">
+                        <c type="phon">tata</c>
+                      </w>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="知加良乎奈美等"/>
+                <w type="n" lemma="l052132">
+                  <c type="phon">tikara</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="adj-ger">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-ger" lemma="l000034">
+                <c type="phon">mito</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="許母里為弖"/>
+          <cl type="ip-adv">
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030744a">
+                <c type="phon">komori</c>
+              </w>
+              <w type="vb-ger" lemma="l031926a">
+                <c type="phon">wite</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="伎弥爾故布流爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-prd">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l004266">
+                    <c type="phon">kimi</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <w type="vb-adn" lemma="l030731a">
+                <c type="phon">kwopuru</c>
+              </w>
+            </cl>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="許己呂度母奈思"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l050993">
+                <c type="phon">kokorodwo</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007028">
+              <c type="phon">na</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="phon">si</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

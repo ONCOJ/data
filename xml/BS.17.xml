@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="BS.17">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="於保美阿止乎"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <cl type="ip-prp">
+                        <phr type="pp-ob1">
+                          <phr type="np">
+                            <w type="n">
+                              <w type="pfx-hon" lemma="l000038">
+                                <c type="phon">opomi</c>
+                              </w>
+                              <w type="n" lemma="l050877">
+                                <c type="phon">ato</c>
+                              </w>
+                            </w>
+                          </phr>
+                          <w type="p-case-acc" lemma="l000534">
+                            <c type="phon">wo</c>
+                          </w>
+                        </phr>
+                        <lb id="1" corresp="美爾久留比止乃"/>
+                        <w type="vb-ifc" lemma="l031712a">
+                          <c type="phon">mi</c>
+                        </w>
+                        <w type="p-conn" lemma="l000551">
+                          <c type="phon">ni</c>
+                        </w>
+                      </cl>
+                      <w type="vb-adn" lemma="l030612a">
+                        <c type="phon">kuru</c>
+                      </w>
+                    </cl>
+                    <w type="n" lemma="l050046">
+                      <c type="phon">pito</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="伊爾志加多"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030186a">
+                    <c type="phon">ini</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050111">
+                <c type="phon">kata</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="知与乃都美佐閇"/>
+            <cl type="ip-arg">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n">
+                        <w type="num" lemma="l002013">
+                          <c type="phon">ti</c>
+                        </w>
+                        <w type="n" lemma="l050040">
+                          <c type="phon">yo</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l090401">
+                    <c type="phon">tumi</c>
+                  </w>
+                </phr>
+                <w type="p-res" lemma="l000525a">
+                  <c type="phon">sape</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="保呂夫止曾伊布"/>
+              <w type="vb-adc" lemma="l031601a">
+                <c type="phon">porobu</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l030199a">
+              <c type="phon">ipu</c>
+            </w>
+          </s>
+          <lb id="5" corresp="乃曾久止叙伎久"/>
+          <s type="ip-mat">
+            <cl type="ip-arg">
+              <w type="vb-adc" lemma="l031376a">
+                <c type="phon">nozoku</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">zo</c>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l030565a">
+              <c type="phon">kiku</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

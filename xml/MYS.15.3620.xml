@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3620">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="故悲思気美"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n-dvb" lemma="l030731b">
+                  <c type="phon">kwopwi</c>
+                </w>
+              </phr>
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007167b">
+                  <c type="phon">sige</c>
+                </w>
+                <w type="acp-inf" lemma="l000034">
+                  <c type="phon">mi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="奈具左米可祢弖"/>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l031273a">
+                <c type="phon">nagusame</c>
+              </w>
+              <w type="vb-ger" lemma="l030505a">
+                <c type="phon">kanete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="比具良之能"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l051752">
+                      <c type="phon">pigurasi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="奈久之麻可気爾"/>
+                <w type="vb-adc" lemma="l031267a">
+                  <c type="phon">naku</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050198">
+                <w type="n" lemma="l050078">
+                  <c type="phon">sima</c>
+                </w>
+                <w type="n" lemma="l050011a">
+                  <c type="phon">kage</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="伊保利須流可母"/>
+          <w type="vb-inf" lemma="l030204a">
+            <c type="phon">ipori</c>
+          </w>
+          <w type="vb-adn" lemma="l030919a">
+            <c type="phon">suru</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

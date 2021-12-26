@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4498">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="波之伎余之"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l091065">
+                    <c type="phon">pasikiyosi</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="家布能安路自波"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051388">
+                      <c type="phon">kyepu</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050843">
+                  <c type="phon">arwozi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="伊蘇麻都能"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n">
+                  <w type="n" lemma="l050104">
+                    <c type="phon">iswo</c>
+                  </w>
+                  <w type="n" lemma="l050158">
+                    <c type="phon">matu</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="phon">no</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="都祢爾伊麻佐祢"/>
+            <phr type="np-prd">
+              <w type="n" lemma="l004004">
+                <c type="phon">tune</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vb-opt" lemma="l030206a">
+              <c type="phon">imasane</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊麻母美流其等"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="n" lemma="l004025">
+                    <c type="phon">ima</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+              <w type="vb-adn" lemma="l031712a">
+                <c type="phon">miru</c>
+              </w>
+            </cl>
+            <w type="adj" lemma="l007004a">
+              <c type="phon">goto</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

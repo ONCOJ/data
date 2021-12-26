@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.100">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="柯羅倶爾能"/>
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l050345">
+                        <w type="pln" lemma="l051219">
+                          <c type="phon-on">kara</c>
+                        </w>
+                        <w type="n" lemma="l051337">
+                          <c type="phon-on">kuni</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="基能陪爾陀致底"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l052473">
+                        <c type="phon">kwi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050029a">
+                    <c type="phon">pe</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031043a">
+                <c type="phon">tatite</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="於譜磨故幡"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pen" lemma="l090169">
+                  <c type="phon">opobakwo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="比例甫囉須母"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l051779">
+                <c type="phon">pire</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031560a">
+                <c type="phon">pura</c>
+              </w>
+              <w type="vax-rsp-adc" lemma="l000009">
+                <c type="phon">su</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="耶魔等陛武岐底"/>
+          <cl type="ip-adv">
+            <phr type="pp-gol-ob1">
+              <phr type="np">
+                <w type="pln" lemma="l052386">
+                  <c type="phon">yamato</c>
+                </w>
+              </phr>
+              <w type="p-case-all" lemma="l000523">
+                <c type="phon">pye</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031724a">
+              <c type="phon">mukite</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

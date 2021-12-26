@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.1.76">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="大夫之"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l080256">
+                    <w type="adj-stm" lemma="l007110">
+                      <c type="log">masura</c>
+                    </w>
+                    <w type="n" lemma="l052501">
+                      <c type="log">wo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="鞆乃音為奈利"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l080050">
+                    <c type="log">tomo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050072">
+                <c type="log">oto</c>
+              </w>
+            </phr>
+            <w type="vb-cls" lemma="l030919a">
+              <c type="log">su</c>
+            </w>
+            <w type="xtn-ifc" lemma="l000804">
+              <c type="phon">nari</c>
+            </w>
+          </s>
+          <lb id="2" corresp="物部乃"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <cl type="ip-ept">
+                <w type="mk-adi" lemma="l090422">
+                  <w type="n" lemma="l051507">
+                    <c type="phon">mononopu</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon">no</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="大臣"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="adj-stm" lemma="l007009a">
+                      <c type="log">opo</c>
+                    </w>
+                    <w type="n" lemma="l050052">
+                      <c type="log">mapye</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000532">
+                  <c type="log">tu</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="楯立良思母"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l052109a">
+                <c type="log">tate</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031044a">
+              <c type="log">tatu</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

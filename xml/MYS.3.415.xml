@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.415">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="家有者"/>
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050006a">
+                    <c type="log">ipye</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="log">ni</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l030125a">
+                <c type="log">araba</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="妹之手将纒"/>
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="log">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050012a">
+                <c type="log">te</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031618a">
+                <c type="log">maka</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="草枕"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l090352">
+                        <w type="n" lemma="l050114">
+                          <c type="log">kusa</c>
+                        </w>
+                        <w type="n" lemma="l050016">
+                          <c type="log">makura</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="3" corresp="客爾臥有"/>
+                    <w type="n" lemma="l050049">
+                      <c type="log">tabi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030745a">
+                    <c type="log">koyas</c>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000024">
+                    <c type="log">eru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="此旅人怜"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="log">ko</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050737">
+                <c type="log">tabito</c>
+              </w>
+            </phr>
+            <phr type="np">
+              <w type="intj" lemma="l050817">
+                <c type="log">apare</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

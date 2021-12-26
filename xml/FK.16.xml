@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.16">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="等許与弊爾"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050436">
+                  <w type="n" lemma="l090453">
+                    <w type="adj-stm" lemma="l007194">
+                      <c type="phon">toko</c>
+                    </w>
+                    <w type="n" lemma="l050040">
+                      <c type="phon">yo</c>
+                    </w>
+                  </w>
+                  <w type="n" lemma="l050133">
+                    <c type="phon">pye</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="久母多知和多留"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050115">
+                <c type="phon">kumo</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031043a">
+                <c type="phon">tati</c>
+              </w>
+              <w type="vb-adc" lemma="l031910a">
+                <c type="phon">wataru</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="多麻久志義"/>
+          <s type="ip-mat">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l052080">
+                      <w type="n" lemma="l052078">
+                        <c type="phon">tama</c>
+                      </w>
+                      <w type="n" lemma="l050263">
+                        <c type="phon">kusige</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="波都賀爾阿気志"/>
+                  <cl type="ip-adv">
+                    <w type="adj-inf">
+                      <w type="adj-stm" lemma="l004099">
+                        <c type="phon">patuka</c>
+                      </w>
+                      <w type="cop-inf" lemma="l031965">
+                        <c type="phon">ni</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030021a">
+                      <c type="phon">ake</c>
+                    </w>
+                    <w type="vax-spst-adn" lemma="l000015">
+                      <c type="phon">si</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="4" corresp="和礼曾加奈志企"/>
+                <w type="pro-n" lemma="l042059">
+                  <c type="phon">ware</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">zo</c>
+              </w>
+            </phr>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007022">
+                <c type="phon">kanasi</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="phon">ki</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

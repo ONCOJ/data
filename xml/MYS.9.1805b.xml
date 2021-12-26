@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1805b">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="別而裳"/>
+            <w type="vb-ger" lemma="l031898a">
+              <c type="log">wakarete</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="1" corresp="復毛可遭"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-arg">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="adv" lemma="l004022">
+                      <c type="log">mata</c>
+                    </w>
+                  </phr>
+                  <w type="p-top" lemma="l000514">
+                    <c type="phon">mo</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l030071a">
+                  <c type="log">apu</c>
+                </w>
+                <w type="xtn-inf">
+                  <w type="xtn-stm" lemma="l000801">
+                    <c type="log">be</c>
+                  </w>
+                  <w type="acp-inf" lemma="l000033">
+                    <c type="log">ku</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="所念者"/>
+              <w type="vb-cnd" lemma="l030404a">
+                <c type="log">omopoyeba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="意盡而"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l030703a">
+                <w type="n" lemma="l050037">
+                  <c type="log">kokoro</c>
+                </w>
+                <w type="vb-ger" lemma="l031141a">
+                  <c type="log">tukusite</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="吾戀目八方"/>
+            <phr type="np-sbj">
+              <w type="pro-n" lemma="l042059">
+                <c type="log">ware</c>
+              </w>
+            </phr>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030731a">
+                <c type="log">kwopwi</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

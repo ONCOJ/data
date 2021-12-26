@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3888">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="奥國"/>
+          <phr type="np-arg">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-ob1">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l052520">
+                          <c type="log">oki</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000532">
+                        <c type="log">tu</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l051337">
+                      <c type="log">kuni</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="領君之"/>
+                  <w type="vb-adc" lemma="l030251a">
+                    <c type="log">usipaku</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="log">ga</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="柒屋形"/>
+            <w type="n">
+              <w type="vb-stm" lemma="l031353a">
+                <c type="log">nuri</c>
+              </w>
+              <w type="n" lemma="l052382">
+                <c type="log">yakata</c>
+              </w>
+            </w>
+            <lb id="3" corresp="黄柒乃屋形"/>
+            <cl type="ip-rel">
+              <phr type="np-prd">
+                <w type="n-dvb">
+                  <w type="n" lemma="l090080b">
+                    <c type="log">ki</c>
+                  </w>
+                  <w type="n-dvb" lemma="l031353b">
+                    <c type="log">nuri</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="phon">no</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l052382">
+              <c type="log">yakata</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="神之門渡"/>
+          <phr type="np-pth-ob1">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050005a">
+                  <c type="log">kamwi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="log">ga</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l090263">
+              <c type="log">two</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031910a">
+            <c type="log">wataru</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

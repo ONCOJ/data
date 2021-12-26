@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2767">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="足引乃"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <cl type="ip-ept">
+                    <w type="mk-adi" lemma="l091054">
+                      <w type="n" lemma="l050860">
+                        <c type="phon-kun">asipiki</c>
+                      </w>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="phon">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="山橘之"/>
+                  <w type="n" lemma="l050628">
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                    <w type="n" lemma="l050150">
+                      <c type="log">tatibana</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="log">no</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="色出而"/>
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <w type="n" lemma="l050105">
+                    <c type="log">iro</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="nlog">ni</c>
+                </w>
+              </cl>
+              <w type="vb-ger" lemma="l030172a">
+                <c type="log">idete</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="吾戀南雄"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042057">
+                  <c type="log">wa</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="nlog">ga</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030731a">
+                <c type="log">kwopwi</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">na</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000552">
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="人目難爲名"/>
+          <phr type="np">
+            <w type="n" lemma="l090707">
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+              <w type="n" lemma="l050048a">
+                <c type="log">me</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-cls" lemma="l030484a">
+            <c type="log">katamisu</c>
+          </w>
+          <w type="p-fnl-phb" lemma="l000517">
+            <c type="log">na</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1982">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="日倉足者"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l051752">
+                  <c type="phon">pigurasi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="時常雖鳴"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n" lemma="l050059">
+                  <c type="log">toki</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031968">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="vb-css" lemma="l031267a">
+              <c type="log">nakedomo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="我戀"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050298">
+                <w type="adj-stm" lemma="l090031">
+                  <c type="log">kata</c>
+                </w>
+                <w type="n-dvb" lemma="l030731b">
+                  <c type="log">kwopwi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="nlog">ni</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="手弱女我者"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <w type="n" lemma="l052119">
+                    <w type="adj-stm" lemma="l052118a">
+                      <c type="phon">tawaya</c>
+                    </w>
+                    <w type="n" lemma="l050132">
+                      <c type="log">mye</c>
+                    </w>
+                  </w>
+                </phr>
+              </cl>
+              <w type="pro-n" lemma="l042059">
+                <c type="log">ware</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="不定哭"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l050059">
+                <c type="log">toki</c>
+              </w>
+            </phr>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l031902a">
+                <c type="log">waka</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-adc" lemma="l031267a">
+            <c type="log">naku</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.1045">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="世間乎"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l090648">
+                  <w type="n" lemma="l050040">
+                    <c type="log">yo</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                  <w type="n" lemma="l050069">
+                    <c type="log">naka</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="常無物跡"/>
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="np-sbj">
+                    <w type="n" lemma="l004004">
+                      <c type="log">tune</c>
+                    </w>
+                  </phr>
+                  <w type="adj-adn">
+                    <w type="adj-stm" lemma="l007028">
+                      <c type="log">na</c>
+                    </w>
+                    <w type="acp-adn" lemma="l000033">
+                      <c type="log">ki</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050042">
+                  <c type="log">mono</c>
+                </w>
+              </phr>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="今曽知"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="n" lemma="l004025">
+                  <c type="log">ima</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031967a">
+              <c type="log">siru</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="平城京師之"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-ob1">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="pln" lemma="l060121">
+                    <w type="pln" lemma="l092001">
+                      <c type="plog">nara</c>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="nlog">no</c>
+                    </w>
+                    <w type="n" lemma="l050129">
+                      <c type="log">miyakwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="移徙見者"/>
+              <w type="vb-adc" lemma="l030277a">
+                <c type="log">uturopu</c>
+              </w>
+            </cl>
+            <w type="vb-prv" lemma="l031712a">
+              <c type="log">mireba</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

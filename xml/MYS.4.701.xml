@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.701">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="波都波都爾"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <w type="adv" lemma="l050422">
+                <c type="phon">patupatuni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="人乎相見而"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030071a">
+                <c type="log">api</c>
+              </w>
+              <w type="vb-ger" lemma="l031712a">
+                <c type="log">mite</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="何将有"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="adj-adc">
+                  <w type="wh-adj-stm" lemma="l042002">
+                    <c type="log">ika</c>
+                  </w>
+                  <w type="cop-adc">
+                    <w type="cop-stm" lemma="l031966">
+                      <c type="nlog">n</c>
+                      <c type="log">ara</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="log">mu</c>
+                    </w>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="何日二箇"/>
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <w type="wh-n" lemma="l042005">
+                    <c type="log">idure</c>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="nlog">no</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050090">
+                <c type="log">pi</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="又外二将見"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004022">
+              <c type="log">mata</c>
+            </w>
+          </phr>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l052428">
+                <c type="log">yoso</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031712a">
+              <c type="log">mi</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

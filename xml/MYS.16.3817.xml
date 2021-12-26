@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3817">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="可流羽須波"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l051230">
+                  <c type="phon">karuusu</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="田廬乃毛等爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l052051">
+                      <c type="log">tabuse</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051520">
+                  <c type="phon">moto</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+          </cl>
+          <lb id="2" corresp="吾兄子者"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="log">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="log">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050285">
+                <c type="log">sekwo</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="二布夫爾咲而"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <w type="adv" lemma="l004084">
+                <c type="phon">nipubuni</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031934a">
+              <c type="log">wemite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="立麻爲所見"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031043a">
+              <c type="log">tati</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000023">
+              <c type="log">te</c>
+            </w>
+            <w type="vb-adc" lemma="l030206a">
+              <c type="log">masu</c>
+            </w>
+          </w>
+          <w type="p-fnl-evd" lemma="l000513">
+            <c type="log">miyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

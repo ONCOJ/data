@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3759">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="多知可敞里"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="vb-inf" lemma="l031033a">
+                  <w type="vb-stm" lemma="l031043a">
+                    <c type="phon">tati</c>
+                  </w>
+                  <w type="vb-inf" lemma="l030518a">
+                    <c type="phon">kapyeri</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="奈気杼毛安礼波"/>
+              <w type="vb-css" lemma="l031267a">
+                <c type="phon">nakedomo</c>
+              </w>
+            </cl>
+            <phr type="pp-xpr">
+              <phr type="np">
+                <w type="pro-n" lemma="l042083">
+                  <c type="phon">are</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="之流思奈美"/>
+            <phr type="np-sbj">
+              <w type="n-dvb" lemma="l030915b">
+                <c type="phon">sirusi</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="於毛比和夫礼弖"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <w type="vb-ger">
+                    <w type="vb-stm" lemma="l030399a">
+                      <c type="phon">omopi</c>
+                    </w>
+                    <w type="vb-ger" lemma="l031916a">
+                      <c type="phon">waburete</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="4" corresp="奴流欲之曾於保伎"/>
+                <w type="vb-adn" lemma="l031342a">
+                  <c type="phon">nuru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050039">
+                <c type="phon">ywo</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">zo</c>
+            </w>
+          </phr>
+          <w type="adj-adn">
+            <w type="adj-stm" lemma="l007009b">
+              <c type="phon">opo</c>
+            </w>
+            <w type="acp-adn" lemma="l000033">
+              <c type="phon">ki</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

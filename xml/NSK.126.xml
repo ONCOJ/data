@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.126">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="美曳之弩能"/>
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l060163">
+                    <w type="pfx-hon" lemma="l000035">
+                      <c type="phon-on">mi</c>
+                    </w>
+                    <w type="pln" lemma="l052425">
+                      <c type="phon-on">yesinwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="曳之弩能阿喩"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l052425">
+                    <c type="phon-on">yesinwo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050885">
+                <c type="phon">ayu</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="阿喩擧曾播"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050885">
+                  <c type="phon">ayu</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="施麻倍母曳岐"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="n" lemma="l050078">
+                    <c type="phon">sima</c>
+                  </w>
+                  <w type="n" lemma="l050029a">
+                    <c type="phon">pe</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l080017">
+                <c type="phon">ye</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="phon">ki</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="愛倶流之衛"/>
+          <s type="ip-mat">
+            <phr type="np-voc">
+              <w type="intj" lemma="l080229">
+                <c type="phon">e</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007096">
+                <c type="phon">kurusi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+            <w type="p-intj" lemma="l000533">
+              <c type="phon">we</c>
+            </w>
+          </s>
+          <lb id="5" corresp="奈疑能母騰"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <phr type="conjp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l090129">
+                        <c type="phon">nagwi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l051520">
+                    <c type="phon">moto</c>
+                  </w>
+                </phr>
+              </phr>
+              <lb id="6" corresp="制利能母騰"/>
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051915">
+                      <c type="phon">seri</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051520">
+                  <c type="phon">moto</c>
+                </w>
+              </phr>
+            </phr>
+          </s>
+          <lb id="7" corresp="阿例播倶流之衛"/>
+          <s type="ip-mat">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042083">
+                  <c type="phon">are</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007096">
+                <c type="phon">kurusi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+            <w type="p-intj" lemma="l000533">
+              <c type="phon">we</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

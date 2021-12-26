@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4379" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="之良奈美乃"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="n" lemma="l090512">
+                        <w type="adj-stm" lemma="l007006a">
+                          <c type="phon">sira</c>
+                        </w>
+                        <w type="n" lemma="l050017">
+                          <c type="phon">nami</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="与曾流波麻倍爾"/>
+                  <w type="vb-adc" lemma="l031875a">
+                    <c type="phon">yosoru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050430">
+                  <w type="n" lemma="l051709">
+                    <c type="phon">pama</c>
+                  </w>
+                  <w type="n" lemma="l050133">
+                    <c type="phon">pe</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="和可例奈波"/>
+            <w type="vb-cnd">
+              <w type="vb-stm" lemma="l031898a">
+                <c type="phon">wakare</c>
+              </w>
+              <w type="vax-prf-cnd" lemma="l000018">
+                <c type="phon">naba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="伊刀毛須倍奈美"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="adv" lemma="l004002">
+                  <c type="phon">itwo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <phr type="np-sbj">
+              <w type="n-dvb" lemma="l030947b">
+                <c type="phon">sube</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="夜多妣蘇弖布流"/>
+          <phr type="np-adv">
+            <w type="n">
+              <w type="num" lemma="l002008">
+                <c type="phon">ya</c>
+              </w>
+              <w type="n" lemma="l050050">
+                <c type="phon">tabi</c>
+              </w>
+            </w>
+          </phr>
+          <phr type="np-ob1">
+            <w type="n" lemma="l052043">
+              <c type="phon">swode</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031560a">
+            <c type="phon">puru</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1637">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="波太須珠寸"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-sbj">
+                    <phr type="conjp">
+                      <phr type="np">
+                        <w type="n" lemma="l050588">
+                          <w type="n" lemma="l090325">
+                            <c type="phon">pada</c>
+                          </w>
+                          <w type="n" lemma="l050165">
+                            <c type="phon">susuki</c>
+                          </w>
+                        </w>
+                      </phr>
+                    </phr>
+                    <lb id="1" corresp="尾花逆葺"/>
+                    <phr type="np">
+                      <w type="n" lemma="l050399">
+                        <w type="n" lemma="l052502">
+                          <c type="log">wo</c>
+                        </w>
+                        <w type="n" lemma="l050083">
+                          <c type="log">bana</c>
+                        </w>
+                      </w>
+                    </phr>
+                  </phr>
+                  <w type="vb-inf" lemma="l030764a">
+                    <w type="adj-stm" lemma="l007014a">
+                      <c type="log">saka</c>
+                    </w>
+                    <w type="vb-inf" lemma="l031517a">
+                      <c type="log">puki</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="黒木用"/>
+                <cl type="ip-adv">
+                  <phr type="np-ob1">
+                    <w type="n">
+                      <w type="adj-stm" lemma="l007097">
+                        <c type="log">kurwo</c>
+                      </w>
+                      <w type="n" lemma="l050003a">
+                        <c type="log">kwi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="vb-inf" lemma="l031761a">
+                    <c type="log">moti</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="造有室者"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031144a">
+                    <c type="log">tukur</c>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000024">
+                    <c type="log">eru</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050006a">
+                <c type="log">ipye</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="迄萬代"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n">
+                <w type="num" lemma="l002014">
+                  <c type="log">yorodu</c>
+                </w>
+                <w type="n" lemma="l050040">
+                  <c type="log">yo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000512b">
+              <c type="log">madeni</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

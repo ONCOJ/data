@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4437">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="富等登芸須"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050160">
+                <c type="phon">pototogisu</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="奈保毛奈賀那牟"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="adv" lemma="l004021">
+                  <c type="phon">napo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-opt" lemma="l031267a">
+              <c type="phon">nakanamu</c>
+            </w>
+          </s>
+          <lb id="2" corresp="母等都比等"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051520">
+                      <c type="phon">moto</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000532">
+                    <c type="phon">tu</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050046">
+                  <c type="phon">pito</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="可気都都母等奈"/>
+              <w type="vb-ctt" lemma="l030443a">
+                <c type="phon">kaketutu</c>
+              </w>
+            </cl>
+            <cl type="ip-adv">
+              <phr type="np-adv">
+                <w type="adv" lemma="l004010">
+                  <c type="phon">motona</c>
+                </w>
+              </phr>
+            </cl>
+            <lb id="4" corresp="安乎祢之奈久母"/>
+            <phr type="pp-czz-ob1">
+              <phr type="np">
+                <w type="pro-n" lemma="l042054">
+                  <c type="phon">a</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <phr type="pp-ob2">
+              <phr type="np">
+                <w type="n" lemma="l050082">
+                  <c type="phon">ne</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-cls" lemma="l031268a">
+                <c type="phon">naku</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

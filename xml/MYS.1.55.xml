@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.1.55">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="朝毛吉"/>
+            <phr type="np-sbj">
+              <cl type="ip-ept">
+                <w type="mk" lemma="l091045">
+                  <c type="phon">asamoyosi</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="木人乏母"/>
+              <w type="n">
+                <w type="pln" lemma="l092003">
+                  <c type="plog">kwi</c>
+                </w>
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007025">
+                <c type="log">tomosi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+          <lb id="2" corresp="亦打山"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="np-pth">
+                  <w type="pln" lemma="l060146">
+                    <w type="pln" lemma="l051429">
+                      <c type="phon-kun">matuti</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="3" corresp="行来跡見良武"/>
+                <cl type="ip-adv">
+                  <w type="vb-cls" lemma="l031832a">
+                    <w type="vb-stm" lemma="l031840a">
+                      <c type="log">yuki</c>
+                    </w>
+                    <w type="vb-cls" lemma="l030612a">
+                      <c type="log">ku</c>
+                    </w>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">to</c>
+                  </w>
+                </cl>
+                <w type="vb-ifc" lemma="l031712a">
+                  <c type="log">mi</c>
+                </w>
+                <w type="xtn-adc" lemma="l000805">
+                  <c type="phon">ramu</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="樹人友師母"/>
+              <w type="n">
+                <w type="pln" lemma="l092003">
+                  <c type="phon-kun">kwi</c>
+                </w>
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007025">
+                <c type="phon">tomosi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

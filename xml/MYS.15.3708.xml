@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3708">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="毛能毛布等"/>
+            <cl type="ip-arg">
+              <cl type="ip-adv">
+                <w type="vb-adc" lemma="l031775a">
+                  <w type="n" lemma="l050042">
+                    <c type="phon">mono</c>
+                  </w>
+                  <w type="vb-adc" lemma="l030399a">
+                    <c type="phon">mopu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="cop-inf" lemma="l031968">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="比等爾波美要緇"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050046">
+                  <c type="phon">pito</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ngc">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="phon">mi</c>
+              </w>
+              <w type="vax-pass-ngc" lemma="l000011">
+                <c type="phon">yezi</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="之多婢毛能"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+                  <phr type="pp">
+                    <phr type="np">
+                      <cl type="ip-rel">
+                        <phr type="np">
+                          <w type="n" lemma="l050460">
+                            <w type="n" lemma="l050026">
+                              <c type="phon">sita</c>
+                            </w>
+                            <w type="n" lemma="l051763">
+                              <c type="phon">bimo</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="cop-adi" lemma="l031965">
+                          <c type="phon">no</c>
+                        </w>
+                      </cl>
+                      <lb id="3" corresp="思多由故布流爾"/>
+                      <w type="n" lemma="l050026">
+                        <c type="phon">sita</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-abl" lemma="l000540d">
+                      <c type="phon">yu</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l030731a">
+                    <c type="phon">kwopuru</c>
+                  </w>
+                <w type="p-conn" lemma="l000551">
+                  <c type="phon">ni</c>
+                </w>
+            </cl>
+            <lb id="4" corresp="都奇曾倍爾家流"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050004a">
+                  <c type="phon">tukwi</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">zo</c>
+              </w>
+            </phr>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l031512a">
+                <c type="phon">pe</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-mpst-adn" lemma="l000016">
+                <c type="phon">kyeru</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

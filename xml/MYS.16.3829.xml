@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3829">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="醤酢爾"/>
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l051786">
+                      <c type="log">pisipo</c>
+                    </w>
+                    <w type="n" lemma="l090250">
+                      <c type="log">su</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="蒜都伎合而"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l050924">
+                  <c type="log">piru</c>
+                </w>
+              </phr>
+              <w type="vb-ger">
+                <w type="vb-stm" lemma="l031131a">
+                  <c type="phon">tuki</c>
+                </w>
+                <w type="vb-ger" lemma="l030494a">
+                  <c type="log">katete</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="鯛願"/>
+            <phr type="pp-ob2">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l050168">
+                      <c type="log">tapi</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031356a">
+                    <c type="log">negapu</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="吾爾勿所見"/>
+                <w type="pro-n" lemma="l042059">
+                  <c type="log">ware</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb">
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">na</c>
+              </w>
+              <w type="vb-stm" lemma="l031683a">
+                <c type="log">mise</c>
+              </w>
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">so</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="水葱乃煮物"/>
+          <phr type="np">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l090129">
+                  <c type="log">nagwi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050876">
+              <w type="adj-stm" lemma="l007041">
+                <c type="log">atu</c>
+              </w>
+              <w type="n" lemma="l050042">
+                <c type="log">mono</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

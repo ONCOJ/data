@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2710">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="狗上之"/>
+            <phr type="np-zyo">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pln" lemma="l051104">
+                          <c type="phon">inukami</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="鳥籠山爾有"/>
+                    <w type="pln" lemma="l060112">
+                      <w type="pln" lemma="l052153">
+                        <c type="phon-kun">tokwo</c>
+                      </w>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="nlog">no</c>
+                      </w>
+                      <w type="n" lemma="l050034">
+                        <c type="log">yama</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="log">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adn" lemma="l030125a">
+                  <c type="log">aru</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="不知也河"/>
+              <w type="pln" lemma="l060025">
+                <w type="pln" lemma="l051128">
+                  <c type="phon-kun">isaya</c>
+                </w>
+                <w type="n" lemma="l050025">
+                  <c type="log">gapa</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="不知二五寸許瀬"/>
+            <cl type="ip-arg">
+              <s type="ip-mat">
+                <phr type="np">
+                  <w type="intj" lemma="l051123">
+                    <c type="log">isa</c>
+                  </w>
+                </phr>
+              </s>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+              <w type="p-intj" lemma="l000535">
+                <c type="phon">wo</c>
+              </w>
+            </cl>
+            <w type="vb-imp" lemma="l030568a">
+              <c type="phon">kikose</c>
+            </w>
+          </s>
+          <lb id="4" corresp="余名告奈"/>
+          <s type="ip-mat">
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="log">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="nlog">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050068">
+                <c type="log">na</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031391a">
+                <c type="log">nora</c>
+              </w>
+              <w type="vax-rsp-adc" lemma="l000009">
+                <c type="log">su</c>
+              </w>
+            </w>
+            <w type="p-fnl-phb" lemma="l000517">
+              <c type="phon">na</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

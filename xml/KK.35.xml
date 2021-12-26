@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.35">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="阿佐士怒波良"/>
+            <phr type="np">
+              <w type="n" lemma="l090223">
+                <w type="adj-stm" lemma="l007235">
+                  <c type="phon">asa</c>
+                </w>
+                <w type="n" lemma="l050164">
+                  <c type="phon">zinwo</c>
+                </w>
+                <w type="n" lemma="l051723">
+                  <c type="phon">para</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="1" corresp="許斯那豆牟"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l051308">
+                <c type="phon">kosi</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031290a">
+              <c type="phon">nadumu</c>
+            </w>
+          </s>
+          <lb id="2" corresp="蘇良波由賀受"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052049">
+                    <c type="phon">swora</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <w type="vb-ifc">
+                <w type="vb-stm" lemma="l031840a">
+                  <c type="phon">yuka</c>
+                </w>
+                <w type="vax-neg-ifc" lemma="l000006a">
+                  <c type="phon">zu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="阿斯用由久那"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050064">
+                  <c type="phon">asi</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540b">
+                <c type="phon">ywo</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031840a">
+              <c type="phon">yuku</c>
+            </w>
+            <w type="p-fnl-xcl" lemma="l000550">
+              <c type="phon">na</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

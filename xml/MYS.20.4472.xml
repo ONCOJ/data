@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4472">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="於保吉美乃"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050267">
+                    <w type="adj-stm" lemma="l007009a">
+                      <c type="phon">opo</c>
+                    </w>
+                    <w type="n" lemma="l004266">
+                      <c type="phon">kimi</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="美許登加之古美"/>
+              <w type="n" lemma="l050752">
+                <w type="pfx-hon" lemma="l000035">
+                  <c type="phon">mi</c>
+                </w>
+                <w type="n" lemma="l050148">
+                  <c type="phon">koto</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007078">
+                <c type="phon">kasikwo</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="於保乃宇良乎"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="pln" lemma="l080224">
+                  <w type="adj-stm" lemma="l060279">
+                    <c type="phon-on">opo</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon-on">no</c>
+                  </w>
+                  <w type="n" lemma="l050108">
+                    <c type="phon-on">ura</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="曾我比爾美都都"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l051984">
+                <c type="phon">sogapini</c>
+              </w>
+            </phr>
+            <w type="vb-ctt" lemma="l031712a">
+              <c type="phon">mitutu</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="美也古敞能保流"/>
+          <phr type="pp-gol">
+            <phr type="np">
+              <w type="n" lemma="l050129">
+                <c type="phon">miyakwo</c>
+              </w>
+            </phr>
+            <w type="p-case-all" lemma="l000523">
+              <c type="phon">pye</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031385a">
+            <c type="phon">noboru</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

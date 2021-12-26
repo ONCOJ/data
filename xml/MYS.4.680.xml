@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.680">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="盖毛"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="adv" lemma="l004019">
+                <c type="log">kedasiku</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="人之中言"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050046">
+                    <c type="log">pito</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090482">
+                <w type="n" lemma="l050069">
+                  <c type="log">naka</c>
+                </w>
+                <w type="n" lemma="l050148">
+                  <c type="log">goto</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="聞可毛"/>
+            <w type="vb-exc" lemma="l030568a">
+              <c type="log">kikose</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="幾許雖待"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <w type="pro-adv" lemma="l042038">
+                <c type="log">kokodaku</c>
+              </w>
+            </phr>
+            <w type="vb-css" lemma="l031644a">
+              <c type="log">matedo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="君之不来益"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="log">ga</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030612a">
+              <c type="log">ki</c>
+            </w>
+            <w type="vb-stm" lemma="l030206a">
+              <c type="phon">masa</c>
+            </w>
+            <w type="vax-neg-adn" lemma="l000006a">
+              <c type="log">nu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

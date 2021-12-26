@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1495">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="足引乃"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <cl type="ip-rel">
+                <phr type="np-pth">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050860">
+                        <c type="phon-kun">asipiki</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="許乃間立八十一"/>
+                  <w type="n" lemma="l090649">
+                    <w type="n" lemma="l050003b">
+                      <c type="phon">ko</c>
+                    </w>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                    <w type="n" lemma="l050095">
+                      <c type="log">ma</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031034a">
+                  <w type="vb-stm" lemma="l031043a">
+                    <c type="log">tati</c>
+                  </w>
+                  <w type="vb-adc" lemma="l030614a">
+                    <c type="phon">kuku</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="霍公鳥"/>
+              <w type="n" lemma="l050160">
+                <c type="log">pototogisu</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="如此聞始而"/>
+            <phr type="np-adv">
+              <w type="pro-adv" lemma="l042020">
+                <c type="log">kaku</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030565a">
+                <c type="log">kiki</c>
+              </w>
+              <w type="vb-ger" lemma="l030982a">
+                <c type="log">somete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="後将戀可聞"/>
+          <phr type="np-adv">
+            <w type="n" lemma="l004087">
+              <c type="log">noti</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

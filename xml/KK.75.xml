@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.75">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="多遅比怒迩"/>
+            <cl type="ip-adv">
+              <cl type="ip-arg">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="pln" lemma="l052056">
+                        <c type="phon">tadipi</c>
+                      </w>
+                      <w type="n" lemma="l051650">
+                        <c type="phon">nwo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="泥牟登斯理勢波"/>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l031342a">
+                    <c type="phon">ne</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="phon">mu</c>
+                  </w>
+                </w>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <w type="vb-cnd">
+                <w type="vb-stm" lemma="l031967a">
+                  <c type="phon">siri</c>
+                </w>
+                <w type="vax-spst-cnd" lemma="l000015">
+                  <c type="phon">seba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="多都碁母母"/>
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050304">
+                    <c type="phon">tatugomo</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="母知弖許麻志母能"/>
+              <w type="vb-ger" lemma="l031761a">
+                <c type="phon">motite</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="phon">ko</c>
+              </w>
+              <w type="vax-sjv-adc" lemma="l000004">
+                <c type="phon">masi</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="phon">mono</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="泥牟登斯理勢婆"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031342a">
+                  <c type="phon">ne</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="vb-cnd">
+              <w type="vb-stm" lemma="l031967a">
+                <c type="phon">siri</c>
+              </w>
+              <w type="vax-spst-cnd" lemma="l000015">
+                <c type="phon">seba</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

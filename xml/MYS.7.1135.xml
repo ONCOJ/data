@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1135">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="氏河齒"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l060039">
+                  <w type="pln" lemma="l052236">
+                    <c type="phon-kun">udi</c>
+                  </w>
+                  <w type="n" lemma="l050025">
+                    <c type="log">kapa</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="与杼湍無之"/>
+            <phr type="np-sbj">
+              <w type="n">
+                <w type="n" lemma="l052405">
+                  <c type="phon">yodo</c>
+                </w>
+                <w type="n" lemma="l090058">
+                  <c type="log">se</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007028">
+                <c type="log">na</c>
+              </w>
+              <w type="acp-adn" lemma="l000032">
+                <c type="nlog">ka</c>
+              </w>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="nlog">ra</c>
+              <c type="phon">si</c>
+            </w>
+          </s>
+          <lb id="2" corresp="阿自呂人"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="np-sbj">
+                  <w type="n">
+                    <w type="n" lemma="l050894">
+                      <c type="phon">aziro</c>
+                    </w>
+                    <w type="n" lemma="l050046">
+                      <c type="log">pito</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="3" corresp="舟召音"/>
+                <phr type="np-ob1">
+                  <w type="n" lemma="l050007a">
+                    <c type="log">pune</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031879a">
+                  <c type="log">ywobapu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l051318">
+                <c type="log">kowe</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="越乞所聞"/>
+            <phr type="np">
+              <w type="pro-n" lemma="l042086">
+                <w type="pro-n" lemma="l042085a">
+                  <c type="phon">woti</c>
+                </w>
+                <w type="pro-n" lemma="l042035">
+                  <c type="phon">koti</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-cls" lemma="l030569a">
+              <c type="log">kikoyu</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

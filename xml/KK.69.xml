@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.69">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="波斯多弖能"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <cl type="ip-ept">
+                    <w type="mk" lemma="l090431">
+                      <w type="n" lemma="l090599">
+                        <w type="n" lemma="l051727">
+                          <c type="phon">pasi</c>
+                        </w>
+                        <w type="n-dvb" lemma="l031044b">
+                          <c type="phon">tate</c>
+                        </w>
+                      </w>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="久良波斯夜麻袁"/>
+                  <w type="pln" lemma="l060074">
+                    <w type="pln" lemma="l051344">
+                      <c type="phon-on">kurapasi</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="phon-on">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="佐賀志美登"/>
+              <w type="adj-ger">
+                <w type="adj-stm" lemma="l007155">
+                  <c type="phon">sagasi</c>
+                </w>
+                <w type="acp-ger" lemma="l000034">
+                  <c type="phon">mito</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="伊波迦伎加泥弖"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050014">
+                <c type="phon">ipa</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030442a">
+                <c type="phon">kaki</c>
+              </w>
+              <w type="vb-ger" lemma="l030505a">
+                <c type="phon">kanete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="和賀弖登良須母"/>
+          <phr type="np-ob1">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042057">
+                  <c type="phon">wa</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050012a">
+              <c type="phon">te</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031258a">
+              <c type="phon">tora</c>
+            </w>
+            <w type="vax-rsp-adc" lemma="l000009">
+              <c type="phon">su</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

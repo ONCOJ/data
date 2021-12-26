@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3363">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="和我世古乎"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="phon">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050285">
+                  <c type="phon">sekwo</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="夜麻登敞夜利弖"/>
+            <phr type="pp-gol-ob2">
+              <phr type="np">
+                <w type="pln" lemma="l052386">
+                  <c type="phon-on">yamato</c>
+                </w>
+              </phr>
+              <w type="p-case-all" lemma="l000523">
+                <c type="phon">pye</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031823a">
+              <c type="phon">yarite</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="麻都之太須"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adc" lemma="l031644a">
+                  <c type="phon">matu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l051925">
+                <c type="phon">sida</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526b">
+              <c type="phon">su</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="安思我良夜麻乃"/>
+          <phr type="pp-prd">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l060183">
+                    <w type="pln" lemma="l050855">
+                      <c type="phon-on">asigara</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="phon-on">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="須疑乃木能末可"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l090693">
+                    <c type="phon">sugwi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090649">
+                <w type="n" lemma="l050003b">
+                  <c type="phon">ko</c>
+                </w>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+                <w type="n" lemma="l050095">
+                  <c type="phon">ma</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

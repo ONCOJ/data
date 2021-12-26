@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3716">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安麻久毛能"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n" lemma="l050340">
+                  <w type="n" lemma="l050001b">
+                    <c type="phon">ama</c>
+                  </w>
+                  <w type="n" lemma="l050115">
+                    <c type="phon">kumo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="phon">no</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="多由多比久礼婆"/>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l031091a">
+                <c type="phon">tayutapi</c>
+              </w>
+              <w type="vb-prv" lemma="l030612a">
+                <c type="phon">kureba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="九月能"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l090386">
+                    <c type="log">nagatukwi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="毛美知能山毛"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n-dvb" lemma="l031780b">
+                    <c type="phon">momiti</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050034">
+                <c type="log">yama</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="宇都呂比爾家里"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030277a">
+              <c type="phon">uturopi</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-mpst-adn" lemma="l000016">
+              <c type="phon">kyeru</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

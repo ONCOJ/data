@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3890">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="和我勢児乎"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-zyo">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="pro-n" lemma="l042057">
+                            <c type="phon">wa</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000503">
+                          <c type="phon">ga</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050285">
+                        <c type="phon">se</c>
+                        <c type="log">kwo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-acc" lemma="l000534">
+                      <c type="phon">wo</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="安我松原欲"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042054">
+                        <c type="phon">a</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                </cl>
+                <w type="n" lemma="l050408">
+                  <w type="n-kke" lemma="l050158">
+                    <c type="log">matu</c>
+                  </w>
+                  <w type="n" lemma="l051723">
+                    <c type="log">bara</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540b">
+                <c type="phon">ywo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="見度婆"/>
+            <w type="vb-prv" lemma="l031715a">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vb-prv" lemma="l031908a">
+                <c type="log">watase</c>
+                <c type="phon">ba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="安麻乎等女登母"/>
+          <phr type="np-sbj">
+            <w type="n">
+              <w type="n" lemma="l050001b">
+                <c type="phon">ama</c>
+              </w>
+              <w type="n" lemma="l050145">
+                <c type="phon">woto</c>
+                <c type="log">mye</c>
+              </w>
+              <w type="sfx" lemma="l001002">
+                <c type="phon">domo</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="多麻藻可流美由"/>
+          <phr type="np-ob1">
+            <w type="n" lemma="l052082">
+              <w type="n" lemma="l052078">
+                <c type="phon">tama</c>
+              </w>
+              <w type="n" lemma="l052491">
+                <c type="log">mo</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030545a">
+            <c type="phon">karu</c>
+          </w>
+          <w type="p-fnl-evd" lemma="l000513">
+            <c type="phon">miyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

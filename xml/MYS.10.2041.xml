@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2041">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="秋風"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l050254">
+                      <w type="n" lemma="l050032">
+                        <c type="log">aki</c>
+                      </w>
+                      <w type="n" lemma="l050008a">
+                        <c type="log">kaze</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="吹漂蕩"/>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l031516a">
+                    <c type="log">puki</c>
+                  </w>
+                  <w type="vb-adc" lemma="l031027a">
+                    <c type="log">tadayopasu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="白雲者"/>
+              <w type="n" lemma="l050343">
+                <w type="adj-stm" lemma="l007006a">
+                  <c type="log">sira</c>
+                </w>
+                <w type="n" lemma="l050115">
+                  <c type="log">kumo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="織女之"/>
+          <phr type="np-prd">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050420">
+                  <c type="log">tanabata</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000532">
+                <c type="nlog">tu</c>
+              </w>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050132">
+                  <c type="log">mye</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="天津領巾毳"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050001b">
+                  <c type="log">ama</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000532">
+                <c type="phon">tu</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l051779">
+              <c type="log">pire</c>
+            </w>
+          </phr>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="log">ka</c>
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

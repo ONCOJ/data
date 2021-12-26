@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2300">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="九月之"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-zyo">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l090386">
+                      <c type="log">nagatukwi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="在明能月夜"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l080260">
+                      <w type="vb-stm" lemma="l030125a">
+                        <c type="log">ari</c>
+                      </w>
+                      <w type="n-dvb" lemma="l030022b">
+                        <c type="log">ake</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n">
+                  <w type="n" lemma="l050004b">
+                    <c type="log">tuku</c>
+                  </w>
+                  <w type="n" lemma="l050039">
+                    <c type="log">ywo</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="2" corresp="有乍毛"/>
+              <w type="vb-ctt" lemma="l030125a">
+                <c type="log">aritutu</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="君之来座者"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="log">ga</c>
+              </w>
+            </phr>
+            <w type="vb-cnd">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="log">ki</c>
+              </w>
+              <w type="vb-cnd" lemma="l030206a">
+                <c type="log">masaba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="吾将戀八方"/>
+          <phr type="np-sbj">
+            <w type="pro-n" lemma="l042059">
+              <c type="log">ware</c>
+            </w>
+          </phr>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="log">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

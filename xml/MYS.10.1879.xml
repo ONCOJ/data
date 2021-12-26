@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1879">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="春日野爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l060053">
+                  <w type="pln" lemma="l051241">
+                    <c type="plog">kasuga</c>
+                  </w>
+                  <w type="n" lemma="l051650">
+                    <c type="log">nwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="煙立所見"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l051255">
+                <c type="log">keburi</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031043a">
+              <c type="log">tatu</c>
+            </w>
+            <w type="p-fnl-evd" lemma="l000513">
+              <c type="log">miyu</c>
+            </w>
+          </s>
+          <lb id="2" corresp="𡢳嬬等四"/>
+          <s type="ip-mat">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n">
+                  <w type="n" lemma="l050145">
+                    <c type="log">wotomye</c>
+                  </w>
+                  <w type="sfx" lemma="l001003">
+                    <c type="log">ra</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="春野之菟芽子"/>
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l051724">
+                      <c type="log">paru</c>
+                    </w>
+                    <w type="n" lemma="l051650">
+                      <c type="log">nwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l052263">
+                <c type="log">upagwi</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="採而煮良思文"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031178a">
+                <c type="log">tumite</c>
+              </w>
+            </cl>
+            <w type="vb-ifc" lemma="l031341a">
+              <c type="log">ni</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

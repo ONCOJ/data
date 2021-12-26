@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.1002">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="馬之歩"/>
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052245">
+                    <c type="log">uma</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n-dvb" lemma="l030112b">
+                <c type="log">ayumi</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="押止駐余"/>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l030339a">
+                <c type="log">osape</c>
+              </w>
+              <w type="vb-imp" lemma="l031215a">
+                <c type="log">todome</c>
+                <c type="phon">yo</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="住吉之"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l052023">
+                        <c type="plog">suminoye</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="岸乃黄土"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l051372">
+                        <c type="log">kwisi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050504">
+                    <c type="log">panipu</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="nlog">ni</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="爾保比而将去"/>
+              <w type="vb-ger" lemma="l031335a">
+                <c type="phon">nipopite</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031840a">
+                <c type="log">yuka</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

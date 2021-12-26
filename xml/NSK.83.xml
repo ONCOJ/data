@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.83">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="伊儺武斯盧"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <cl type="ip-ept">
+                <w type="mk" lemma="l051095">
+                  <c type="phon">inamusiro</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="可簸泝比野儺擬"/>
+              <w type="n">
+                <w type="n" lemma="l050025">
+                  <c type="phon">kapa</c>
+                </w>
+                <w type="n" lemma="l030975b">
+                  <c type="phon">swopi</c>
+                </w>
+                <w type="n" lemma="l050151">
+                  <c type="phon">yanagwi</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="寐逗愈凱磨"/>
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050128">
+                  <c type="phon">midu</c>
+                </w>
+              </phr>
+              <w type="vb-prv" lemma="l031840a">
+                <c type="phon">yukeba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="儺弭企於己陀智"/>
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l031294a">
+                <c type="phon">nabiki</c>
+              </w>
+            </cl>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l030328a">
+                <c type="phon">okwi</c>
+              </w>
+              <w type="vb-inf" lemma="l031043a">
+                <c type="phon">tati</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="曾能泥播宇世儒"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042040">
+                    <c type="phon">so</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050036">
+                <c type="phon">ne</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <w type="vb-ifc">
+            <w type="vb-stm" lemma="l030252a">
+              <c type="phon">use</c>
+            </w>
+            <w type="vax-neg-ifc" lemma="l000006a">
+              <c type="phon">zu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3921">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="加吉都播多"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l051180">
+                      <c type="phon">kakitupata</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="衣爾須里都気"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l090099">
+                        <c type="log">kinu</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <w type="vb-inf" lemma="l030953a">
+                    <w type="vb-stm" lemma="l030954a">
+                      <c type="phon">suri</c>
+                    </w>
+                    <w type="vb-inf" lemma="l031137a">
+                      <c type="phon">tuke</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="麻須良雄乃"/>
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l080256">
+                      <w type="adj-stm" lemma="l007110">
+                        <c type="phon">masura</c>
+                      </w>
+                      <w type="n" lemma="l052501">
+                        <c type="log">wo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="服曾比猟須流"/>
+                <cl type="ip-adv">
+                  <w type="vb-inf" lemma="l030578a">
+                    <c type="log">ki</c>
+                    <c type="phon">sopi</c>
+                  </w>
+                </cl>
+                <w type="vb-inf" lemma="l030547a">
+                  <c type="log">kari</c>
+                </w>
+                <w type="vb-adn" lemma="l030919a">
+                  <c type="phon">suru</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="月者伎爾家里"/>
+              <w type="n" lemma="l050004a">
+                <c type="log">tukwi</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030612a">
+              <c type="phon">ki</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="phon">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

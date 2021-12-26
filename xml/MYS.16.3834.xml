@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3834">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="成棗"/>
+          <cl type="ip-adv">
+            <phr type="conjp">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l080225">
+                    <c type="log">nasi</c>
+                  </w>
+                </phr>
+                <phr type="np-sbj">
+                  <w type="n" lemma="l051600">
+                    <c type="log">natume</c>
+                  </w>
+                </phr>
+              </cl>
+            </phr>
+            <lb id="1" corresp="寸三二粟嗣"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050061">
+                  <c type="phon">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <phr type="np-sbj">
+              <w type="n" lemma="l004056">
+                <c type="log">apa</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031139a">
+              <c type="phon">tugi</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="延田葛乃"/>
+          <cl type="ip-ept">
+            <w type="mk" lemma="l090673">
+              <w type="vb-adc" lemma="l031434a">
+                <c type="log">papu</c>
+              </w>
+              <w type="n" lemma="l051370">
+                <c type="log">kuzu</c>
+              </w>
+              <w type="cop-adi" lemma="l031965">
+                <c type="phon">no</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="後毛將相跡"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l004087">
+                  <c type="log">noti</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030071a">
+                <c type="log">apa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000541">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="葵花咲"/>
+          <phr type="np-sbj">
+            <w type="n">
+              <w type="n" lemma="l050826">
+                <c type="log">apupi</c>
+              </w>
+              <w type="n" lemma="l050083">
+                <c type="log">pana</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030778a">
+            <c type="log">saku</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

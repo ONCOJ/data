@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2715">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="神名火"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l051193">
+                      <c type="phon">kamunabwi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="打廻前乃"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l052284">
+                      <c type="phon-kun">utimwi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l052505">
+                      <c type="log">saki</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="石淵"/>
+                <w type="n" lemma="l090777">
+                  <w type="n" lemma="l050014">
+                    <c type="log">ipa</c>
+                  </w>
+                  <w type="n" lemma="l051843">
+                    <c type="log">puti</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="nlog">no</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="隠而耳八"/>
+            <w type="vb-ger" lemma="l030744a">
+              <c type="log">komorite</c>
+            </w>
+            <w type="p-res" lemma="l000521">
+              <c type="log">nomwi</c>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="吾戀居"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042057">
+                <c type="log">wa</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="nlog">ga</c>
+            </w>
+          </phr>
+          <w type="vb-inf" lemma="l030731a">
+            <c type="log">kwopwi</c>
+          </w>
+          <w type="vb-adc">
+            <w type="vb-pgs-stm" lemma="l031957a">
+              <c type="log">wora</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.112">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="禹都麻佐波"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pen" lemma="l052288">
+                <c type="phon">utumasa</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="柯微騰母柯微騰"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-arg">
+                  <cl type="ip-adv">
+                    <phr type="np-prd">
+                      <w type="n" lemma="l050005a">
+                        <c type="phon">kamwi</c>
+                      </w>
+                    </phr>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="phon">to</c>
+                    </w>
+                    <w type="p-top" lemma="l000514">
+                      <c type="phon">mo</c>
+                    </w>
+                  </cl>
+                  <cl type="ip-adv">
+                    <phr type="np-prd">
+                      <w type="n" lemma="l050005a">
+                        <c type="phon">kamwi</c>
+                      </w>
+                    </phr>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="phon">to</c>
+                    </w>
+                  </cl>
+                </cl>
+                <lb id="2" corresp="枳擧曳倶屢"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030569a">
+                    <c type="phon">kikoye</c>
+                  </w>
+                  <w type="vb-adn" lemma="l030612a">
+                    <c type="phon">kuru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="騰擧預能柯微乎"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l090453">
+                    <w type="adj-stm" lemma="l007194">
+                      <c type="phon">toko</c>
+                    </w>
+                    <w type="n" lemma="l050040">
+                      <c type="phon">yo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050005a">
+                <c type="phon">kamwi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="宇智岐多麻須母"/>
+          <w type="vb-adc">
+            <w type="pfx-mph" lemma="l000043">
+              <c type="phon">uti</c>
+            </w>
+            <w type="vb-adc" lemma="l030580a">
+              <c type="phon">kitamasu</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

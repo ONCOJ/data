@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4079">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="美之麻野爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l080179">
+                  <w type="pln" lemma="l051481">
+                    <c type="phon-on">misima</c>
+                  </w>
+                  <w type="n" lemma="l051650">
+                    <c type="log">nwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="可須美多奈妣伎"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l090183">
+                <c type="phon">kasumi</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031055a">
+              <c type="phon">tanabiki</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="之可須我爾"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <w type="adv" lemma="l090204">
+                <c type="phon">sikasugani</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="伎乃敷毛家布毛"/>
+            <phr type="pp-adv">
+              <phr type="conjp">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051268">
+                      <c type="phon">kinopu</c>
+                    </w>
+                  </phr>
+                  <w type="p-top" lemma="l000514">
+                    <c type="phon">mo</c>
+                  </w>
+                </phr>
+              </phr>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051388">
+                    <c type="phon">kyepu</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+            </phr>
+            <lb id="4" corresp="由伎波敷里都追"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050075">
+                  <c type="phon">yuki</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ctt" lemma="l031559a">
+              <c type="phon">puritutu</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2817">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="浦觸而"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l030307a">
+                <c type="phon">urabure</c>
+                <c type="log">te</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="物者不念"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l050042">
+                  <c type="log">mono</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ngc" lemma="l030399a">
+              <c type="log">omopazi</c>
+            </w>
+          </s>
+          <lb id="2" corresp="水無瀬川"/>
+          <s type="ip-mat">
+            <cl type="ip-arg">
+              <cl type="ip-adv">
+                <phr type="np-arg">
+                  <w type="n" lemma="l051465">
+                    <c type="log">minasegapa</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="有而毛水者"/>
+                <w type="vb-ger" lemma="l030125a">
+                  <c type="log">arite</c>
+                </w>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </cl>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050128">
+                    <c type="log">midu</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="逝云物乎"/>
+              <w type="vb-adc" lemma="l031840a">
+                <c type="log">yuku</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="nlog">to</c>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l030199a">
+              <c type="log">ipu</c>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="log">mono</c>
+              <c type="phon">wo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

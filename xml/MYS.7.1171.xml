@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1171">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="大御舟"/>
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n">
+                  <w type="pfx-hon" lemma="l000038">
+                    <c type="phon">opomi</c>
+                  </w>
+                  <w type="n" lemma="l050007a">
+                    <c type="log">pune</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="1" corresp="竟而佐守布"/>
+              <w type="vb-ger" lemma="l031421a">
+                <c type="log">patete</c>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l030835a">
+              <c type="phon">samorapu</c>
+            </w>
+          </s>
+          <lb id="2" corresp="高嶋之"/>
+          <s type="ip-mat">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l090294">
+                      <c type="plog">takasima</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="三尾勝野之"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l052579">
+                      <c type="phon-kun">miwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l090293">
+                      <c type="phon-kun">katinwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="4" corresp="奈伎左思所念"/>
+                <w type="n" lemma="l051566">
+                  <c type="phon">nagisa</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <w type="vb-cls" lemma="l030404a">
+              <c type="log">omopoyu</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

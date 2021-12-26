@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2168">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="冷芽子丹"/>
+            <cl type="ip-adv">
+              <phr type="np-mpt-ob1">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050392">
+                        <w type="n" lemma="l050032">
+                          <c type="log">aki</c>
+                        </w>
+                        <w type="n" lemma="l050149">
+                          <c type="log">pagwi</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="置白霧"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030327a">
+                      <c type="log">ok</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="log">yeru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050724">
+                  <w type="adj-stm" lemma="l007006a">
+                    <c type="log">sira</c>
+                  </w>
+                  <w type="n" lemma="l052223">
+                    <c type="log">tuyu</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="2" corresp="朝々"/>
+              <phr type="np-adv">
+                <w type="n" lemma="l050851">
+                  <c type="log">asanasana</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="珠年曽見流"/>
+              <cl type="ip-arg">
+                <phr type="np-prd">
+                  <w type="n" lemma="l052078">
+                    <c type="log">tama</c>
+                  </w>
+                </phr>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+                <w type="p-res" lemma="l000526a">
+                  <c type="phon">si</c>
+                </w>
+                <w type="p-foc" lemma="l000527">
+                  <c type="phon">so</c>
+                </w>
+              </cl>
+              <w type="vb-adn" lemma="l031712a">
+                <c type="log">mi</c>
+                <c type="phon">ru</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="置白霧"/>
+          </s>
+          <s type="ip-mat">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030327a">
+                    <c type="log">ok</c>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000024">
+                    <c type="log">yeru</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050724">
+                <w type="adj-stm" lemma="l007006a">
+                  <c type="log">sira</c>
+                </w>
+                <w type="n" lemma="l052223">
+                  <c type="log">tuyu</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

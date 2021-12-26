@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3664">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="之化能宇良爾"/>
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l060219">
+                      <w type="pln" lemma="l090202">
+                        <c type="phon-on">sika</c>
+                      </w>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon-on">no</c>
+                      </w>
+                      <w type="n" lemma="l050108">
+                        <c type="phon-on">ura</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="伊射里須流安麻"/>
+                <w type="vb-inf" lemma="l030157a">
+                  <c type="phon">izari</c>
+                </w>
+                <w type="vb-adn" lemma="l030919a">
+                  <c type="phon">suru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050163">
+                <c type="phon">ama</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="安気久礼婆"/>
+            <cl type="ip-adv">
+              <w type="vb-prv">
+                <w type="vb-stm" lemma="l030022a">
+                  <c type="phon">ake</c>
+                </w>
+                <w type="vb-prv" lemma="l030612a">
+                  <c type="phon">kureba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="宇良未許具良之"/>
+            <phr type="np-pth">
+              <w type="n" lemma="l090037">
+                <w type="n" lemma="l050108">
+                  <c type="phon">ura</c>
+                </w>
+                <w type="n" lemma="l080198">
+                  <c type="phon">mwi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030698a">
+              <c type="phon">kogu</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </s>
+          <lb id="4" corresp="可治能於等伎許由"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051162">
+                    <c type="phon">kadi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050072">
+                <c type="phon">oto</c>
+              </w>
+            </phr>
+            <w type="vb-cls" lemma="l030569a">
+              <c type="phon">kikoyu</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

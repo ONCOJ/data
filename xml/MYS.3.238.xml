@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.238">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="大宮之"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="adj-stm" lemma="l007009a">
+                        <c type="log">opo</c>
+                      </w>
+                      <w type="n" lemma="l050018">
+                        <c type="log">miya</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="内二手所聞"/>
+                <w type="n" lemma="l052547">
+                  <c type="log">uti</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000512a">
+                <c type="phon">made</c>
+              </w>
+            </phr>
+            <w type="vb-cls" lemma="l030569a">
+              <c type="log">kikoyu</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="網引為跡"/>
+          <phr type="np">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <w type="vb-inf" lemma="l032065a">
+                      <c type="log">abiki</c>
+                    </w>
+                    <w type="vb-cls" lemma="l030919a">
+                      <c type="log">su</c>
+                    </w>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="phon">to</c>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="網子調流"/>
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l080041">
+                      <c type="log">agwo</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adn" lemma="l031211a">
+                    <c type="log">totonopu</c>
+                    <c type="phon">ru</c>
+                  </w>
+                </cl>
+                <lb id="4" corresp="海人之呼聲"/>
+                <w type="n" lemma="l050163">
+                  <c type="log">ama</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="n">
+              <w type="n-dvb" lemma="l031880b">
+                <c type="log">ywobi</c>
+              </w>
+              <w type="n" lemma="l051318">
+                <c type="log">kowe</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

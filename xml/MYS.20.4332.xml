@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4332">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="麻須良男能"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l080256">
+                      <w type="adj-stm" lemma="l007110">
+                        <c type="phon">masura</c>
+                      </w>
+                      <w type="n" lemma="l052501">
+                        <c type="log">wo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="由伎等里於比弖"/>
+                <cl type="ip-adv">
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l050756">
+                      <c type="phon">yuki</c>
+                    </w>
+                  </phr>
+                  <w type="vb-ger">
+                    <w type="vb-stm" lemma="l031258a">
+                      <c type="phon">tori</c>
+                    </w>
+                    <w type="vb-ger" lemma="l030372a">
+                      <c type="phon">opite</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="伊田弖伊気婆"/>
+                <cl type="ip-adv">
+                  <w type="vb-ger" lemma="l030172a">
+                    <c type="phon">idete</c>
+                  </w>
+                </cl>
+                <w type="vb-prv" lemma="l030145a">
+                  <c type="phon">ikeba</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="和可礼乎乎之美"/>
+              <cl type="ip-adv">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n-dvb" lemma="l031898b">
+                      <c type="phon">wakare</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-acc" lemma="l000534">
+                    <c type="phon">wo</c>
+                  </w>
+                </phr>
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l007229">
+                    <c type="phon">wosi</c>
+                  </w>
+                  <w type="acp-inf" lemma="l000034">
+                    <c type="phon">mi</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="奈気伎家牟都麻"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031276a">
+                  <c type="phon">nageki</c>
+                </w>
+                <w type="vax-spst-stm" lemma="l000015">
+                  <c type="phon">kye</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050120">
+              <c type="phon">tuma</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

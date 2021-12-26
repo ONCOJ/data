@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4102">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="白玉乎"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050611">
+                  <w type="adj-stm" lemma="l007006a">
+                    <c type="log">sira</c>
+                  </w>
+                  <w type="n" lemma="l052078">
+                    <c type="log">tama</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="都都美低夜良婆"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031156a">
+                <c type="phon">tutumite</c>
+              </w>
+            </cl>
+            <w type="vb-cnd" lemma="l031823a">
+              <c type="phon">yaraba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="安夜女具佐"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050358">
+                <w type="n" lemma="l050882">
+                  <c type="phon">ayamye</c>
+                </w>
+                <w type="n" lemma="l050114">
+                  <c type="phon">gusa</c>
+                </w>
+              </w>
+              <lb id="3" corresp="波奈多知婆奈爾"/>
+              <w type="n" lemma="l050627">
+                <w type="n" lemma="l050083">
+                  <c type="phon">pana</c>
+                </w>
+                <w type="n" lemma="l050150">
+                  <c type="log">tatibana</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="安倍母奴久我祢"/>
+          <w type="vb-inf" lemma="l030072a">
+            <c type="phon">ape</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+          <w type="vb-adc" lemma="l031346a">
+            <c type="phon">nuku</c>
+          </w>
+          <w type="p-conn" lemma="l000504">
+            <c type="phon">gane</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2361">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="天在"/>
+            <phr type="np-pth">
+              <cl type="ip-ept">
+                <w type="mk-adn" lemma="l099999">
+                  <w type="n" lemma="l050001a">
+                    <c type="log">ame</c>
+                  </w>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="nlog">ni</c>
+                  </w>
+                  <w type="vb-adn" lemma="l030125a">
+                    <c type="log">aru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="一棚橋"/>
+              <w type="n">
+                <w type="num" lemma="l002001">
+                  <c type="log">pito</c>
+                </w>
+                <w type="cl" lemma="l002015">
+                  <c type="log">tu</c>
+                </w>
+              </w>
+              <w type="n" lemma="l090598">
+                <w type="n" lemma="l050949">
+                  <c type="log">tana</c>
+                </w>
+                <w type="n" lemma="l051727">
+                  <c type="log">pasi</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="何將行"/>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="wh-adj-stm" lemma="l042002">
+                  <c type="log">ika</c>
+                </w>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="nlog">ni</c>
+                </w>
+              </w>
+              <w type="p-foc" lemma="l000506">
+                <c type="nlog">ka</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031840a">
+                <c type="log">yuka</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="穉草"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <cl type="ip-arg">
+                <phr type="np-prd">
+                  <cl type="ip-ept">
+                    <w type="mk-adi" lemma="l080152">
+                      <w type="n" lemma="l050370">
+                        <w type="adj-stm" lemma="l007209">
+                          <c type="log">waka</c>
+                        </w>
+                        <w type="n" lemma="l050114">
+                          <c type="log">kusa</c>
+                        </w>
+                      </w>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="nlog">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="4" corresp="妻所云"/>
+                  <w type="n">
+                    <w type="n" lemma="l050120">
+                      <c type="log">tuma</c>
+                    </w>
+                    <w type="sfx" lemma="l001011">
+                      <c type="log">gari</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-comp" lemma="l000530">
+                  <c type="nlog">to</c>
+                </w>
+              </cl>
+              <w type="vb-prv" lemma="l030199a">
+                <c type="log">ipeba</c>
+              </w>
+            </cl>
+            <lb id="5" corresp="足壮嚴"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050064">
+                <c type="log">asi</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031873a">
+              <c type="log">yosopi</c>
+            </w>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030919a">
+                <c type="log">se</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

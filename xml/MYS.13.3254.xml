@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.13.3254">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="志貴嶋"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l090206">
+                    <w type="n">
+                      <w type="n" lemma="l051941">
+                        <c type="phon">sikwi</c>
+                      </w>
+                      <w type="n" lemma="l050078">
+                        <c type="log">sima</c>
+                      </w>
+                    </w>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="nlog">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="倭國者"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l052386">
+                      <c type="plog">yamato</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051337">
+                  <c type="log">kuni</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="事霊之"/>
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l051312">
+                      <w type="n" lemma="l050148">
+                        <c type="phon-kun">koto</c>
+                      </w>
+                      <w type="n" lemma="l052507">
+                        <c type="log">dama</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="所佐國叙"/>
+                <w type="vb-adn" lemma="l031017a">
+                  <c type="log">tasukuru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l051337">
+                <c type="log">kuni</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">zo</c>
+            </w>
+          </s>
+          <s type="ip-mat">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l050526">
+                <w type="pfx" lemma="l000062">
+                  <c type="log">ma</c>
+                </w>
+                <w type="adj-stm" lemma="l007230">
+                  <c type="log">saki</c>
+                </w>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ari</c>
+              </w>
+              <w type="vb-imp" lemma="l031964a">
+                <c type="log">koso</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

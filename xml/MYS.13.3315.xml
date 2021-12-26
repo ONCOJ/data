@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.13.3315">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="泉川"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <phr type="np">
+                <w type="pln" lemma="l060027">
+                  <w type="pln" lemma="l051156">
+                    <c type="plog">idumi</c>
+                  </w>
+                  <w type="n" lemma="l050025">
+                    <c type="log">gapa</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="1" corresp="渡瀬深見"/>
+              <w type="n" lemma="l050539">
+                <w type="vb-stm" lemma="l031910a">
+                  <c type="log">watari</c>
+                </w>
+                <w type="n" lemma="l090058">
+                  <c type="log">ze</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007150">
+                <c type="log">puka</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="吾世古我"/>
+          <phr type="np-sbj">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042057">
+                  <c type="log">wa</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="nlog">ga</c>
+              </w>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050285">
+                  <c type="phon">sekwo</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="旅行衣"/>
+            <w type="n">
+              <w type="n" lemma="l050049">
+                <c type="log">tabi</c>
+              </w>
+              <w type="n-dvb" lemma="l031840b">
+                <c type="log">yuki</c>
+              </w>
+              <w type="n" lemma="l051304">
+                <c type="log">goromo</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="蒙沾鴨"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031490a">
+              <c type="log">piduti</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="log">na</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

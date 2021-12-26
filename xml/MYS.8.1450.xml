@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1450">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="情具伎"/>
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007088b">
+                    <c type="log">kokoro</c>
+                    <c type="phon">gu</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="phon">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="物爾曽有鶏類"/>
+              <w type="n" lemma="l050042">
+                <c type="log">mono</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ari</c>
+              </w>
+              <w type="vax-mpst-adn" lemma="l000016">
+                <c type="phon">kyeru</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="春霞"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="np-sbj">
+                      <w type="n" lemma="l090714">
+                        <w type="n" lemma="l051724">
+                          <c type="log">paru</c>
+                        </w>
+                        <w type="n" lemma="l090183">
+                          <c type="log">kasumi</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <lb id="3" corresp="多奈引時爾"/>
+                    <w type="vb-adc" lemma="l031055a">
+                      <c type="phon">tanabiku</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050059">
+                    <c type="log">toki</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="戀乃繁者"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n-dvb" lemma="l030731b">
+                    <c type="log">kwopwi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007167b">
+                  <c type="log">sige</c>
+                </w>
+                <w type="acp-adn" lemma="l000033">
+                  <c type="log">ki</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

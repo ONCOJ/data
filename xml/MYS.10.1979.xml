@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1979">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="春之在者"/>
+          <phr type="np-zyo">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l051724">
+                    <c type="log">paru</c>
+                  </w>
+                </phr>
+                <w type="vb-prv" lemma="l030841a">
+                  <c type="phon-kun">sareba</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="酢軽成野之"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l052001">
+                  <c type="phon">sugaru</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031316a">
+                <c type="log">naru</c>
+              </w>
+            </cl>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051650">
+                  <c type="log">nwo</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="霍公鳥"/>
+            <w type="n" lemma="l050160">
+              <c type="log">pototogisu</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="保等穂跡妹爾"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <w type="adv" lemma="l050725">
+                <c type="phon">potopoto</c>
+              </w>
+            </phr>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050027">
+                  <c type="log">imo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="不相来爾家里"/>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030071a">
+                <c type="log">apa</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030612a">
+              <c type="log">ki</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="phon">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

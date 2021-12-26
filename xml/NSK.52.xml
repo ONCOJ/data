@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.52">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <lb id="0" corresp="夜莽之呂珥"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l052385">
+                    <c type="phon-on">yamasiro</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="伊辞鶏苔利夜莽"/>
+              <w type="vb-imp">
+                <w type="pfx" lemma="l000030">
+                  <c type="phon">i</c>
+                </w>
+                <w type="vb-imp" lemma="l030850a">
+                  <c type="phon">sikye</c>
+                </w>
+              </w>
+            </cl>
+            <phr type="np-voc">
+              <w type="pen" lemma="l092043">
+                <c type="phon">toriyama</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="2" corresp="伊辞鶏之鶏"/>
+          <s type="ip-mat">
+            <w type="vb-imp">
+              <w type="pfx" lemma="l000030">
+                <c type="phon">i</c>
+              </w>
+              <w type="vb-imp" lemma="l030850a">
+                <c type="phon">sikye</c>
+              </w>
+            </w>
+          </s>
+          <s type="ip-mat">
+            <w type="vb-imp" lemma="l030850a">
+              <c type="phon">sikye</c>
+            </w>
+          </s>
+          <lb id="3" corresp="阿餓茂赴莵摩珥"/>
+          <s type="ip-mat">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042054">
+                        <c type="phon">a</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l030399a">
+                    <c type="phon">mopu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050120">
+                  <c type="phon">tuma</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="伊辞枳阿波務伽茂"/>
+            <w type="vb-adc">
+              <w type="pfx" lemma="l000030">
+                <c type="phon">i</c>
+              </w>
+              <w type="vb-stm" lemma="l030850a">
+                <c type="phon">siki</c>
+              </w>
+              <w type="vb-stm" lemma="l030071a">
+                <c type="phon">apa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

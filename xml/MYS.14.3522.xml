@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3522">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="伎曾許曾波"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051281">
+                  <c type="phon">kiso</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="児呂等左宿之香"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="n" lemma="l050028">
+                    <c type="log">kwo</c>
+                  </w>
+                  <w type="sfx" lemma="l001007">
+                    <c type="phon">ro</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-com" lemma="l000529">
+                <c type="phon">to</c>
+              </w>
+            </phr>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030817a">
+                <w type="pfx" lemma="l000040">
+                  <c type="phon">sa</c>
+                </w>
+                <w type="vb-stm" lemma="l031342a">
+                  <c type="log">ne</c>
+                </w>
+              </w>
+              <w type="vax-spst-exc" lemma="l000015">
+                <c type="phon">sika</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="久毛能宇倍由"/>
+          <s type="ip-mat">
+            <cl type="ip-arg">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="pp">
+                      <phr type="np">
+                        <phr type="pp">
+                          <phr type="np">
+                            <w type="n" lemma="l050115">
+                              <c type="phon">kumo</c>
+                            </w>
+                          </phr>
+                          <w type="p-case-gen" lemma="l000520">
+                            <c type="phon">no</c>
+                          </w>
+                        </phr>
+                        <w type="n" lemma="l050029a">
+                          <c type="phon">upe</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-abl" lemma="l000540d">
+                        <c type="phon">yu</c>
+                      </w>
+                    </phr>
+                    <lb id="3" corresp="奈伎由久多豆乃"/>
+                    <w type="vb-adc">
+                      <w type="vb-stm" lemma="l031267a">
+                        <c type="phon">naki</c>
+                      </w>
+                      <w type="vb-adc" lemma="l031840a">
+                        <c type="phon">yuku</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l052059">
+                    <c type="phon">tadu</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="麻登保久於毛保由"/>
+              <w type="adj-inf">
+                <w type="pfx" lemma="l000062">
+                  <c type="phon">ma</c>
+                </w>
+                <w type="adj-stm" lemma="l007008">
+                  <c type="phon">topo</c>
+                </w>
+                <w type="acp-inf" lemma="l000033">
+                  <c type="phon">ku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-cls" lemma="l030404a">
+              <c type="phon">omopoyu</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

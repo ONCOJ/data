@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.480">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="大伴之"/>
+          <phr type="np-ob1">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <cl type="ip-rel">
+                    <phr type="pp-sbj">
+                      <phr type="np">
+                        <w type="pen" lemma="l090000">
+                          <c type="phon">opotomo</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <cl type="ip-adv">
+                      <phr type="np-prd">
+                        <lb id="1" corresp="名負靭帶而"/>
+                        <w type="n" lemma="l050068">
+                          <c type="log">na</c>
+                        </w>
+                      </phr>
+                      <w type="cop-inf" lemma="l031965">
+                        <c type="nlog">ni</c>
+                      </w>
+                    </cl>
+                    <w type="vb-adc" lemma="l030372a">
+                      <c type="log">opu</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050756">
+                    <c type="log">yuki</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l030372a">
+                  <c type="log">opite</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="萬代爾"/>
+              <cl type="ip-arg">
+                <phr type="np-prd">
+                  <w type="n">
+                    <w type="num" lemma="l002014">
+                      <c type="log">yorodu</c>
+                    </w>
+                    <w type="n" lemma="l050040">
+                      <c type="log">yo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="憑之心"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l031057a">
+                  <c type="log">tanomi</c>
+                </w>
+                <w type="vax-spst-adn" lemma="l000015">
+                  <c type="phon">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050037">
+              <c type="log">kokoro</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="何所可将寄"/>
+          <phr type="pp-gol-ob2">
+            <phr type="np">
+              <w type="wh-n" lemma="l042007">
+                <c type="log">iduku</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031872a">
+              <c type="log">yose</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

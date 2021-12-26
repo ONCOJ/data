@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2555">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="旦戸乎"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050647">
+                  <w type="n" lemma="l050139">
+                    <c type="log">asa</c>
+                  </w>
+                  <w type="n" lemma="l090263">
+                    <c type="log">two</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="速莫開"/>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l004028">
+                  <c type="log">paya</c>
+                </w>
+                <w type="acp-inf" lemma="l000033">
+                  <c type="log">ku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb">
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">na</c>
+              </w>
+              <w type="vb-stm" lemma="l030021a">
+                <c type="log">ake</c>
+              </w>
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">so</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="味澤相"/>
+          <s type="ip-mat">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <cl type="ip-ept">
+                        <w type="mk" lemma="l032062">
+                          <c type="phon-kun">adisapapu</c>
+                        </w>
+                      </cl>
+                      <lb id="3" corresp="目之乏流君"/>
+                      <w type="n" lemma="l050048a">
+                        <c type="log">me</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="log">ga</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031599a">
+                    <c type="phon">poru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="log">ga</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="今夜來座有"/>
+            <phr type="np-adv">
+              <w type="n" lemma="l051320">
+                <w type="pro-n" lemma="l042029">
+                  <c type="log">ko</c>
+                </w>
+                <w type="n" lemma="l052415">
+                  <c type="log">yopi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="log">ki</c>
+              </w>
+              <w type="vb-stm" lemma="l030206a">
+                <c type="log">mas</c>
+              </w>
+              <w type="vax-stv-adn" lemma="l000024">
+                <c type="log">eru</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4302">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="夜麻夫伎波"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050506">
+                  <w type="n" lemma="l050034">
+                    <c type="phon">yama</c>
+                  </w>
+                  <w type="n" lemma="l050929">
+                    <c type="phon">buki</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="奈泥都都於保佐牟"/>
+            <cl type="ip-adv">
+              <w type="vb-ctt" lemma="l031285a">
+                <c type="phon">nadetutu</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030378a">
+                <c type="phon">oposa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="安里都都母"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <w type="vb-ctt" lemma="l030125a">
+                <c type="phon">aritutu</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="伎美伎麻之都都"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l004266">
+                    <c type="phon">kimi</c>
+                  </w>
+                </phr>
+                <w type="vb-ctt">
+                  <w type="vb-stm" lemma="l030612a">
+                    <c type="phon">ki</c>
+                  </w>
+                  <w type="vb-ctt" lemma="l030206a">
+                    <c type="phon">masitutu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="可射之多里家利"/>
+              <w type="vb-cls">
+                <w type="vb-stm" lemma="l030454a">
+                  <c type="phon">kazasi</c>
+                </w>
+                <w type="vax-stv-stm" lemma="l000022">
+                  <c type="phon">tari</c>
+                </w>
+                <w type="vax-mpst-cls" lemma="l000016">
+                  <c type="phon">kyeri</c>
+                </w>
+              </w>
+            </cl>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

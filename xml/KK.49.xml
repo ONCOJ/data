@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.49">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="須須許理賀"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="pen" lemma="l052036">
+                        <c type="phon">susukori</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="迦美斯美岐迩"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030525a">
+                      <c type="phon">kami</c>
+                    </w>
+                    <w type="vax-spst-adn" lemma="l000015">
+                      <c type="phon">si</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050750">
+                  <w type="pfx-hon" lemma="l000035">
+                    <c type="phon">mi</c>
+                  </w>
+                  <w type="n" lemma="l052476">
+                    <c type="phon">ki</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="和禮恵比迩祁理"/>
+            <phr type="np-sbj">
+              <w type="pro-n" lemma="l042059">
+                <c type="phon">ware</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031930a">
+                <c type="phon">wepi</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-mpst-cls" lemma="l000016">
+                <c type="phon">kyeri</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="許登那具志"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="conjp">
+                  <phr type="np">
+                    <w type="n" lemma="l050375">
+                      <w type="n" lemma="l080414">
+                        <c type="phon">kotona</c>
+                      </w>
+                      <w type="n" lemma="l090103">
+                        <c type="phon">gusi</c>
+                      </w>
+                    </w>
+                  </phr>
+                </phr>
+                <lb id="4" corresp="恵具志爾"/>
+                <phr type="np">
+                  <w type="n" lemma="l050376">
+                    <w type="vb-stm" lemma="l031934a">
+                      <c type="phon">we</c>
+                    </w>
+                    <w type="n" lemma="l090103">
+                      <c type="phon">gusi</c>
+                    </w>
+                  </w>
+                </phr>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="5" corresp="和禮恵比迩祁理"/>
+            <phr type="np-sbj">
+              <w type="pro-n" lemma="l042059">
+                <c type="phon">ware</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031930a">
+                <c type="phon">wepi</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-mpst-cls" lemma="l000016">
+                <c type="phon">kyeri</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

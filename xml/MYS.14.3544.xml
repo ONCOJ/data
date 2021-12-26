@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3544">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="阿須可河伯"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <cl type="ip-nmz">
+                  <phr type="np-prd">
+                    <w type="pln" lemma="l060010">
+                      <w type="pln" lemma="l050865">
+                        <c type="phon-on">asuka</c>
+                      </w>
+                      <w type="n" lemma="l050025">
+                        <c type="phon-on">gapa</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="之多爾其礼留乎"/>
+                  <cl type="ip-adv">
+                    <phr type="np-sbj">
+                      <w type="n" lemma="l050026">
+                        <c type="phon">sita</c>
+                      </w>
+                    </phr>
+                    <w type="vb-adn">
+                      <w type="vb-stm" lemma="l031328a">
+                        <c type="phon">nigor</c>
+                      </w>
+                      <w type="vax-stv-adn" lemma="l000024">
+                        <c type="phon">eru</c>
+                      </w>
+                    </w>
+                  </cl>
+                </cl>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="之良受思天"/>
+              <w type="vb-ger">
+                <w type="vb-stm" lemma="l031967a">
+                  <c type="phon">sira</c>
+                </w>
+                <w type="vax-neg-ger" lemma="l000006a">
+                  <c type="phon">zusite</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="勢奈那登布多理"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="n" lemma="l090126">
+                    <c type="phon">se</c>
+                  </w>
+                  <w type="sfx" lemma="l000065">
+                    <c type="phon">na</c>
+                  </w>
+                  <w type="sfx" lemma="l080029">
+                    <c type="phon">na</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-com" lemma="l000529">
+                <c type="phon">to</c>
+              </w>
+            </phr>
+            <phr type="np">
+              <w type="n">
+                <w type="num" lemma="l002002">
+                  <c type="phon">puta</c>
+                </w>
+                <w type="cl" lemma="l002016">
+                  <c type="phon">ri</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="4" corresp="左宿而久也思母"/>
+            <w type="vb-ger" lemma="l030817a">
+              <w type="pfx" lemma="l000040">
+                <c type="phon">sa</c>
+              </w>
+              <w type="vb-ger" lemma="l031342a">
+                <c type="log">nete</c>
+              </w>
+            </w>
+          </cl>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007100">
+              <c type="phon">kuyasi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

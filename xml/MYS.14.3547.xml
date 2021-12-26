@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3547">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="阿遅乃須牟"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="n" lemma="l050142">
+                        <c type="phon">adi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l030950a">
+                    <c type="phon">sumu</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="須沙能伊利江乃"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l052034">
+                      <c type="phon">susa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051122">
+                      <w type="vb-stm" lemma="l030219a">
+                        <c type="phon">iri</c>
+                      </w>
+                      <w type="n" lemma="l052401">
+                        <c type="log">ye</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="許母理沼乃"/>
+                <w type="n" lemma="l090525">
+                  <w type="vb-stm" lemma="l030744a">
+                    <c type="phon">komori</c>
+                  </w>
+                  <w type="n" lemma="l051642">
+                    <c type="log">nu</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="phon">no</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="安奈伊伎豆加思"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l090051a">
+                <c type="phon">ana</c>
+              </w>
+            </phr>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l030143a">
+                <c type="phon">ikiduka</c>
+              </w>
+              <w type="vax-rsp-inf" lemma="l000009">
+                <c type="phon">si</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="美受比佐爾指天"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="vb-ifc">
+                <w type="vb-stm" lemma="l031712a">
+                  <c type="phon">mi</c>
+                </w>
+                <w type="vax-neg-ifc" lemma="l000006a">
+                  <c type="phon">zu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="adj-ger">
+              <w type="adj-stm" lemma="l004102">
+                <c type="phon">pisa</c>
+              </w>
+              <w type="cop-ger" lemma="l031965">
+                <c type="phon">nisite</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

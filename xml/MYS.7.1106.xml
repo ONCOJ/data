@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1106">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="河豆鳴"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-sbj">
+                    <w type="n" lemma="l052560">
+                      <c type="phon">kapadu</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031267a">
+                    <c type="log">naku</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="清川原乎"/>
+                <cl type="ip-rel">
+                  <w type="adj-adn">
+                    <w type="adj-stm" lemma="l007086">
+                      <c type="log">kiywo</c>
+                    </w>
+                    <w type="acp-adn" lemma="l000033">
+                      <c type="log">ki</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051206">
+                  <c type="log">kapara</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="今日見而者"/>
+            <phr type="np-adv">
+              <w type="n" lemma="l051388">
+                <c type="log">kyepu</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031712a">
+              <c type="log">mite</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="何時可越来而"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="wh-adv" lemma="l042014">
+                  <c type="log">itu</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+            </phr>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="vb-ger">
+                  <w type="vb-stm" lemma="l030747a">
+                    <c type="log">kwoye</c>
+                  </w>
+                  <w type="vb-ger" lemma="l030612a">
+                    <c type="log">kite</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="見乍偲食"/>
+              <w type="vb-ctt" lemma="l031712a">
+                <c type="log">mi</c>
+                <c type="phon">tutu</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030886a">
+                <c type="log">sinwo</c>
+                <c type="phon">pa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

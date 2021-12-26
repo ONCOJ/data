@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1756">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="掻霧之"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <w type="vb-inf">
+                      <w type="pfx-mph" lemma="l000031">
+                        <c type="phon">kaki</c>
+                      </w>
+                      <w type="vb-inf" lemma="l030610a">
+                        <c type="log">kwira</c>
+                        <c type="phon">si</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="雨零夜乎"/>
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="n" lemma="l050001a">
+                        <c type="log">ame</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031559a">
+                    <c type="log">puru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050039">
+                  <c type="log">ywo</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="霍公鳥"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050160">
+                <c type="log">pototogisu</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="鳴而去成"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031267a">
+                <c type="log">nakite</c>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l031840a">
+              <c type="log">yuku</c>
+            </w>
+            <w type="xtn-ifc" lemma="l000804">
+              <c type="log">nari</c>
+            </w>
+          </s>
+          <lb id="4" corresp="a怜其鳥"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="np-prd">
+                <w type="intj" lemma="l050817">
+                  <c type="log">apare</c>
+                </w>
+              </phr>
+            </cl>
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042040">
+                    <c type="log">so</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050970">
+                <c type="log">tori</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

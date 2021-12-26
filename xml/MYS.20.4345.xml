@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4345" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="和伎米故等"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="n" lemma="l050020">
+                        <c type="phon">wagime</c>
+                      </w>
+                      <w type="n" lemma="l050028">
+                        <c type="phon">kwo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-com" lemma="l000529">
+                    <c type="phon">to</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="不多利和我見之"/>
+                <phr type="np">
+                  <w type="n">
+                    <w type="num" lemma="l002002">
+                      <c type="phon">puta</c>
+                    </w>
+                    <w type="cl" lemma="l002016">
+                      <c type="phon">ri</c>
+                    </w>
+                  </w>
+                </phr>
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="phon">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031712a">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="宇知江須流"/>
+              <cl type="ip-rel">
+                <w type="vb-adn">
+                  <w type="pfx-mph" lemma="l000043">
+                    <c type="phon">uti</c>
+                  </w>
+                  <w type="vb-adn" lemma="l031872a">
+                    <c type="phon">yesuru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="須流河乃祢良波"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l052033">
+                    <c type="phon-on">suruga</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="n" lemma="l052485">
+                  <c type="phon">ne</c>
+                </w>
+                <w type="sfx" lemma="l001003">
+                  <c type="phon">ra</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="苦不志久米阿流可"/>
+          <w type="adj-inf">
+            <w type="adj-stm" lemma="l007102">
+              <c type="phon">kupusi</c>
+            </w>
+            <w type="acp-inf" lemma="l000033">
+              <c type="phon">ku</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">me</c>
+          </w>
+          <w type="vb-adn" lemma="l030125a">
+            <c type="phon">aru</c>
+          </w>
+          <w type="p-foc" lemma="l000506">
+            <c type="phon">ka</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

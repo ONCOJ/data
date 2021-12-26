@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3416">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <cl type="ip-adv">
+            <lb id="0" corresp="可美都気努"/>
+            <phr type="np-ob1">
+              <phr type="np">
+                <w type="pln" lemma="l090424">
+                  <w type="n" lemma="l050045">
+                    <c type="phon-on">kami</c>
+                  </w>
+                  <w type="cop-adn" lemma="l031968">
+                    <c type="phon-on">tu</c>
+                  </w>
+                  <w type="pln" lemma="l051387">
+                    <c type="phon-on">kenwo</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="1" corresp="可保夜我奴麻能"/>
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051213">
+                        <c type="phon">kapoya</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l051642">
+                    <c type="phon">numa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="伊波為都良"/>
+              <w type="n" lemma="l051114">
+                <w type="n" lemma="l051113">
+                  <c type="phon">ipawi</c>
+                </w>
+                <w type="n" lemma="l090352">
+                  <c type="phon">tura</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="比可波奴礼都追"/>
+            <w type="vb-cnd" lemma="l031474a">
+              <c type="phon">pikaba</c>
+            </w>
+          </cl>
+          <cl type="ip-adv">
+            <w type="vb-ctt" lemma="l031355a">
+              <c type="phon">nuretutu</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="安乎奈多要曾祢"/>
+          <phr type="pp-src-ob1">
+            <phr type="np">
+              <w type="pro-n" lemma="l042054">
+                <c type="phon">a</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <w type="vb">
+            <w type="cfx-phb" lemma="l000037">
+              <c type="phon">na</c>
+            </w>
+            <w type="vb-stm" lemma="l031090a">
+              <c type="phon">taye</c>
+            </w>
+            <w type="cfx-phb" lemma="l000037">
+              <c type="phon">sone</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

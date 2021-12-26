@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1316">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="河内女之"/>
+          <cl type="ip-arg">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="n" lemma="l051214">
+                            <c type="phon">kaputi</c>
+                          </w>
+                          <w type="n" lemma="l050132">
+                            <c type="log">mye</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="手染之絲乎"/>
+                    <w type="n">
+                      <w type="n" lemma="l050012a">
+                        <c type="log">te</c>
+                      </w>
+                      <w type="n-dvb" lemma="l030981b">
+                        <c type="log">zome</c>
+                      </w>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="log">no</c>
+                    </w>
+                    <w type="n" lemma="l090044">
+                      <c type="log">ito</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-acc" lemma="l000534">
+                    <c type="phon">wo</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="絡反"/>
+                <w type="vb-inf" lemma="l030665a">
+                  <w type="vb-stm" lemma="l030667a">
+                    <c type="log">kuri</c>
+                  </w>
+                  <w type="vb-inf" lemma="l030515a">
+                    <c type="log">kapyesi</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="片絲爾雖有"/>
+              <phr type="np-prd">
+                <w type="n">
+                  <w type="adj-stm" lemma="l090031">
+                    <c type="log">kata</c>
+                  </w>
+                  <w type="n" lemma="l090044">
+                    <c type="log">ito</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vb-css" lemma="l030125a">
+                <c type="log">aredo</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="将絶跡念也"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031090a">
+                <c type="log">taye</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <w type="vb-exc" lemma="l030399a">
+            <c type="log">omope</c>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

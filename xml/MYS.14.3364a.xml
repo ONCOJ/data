@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3364a">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安思我良能"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="pln" lemma="l050855">
+                            <c type="phon-on">asigara</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="波姑祢乃夜麻爾"/>
+                      <w type="pln" lemma="l051707">
+                        <c type="phon">pakwone</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050034">
+                    <c type="phon">yama</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="安波麻吉弖"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l004056">
+                  <c type="phon">apa</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031619a">
+                <c type="phon">makite</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="実登波奈礼留乎"/>
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <w type="n" lemma="l050093">
+                  <c type="log">mwi</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031968">
+                <c type="phon">to</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </cl>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l031317a">
+                <c type="phon">nar</c>
+              </w>
+              <w type="vax-stv-adn" lemma="l000024">
+                <c type="phon">eru</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000552">
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="阿波奈久毛安夜思"/>
+          <phr type="pp-sbj">
+            <cl type="ip-nmz">
+              <w type="vb-nml">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="phon">apa</c>
+                </w>
+                <w type="vax-neg-nml" lemma="l000006a">
+                  <c type="phon">naku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007044">
+              <c type="phon">ayasi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

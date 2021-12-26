@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2657">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="神名火爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051193">
+                    <c type="phon">kamunabwi</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="紐呂寸立而"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l051764">
+                  <c type="log">pimoroki</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031044a">
+                <c type="log">tatete</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="雖忌"/>
+            <w type="vb-css" lemma="l030193a">
+              <c type="log">ipapedomo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="人心者"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050046">
+                    <c type="log">pito</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="間守不敢物"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l031667a">
+                  <c type="log">mamori</c>
+                </w>
+                <w type="vb-stm" lemma="l030073a">
+                  <c type="log">ape</c>
+                </w>
+                <w type="vax-neg-adn" lemma="l000006a">
+                  <c type="log">nu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050042">
+              <c type="log">mono</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

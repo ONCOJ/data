@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="SNK.6">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="乎止賣良爾"/>
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l050145">
+                      <c type="phon">wotomye</c>
+                    </w>
+                    <w type="sfx" lemma="l001003">
+                      <c type="phon">ra</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="乎止古多智蘇比"/>
+              <phr type="np">
+                <w type="n" lemma="l050146">
+                  <c type="phon">wotokwo</c>
+                </w>
+              </phr>
+              <w type="vb-inf">
+                <w type="vb-stm" lemma="l031043a">
+                  <c type="phon">tati</c>
+                </w>
+                <w type="vb-inf" lemma="l030975a">
+                  <c type="phon">swopi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="布美奈良須"/>
+            <w type="vb-adc" lemma="l031551a">
+              <w type="vb-stm" lemma="l031553a">
+                <c type="phon">pumi</c>
+              </w>
+              <w type="vb-adc" lemma="l031312a">
+                <c type="phon">narasu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="爾詩乃美夜古波"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051623">
+                      <c type="phon">nisi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050129">
+                  <c type="phon">miyakwo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="与呂豆与乃美夜"/>
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <w type="n">
+                    <w type="num" lemma="l002014">
+                      <c type="phon">yorodu</c>
+                    </w>
+                    <w type="n" lemma="l050040">
+                      <c type="phon">yo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050018">
+                <c type="phon">miya</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

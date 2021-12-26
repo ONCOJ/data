@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.2.118">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="嘆管"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="vb-ctt" lemma="l031276a">
+                <c type="log">nageki</c>
+                <c type="phon">tutu</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="大夫之"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n">
+                  <w type="adj-stm" lemma="l007110">
+                    <c type="log">masura</c>
+                  </w>
+                  <w type="n" lemma="l052350">
+                    <c type="log">wonokwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="戀礼許曽"/>
+            <w type="vb-exc" lemma="l030731a">
+              <c type="log">kwopu</c>
+              <c type="phon">re</c>
+            </w>
+            <w type="p-foc" lemma="l000510">
+              <c type="phon">koso</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="吾髪結乃"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="log">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="nlog">ga</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031850a">
+                  <c type="log">yupu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l052532">
+                <c type="log">kami</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="phon">no</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="漬而奴礼計礼"/>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l031488a">
+              <c type="log">pitite</c>
+            </w>
+          </cl>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l031355a">
+              <c type="phon">nure</c>
+            </w>
+            <w type="vax-mpst-exc" lemma="l000016">
+              <c type="phon">kyere</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

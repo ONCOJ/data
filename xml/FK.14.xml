@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.14">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="古良爾古非"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l050028">
+                      <c type="phon">kwo</c>
+                    </w>
+                    <w type="sfx" lemma="l001003">
+                      <c type="phon">ra</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030731a">
+                <c type="phon">kwopwi</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="阿佐刀遠比良企"/>
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050647">
+                    <w type="n" lemma="l050139">
+                      <c type="phon">asa</c>
+                    </w>
+                    <w type="n" lemma="l090263">
+                      <c type="phon">two</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031501a">
+                <c type="phon">piraki</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="和我遠礼波"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042057">
+                  <c type="phon">wa</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <w type="vb-prv" lemma="l031957a">
+              <c type="phon">woreba</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="等許与能波麻能"/>
+          <phr type="np-sbj">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l090453">
+                  <w type="adj-stm" lemma="l007194">
+                    <c type="phon">toko</c>
+                  </w>
+                  <w type="n" lemma="l050040">
+                    <c type="phon">yo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051709">
+                  <c type="phon">pama</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="奈美能等企許由"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050017">
+                  <c type="phon">nami</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050072">
+              <c type="phon">to</c>
+            </w>
+          </phr>
+          <w type="vb-cls" lemma="l030569a">
+            <c type="phon">kikoyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

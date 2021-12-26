@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2810">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="音耳乎"/>
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050072">
+                    <c type="log">oto</c>
+                  </w>
+                </phr>
+                <w type="p-res" lemma="l000521">
+                  <c type="log">nomwi</c>
+                </w>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="聞而哉戀"/>
+              <w type="vb-ger" lemma="l030565a">
+                <c type="log">kikite</c>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="log">ya</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030731a">
+                <c type="log">kwopwi</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="犬馬鏡"/>
+          <cl type="ip-adv">
+            <phr type="pp-arg">
+              <cl type="ip-nmz">
+                <cl type="ip-adv">
+                  <cl type="ip-ept">
+                    <w type="mk" lemma="l091017">
+                      <w type="n" lemma="l050194">
+                        <w type="pfx" lemma="l000064">
+                          <c type="phon">maswo</c>
+                        </w>
+                        <w type="n" lemma="l052543">
+                          <c type="log">kagami</c>
+                        </w>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="直目相而"/>
+                  <phr type="np-adv">
+                    <w type="adv" lemma="l004121">
+                      <c type="log">tadame</c>
+                      <c type="nlog">ni</c>
+                    </w>
+                  </phr>
+                  <w type="vb-ger" lemma="l030071a">
+                    <c type="log">apite</c>
+                  </w>
+                </cl>
+                <lb id="4" corresp="戀巻裳太口"/>
+                <w type="vb-nml">
+                  <w type="vb-stm" lemma="l030731a">
+                    <c type="log">kwopwi</c>
+                  </w>
+                  <w type="vax-cjr-nml" lemma="l000002">
+                    <c type="phon">maku</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007010">
+                <c type="phon">ita</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3879">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="堦楯"/>
+            <phr type="np-voc">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk-adi" lemma="l090431">
+                        <w type="n" lemma="l090599">
+                          <w type="n" lemma="l051727">
+                            <c type="log">pasi</c>
+                          </w>
+                          <w type="n-dvb" lemma="l031044b">
+                            <c type="log">tate</c>
+                          </w>
+                        </w>
+                        <w type="cop-adi" lemma="l031965">
+                          <c type="nlog">no</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="熊來酒屋爾"/>
+                    <w type="n">
+                      <w type="pln" lemma="l051333">
+                        <c type="phon">kumaki</c>
+                      </w>
+                      <w type="n">
+                        <w type="n" lemma="l050073b">
+                          <c type="log">saka</c>
+                        </w>
+                        <w type="n" lemma="l050182">
+                          <c type="log">ya</c>
+                        </w>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="眞奴良留奴和之"/>
+                <w type="vb-adn" lemma="l090158">
+                  <c type="phon">manuraru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l042087">
+                <c type="log">yatukwo</c>
+              </w>
+            </phr>
+            <phr type="np-voc">
+              <w type="intj" lemma="l080005">
+                <c type="phon">wasi</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="佐須比立"/>
+            <cl type="ip-adv">
+              <w type="vb-ger">
+                <w type="vb-stm" lemma="l030808a">
+                  <c type="phon">sasupi</c>
+                </w>
+                <w type="vb-ger" lemma="l031044a">
+                  <c type="log">tate</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="率而來奈麻之乎"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031927a">
+                <c type="log">wite</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="log">ki</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">na</c>
+              </w>
+              <w type="vax-sjv-adc" lemma="l000004">
+                <c type="phon">masi</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000552">
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="5" corresp="眞奴良留奴和之"/>
+          <phr type="np-voc">
+            <cl type="ip-rel">
+              <w type="vb-adn" lemma="l090158">
+                <c type="phon">manuraru</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l042087">
+              <c type="log">yatukwo</c>
+            </w>
+          </phr>
+          <phr type="np-voc">
+            <w type="intj" lemma="l080005">
+              <c type="phon">wasi</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

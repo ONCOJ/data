@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.441">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="大皇之"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050267">
+                    <w type="adj-stm" lemma="l007009a">
+                      <c type="log">opo</c>
+                    </w>
+                    <w type="n" lemma="l004266">
+                      <c type="log">kimi</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="命恐"/>
+              <w type="n" lemma="l050752">
+                <c type="log">mikoto</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007078">
+                <c type="log">kasikwo</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="log">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="大荒城乃"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="adj-stm" lemma="l007009a">
+                      <c type="log">opo</c>
+                    </w>
+                    <w type="n" lemma="l080169">
+                      <w type="adj-stm" lemma="l007034">
+                        <c type="log">ara</c>
+                      </w>
+                      <w type="n" lemma="l052473">
+                        <c type="log">kwi</c>
+                      </w>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="時爾波不有跡"/>
+              <w type="n" lemma="l050059">
+                <c type="log">toki</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+            <w type="vb-css">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ara</c>
+              </w>
+              <w type="vax-neg-css" lemma="l000006a">
+                <c type="log">nedo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="雲隠座"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030655a">
+              <w type="n" lemma="l050115">
+                <c type="log">kumo</c>
+              </w>
+              <w type="vb-stm" lemma="l030448a">
+                <c type="log">gakuri</c>
+              </w>
+            </w>
+            <w type="vb-adc" lemma="l030206a">
+              <c type="log">masu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

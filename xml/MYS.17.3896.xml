@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3896">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="家爾底母"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l050006a">
+                      <c type="log">ipye</c>
+                    </w>
+                  </phr>
+                  <w type="cop-ger" lemma="l031965">
+                    <c type="phon">nite</c>
+                  </w>
+                  <w type="p-top" lemma="l000514">
+                    <c type="phon">mo</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="多由多敷命"/>
+                <cl type="ip-adv">
+                  <w type="vb-adc" lemma="l031091a">
+                    <c type="phon">tayutapu</c>
+                  </w>
+                </cl>
+              </cl>
+              <w type="n" lemma="l051102">
+                <c type="log">inoti</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="浪乃宇倍爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050017">
+                      <c type="log">nami</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050029a">
+                  <c type="phon">upe</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="宇伎低之乎礼波"/>
+            <w type="vb-ger" lemma="l030238a">
+              <c type="phon">ukite</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="vb-pgs-prv" lemma="l031957a">
+              <c type="phon">woreba</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="於久香之良受母"/>
+          <phr type="np-ob1">
+            <w type="n" lemma="l051661">
+              <c type="phon">okuka</c>
+            </w>
+          </phr>
+          <w type="vb-ifc">
+            <w type="vb-stm" lemma="l031967a">
+              <c type="phon">sira</c>
+            </w>
+            <w type="vax-neg-ifc" lemma="l000006a">
+              <c type="phon">zu</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

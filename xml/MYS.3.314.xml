@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.314">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="小浪"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <cl type="ip-zyo">
+                    <phr type="np">
+                      <w type="n" lemma="l051909">
+                        <w type="adj-stm" lemma="l051908">
+                          <c type="log">sazare</c>
+                        </w>
+                        <w type="n" lemma="l050017">
+                          <c type="log">nami</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="礒越道有"/>
+                    <phr type="np">
+                      <w type="n" lemma="l050104">
+                        <c type="log">iswo</c>
+                      </w>
+                    </phr>
+                  </cl>
+                  <w type="pln" lemma="l060213">
+                    <w type="pln" lemma="l052562">
+                      <c type="plog">kwosi</c>
+                    </w>
+                    <w type="n" lemma="l050091">
+                      <c type="log">di</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="cop-adn" lemma="l031966">
+                  <c type="nlog">n</c>
+                  <c type="log">aru</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="能登湍河"/>
+              <w type="pln" lemma="l060128">
+                <w type="pln" lemma="l090284">
+                  <c type="phon-on">noto</c>
+                  <c type="phon-kun">se</c>
+                </w>
+                <w type="n" lemma="l050025">
+                  <c type="log">gapa</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="音之清左"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050072">
+                  <c type="log">oto</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="adj-exc">
+              <w type="adj-stm" lemma="l007162">
+                <c type="log">sayake</c>
+              </w>
+              <w type="acp-exc" lemma="l000039">
+                <c type="phon">sa</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="多藝通瀬毎爾"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adc" lemma="l030999a">
+                  <c type="phon">tagitu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l090058">
+                <c type="phon">se</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000546">
+              <c type="log">goto</c>
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

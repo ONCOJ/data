@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.588">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="白鳥能"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <cl type="ip-ept">
+                    <w type="mk-adi" lemma="l090472">
+                      <w type="n">
+                        <w type="adj-stm" lemma="l007006a">
+                          <c type="log">sira</c>
+                        </w>
+                        <w type="n" lemma="l050970">
+                          <c type="log">tori</c>
+                        </w>
+                      </w>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="phon">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="飛羽山松之"/>
+                  <w type="n">
+                    <w type="pln" lemma="l060113">
+                      <w type="pln" lemma="l052140">
+                        <c type="phon-kun">toba</c>
+                      </w>
+                      <w type="n" lemma="l050034">
+                        <c type="log">yama</c>
+                      </w>
+                    </w>
+                    <w type="n" lemma="l050158">
+                      <c type="log">matu</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="log">no</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="待乍曽"/>
+              <w type="vb-ctt" lemma="l031644a">
+                <c type="log">matitutu</c>
+              </w>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="吾戀度"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042057">
+                  <c type="log">wa</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="nlog">ga</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030731a">
+                <c type="log">kwopwi</c>
+              </w>
+              <w type="vb-adc" lemma="l031910a">
+                <c type="log">wataru</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="此月比乎"/>
+          <phr type="pp-adv-pth">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="log">ko</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050307">
+                <w type="n" lemma="l050004a">
+                  <c type="log">tukwi</c>
+                </w>
+                <w type="n" lemma="l051303">
+                  <c type="log">goro</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.236">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="不聴跡雖云"/>
+          <phr type="np-ob1">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <cl type="ip-arg">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l004063">
+                      <c type="log">ina</c>
+                    </w>
+                  </phr>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">to</c>
+                  </w>
+                </cl>
+                <w type="vb-css" lemma="l030199a">
+                  <c type="log">ipedo</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="強流志斐能我"/>
+              <w type="vb-adn" lemma="l030895a">
+                <c type="log">sipu</c>
+                <c type="phon">ru</c>
+              </w>
+            </cl>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="pen" lemma="l090228">
+                    <c type="phon">sipwi</c>
+                  </w>
+                  <w type="sfx" lemma="l080029">
+                    <c type="phon">no</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="強語"/>
+            <w type="n">
+              <w type="n-dvb" lemma="l030895b">
+                <c type="log">sipwi</c>
+              </w>
+              <w type="n-dvb" lemma="l030492b">
+                <c type="log">gatari</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="3" corresp="比者不聞而"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="log">ko</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l051303">
+                <c type="log">koro</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030565a">
+                <c type="log">kika</c>
+              </w>
+              <w type="vax-neg-ger" lemma="l000006a">
+                <c type="log">zute</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="朕戀爾家里"/>
+          <phr type="np-sbj">
+            <w type="pro-n" lemma="l042059">
+              <c type="log">ware</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="phon">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

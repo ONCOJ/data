@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4275">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="天地与"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050719">
+                  <w type="n" lemma="l050001a">
+                    <c type="log">ame</c>
+                  </w>
+                  <w type="n" lemma="l050015">
+                    <c type="log">tuti</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-com" lemma="l000529">
+                <c type="phon">to</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="久万弖爾"/>
+            <phr type="pp-adv">
+              <cl type="ip-nmz">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007147">
+                    <c type="log">pisasi</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="log">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="p-res" lemma="l000512b">
+                <c type="phon">madeni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="万代爾"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n">
+                  <w type="num" lemma="l002014">
+                    <c type="log">yorodu</c>
+                  </w>
+                  <w type="n" lemma="l050040">
+                    <c type="log">yo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="都可倍麻都良牟"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031121a">
+                <w type="vb-stm" lemma="l031119a">
+                  <c type="phon">tukape</c>
+                </w>
+                <w type="vb-stm" lemma="l031649a">
+                  <c type="phon">matura</c>
+                </w>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="黒酒白酒乎"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <phr type="conjp">
+                <phr type="np">
+                  <w type="n" lemma="l090663">
+                    <w type="adj-stm" lemma="l007097">
+                      <c type="log">kurwo</c>
+                    </w>
+                    <w type="n" lemma="l052476">
+                      <c type="log">ki</c>
+                    </w>
+                  </w>
+                </phr>
+              </phr>
+              <phr type="np">
+                <w type="n" lemma="l090664">
+                  <w type="adj-stm" lemma="l007006b">
+                    <c type="log">sirwo</c>
+                  </w>
+                  <w type="n" lemma="l052476">
+                    <c type="log">ki</c>
+                  </w>
+                </w>
+              </phr>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2509">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="眞祖鏡"/>
+            <cl type="ip-adv">
+              <cl type="ip-ept">
+                <w type="mk" lemma="l091017">
+                  <w type="n" lemma="l050194">
+                    <w type="pfx" lemma="l000064">
+                      <c type="phon">maswo</c>
+                    </w>
+                    <w type="n" lemma="l052543">
+                      <c type="log">kagami</c>
+                    </w>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="雖見言哉"/>
+              <w type="vb-ifc" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="log">tomo</c>
+              </w>
+            </cl>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030199a">
+                <c type="log">ipa</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="log">me</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="log">ya</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="玉限"/>
+          <phr type="np-voc">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <cl type="ip-ept">
+                    <w type="mk-adc" lemma="l091057">
+                      <w type="n" lemma="l052078">
+                        <c type="log">tama</c>
+                      </w>
+                      <w type="vb-adc" lemma="l030438a">
+                        <c type="log">kagiru</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="石垣淵乃"/>
+                  <w type="n" lemma="l090776">
+                    <w type="n" lemma="l050014">
+                      <c type="log">ipa</c>
+                    </w>
+                    <w type="n" lemma="l050141">
+                      <c type="log">kaki</c>
+                    </w>
+                    <w type="n" lemma="l051843">
+                      <c type="log">puti</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="隠而在孋"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030744a">
+                  <c type="log">komori</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000022">
+                  <c type="log">taru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050120">
+              <c type="log">tuma</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

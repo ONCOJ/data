@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2893">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="朝去而"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-adv">
+                    <w type="n" lemma="l050862">
+                      <c type="log">asita</c>
+                    </w>
+                  </phr>
+                  <w type="vb-ger" lemma="l031840a">
+                    <c type="log">yukite</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="暮者来座"/>
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="n" lemma="l050439">
+                      <w type="n" lemma="l050087">
+                        <c type="log">yupu</c>
+                      </w>
+                      <w type="n" lemma="l050133">
+                        <c type="log">pye</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-top" lemma="l000522">
+                    <c type="log">pa</c>
+                  </w>
+                </phr>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l030612a">
+                    <c type="log">ki</c>
+                  </w>
+                  <w type="vb-adc" lemma="l030206a">
+                    <c type="log">masu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="君故爾"/>
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-conn" lemma="l000539">
+              <c type="log">yuwe</c>
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="忌々久毛吾者"/>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007222">
+                <c type="log">yuyusi</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042054">
+                <c type="log">a</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="歎鶴鴨"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l031276a">
+              <c type="log">nageki</c>
+            </w>
+            <w type="vax-prf-adn" lemma="l000023">
+              <c type="phon">turu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

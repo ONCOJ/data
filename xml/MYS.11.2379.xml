@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2379">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="見度"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <cl type="ip-adv">
+                      <w type="vb-prv" lemma="l031715a">
+                        <w type="vb-stm" lemma="l031712a">
+                          <c type="log">mi</c>
+                        </w>
+                        <w type="vb-prv" lemma="l031908a">
+                          <c type="log">wataseba</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="近渡乎"/>
+                    <w type="adj-adn">
+                      <w type="adj-stm" lemma="l007017">
+                        <c type="log">tika</c>
+                      </w>
+                      <w type="acp-adn" lemma="l000033">
+                        <c type="log">ki</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n-dvb" lemma="l031910b">
+                    <c type="log">watari</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="廻"/>
+              <w type="vb-inf" lemma="l031089a">
+                <w type="pfx" lemma="l000042">
+                  <c type="log">ta</c>
+                </w>
+                <w type="vb-inf" lemma="l031765a">
+                  <c type="log">motopori</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="今哉來座"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="n" lemma="l004025">
+                  <c type="log">ima</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000506">
+                <c type="log">ka</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="log">ki</c>
+              </w>
+              <w type="vb-adc" lemma="l030206a">
+                <c type="log">masu</c>
+              </w>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="nlog">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="戀居"/>
+          <w type="vb-ctt" lemma="l030731a">
+            <c type="log">kwopwitutu</c>
+          </w>
+          <w type="p-foc" lemma="l000527">
+            <c type="nlog">zo</c>
+          </w>
+          <w type="vb-pgs-adn" lemma="l031957a">
+            <c type="log">woru</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

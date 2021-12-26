@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1682">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="常之倍爾"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004129">
+                <c type="phon">tokosipeni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="夏冬徃哉"/>
+            <phr type="np-sbj">
+              <phr type="conjp">
+                <phr type="np">
+                  <w type="n" lemma="l051598">
+                    <c type="log">natu</c>
+                  </w>
+                </phr>
+              </phr>
+              <phr type="np">
+                <w type="n" lemma="l051846">
+                  <c type="log">puyu</c>
+                </w>
+              </phr>
+            </phr>
+            <w type="vb-exc" lemma="l031840a">
+              <c type="log">yuke</c>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="log">ya</c>
+            </w>
+          </s>
+          <lb id="2" corresp="裘"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-ob1">
+                    <phr type="conjp">
+                      <phr type="np">
+                        <w type="n" lemma="l051205">
+                          <w type="n" lemma="l052565">
+                            <c type="log">kapa</c>
+                          </w>
+                          <w type="n" lemma="l051304">
+                            <c type="log">goromo</c>
+                          </w>
+                        </w>
+                      </phr>
+                    </phr>
+                    <lb id="3" corresp="扇不放"/>
+                    <phr type="np">
+                      <w type="n" lemma="l080261">
+                        <c type="log">apugi</c>
+                      </w>
+                    </phr>
+                  </phr>
+                  <w type="vb-ifc">
+                    <w type="vb-stm" lemma="l031425a">
+                      <c type="log">panata</c>
+                    </w>
+                    <w type="vax-neg-ifc" lemma="l000006a">
+                      <c type="log">zu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="4" corresp="山住人"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l030950a">
+                  <c type="log">sumu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

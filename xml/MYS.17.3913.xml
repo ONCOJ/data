@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3913">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="保登等芸須"/>
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050160">
+                  <c type="phon">pototogisu</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="安不知能枝爾"/>
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050828">
+                        <c type="phon">aputi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l052403">
+                    <c type="log">ye</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="由吉底居者"/>
+              <cl type="ip-adv">
+                <w type="vb-ger" lemma="l031840a">
+                  <c type="phon">yukite</c>
+                </w>
+              </cl>
+              <w type="vb-cnd" lemma="l031926a">
+                <c type="log">wiba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="花波知良牟奈"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l050083">
+                  <c type="log">pana</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031111a">
+                <c type="phon">tira</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+            <w type="p-fnl-xcl" lemma="l000550">
+              <c type="phon">na</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="珠登見流麻泥"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <cl type="ip-arg">
+                <phr type="np-prd">
+                  <w type="n" lemma="l052078">
+                    <c type="log">tama</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031968">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <w type="vb-adn" lemma="l031712a">
+                <c type="log">mi</c>
+                <c type="phon">ru</c>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512a">
+              <c type="phon">made</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

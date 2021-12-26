@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1074">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="春日山"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-arg">
+                  <w type="pln" lemma="l060054">
+                    <w type="pln" lemma="l051241">
+                      <c type="plog">kasuga</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="押而照有"/>
+                <cl type="ip-adv">
+                  <cl type="ip-adv">
+                    <w type="vb-ger" lemma="l030349a">
+                      <c type="log">osite</c>
+                    </w>
+                  </cl>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031190a">
+                      <c type="log">teras</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="log">eru</c>
+                    </w>
+                  </w>
+                </cl>
+              </cl>
+              <lb id="2" corresp="此月者"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="log">ko</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050004a">
+                <c type="log">tukwi</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="妹之庭母"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="log">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l051615">
+                <c type="log">nipa</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="nlog">ni</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="清有家里"/>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007162">
+              <c type="log">sayake</c>
+            </w>
+            <w type="acp-stm" lemma="l000032">
+              <c type="log">kari</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="phon">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

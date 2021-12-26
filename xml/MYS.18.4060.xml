@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4060">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="都奇麻知弖"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050004a">
+                  <c type="phon">tukwi</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031644a">
+                <c type="phon">matite</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="伊敞爾波由可牟"/>
+            <phr type="pp-gol">
+              <phr type="np">
+                <w type="n" lemma="l050006a">
+                  <c type="phon">ipye</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031840a">
+                <c type="phon">yuka</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="和我佐世流"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="phon">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030805a">
+                    <c type="phon">sas</c>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000024">
+                    <c type="phon">eru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="安加良多知婆奈"/>
+              <w type="n" lemma="l050626">
+                <w type="adj-stm" lemma="l004164">
+                  <c type="phon">akara</c>
+                </w>
+                <w type="n" lemma="l050150">
+                  <c type="phon">tatibana</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="4" corresp="可気爾見要都追"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n" lemma="l050011a">
+                  <c type="phon">kage</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <w type="vb-ctt">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vax-pass-ctt" lemma="l000011">
+                <c type="phon">yetutu</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

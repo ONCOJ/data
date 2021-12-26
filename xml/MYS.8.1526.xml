@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1526">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="玉蜻蜒"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <cl type="ip-arg">
+                  <cl type="ip-ept">
+                    <w type="mk-adc" lemma="l091057">
+                      <w type="n" lemma="l052078">
+                        <c type="log">tama</c>
+                      </w>
+                      <w type="vb-adc" lemma="l030439a">
+                        <c type="log">kagiru</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="髣髴所見而"/>
+                  <w type="adj-inf">
+                    <w type="adj-stm" lemma="l004105">
+                      <c type="log">ponoka</c>
+                    </w>
+                    <w type="cop-inf" lemma="l031965">
+                      <c type="nlog">ni</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="vb-ger">
+                  <w type="vb-stm" lemma="l031712a">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="vax-pass-ger" lemma="l000011">
+                    <c type="log">yete</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="別去者"/>
+              <w type="vb-cnd">
+                <w type="vb-stm" lemma="l031898a">
+                  <c type="log">wakare</c>
+                </w>
+                <w type="vax-prf-cnd" lemma="l000018">
+                  <c type="phon-kun">na</c>
+                  <c type="log">ba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="毛等奈也戀牟"/>
+            <phr type="pp-adv">
+              <phr type="np-adv">
+                <w type="adv" lemma="l004010">
+                  <c type="phon">motona</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000537">
+                <c type="phon">ya</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030731a">
+                <c type="log">kwopwi</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="相時麻而波"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adc" lemma="l030071a">
+                  <c type="log">apu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050059">
+                <c type="log">toki</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000512a">
+              <c type="phon">made</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

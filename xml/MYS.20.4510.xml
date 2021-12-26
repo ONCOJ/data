@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4510">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="於保吉美乃"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050267">
+                    <w type="adj-stm" lemma="l007009a">
+                      <c type="phon">opo</c>
+                    </w>
+                    <w type="n" lemma="l004266">
+                      <c type="phon">kimi</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="都芸弖賣須良之"/>
+              <w type="vb-ger" lemma="l031139a">
+                <c type="phon">tugite</c>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l031751a">
+              <c type="phon">myesu</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </s>
+          <lb id="2" corresp="多加麻刀能"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l090292">
+                      <c type="phon-on">takamatwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="努敞美流其等爾"/>
+                <w type="n" lemma="l051651">
+                  <w type="n" lemma="l051650">
+                    <c type="phon">nwo</c>
+                  </w>
+                  <w type="n" lemma="l050133">
+                    <c type="phon">pye</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-adn" lemma="l031712a">
+                <c type="phon">miru</c>
+              </w>
+              <w type="p-res" lemma="l000546">
+                <c type="phon">gotoni</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="祢能未之奈加由"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050082">
+                  <c type="phon">ne</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000521">
+                <c type="phon">nomwi</c>
+              </w>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031267a">
+                <c type="phon">naka</c>
+              </w>
+              <w type="vax-pass-cls" lemma="l000011">
+                <c type="phon">yu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

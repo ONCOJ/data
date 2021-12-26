@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3199">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="海之底"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l052322">
+                        <c type="log">wata</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l051985">
+                    <c type="log">soko</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="奥者恐"/>
+                <w type="n" lemma="l052520">
+                  <c type="log">oki</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007078">
+                <c type="log">kasikwo</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="nlog">si</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="礒廻従"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="pp-adv-pth">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l050104">
+                      <c type="log">iswo</c>
+                    </w>
+                    <w type="n" lemma="l080198">
+                      <c type="log">mwi</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-abl" lemma="l000540a">
+                  <c type="log">ywori</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="水手運徃為"/>
+              <cl type="ip-adv">
+                <w type="vb-inf" lemma="l030691a">
+                  <w type="vb-stm" lemma="l030698a">
+                    <c type="log">kogi</c>
+                  </w>
+                  <w type="vb-inf" lemma="l031081a">
+                    <c type="log">tamwi</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="vb-imp">
+                <w type="vb-stm" lemma="l031840a">
+                  <c type="log">yuka</c>
+                </w>
+                <w type="vax-rsp-imp" lemma="l000009">
+                  <c type="phon">se</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="月者雖經過"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050004a">
+                    <c type="log">tukwi</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <w type="vb-cls">
+                <w type="vb-stm" lemma="l031512a">
+                  <c type="log">pe</c>
+                </w>
+                <w type="vax-prf-cls" lemma="l000018">
+                  <c type="log">nu</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="log">tomo</c>
+              </w>
+            </cl>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

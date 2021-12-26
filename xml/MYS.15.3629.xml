@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3629">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="安伎左良婆"/>
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050032">
+                  <c type="phon">aki</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l030841a">
+                <c type="phon">saraba</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="和我布祢波弖牟"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="phon">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050007a">
+                <c type="phon">pune</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031421a">
+                <c type="phon">pate</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="和須礼我比"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050235">
+                  <w type="n-dvb" lemma="l031907b">
+                    <c type="phon">wasure</c>
+                  </w>
+                  <w type="n" lemma="l052551">
+                    <c type="phon">gapi</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="3" corresp="与世伎弖於家礼"/>
+              <cl type="ip-adv">
+                <w type="vb-ger">
+                  <w type="vb-stm" lemma="l031872a">
+                    <c type="phon">yose</c>
+                  </w>
+                  <w type="vb-ger" lemma="l030612a">
+                    <c type="phon">kite</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="vb-imp">
+                <w type="vb-stm" lemma="l030327a">
+                  <c type="phon">ok</c>
+                </w>
+                <w type="vax-stv-imp" lemma="l000024">
+                  <c type="phon">yere</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="於伎都之良奈美"/>
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052520">
+                    <c type="phon">oki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000532">
+                  <c type="phon">tu</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090512">
+                <w type="adj-stm" lemma="l007006a">
+                  <c type="phon">sira</c>
+                </w>
+                <w type="n" lemma="l050017">
+                  <c type="phon">nami</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

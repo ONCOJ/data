@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1476">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="獨居而"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <phr type="np-adv">
+                      <w type="n" lemma="l090747">
+                        <w type="num" lemma="l002001">
+                          <c type="log">pito</c>
+                        </w>
+                        <w type="cl" lemma="l002016">
+                          <c type="log">ri</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="vb-ger" lemma="l031926a">
+                      <c type="log">wite</c>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="物念夕爾"/>
+                  <w type="vb-adc" lemma="l031775a">
+                    <w type="n" lemma="l050042">
+                      <c type="log">mono</c>
+                    </w>
+                    <w type="vb-adc" lemma="l030399a">
+                      <c type="log">mopu</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l052415">
+                  <c type="log">yopi</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="霍公鳥"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050160">
+                <c type="log">pototogisu</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="従此間鳴渡"/>
+            <phr type="pp-adv-pth">
+              <phr type="np">
+                <w type="pro-n" lemma="l042029">
+                  <c type="log">ko</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540d">
+                <c type="log">yu</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031267a">
+                <c type="log">naki</c>
+              </w>
+              <w type="vb-adc" lemma="l031910a">
+                <c type="log">wataru</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="心四有良思"/>
+          <s type="ip-mat">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050037">
+                  <c type="log">kokoro</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <w type="vb-adn" lemma="l030125a">
+              <c type="log">aru</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

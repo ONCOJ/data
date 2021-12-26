@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3374">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="武蔵野爾"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln">
+                  <w type="pln" lemma="l051548">
+                    <c type="plog">muzasi</c>
+                  </w>
+                  <w type="n" lemma="l051650">
+                    <c type="log">nwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="宇良敞可多也伎"/>
+            <w type="vb-inf" lemma="l030306a">
+              <c type="phon">urapye</c>
+            </w>
+          </cl>
+          <cl type="ip-adv">
+            <w type="vb-inf" lemma="l030487a">
+              <w type="n" lemma="l050112">
+                <c type="phon">kata</c>
+              </w>
+              <w type="vb-inf" lemma="l031793a">
+                <c type="phon">yaki</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="麻左弖爾毛"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="adv" lemma="l004074">
+                    <c type="phon">masadeni</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="乃良奴伎美我名"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l031391a">
+                  <c type="phon">nora</c>
+                </w>
+                <w type="vax-neg-adn" lemma="l000006a">
+                  <c type="phon">nu</c>
+                </w>
+              </w>
+            </cl>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l004266">
+                  <c type="phon">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050068">
+              <c type="log">na</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="宇良爾弖爾家里"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l052488">
+                <c type="phon">ura</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">n</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030172a">
+              <c type="phon">ide</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="phon">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

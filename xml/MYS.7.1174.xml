@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1174">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="霰零"/>
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <cl type="ip-ept">
+                    <w type="mk-inf" lemma="l091040">
+                      <w type="n" lemma="l050836">
+                        <c type="log">arare</c>
+                      </w>
+                      <w type="vb-inf" lemma="l031559a">
+                        <c type="log">puri</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="鹿嶋之埼乎"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051236">
+                        <c type="plog">kasima</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l052505">
+                    <c type="log">saki</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="浪高"/>
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050017">
+                    <c type="log">nami</c>
+                  </w>
+                </phr>
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l007005">
+                    <c type="log">taka</c>
+                  </w>
+                  <w type="acp-inf" lemma="l000034">
+                    <c type="log">mi</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="過而夜将行"/>
+              <w type="vb-ger" lemma="l030926a">
+                <c type="log">sugwite</c>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="phon">ya</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031840a">
+                <c type="log">yuka</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="戀敷物乎"/>
+          <cl type="ip-adv">
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007102">
+                <c type="log">kwopo</c>
+                <c type="phon">si</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="phon">ki</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="log">mono</c>
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

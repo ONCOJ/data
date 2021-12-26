@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.350">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="黙然居而"/>
+          <phr type="pp-arg">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l051501">
+                    <c type="log">moda</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l031957a">
+                  <c type="log">worite</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="賢良為者"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l051868">
+                  <c type="log">sakasi</c>
+                  <c type="phon">ra</c>
+                </w>
+              </phr>
+              <w type="vb-adn" lemma="l030919a">
+                <c type="log">suru</c>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="飲酒而"/>
+          <phr type="pp-ob1">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l050073a">
+                    <c type="log">sake</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l031386a">
+                  <c type="log">nomite</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="酔泣為爾"/>
+              <w type="vb-inf">
+                <w type="vb-stm" lemma="l031930a">
+                  <c type="log">wepi</c>
+                </w>
+                <w type="vb-inf" lemma="l031267a">
+                  <c type="log">naki</c>
+                </w>
+              </w>
+              <w type="vb-adn" lemma="l030919a">
+                <c type="log">suru</c>
+              </w>
+            </cl>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="尚不如来"/>
+          <phr type="np">
+            <w type="adv" lemma="l004021">
+              <c type="log">napo</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030850a">
+              <c type="log">sika</c>
+            </w>
+            <w type="vax-neg-stm" lemma="l000006a">
+              <c type="log">zu</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="phon-kun">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

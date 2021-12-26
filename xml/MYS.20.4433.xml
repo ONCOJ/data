@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4433">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="阿佐奈佐奈"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="np-adv">
+                    <w type="n" lemma="l050851">
+                      <c type="phon">asanasana</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="安我流比婆理爾"/>
+                  <w type="vb-adc" lemma="l030014a">
+                    <c type="phon">agaru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051746">
+                  <c type="phon">pibari</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="奈里弖之可"/>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l031317a">
+                <c type="phon">nari</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000023">
+                <c type="phon">te</c>
+              </w>
+              <w type="vax-spst-exc" lemma="l000015">
+                <c type="phon">sika</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="美也古爾由伎弖"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="pp-gol">
+                <phr type="np">
+                  <w type="n" lemma="l050129">
+                    <c type="phon">miyakwo</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031840a">
+                <c type="phon">yukite</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="波夜加弊里許牟"/>
+            <phr type="np-adv">
+              <w type="adj-stm" lemma="l004028">
+                <c type="phon">paya</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030518a">
+                <c type="phon">kapyeri</c>
+              </w>
+              <w type="vb-stm" lemma="l030612a">
+                <c type="phon">ko</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

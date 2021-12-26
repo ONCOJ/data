@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1086">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="靱懸流"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-sbj">
+                    <cl type="ip-rel">
+                      <phr type="np-ob1">
+                        <w type="n" lemma="l050756">
+                          <c type="log">yuki</c>
+                        </w>
+                      </phr>
+                      <w type="vb-adn" lemma="l030443a">
+                        <c type="log">kaku</c>
+                        <c type="phon">ru</c>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="伴雄廣伎"/>
+                    <w type="n" lemma="l052155">
+                      <c type="log">tomo</c>
+                      <c type="nlog">no</c>
+                      <c type="log">wo</c>
+                    </w>
+                  </phr>
+                  <w type="adj-adn">
+                    <w type="adj-stm" lemma="l007146">
+                      <c type="log">piro</c>
+                    </w>
+                    <w type="acp-adn" lemma="l000033">
+                      <c type="phon">ki</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="大伴爾"/>
+                <w type="pln" lemma="l060044">
+                  <c type="plog">opotomo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="國将榮常"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l051337">
+                <c type="log">kuni</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030768a">
+                <c type="log">sakaye</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="月者照良思"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l050004a">
+                <c type="log">tukwi</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031193a">
+            <c type="log">teru</c>
+          </w>
+          <w type="xtn-cls" lemma="l000806">
+            <c type="phon">rasi</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

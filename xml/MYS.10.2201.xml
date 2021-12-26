@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2201">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="妹許跡"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                  <w type="sfx" lemma="l001011">
+                    <c type="log">gari</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-conn" lemma="l000541">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="馬鞍置而"/>
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052245">
+                    <c type="log">uma</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="nlog">ni</c>
+                </w>
+              </phr>
+              <phr type="np-ob1">
+                <w type="n" lemma="l051342">
+                  <c type="log">kura</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l030327a">
+                <c type="log">okite</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="射駒山"/>
+            <phr type="np-ob1">
+              <w type="pln" lemma="l060239">
+                <w type="pln" lemma="l051084">
+                  <c type="phon-kun">ikwoma</c>
+                </w>
+                <w type="n" lemma="l050034">
+                  <c type="log">yama</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="撃越来者"/>
+            <w type="vb-prv">
+              <w type="pfx-mph" lemma="l000043">
+                <c type="log">uti</c>
+              </w>
+              <w type="vb-stm" lemma="l030747a">
+                <c type="log">kwoye</c>
+              </w>
+              <w type="vb-prv" lemma="l030612a">
+                <c type="log">kureba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="紅葉散筒"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n-dvb" lemma="l031780b">
+                <c type="log">momiti</c>
+              </w>
+            </phr>
+            <w type="vb-ctt" lemma="l031111a">
+              <c type="log">tiri</c>
+              <c type="phon-kun">tutu</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

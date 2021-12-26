@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1402">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="殊放者"/>
+            <cl type="ip-adv">
+              <phr type="np-adv">
+                <w type="adv" lemma="l090140">
+                  <c type="log">koto</c>
+                </w>
+              </phr>
+              <w type="vb-prv" lemma="l030784a">
+                <c type="log">sakeba</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="奥従酒甞"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l052520">
+                  <c type="log">oki</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540d">
+                <c type="log">yu</c>
+              </w>
+            </phr>
+            <w type="vb-opt" lemma="l030784a">
+              <c type="phon">sakenamu</c>
+            </w>
+          </s>
+          <lb id="2" corresp="湊自"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l051468">
+                        <c type="log">minatwo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-abl" lemma="l000540a">
+                      <c type="log">ywori</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="邊著經時爾"/>
+                  <phr type="np">
+                    <w type="n" lemma="l050133">
+                      <c type="log">pye</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l052561a">
+                    <c type="log">tukapu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050059">
+                  <c type="log">toki</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="可放鬼香"/>
+            <w type="vb-cls" lemma="l030780a">
+              <c type="log">saku</c>
+            </w>
+            <w type="xtn-adn">
+              <w type="xtn-stm" lemma="l000801">
+                <c type="log">be</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="log">ki</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="log">mono</c>
+              <c type="phon">ka</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

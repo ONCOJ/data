@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3538b">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="乎波夜之爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="pfx" lemma="l000060">
+                    <c type="phon">wo</c>
+                  </w>
+                  <w type="n" lemma="l050915">
+                    <c type="phon">payasi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="古麻乎波左佐気"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l051377">
+                  <c type="phon">kwoma</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031410a">
+              <c type="phon">pasasake</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="己許呂能未"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050037">
+                  <c type="phon">kokoro</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000521">
+                <c type="phon">nomwi</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="伊母我理夜里弖"/>
+            <phr type="np-gol">
+              <w type="n">
+                <w type="n" lemma="l050027">
+                  <c type="phon">imo</c>
+                </w>
+                <w type="sfx" lemma="l001011">
+                  <c type="phon">gari</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031823a">
+              <c type="phon">yarite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="和波己許爾思天"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042057">
+                  <c type="phon">wa</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042032">
+                  <c type="phon">koko</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030919a">
+              <c type="phon">site</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

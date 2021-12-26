@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2922">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="夕去者"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <cl type="ip-adv">
+                <w type="vb-cnd" lemma="l031851a">
+                  <w type="n" lemma="l050087">
+                    <c type="log">yupu</c>
+                  </w>
+                  <w type="vb-cnd" lemma="l030841a">
+                    <c type="log">saraba</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="於君将相跡"/>
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l004266">
+                    <c type="log">kimi</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="log">ni</c>
+                </w>
+              </phr>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="log">apa</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="log">mu</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="念許増"/>
+            <w type="vb-exc" lemma="l030399a">
+              <c type="log">omope</c>
+            </w>
+            <w type="p-foc" lemma="l000510">
+              <c type="phon">koso</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="日之晩毛"/>
+          <phr type="pp-sbj">
+            <cl type="ip-nmz">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050090">
+                    <c type="log">pi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="vb-nml" lemma="l030611a">
+                <c type="log">kururaku</c>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="忄呉有家礼"/>
+          <w type="adj-exc">
+            <w type="adj-stm" lemma="l007020">
+              <c type="log">uresi</c>
+            </w>
+            <w type="acp-stm" lemma="l000032">
+              <c type="log">kari</c>
+            </w>
+            <w type="vax-mpst-exc" lemma="l000016">
+              <c type="phon">kyere</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

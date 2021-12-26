@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3141">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="草枕"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l090352">
+                    <w type="n" lemma="l050114">
+                      <c type="log">kusa</c>
+                    </w>
+                    <w type="n" lemma="l050016">
+                      <c type="log">makura</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="客之悲"/>
+                <w type="n" lemma="l050049">
+                  <c type="log">tabi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007022">
+                <c type="log">kanasi</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+            <lb id="2" corresp="有苗爾"/>
+            <w type="vb-adn" lemma="l030125a">
+              <c type="log">aru</c>
+            </w>
+            <w type="p-conn" lemma="l000542">
+              <c type="phon">napeni</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="妹乎相見而"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050027">
+                  <c type="log">imo</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030071a">
+                <c type="log">api</c>
+              </w>
+              <w type="vb-ger" lemma="l031712a">
+                <c type="log">mite</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="後将戀可聞"/>
+          <phr type="np-adv">
+            <w type="n" lemma="l004087">
+              <c type="log">noti</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1198">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="求食為跡"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l030033a">
+                <c type="phon">asari</c>
+              </w>
+              <w type="vb-cls" lemma="l030919a">
+                <c type="log">su</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="礒二住鶴"/>
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050104">
+                      <c type="log">iswo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l030950a">
+                  <c type="log">sumu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l052059">
+                <c type="log">tadu</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="暁去者"/>
+            <phr type="np">
+              <w type="n-dvb" lemma="l030022b">
+                <c type="log">ake</c>
+              </w>
+            </phr>
+            <w type="vb-prv" lemma="l031840a">
+              <c type="log">yukeba</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="濱風寒弥"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n" lemma="l090677">
+                <w type="n" lemma="l051709">
+                  <c type="log">pama</c>
+                </w>
+                <w type="n" lemma="l050008a">
+                  <c type="log">kaze</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007159">
+                <c type="log">samu</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="自妻喚毛"/>
+          <phr type="np-ob1">
+            <w type="n" lemma="l050710">
+              <w type="pro-n" lemma="l042074">
+                <c type="log">ono</c>
+              </w>
+              <w type="n" lemma="l050120">
+                <c type="log">duma</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031880a">
+            <c type="log">ywobu</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.4031">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="奈加等美乃"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <phr type="np-ob1">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="pen" lemma="l051573">
+                            <c type="phon">nakatomi</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="敷刀能里等其等"/>
+                      <w type="n" lemma="l090783">
+                        <w type="adj-stm" lemma="l007018">
+                          <c type="phon">putwo</c>
+                        </w>
+                        <w type="n" lemma="l051632">
+                          <c type="phon">norito</c>
+                        </w>
+                        <w type="n" lemma="l050148">
+                          <c type="phon">goto</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <lb id="2" corresp="伊比波良倍"/>
+                    <w type="vb-inf" lemma="l030199a">
+                      <c type="phon">ipi</c>
+                    </w>
+                  </cl>
+                  <cl type="ip-adv">
+                    <w type="vb-inf" lemma="l031452a">
+                      <c type="phon">parape</c>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="安賀布伊能知毛"/>
+                  <w type="vb-adc" lemma="l030005a">
+                    <c type="phon">akapu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051102">
+                  <c type="phon">inoti</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="多我多米爾奈礼"/>
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="wh-n" lemma="l042000">
+                    <c type="phon">ta</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050063">
+                <c type="phon">tame</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </s>
+          <s type="ip-mat">
+            <phr type="np-prd">
+              <w type="pro-n" lemma="l042056">
+                <c type="phon">nare</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3889">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="人魂乃"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="np-prd">
+                        <w type="n" lemma="l090749">
+                          <w type="n" lemma="l050046">
+                            <c type="log">pito</c>
+                          </w>
+                          <w type="n" lemma="l052507">
+                            <c type="log">dama</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="phon">no</c>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="佐青有公之"/>
+                    <cl type="ip-rel">
+                      <w type="adj-adn">
+                        <w type="adj-stm">
+                          <w type="pfx" lemma="l000040">
+                            <c type="phon">sa</c>
+                          </w>
+                          <w type="adj-stm" lemma="l007042">
+                            <c type="log">wo</c>
+                          </w>
+                        </w>
+                        <w type="cop-adn" lemma="l031966">
+                          <c type="log">naru</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <w type="n" lemma="l004266">
+                      <c type="log">kimi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="log">ga</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="但獨"/>
+                <phr type="np-adv">
+                  <w type="adv" lemma="l004003a">
+                    <c type="log">tada</c>
+                  </w>
+                </phr>
+                <phr type="np">
+                  <w type="n" lemma="l090747">
+                    <w type="num" lemma="l002001">
+                      <c type="log">pito</c>
+                    </w>
+                    <w type="cl" lemma="l002016">
+                      <c type="log">ri</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="3" corresp="相有之雨夜乃"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030071a">
+                    <c type="phon">ap</c>
+                  </w>
+                  <w type="vax-stv-stm" lemma="l000024">
+                    <c type="phon">yeri</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l050001b">
+                      <c type="phon">ama</c>
+                    </w>
+                    <w type="n" lemma="l050039">
+                      <c type="phon">ywo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="葉振乎曽所念"/>
+              <w type="n-dvb" lemma="l031442b">
+                <c type="phon">paburi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030399a">
+            <c type="log">omopu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

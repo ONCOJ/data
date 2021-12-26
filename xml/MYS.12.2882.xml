@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2882">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="不相而"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="vb-ger">
+                  <w type="vb-stm" lemma="l030071a">
+                    <c type="log">apa</c>
+                  </w>
+                  <w type="vax-neg-ger" lemma="l000006a">
+                    <c type="log">zusite</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="戀度等母"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030731a">
+                  <c type="log">kwopwi</c>
+                </w>
+                <w type="vb-adc" lemma="l031910a">
+                  <c type="log">wataru</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="phon">tomo</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="忘哉"/>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l031907a">
+                <c type="log">wasure</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="log">me</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="log">ya</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="弥日異者"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <w type="adv" lemma="l004014">
+                <c type="log">iya</c>
+              </w>
+            </phr>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="adv" lemma="l080293">
+                  <w type="n" lemma="l050090">
+                    <c type="log">pi</c>
+                  </w>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="nlog">ni</c>
+                  </w>
+                  <w type="adv" lemma="l004070">
+                    <c type="log">kyeni</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="思益等母"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030399a">
+                <c type="log">omopi</c>
+              </w>
+              <w type="vb-adc" lemma="l031637a">
+                <c type="phon">masu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="phon">tomo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

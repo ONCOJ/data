@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.455">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <cl type="ip-adv">
+            <lb id="0" corresp="如是耳"/>
+            <phr type="pp-prd">
+              <phr type="np">
+                <w type="pro-adv" lemma="l042020">
+                  <c type="log">kaku</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000521">
+                <c type="log">nomwi</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="nlog">ni</c>
+            </w>
+            <lb id="1" corresp="有家類物乎"/>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ari</c>
+              </w>
+              <w type="vax-mpst-adn" lemma="l000016">
+                <c type="phon">kyeru</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="log">mono</c>
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="芽子花"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-arg">
+                  <phr type="np-sbj">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l050149">
+                          <c type="log">pagwi</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l050083">
+                      <c type="log">pana</c>
+                    </w>
+                    <lb id="3" corresp="咲而有哉跡"/>
+                  </phr>
+                  <w type="vb-ger" lemma="l030778a">
+                    <c type="log">sakite</c>
+                  </w>
+                  <w type="vb-stv-ifc" lemma="l030125a">
+                    <c type="log">ari</c>
+                  </w>
+                  <w type="p-foc" lemma="l000537">
+                    <c type="log">ya</c>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">to</c>
+                  </w>
+                </cl>
+                <lb id="4" corresp="問之君波母"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031226a">
+                    <c type="log">twopi</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

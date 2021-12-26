@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3919">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="青丹余之"/>
+          <cl type="ip-nmz-prd">
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <cl type="ip-ept">
+                    <w type="mk-cls" lemma="l091001">
+                      <w type="n">
+                        <w type="adj-stm" lemma="l007042">
+                          <c type="log">awo</c>
+                        </w>
+                        <w type="n" lemma="l050126">
+                          <c type="log">ni</c>
+                        </w>
+                      </w>
+                      <w type="adj-cls">
+                        <w type="adj-stm" lemma="l007015">
+                          <c type="phon">yo</c>
+                        </w>
+                        <w type="acp-cls" lemma="l000033">
+                          <c type="phon">si</c>
+                        </w>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="奈良能美夜古波"/>
+                  <w type="pln" lemma="l060121">
+                    <w type="pln" lemma="l092001">
+                      <c type="phon-on">nara</c>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="phon-on">no</c>
+                    </w>
+                    <w type="n" lemma="l050129">
+                      <c type="phon-on">miyakwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="布里奴礼登"/>
+              <w type="vb-css">
+                <w type="vb-stm" lemma="l031563a">
+                  <c type="phon">puri</c>
+                </w>
+                <w type="vax-prf-css" lemma="l000018">
+                  <c type="phon">nuredo</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="毛等保登等芸須"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050500">
+                <w type="n" lemma="l051520">
+                  <c type="phon">moto</c>
+                </w>
+                <w type="n" lemma="l050160">
+                  <c type="phon">pototogisu</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="4" corresp="不鳴安良久爾"/>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l031267a">
+                <c type="log">naka</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+            <w type="vb-nml" lemma="l030125a">
+              <c type="phon">araku</c>
+            </w>
+          </cl>
+          <w type="cop-inf" lemma="l031965">
+            <c type="phon">ni</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

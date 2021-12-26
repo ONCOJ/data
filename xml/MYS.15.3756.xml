@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3756">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="牟可比為弖"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <cl type="ip-adv">
+                    <w type="vb-ger">
+                      <w type="vb-stm" lemma="l031721a">
+                        <c type="phon">mukapi</c>
+                      </w>
+                      <w type="vb-ger" lemma="l031926a">
+                        <c type="phon">wite</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="一日毛於知受"/>
+                  <cl type="ip-adv">
+                    <phr type="pp-sbj">
+                      <phr type="np">
+                        <w type="n" lemma="l050451">
+                          <w type="num" lemma="l002001">
+                            <c type="log">pito</c>
+                          </w>
+                          <w type="n" lemma="l050090">
+                            <c type="log">pi</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-top" lemma="l000514">
+                        <c type="phon">mo</c>
+                      </w>
+                    </phr>
+                    <w type="vb-ifc">
+                      <w type="vb-stm" lemma="l030356a">
+                        <c type="phon">oti</c>
+                      </w>
+                      <w type="vax-neg-ifc" lemma="l000006a">
+                        <c type="phon">zu</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="見之可杼母"/>
+                  <w type="vb-css">
+                    <w type="vb-stm" lemma="l031712a">
+                      <c type="log">mi</c>
+                    </w>
+                    <w type="vax-spst-css" lemma="l000015">
+                      <c type="phon">sikadomo</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="伊等波奴伊毛乎"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030180a">
+                    <c type="phon">itopa</c>
+                  </w>
+                  <w type="vax-neg-adn" lemma="l000006a">
+                    <c type="phon">nu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050027">
+                <c type="phon">imo</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="都奇和多流麻弖"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050004a">
+                  <c type="phon">tukwi</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031910a">
+                <c type="phon">wataru</c>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512a">
+              <c type="phon">made</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

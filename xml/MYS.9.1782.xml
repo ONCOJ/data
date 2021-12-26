@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1782">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="雪己曽波"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050075">
+                    <c type="log">yuki</c>
+                  </w>
+                </phr>
+                <w type="p-foc" lemma="l000510">
+                  <c type="phon">koso</c>
+                </w>
+                <w type="p-top" lemma="l000522">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="春日消良米"/>
+              <phr type="np-sbj">
+                <w type="n" lemma="l050450">
+                  <w type="n" lemma="l051724">
+                    <c type="log">paru</c>
+                  </w>
+                  <w type="n" lemma="l050090">
+                    <c type="log">pi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-cls" lemma="l030596a">
+                <c type="log">kiyu</c>
+              </w>
+              <w type="xtn-exc" lemma="l000805">
+                <c type="phon">rame</c>
+              </w>
+            </cl>
+          </s>
+          <s type="ip-mat">
+            <lb id="2" corresp="心佐閇"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050037">
+                    <c type="log">kokoro</c>
+                  </w>
+                </phr>
+                <w type="p-res" lemma="l000525a">
+                  <c type="phon">sape</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="消失多列夜"/>
+              <w type="vb-exc">
+                <w type="vb-stm" lemma="l030554a">
+                  <w type="vb-stm" lemma="l030596a">
+                    <c type="log">kiye</c>
+                  </w>
+                  <w type="vb-stm" lemma="l030252a">
+                    <c type="log">use</c>
+                  </w>
+                </w>
+                <w type="vax-stv-exc" lemma="l000022">
+                  <c type="phon">tare</c>
+                </w>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="phon">ya</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="言母不徃夾"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050148">
+                  <c type="log">koto</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030536a">
+                <c type="log">kaywopa</c>
+              </w>
+              <w type="vax-neg-adn" lemma="l000006a">
+                <c type="log">nu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

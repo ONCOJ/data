@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.570">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="山跡邊"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n">
+                        <w type="pln" lemma="l052386">
+                          <c type="phon-kun">yamato</c>
+                        </w>
+                        <w type="n" lemma="l050133">
+                          <c type="log">pye</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="nlog">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="君之立日乃"/>
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="n" lemma="l004266">
+                        <c type="log">kimi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="log">ga</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031043a">
+                    <c type="log">tatu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050090">
+                  <c type="log">pi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="近付者"/>
+            <w type="vb-prv" lemma="l031101a">
+              <w type="adj-stm" lemma="l007017">
+                <c type="log">tika</c>
+              </w>
+              <w type="vb-prv" lemma="l031130a">
+                <c type="log">dukeba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="野立鹿毛"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051650">
+                      <c type="log">nwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="nlog">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031043a">
+                  <c type="log">tatu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050071">
+                <c type="log">sika</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="動而曽鳴"/>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l031245a">
+              <c type="log">toyomite</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </cl>
+          <w type="vb-adc" lemma="l031267a">
+            <c type="log">naku</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2984">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="劔大刀"/>
+            <phr type="pp-arg">
+              <cl type="ip-nmz">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l090335">
+                        <w type="n" lemma="l052211">
+                          <c type="log">turugi</c>
+                        </w>
+                        <w type="n" lemma="l052508">
+                          <c type="log">tati</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="名之惜毛"/>
+                    <w type="n" lemma="l050068">
+                      <c type="log">na</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="adj-nml">
+                  <w type="adj-stm" lemma="l007229">
+                    <c type="log">wosi</c>
+                  </w>
+                  <w type="acp-nml" lemma="l000033">
+                    <c type="log">kyeku</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="吾者無"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042059">
+                  <c type="log">ware</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007028">
+                <c type="log">na</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="nlog">si</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="比来之間"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042029">
+                        <c type="log">ko</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="nlog">no</c>
+                    </w>
+                  </phr>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l051303">
+                        <c type="log">koro</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050095">
+                        <c type="log">ma</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="nlog">no</c>
+                    </w>
+                  </phr>
+                  <lb id="4" corresp="戀之繁爾"/>
+                  <w type="n-dvb" lemma="l030731b">
+                    <c type="log">kwopwi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007167b">
+                  <c type="log">sige</c>
+                </w>
+                <w type="acp-adn" lemma="l000033">
+                  <c type="log">ki</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

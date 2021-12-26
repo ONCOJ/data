@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4481">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="安之比奇能"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-ept">
+                    <w type="mk-adi" lemma="l091054">
+                      <w type="n" lemma="l050860">
+                        <c type="phon">asipikwi</c>
+                      </w>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="phon">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="夜都乎乃都婆吉"/>
+                  <phr type="np">
+                    <w type="n">
+                      <w type="num" lemma="l002008">
+                        <c type="phon">ya</c>
+                      </w>
+                      <w type="cl" lemma="l002015">
+                        <c type="phon">tu</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l052504">
+                    <c type="phon">wo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050172">
+                <c type="phon">tubaki</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="都良都良爾"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l004140">
+                    <c type="phon">turatura</c>
+                  </w>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="phon">ni</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="美等母安可米也"/>
+              <w type="vb-ifc" lemma="l031712a">
+                <c type="phon">mi</c>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="phon">tomo</c>
+              </w>
+            </cl>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030020c">
+                <c type="phon">aka</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="宇恵弖家流伎美"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030229a">
+                  <c type="phon">uwe</c>
+                </w>
+                <w type="vax-prf-stm" lemma="l000023">
+                  <c type="phon">te</c>
+                </w>
+                <w type="vax-mpst-adn" lemma="l000016">
+                  <c type="phon">kyeru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l004266">
+              <c type="phon">kimi</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

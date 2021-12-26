@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4099">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="伊爾之敞乎"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l051101">
+                  <c type="phon">inisipye</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="於母保須良之母"/>
+            <w type="vb-adc" lemma="l030402a">
+              <c type="phon">omoposu</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="和期於保伎美"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="phon">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">go</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050267">
+                <w type="adj-stm" lemma="l007009a">
+                  <c type="phon">opo</c>
+                </w>
+                <w type="n" lemma="l004266">
+                  <c type="phon">kimi</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="余思努乃美夜乎"/>
+            <phr type="pp-gol-ob1">
+              <phr type="np">
+                <w type="pln" lemma="l052425">
+                  <c type="phon-on">yosinwo</c>
+                </w>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+                <w type="n" lemma="l050018">
+                  <c type="phon">miya</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="安里我欲比賣須"/>
+            <w type="vb-adc">
+              <w type="pfx-stv" lemma="l000026">
+                <c type="phon">ari</c>
+              </w>
+              <w type="vb-stm" lemma="l030536a">
+                <c type="phon">gaywopi</c>
+              </w>
+              <w type="vb-adc" lemma="l031751a">
+                <c type="phon">myesu</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

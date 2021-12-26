@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.299">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="奥山之"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <cl type="ip-adv">
+                      <phr type="np-ob1">
+                        <phr type="pp">
+                          <phr type="np">
+                            <w type="n" lemma="l080279">
+                              <w type="n" lemma="l051660">
+                                <c type="log">oku</c>
+                              </w>
+                              <w type="n" lemma="l050034">
+                                <c type="log">yama</c>
+                              </w>
+                            </w>
+                          </phr>
+                          <w type="p-case-gen" lemma="l000520">
+                            <c type="log">no</c>
+                          </w>
+                        </phr>
+                        <lb id="1" corresp="菅葉凌"/>
+                        <phr type="pp">
+                          <phr type="np">
+                            <w type="n" lemma="l050010b">
+                              <c type="log">suga</c>
+                            </w>
+                          </phr>
+                          <w type="p-case-gen" lemma="l000520">
+                            <c type="log">no</c>
+                          </w>
+                        </phr>
+                        <w type="n" lemma="l052480">
+                          <c type="log">pa</c>
+                        </w>
+                      </phr>
+                      <w type="vb-inf" lemma="l030885a">
+                        <c type="log">sinwogi</c>
+                      </w>
+                    </cl>
+                    <lb id="2" corresp="零雪乃"/>
+                    <w type="vb-adc" lemma="l031559a">
+                      <c type="log">puru</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050075">
+                    <c type="log">yuki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="消者将惜"/>
+              <w type="vb-cnd">
+                <w type="vb-stm" lemma="l030611a">
+                  <c type="log">ke</c>
+                </w>
+                <w type="vax-prf-cnd" lemma="l000018">
+                  <c type="log">naba</c>
+                </w>
+              </w>
+            </cl>
+            <w type="adj-adc">
+              <w type="adj-stm" lemma="l007229">
+                <c type="log">wosi</c>
+              </w>
+              <w type="acp-stm" lemma="l000033">
+                <c type="log">kye</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="雨莫零行年"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <w type="n" lemma="l050001a">
+                <c type="log">ame</c>
+              </w>
+            </phr>
+            <w type="vb">
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">na</c>
+              </w>
+              <w type="vb-stm" lemma="l031559a">
+                <c type="log">puri</c>
+              </w>
+              <w type="cfx-phb" lemma="l000037">
+                <c type="phon">sone</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

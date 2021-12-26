@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1485">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="夏儲而"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l051598">
+                    <c type="log">natu</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l031624a">
+                  <c type="log">makete</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="開有波祢受"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030778a">
+                  <c type="log">saki</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000022">
+                  <c type="log">taru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l051716">
+              <c type="phon">panezu</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="久方乃"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <cl type="ip-ept">
+                <w type="mk-adi" lemma="l091020">
+                  <w type="n" lemma="l051784">
+                    <c type="phon">pisakata</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon">no</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="雨打零者"/>
+              <w type="n" lemma="l050001a">
+                <c type="log">ame</c>
+              </w>
+            </phr>
+            <w type="vb-cnd">
+              <w type="pfx-mph" lemma="l000043">
+                <c type="log">uti</c>
+              </w>
+              <w type="vb-cnd" lemma="l031559a">
+                <c type="log">puraba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="将移香"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030277a">
+              <c type="log">uturopi</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="log">na</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000506">
+            <c type="phon">ka</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.865">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="伎弥乎麻都"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <w type="n" lemma="l004266">
+                      <c type="phon">kimi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-acc" lemma="l000534">
+                    <c type="phon">wo</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031644a">
+                  <c type="phon">matu</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="麻都良乃于良能"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051428">
+                    <c type="phon-on">matura</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050108">
+                    <c type="phon">ura</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="越等売良波"/>
+              <w type="n">
+                <w type="n" lemma="l050145">
+                  <c type="phon">wotomye</c>
+                </w>
+                <w type="sfx" lemma="l001003">
+                  <c type="phon">ra</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="等己与能久爾能"/>
+          <phr type="np-prd">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l090453">
+                      <w type="adj-stm" lemma="l007194">
+                        <c type="phon">toko</c>
+                      </w>
+                      <w type="n" lemma="l050040">
+                        <c type="phon">yo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon">no</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051337">
+                  <c type="phon">kuni</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="阿麻越等売可忘"/>
+            <w type="n">
+              <w type="n" lemma="l050001b">
+                <c type="phon">ama</c>
+              </w>
+              <w type="n" lemma="l050145">
+                <c type="phon">wotomye</c>
+              </w>
+            </w>
+          </phr>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

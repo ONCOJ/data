@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3636">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="伊敞妣等波"/>
+            <cl type="ip-zyo">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050467">
+                    <w type="n" lemma="l050006a">
+                      <c type="phon">ipye</c>
+                    </w>
+                    <w type="n" lemma="l050046">
+                      <c type="phon">bito</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="可敞里波也許等"/>
+              <cl type="ip-arg">
+                <w type="vb-inf" lemma="l030518a">
+                  <c type="phon">kapyeri</c>
+                </w>
+                <phr type="np-adv">
+                  <w type="adj-stm" lemma="l004028">
+                    <c type="phon">paya</c>
+                  </w>
+                </phr>
+                <w type="vb-imp" lemma="l030612a">
+                  <c type="phon">ko</c>
+                </w>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+            </cl>
+            <lb id="2" corresp="伊波比之麻"/>
+            <phr type="np">
+              <w type="n">
+                <w type="vb-stm" lemma="l030193a">
+                  <c type="phon">ipapi</c>
+                </w>
+                <w type="n" lemma="l050078">
+                  <c type="phon">sima</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="伊波比麻都良牟"/>
+            <w type="vb-adc" lemma="l030192a">
+              <w type="vb-stm" lemma="l030193a">
+                <c type="phon">ipapi</c>
+              </w>
+              <w type="vb-adc" lemma="l031644a">
+                <c type="phon">matu</c>
+              </w>
+            </w>
+            <w type="xtn-adc" lemma="l000805">
+              <c type="phon">ramu</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="多妣由久和礼乎"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np">
+                  <w type="n" lemma="l050049">
+                    <c type="phon">tabi</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031840a">
+                  <c type="phon">yuku</c>
+                </w>
+              </cl>
+              <w type="pro-n" lemma="l042059">
+                <c type="phon">ware</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

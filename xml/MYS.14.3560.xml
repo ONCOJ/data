@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3560">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="麻可祢布久"/>
+            <phr type="pp-prd">
+              <cl type="ip-nmz">
+                <cl type="ip-adv">
+                  <cl type="ip-adv">
+                    <phr type="np-prd">
+                      <cl type="ip-rel">
+                        <phr type="np-ob1">
+                          <w type="n" lemma="l050222">
+                            <w type="pfx" lemma="l000062">
+                              <c type="phon">ma</c>
+                            </w>
+                            <w type="n" lemma="l051198a">
+                              <c type="phon">kane</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="vb-adc" lemma="l090768">
+                          <c type="phon">puku</c>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="爾布能麻曾保乃"/>
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="pln" lemma="l051621">
+                            <c type="phon-on">nipu</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050574">
+                        <w type="pfx" lemma="l000062">
+                          <c type="phon">ma</c>
+                        </w>
+                        <w type="n" lemma="l051994">
+                          <c type="phon">sopo</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="phon">no</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="伊呂爾弖弖"/>
+                  <cl type="ip-adv">
+                    <phr type="np-prd">
+                      <w type="n" lemma="l050105">
+                        <c type="phon">iro</c>
+                      </w>
+                    </phr>
+                    <w type="cop-inf" lemma="l031965">
+                      <c type="phon">n</c>
+                    </w>
+                  </cl>
+                  <w type="vb-ger" lemma="l030172a">
+                    <c type="phon">idete</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="伊波奈久能未曾"/>
+                <w type="vb-nml">
+                  <w type="vb-stm" lemma="l030199a">
+                    <c type="phon">ipa</c>
+                  </w>
+                  <w type="vax-neg-nml" lemma="l000006a">
+                    <c type="phon">naku</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="p-res" lemma="l000521">
+                <c type="phon">nomwi</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="安我古布良久波"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042054">
+                    <c type="phon">a</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="vb-nml" lemma="l030731a">
+                <c type="phon">kwopuraku</c>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

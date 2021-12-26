@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2453">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="春楊"/>
+          <cl type="ip-zyo">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l090722">
+                        <w type="n" lemma="l090721">
+                          <w type="n" lemma="l051724">
+                            <c type="log">paru</c>
+                          </w>
+                          <w type="n" lemma="l050151">
+                            <c type="log">yanagwi</c>
+                          </w>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="葛山"/>
+                    <w type="pln" lemma="l060056">
+                      <w type="pln" lemma="l051166">
+                        <c type="plog">kadurakwi</c>
+                      </w>
+                      <w type="n" lemma="l050034">
+                        <c type="log">yama</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="nlog">ni</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="發雲"/>
+                <w type="vb-adc" lemma="l031043a">
+                  <c type="phon">tatu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050115">
+                <c type="log">kumo</c>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="nlog">no</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="立座"/>
+          <cl type="ip-adv">
+            <phr type="conjp">
+              <cl type="ip-adv">
+                <w type="vb-ger" lemma="l031043a">
+                  <c type="log">tatite</c>
+                </w>
+                <w type="p-top" lemma="l000514">
+                  <c type="nlog">mo</c>
+                </w>
+              </cl>
+            </phr>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031926a">
+                <c type="log">wite</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="nlog">mo</c>
+              </w>
+            </cl>
+          </cl>
+          <lb id="4" corresp="妹念"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l050027">
+                <c type="log">imo</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="nlog">wo</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="nlog">si</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="nlog">so</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030399a">
+            <c type="log">omopu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

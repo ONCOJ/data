@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2310">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="蟋蟀之"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l051299">
+                    <c type="log">koporogi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="吾床隔爾"/>
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042057">
+                        <c type="log">wa</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="nlog">ga</c>
+                    </w>
+                  </phr>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l052148">
+                        <c type="log">toko</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050133">
+                    <c type="log">pye</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="鳴乍本名"/>
+              <w type="vb-ctt" lemma="l031267a">
+                <c type="log">nakitutu</c>
+              </w>
+            </cl>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004010">
+                <c type="phon">motona</c>
+              </w>
+            </phr>
+          </cl>
+          <lb id="3" corresp="起居管"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-prd">
+              <cl type="ip-adv">
+                <cl type="ip-nmz-prd">
+                  <cl type="ip-adv">
+                    <w type="vb-ctt">
+                      <w type="vb-stm" lemma="l030328a">
+                        <c type="log">okwi</c>
+                      </w>
+                      <w type="vb-ctt" lemma="l031926a">
+                        <c type="log">wi</c>
+                        <c type="phon">tutu</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="4" corresp="君爾戀爾"/>
+                  <phr type="pp-ob1">
+                    <phr type="np">
+                      <w type="n" lemma="l004266">
+                        <c type="log">kimi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adn" lemma="l030731a">
+                    <c type="log">kwopuru</c>
+                  </w>
+                </cl>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+              </cl>
+              <lb id="5" corresp="宿不勝爾"/>
+              <w type="vb-nml">
+                <w type="vb-stm" lemma="l030185a">
+                  <w type="n" lemma="l050103">
+                    <c type="log">i</c>
+                  </w>
+                  <w type="vb-stm" lemma="l031342a">
+                    <c type="log">ne</c>
+                  </w>
+                </w>
+                <w type="vb-stm" lemma="l030495a">
+                  <c type="log">kate</c>
+                </w>
+                <w type="vax-neg-nml" lemma="l000006a">
+                  <c type="log">naku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

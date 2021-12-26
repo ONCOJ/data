@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3567">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="於伎弖伊可婆"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="vb-ger" lemma="l030327a">
+                  <c type="phon">okite</c>
+                </w>
+              </cl>
+              <w type="vb-cnd" lemma="l030145a">
+                <c type="phon">ikaba</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="伊毛婆麻可奈之"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050027">
+                  <c type="phon">imo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007105">
+                <w type="pfx" lemma="l000062">
+                  <c type="phon">ma</c>
+                </w>
+                <w type="adj-stm" lemma="l007022">
+                  <c type="phon">kanasi</c>
+                </w>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="母知弖由久"/>
+          <s type="ip-mat">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <cl type="ip-adv">
+                      <w type="vb-ger" lemma="l031761a">
+                        <c type="phon">motite</c>
+                      </w>
+                    </cl>
+                    <w type="vb-adc" lemma="l031840a">
+                      <c type="phon">yuku</c>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="安都佐能由美乃"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050786">
+                        <c type="phon">adusa</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l052437">
+                    <c type="phon">yumi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="由都可爾母我毛"/>
+              <w type="n" lemma="l050739">
+                <w type="n" lemma="l052437">
+                  <c type="phon">yu</c>
+                </w>
+                <w type="n" lemma="l052188">
+                  <c type="phon">tuka</c>
+                </w>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+            <w type="p-fnl-opt" lemma="l000515">
+              <c type="phon">moga</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

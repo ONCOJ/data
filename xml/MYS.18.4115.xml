@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4115">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="佐由利花"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <phr type="pp">
+                      <phr type="np">
+                        <cl type="ip-ept">
+                          <w type="mk">
+                            <w type="n" lemma="l050396">
+                              <w type="pfx" lemma="l000061">
+                                <c type="phon">sa</c>
+                              </w>
+                              <w type="n" lemma="l052446">
+                                <c type="phon">yuri</c>
+                              </w>
+                              <w type="n" lemma="l050083">
+                                <c type="log">bana</c>
+                              </w>
+                            </w>
+                          </w>
+                        </cl>
+                        <lb id="1" corresp="由利母相等"/>
+                        <w type="n" lemma="l004155">
+                          <c type="phon">yuri</c>
+                        </w>
+                      </phr>
+                      <w type="p-top" lemma="l000514">
+                        <c type="phon">mo</c>
+                      </w>
+                    </phr>
+                    <w type="vb-adc">
+                      <w type="vb-stm" lemma="l030071a">
+                        <c type="log">apa</c>
+                      </w>
+                      <w type="vax-cjr-adc" lemma="l000002">
+                        <c type="log">mu</c>
+                      </w>
+                    </w>
+                    <w type="p-conn" lemma="l000541">
+                      <c type="phon">to</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="之多波布流"/>
+                  <w type="vb-adn" lemma="l030868a">
+                    <w type="n" lemma="l050026">
+                      <c type="phon">sita</c>
+                    </w>
+                    <w type="vb-adn" lemma="l031435a">
+                      <c type="phon">bapuru</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="許己呂之奈久波"/>
+                <w type="n" lemma="l050037">
+                  <c type="phon">kokoro</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <w type="adj-cnd">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-cnd" lemma="l000033">
+                <c type="phon">kupa</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="今日母倍米夜母"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l051388">
+                <c type="log">kyepu</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l031512a">
+              <c type="phon">pe</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="phon">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

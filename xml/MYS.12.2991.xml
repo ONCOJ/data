@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2991">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="垂乳根之"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <cl type="ip-ept">
+                        <w type="mk-adi" lemma="l091028">
+                          <w type="n" lemma="l052101">
+                            <c type="phon">taratine</c>
+                          </w>
+                          <w type="cop-adi" lemma="l031965">
+                            <c type="log">no</c>
+                          </w>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="母我養蚕乃"/>
+                      <w type="n" lemma="l051720">
+                        <c type="log">papa</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l030510a">
+                    <c type="log">kapu</c>
+                  </w>
+                </cl>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l090132">
+                      <c type="log">kwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="眉隠"/>
+                <w type="n" lemma="l090133">
+                  <c type="phon">maywo</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030744a">
+                <c type="phon">komori</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="馬聲蜂音石花蜘蹰荒鹿"/>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007060">
+                <c type="phon">ibuse</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon-kun">ku</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon-kun">mo</c>
+            </w>
+          </cl>
+          <cl type="ip-adv">
+            <w type="vb-adn" lemma="l030125a">
+              <c type="phon">aru</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="異母二不相而"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050027">
+                  <c type="log">imo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030071a">
+                <c type="log">apa</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zusite</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

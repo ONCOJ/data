@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2229">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="白露乎"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050724">
+                    <w type="adj-stm" lemma="l007006a">
+                      <c type="log">sira</c>
+                    </w>
+                    <w type="n" lemma="l052223">
+                      <c type="log">tuyu</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="玉作有"/>
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <w type="n" lemma="l052078">
+                    <c type="log">tama</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="log">ni</c>
+                </w>
+              </cl>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l031279a">
+                  <c type="log">nasi</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000022">
+                  <c type="log">taru</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="九月"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l090386">
+                  <c type="log">nagatukwi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="nlog">no</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="在明之月夜"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l080260">
+                  <w type="vb-stm" lemma="l030125a">
+                    <c type="log">ari</c>
+                  </w>
+                  <w type="n-dvb" lemma="l030022b">
+                    <c type="log">ake</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="n">
+              <w type="n" lemma="l050004b">
+                <c type="log">tuku</c>
+              </w>
+              <w type="n" lemma="l050039">
+                <c type="log">ywo</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="雖見不飽可聞"/>
+          <cl type="ip-adv">
+            <w type="vb-css" lemma="l031712a">
+              <c type="log">miredo</c>
+            </w>
+          </cl>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030020a">
+              <c type="log">aka</c>
+            </w>
+            <w type="vax-neg-adn" lemma="l000006a">
+              <c type="log">nu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

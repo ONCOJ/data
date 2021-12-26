@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4046">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="可牟佐夫流"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <w type="vb-adn" lemma="l030529a">
+                  <c type="phon">kamusaburu</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="多流比女能佐吉"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pen" lemma="l090755">
+                    <w type="pen" lemma="l052106">
+                      <c type="phon">taru</c>
+                    </w>
+                    <w type="n" lemma="l050137">
+                      <c type="phon">pi</c>
+                      <c type="log">mye</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l052505">
+                <c type="phon">saki</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="許支米具利"/>
+            <cl type="ip-adv">
+              <w type="vb-inf">
+                <w type="vb-stm" lemma="l030698a">
+                  <c type="phon">kogi</c>
+                </w>
+                <w type="vb-inf" lemma="l031748a">
+                  <c type="phon">meguri</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="見礼登毛安可受"/>
+            <cl type="ip-adv">
+              <w type="vb-css" lemma="l031712a">
+                <c type="log">mi</c>
+                <c type="phon">redomo</c>
+              </w>
+            </cl>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030020a">
+                <c type="phon">aka</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="phon">zu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊加爾和礼世牟"/>
+          <cl type="ip-arg">
+            <w type="adj-inf">
+              <w type="wh-adj-stm" lemma="l042002">
+                <c type="phon">ika</c>
+              </w>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </w>
+          </cl>
+          <phr type="np-sbj">
+            <w type="pro-n" lemma="l042059">
+              <c type="phon">ware</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030919a">
+              <c type="phon">se</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2081">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="天漢"/>
+            <phr type="np-ob2">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050001b">
+                    <c type="log">ama</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050025">
+                <c type="log">gapa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="棚橋渡"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l090598">
+                <w type="n" lemma="l050949">
+                  <c type="log">tana</c>
+                </w>
+                <w type="n" lemma="l051727">
+                  <c type="log">pasi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-imp" lemma="l031908a">
+              <c type="log">watase</c>
+            </w>
+          </s>
+          <lb id="2" corresp="織女之"/>
+          <s type="ip-mat">
+            <cl type="ip-prp">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050420">
+                    <c type="log">tanabata</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="伊渡左牟爾"/>
+              <w type="vb-adc">
+                <w type="pfx" lemma="l000030">
+                  <c type="phon">i</c>
+                </w>
+                <w type="vb-stm" lemma="l031910a">
+                  <c type="log">watara</c>
+                </w>
+                <w type="vax-rsp-stm" lemma="l000009">
+                  <c type="phon">sa</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000551">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="棚橋渡"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l090598">
+                <w type="n" lemma="l050949">
+                  <c type="log">tana</c>
+                </w>
+                <w type="n" lemma="l051727">
+                  <c type="log">pasi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-imp" lemma="l031908a">
+              <c type="log">watase</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

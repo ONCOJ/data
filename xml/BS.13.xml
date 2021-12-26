@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="BS.13">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="乎遅奈伎夜"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="pp">
+                      <phr type="np">
+                        <cl type="ip-rel">
+                          <w type="adj-adn">
+                            <w type="adj-stm" lemma="l007212">
+                              <c type="phon">wodina</c>
+                            </w>
+                            <w type="acp-adn" lemma="l000033">
+                              <c type="phon">ki</c>
+                            </w>
+                          </w>
+                          <w type="p-foc" lemma="l000537">
+                            <c type="phon">ya</c>
+                          </w>
+                        </cl>
+                        <lb id="1" corresp="和礼爾於止礼留"/>
+                        <w type="pro-n" lemma="l042059">
+                          <c type="phon">ware</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-dat" lemma="l000519">
+                        <c type="phon">ni</c>
+                      </w>
+                    </phr>
+                    <w type="vb-adn">
+                      <w type="vb-stm" lemma="l030360a">
+                        <c type="phon">otor</c>
+                      </w>
+                      <w type="vax-stv-adn" lemma="l000024">
+                        <c type="phon">eru</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="比止乎於保美"/>
+                  <w type="n" lemma="l050046">
+                    <c type="phon">pito</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007009b">
+                  <c type="phon">opo</c>
+                </w>
+                <w type="acp-inf" lemma="l000034">
+                  <c type="phon">mi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="和多佐牟多米止"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l031908a">
+                      <c type="phon">watasa</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050063">
+                  <c type="phon">tame</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031968">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="宇都志麻都礼利"/>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030270a">
+                <c type="phon">utusi</c>
+              </w>
+              <w type="vb-stm" lemma="l031649a">
+                <c type="phon">matur</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="phon">eri</c>
+              </w>
+            </w>
+          </s>
+          <lb id="5" corresp="都加閇麻都礼利"/>
+          <s type="ip-mat">
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031121a">
+                <w type="vb-stm" lemma="l031119a">
+                  <c type="phon">tukape</c>
+                </w>
+                <w type="vb-stm" lemma="l031649a">
+                  <c type="phon">matur</c>
+                </w>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="phon">eri</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.109">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="意富岐美能"/>
+          <phr type="np-sbj">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l050267">
+                      <w type="adj-stm" lemma="l007009a">
+                        <c type="phon">opo</c>
+                      </w>
+                      <w type="n" lemma="l004266">
+                        <c type="phon">kimi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon">no</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="美古能志婆加岐"/>
+                <w type="n" lemma="l051453">
+                  <w type="pfx-hon" lemma="l000035">
+                    <c type="phon">mi</c>
+                  </w>
+                  <w type="n" lemma="l050028">
+                    <c type="phon">kwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050209">
+              <w type="n" lemma="l051919">
+                <c type="phon">siba</c>
+              </w>
+              <w type="n" lemma="l050141">
+                <c type="phon">kaki</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="2" corresp="夜布士麻理"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l050501">
+                <w type="num" lemma="l002008">
+                  <c type="phon">ya</c>
+                </w>
+                <w type="n" lemma="l080036">
+                  <c type="phon">pu</c>
+                </w>
+                <w type="vb-inf" lemma="l030901a">
+                  <c type="phon">zimari</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="斯麻理母登本斯"/>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l030901a">
+                <c type="phon">simari</c>
+              </w>
+              <w type="vb-inf" lemma="l031764a">
+                <c type="phon">motoposi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="岐禮牟志婆加岐"/>
+          <phr type="np-prd">
+            <phr type="conjp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l030609a">
+                      <c type="phon">kire</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050209">
+                  <w type="n" lemma="l051919">
+                    <c type="phon">siba</c>
+                  </w>
+                  <w type="n" lemma="l050141">
+                    <c type="phon">kaki</c>
+                  </w>
+                </w>
+              </phr>
+            </phr>
+            <lb id="5" corresp="夜気牟志婆加岐"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l031794a">
+                    <c type="phon">yake</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="phon">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050209">
+                <w type="adv" lemma="l051919">
+                  <c type="phon">siba</c>
+                </w>
+                <w type="n" lemma="l050141">
+                  <c type="phon">kaki</c>
+                </w>
+              </w>
+            </phr>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

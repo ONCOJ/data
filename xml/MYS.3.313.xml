@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.313">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="見吉野之"/>
+          <cl type="ip-adv">
+            <phr type="np-zyo">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l060163">
+                    <w type="pfx-hon" lemma="l000035">
+                      <c type="phon-kun">mi</c>
+                    </w>
+                    <w type="pln" lemma="l052425">
+                      <c type="plog">yosinwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="瀧乃白浪"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052061">
+                    <c type="log">taki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090512">
+                <w type="adj-stm" lemma="l007006a">
+                  <c type="log">sira</c>
+                </w>
+                <w type="n" lemma="l050017">
+                  <c type="log">nami</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="雖不知"/>
+            <w type="vb-css">
+              <w type="vb-stm-kke" lemma="l031967a">
+                <c type="log">sira</c>
+              </w>
+              <w type="vax-neg-css" lemma="l000006a">
+                <c type="log">nedomo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="語之告者"/>
+          <cl type="ip-adv">
+            <w type="vb-inf" lemma="l030492a">
+              <c type="log">katari</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="log">si</c>
+            </w>
+            <w type="vb-prv" lemma="l031139a">
+              <c type="log">tugeba</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="古所念"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l051101">
+              <c type="log">inisipye</c>
+            </w>
+          </phr>
+          <w type="vb-cls" lemma="l030404a">
+            <c type="log">omopoyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

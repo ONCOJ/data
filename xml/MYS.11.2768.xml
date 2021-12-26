@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2768">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="葦多頭乃"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <cl type="ip-zyo">
+                  <phr type="np-prd">
+                    <phr type="pp">
+                      <phr type="np">
+                        <cl type="ip-rel">
+                          <phr type="pp-sbj">
+                            <phr type="np">
+                              <w type="n" lemma="l050597">
+                                <w type="n" lemma="l052471">
+                                  <c type="log">asi</c>
+                                </w>
+                                <w type="n" lemma="l052059">
+                                  <c type="phon">tadu</c>
+                                </w>
+                              </w>
+                            </phr>
+                            <w type="p-case-gen" lemma="l000520">
+                              <c type="phon">no</c>
+                            </w>
+                          </phr>
+                          <lb id="1" corresp="颯入江乃"/>
+                          <w type="vb-adc" lemma="l030843a">
+                            <c type="log">sawaku</c>
+                          </w>
+                        </cl>
+                        <w type="n" lemma="l051122">
+                          <w type="vb-stm" lemma="l030219a">
+                            <c type="log">iri</c>
+                          </w>
+                          <w type="n" lemma="l052401">
+                            <c type="log">ye</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <lb id="2" corresp="白菅乃"/>
+                    <w type="n">
+                      <w type="adj-stm" lemma="l007006a">
+                        <c type="log">sira</c>
+                      </w>
+                      <w type="n" lemma="l050010a">
+                        <c type="log">suge</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon">no</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="知爲等"/>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l030908a">
+                    <c type="log">sirase</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="log">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050063">
+                <c type="log">tame</c>
+              </w>
+            </phr>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="乞痛鴨"/>
+          <w type="adj-adn">
+            <w type="adj-stm" lemma="l007089">
+              <w type="n" lemma="l050148">
+                <c type="log">kot</c>
+              </w>
+              <w type="adj-stm" lemma="l007010">
+                <c type="log">ita</c>
+              </w>
+            </w>
+            <w type="acp-adn" lemma="l000032">
+              <c type="nlog">karu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

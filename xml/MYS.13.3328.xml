@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.13.3328">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="衣袖"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <phr type="np-prd">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l099999">
+                    <w type="n" lemma="l050631">
+                      <w type="n" lemma="l051304">
+                        <c type="log">koromo</c>
+                      </w>
+                      <w type="n" lemma="l050012a">
+                        <c type="log">de</c>
+                      </w>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="大分青馬之"/>
+                <w type="n">
+                  <w type="n" lemma="l052471">
+                    <c type="log">asi</c>
+                  </w>
+                  <w type="n" lemma="l052534">
+                    <c type="log">ge</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="nlog">no</c>
+              </w>
+            </cl>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l052245">
+                  <c type="log">uma</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="嘶音"/>
+            <w type="n">
+              <w type="n-dvb" lemma="l030195b">
+                <c type="log">ibaye</c>
+              </w>
+              <w type="n" lemma="l051318">
+                <c type="log">kowe</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="3" corresp="情有鳧"/>
+          <cl type="ip-adv">
+            <w type="vb-exc" lemma="l030700a">
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+              <w type="vb-exc" lemma="l030125a">
+                <c type="log">are</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="常従異鳴"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="n" lemma="l004004">
+                <c type="log">tune</c>
+              </w>
+            </phr>
+            <w type="p-case-abl" lemma="l000540d">
+              <c type="log">yu</c>
+            </w>
+          </phr>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004070">
+              <c type="log">kyeni</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031267a">
+            <c type="log">naku</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

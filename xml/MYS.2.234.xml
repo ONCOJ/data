@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.2.234">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="三笠山"/>
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <phr type="np">
+                      <w type="pln" lemma="l060149">
+                        <w type="pln" lemma="l090004">
+                          <c type="phon-kun">mikasa</c>
+                        </w>
+                        <w type="n" lemma="l050034">
+                          <c type="log">yama</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="野邊従遊久道"/>
+                    <w type="n" lemma="l051651">
+                      <w type="n" lemma="l051650">
+                        <c type="log">nwo</c>
+                      </w>
+                      <w type="n" lemma="l050133">
+                        <c type="log">pye</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-abl" lemma="l000540d">
+                    <c type="log">yu</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031840a">
+                  <c type="log">yuku</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050091">
+                <c type="log">miti</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="己伎太久母"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="pro-adv" lemma="l042039">
+                  <c type="phon">kokidaku</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="荒爾計類鴨"/>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030136a">
+                <c type="log">are</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-mpst-adn" lemma="l000016">
+                <c type="phon">kyeru</c>
+              </w>
+            </w>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="久爾有名國"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-prd">
+              <w type="adj-nml">
+                <w type="adj-stm" lemma="l004102">
+                  <c type="log">pisa</c>
+                </w>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+                <w type="vb-nml">
+                  <w type="vb-stm" lemma="l030125a">
+                    <c type="log">ara</c>
+                  </w>
+                  <w type="vax-neg-nml" lemma="l000006a">
+                    <c type="phon">naku</c>
+                  </w>
+                </w>
+              </w>
+            </cl>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

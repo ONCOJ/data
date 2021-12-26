@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.13.3265">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="世間乎"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="pp-mpt-ob1">
+                    <phr type="np">
+                      <w type="n" lemma="l090648">
+                        <w type="n" lemma="l050040">
+                          <c type="log">yo</c>
+                        </w>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="nlog">no</c>
+                        </w>
+                        <w type="n" lemma="l050069">
+                          <c type="log">naka</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-acc" lemma="l000534">
+                      <c type="phon">wo</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="倦迹思而"/>
+                  <cl type="ip-arg">
+                    <w type="adj-cls">
+                      <w type="adj-stm" lemma="l007232b">
+                        <c type="log">u</c>
+                      </w>
+                      <w type="acp-cls" lemma="l000033">
+                        <c type="nlog">si</c>
+                      </w>
+                    </w>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="phon">to</c>
+                    </w>
+                  </cl>
+                  <w type="vb-ger" lemma="l030399a">
+                    <c type="log">omopite</c>
+                  </w>
+                </cl>
+                <lb id="2" corresp="家出爲"/>
+                <w type="vb-inf">
+                  <w type="n" lemma="l050006a">
+                    <c type="log">ipye</c>
+                  </w>
+                  <w type="vb-inf" lemma="l030172a">
+                    <c type="log">de</c>
+                  </w>
+                </w>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030919a">
+                    <c type="log">se</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="log">si</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="吾哉難二加"/>
+              <w type="pro-n" lemma="l042059">
+                <c type="log">ware</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000537">
+              <c type="log">ya</c>
+            </w>
+          </phr>
+          <cl type="ip-arg">
+            <phr type="np-prd">
+              <w type="wh-n" lemma="l042003">
+                <c type="phon">nani</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="還而将成"/>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l030518a">
+              <c type="log">kapyerite</c>
+            </w>
+          </cl>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031317a">
+              <c type="log">nara</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

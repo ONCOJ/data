@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.956">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="八隅知之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l091002">
+                        <c type="phon">yasumisisi</c>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="吾大王乃"/>
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pro-n" lemma="l042057">
+                          <c type="log">wa</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000503">
+                        <c type="log">go</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l050267">
+                      <w type="adj-stm" lemma="l007009a">
+                        <c type="log">opo</c>
+                      </w>
+                      <w type="n" lemma="l004266">
+                        <c type="log">kimi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="御食國者"/>
+                <w type="vb-adc" lemma="l031946a">
+                  <c type="log">wosu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l051337">
+                <c type="log">kuni</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="日本毛此間毛"/>
+          <phr type="pp-sbj">
+            <phr type="conjp">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l052386">
+                    <c type="plog">yamato</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042032">
+                  <c type="log">koko</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+          </phr>
+          <lb id="4" corresp="同登曽念"/>
+          <cl type="ip-arg">
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007138">
+                <c type="log">oyazi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </cl>
+          <w type="vb-adc" lemma="l030399a">
+            <c type="log">omopu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

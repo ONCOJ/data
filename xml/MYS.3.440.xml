@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.440">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="在京"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050129">
+                        <c type="log">miyakwo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="log">n</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adn" lemma="l030125a">
+                    <c type="log">aru</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="荒有家爾"/>
+                <cl type="ip-rel">
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030136a">
+                      <c type="log">are</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000022">
+                      <c type="log">taru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050006a">
+                  <c type="log">ipye</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="一宿者"/>
+            <phr type="np-adv">
+              <w type="n" lemma="l090747">
+                <w type="num" lemma="l002001">
+                  <c type="log">pito</c>
+                </w>
+                <w type="cl" lemma="l002016">
+                  <c type="log">ri</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l031342a">
+              <c type="log">neba</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="益旅而"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050049">
+                  <c type="log">tabi</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="nlog">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031630a">
+              <c type="log">masarite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="可辛苦"/>
+          <w type="adj-adn">
+            <w type="adj-stm" lemma="l007096">
+              <c type="log">kurusi</c>
+            </w>
+            <w type="acp-adn" lemma="l000032">
+              <c type="log">karu</c>
+            </w>
+          </w>
+          <w type="xtn-cls">
+            <w type="xtn-stm" lemma="l000801">
+              <c type="log">be</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="nlog">si</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

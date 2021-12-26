@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1598">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="棹壮鹿之"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l090193">
+                        <w type="pfx" lemma="l000061">
+                          <c type="phon">sa</c>
+                        </w>
+                        <w type="n" lemma="l052501">
+                          <c type="log">wo</c>
+                        </w>
+                        <w type="n" lemma="l050071">
+                          <c type="log">sika</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="朝立野邊乃"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <cl type="ip-rel">
+                        <phr type="np">
+                          <w type="n" lemma="l050139">
+                            <c type="log">asa</c>
+                          </w>
+                        </phr>
+                        <w type="vb-adc" lemma="l031043a">
+                          <c type="log">tatu</c>
+                        </w>
+                      </cl>
+                      <w type="n" lemma="l051651">
+                        <w type="n" lemma="l051650">
+                          <c type="log">nwo</c>
+                        </w>
+                        <w type="n" lemma="l050133">
+                          <c type="log">pye</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="秋芽子爾"/>
+                  <w type="n" lemma="l050392">
+                    <w type="n" lemma="l050032">
+                      <c type="log">aki</c>
+                    </w>
+                    <w type="n" lemma="l050149">
+                      <c type="log">pagwi</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="玉跡見左右"/>
+              <phr type="pp">
+                <cl type="ip-nmz">
+                  <cl type="ip-arg">
+                    <phr type="np-prd">
+                      <w type="n" lemma="l052078">
+                        <c type="log">tama</c>
+                      </w>
+                    </phr>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="phon">to</c>
+                    </w>
+                  </cl>
+                  <w type="vb-adn" lemma="l031712a">
+                    <c type="log">miru</c>
+                  </w>
+                </cl>
+                <w type="p-res" lemma="l000512a">
+                  <c type="log">made</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="置有白露"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030327a">
+                  <c type="log">ok</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000024">
+                  <c type="log">yeru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050724">
+              <w type="adj-stm" lemma="l007006a">
+                <c type="log">sira</c>
+              </w>
+              <w type="n" lemma="l052223">
+                <c type="log">tuyu</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

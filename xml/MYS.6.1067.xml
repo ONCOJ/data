@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.1067">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="濱清"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n" lemma="l051709">
+                <c type="log">pama</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007086">
+                <c type="log">kiywo</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="log">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="1" corresp="浦愛見"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n" lemma="l050108">
+                <c type="log">ura</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007205">
+                <c type="log">urupasi</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="神世自"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l050005b">
+                      <c type="log">kamu</c>
+                    </w>
+                    <w type="n" lemma="l050040">
+                      <c type="log">yo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-abl" lemma="l000540a">
+                  <c type="log">ywori</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="千船湊"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n">
+                    <w type="num" lemma="l002013">
+                      <c type="log">ti</c>
+                    </w>
+                    <w type="n" lemma="l050007a">
+                      <c type="log">pune</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="vb-adn" lemma="l031421a">
+                <c type="log">paturu</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="大和太乃濱"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="adj-stm" lemma="l007009a">
+                    <c type="log">opo</c>
+                  </w>
+                  <w type="n" lemma="l052299">
+                    <c type="phon">wada</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l051709">
+              <c type="log">pama</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

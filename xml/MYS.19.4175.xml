@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4175">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="霍公鳥"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050160">
+                <c type="log">pototogisu</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="今來喧曽无"/>
+            <phr type="np-adv">
+              <w type="n" lemma="l004025">
+                <c type="log">ima</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030585a">
+                <w type="vb-stm" lemma="l030612a">
+                  <c type="log">ki</c>
+                </w>
+                <w type="vb-stm" lemma="l031267a">
+                  <c type="log">naki</c>
+                </w>
+              </w>
+              <w type="vb-cls" lemma="l030982a">
+                <c type="phon">somu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="菖蒲"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="pp-adv">
+                  <cl type="ip-nmz">
+                    <phr type="np-ob1">
+                      <w type="n" lemma="l050358">
+                        <w type="n" lemma="l050882">
+                          <c type="log">ayamye</c>
+                        </w>
+                        <w type="n" lemma="l050114">
+                          <c type="log">gusa</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <lb id="3" corresp="可都良久麻泥爾"/>
+                    <w type="vb-adc" lemma="l030498a">
+                      <c type="phon">kaduraku</c>
+                    </w>
+                  </cl>
+                  <w type="p-res" lemma="l000512b">
+                    <c type="phon">madeni</c>
+                  </w>
+                </phr>
+                <lb id="4" corresp="加流流日安良米也"/>
+                <w type="vb-adn" lemma="l030550a">
+                  <c type="phon">karuru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050090">
+                <c type="log">pi</c>
+              </w>
+            </phr>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="phon">ara</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

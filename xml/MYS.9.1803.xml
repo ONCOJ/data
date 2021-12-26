@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1803">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="語繼"/>
+            <cl type="ip-adv">
+              <w type="vb-adc" lemma="l030491a">
+                <w type="vb-stm" lemma="l030492a">
+                  <c type="log">katari</c>
+                </w>
+                <w type="vb-adc" lemma="l031139a">
+                  <c type="log">tugu</c>
+                </w>
+              </w>
+              <lb id="1" corresp="可良仁文幾許"/>
+              <w type="p-conn" lemma="l000508b">
+                <c type="phon">karani</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </cl>
+            <phr type="np-adv">
+              <w type="pro-adv" lemma="l042036">
+                <c type="log">kokoda</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="戀布矣"/>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007102">
+                <c type="log">kwopo</c>
+                <c type="phon">si</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="phon">ki</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000552">
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="直目爾見兼"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <w type="adv" lemma="l004121">
+                <c type="log">tadame</c>
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vax-spst-stm" lemma="l000015">
+                <c type="log">kye</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="古丁子"/>
+          <phr type="np">
+            <w type="n">
+              <w type="n" lemma="l051101">
+                <c type="log">inisipye</c>
+              </w>
+              <w type="n" lemma="l050146">
+                <c type="log">wotokwo</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

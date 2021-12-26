@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2671">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="今夜之"/>
+          <cl type="ip-adv">
+            <phr type="np-zyo">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051320">
+                      <w type="pro-n" lemma="l042029">
+                        <c type="log">ko</c>
+                      </w>
+                      <w type="n" lemma="l052415">
+                        <c type="log">yopi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="在開月夜"/>
+                <w type="n" lemma="l080260">
+                  <w type="vb-stm" lemma="l030125a">
+                    <c type="log">ari</c>
+                  </w>
+                  <w type="n-dvb" lemma="l030022b">
+                    <c type="phon-kun">ake</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="n" lemma="l050004b">
+                  <c type="log">tuku</c>
+                </w>
+                <w type="n" lemma="l050039">
+                  <c type="log">ywo</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="在乍文"/>
+            <w type="vb-ctt" lemma="l030125a">
+              <c type="log">aritutu</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="公叨置者"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030327a">
+              <c type="log">okite</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="待人無"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adc" lemma="l031644a">
+                  <c type="log">matu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="nlog">mo</c>
+            </w>
+          </phr>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007028">
+              <c type="log">na</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="nlog">si</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

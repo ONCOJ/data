@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2317">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="殊落者"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-adv">
+                    <w type="adv" lemma="l090140">
+                      <c type="log">koto</c>
+                    </w>
+                  </phr>
+                  <w type="vb-cnd" lemma="l031559a">
+                    <c type="log">puraba</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="袖副沾而"/>
+                <cl type="ip-adv">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="n" lemma="l052043">
+                        <c type="log">swode</c>
+                      </w>
+                    </phr>
+                    <w type="p-res" lemma="l000525a">
+                      <c type="log">sape</c>
+                    </w>
+                  </phr>
+                  <cl type="ip-adv">
+                    <w type="vb-ger" lemma="l031354a">
+                      <c type="log">nurete</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="可通"/>
+                  <w type="vb-adc" lemma="l031233a">
+                    <c type="log">toporu</c>
+                  </w>
+                  <w type="xtn-inf">
+                    <w type="xtn-stm" lemma="l000801">
+                      <c type="log">be</c>
+                    </w>
+                    <w type="acp-inf" lemma="l000033">
+                      <c type="log">ku</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="将落雪之"/>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l031559a">
+                    <c type="log">puri</c>
+                  </w>
+                  <w type="vax-prf-stm" lemma="l000018">
+                    <c type="log">na</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="log">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050075">
+                <c type="log">yuki</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="log">no</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="空爾消二管"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l052049">
+                <c type="log">swora</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <w type="vb-ctt">
+            <w type="vb-stm" lemma="l030611a">
+              <c type="log">ke</c>
+            </w>
+            <w type="vax-prf-ctt" lemma="l000018">
+              <c type="phon">nitutu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.649">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="夏葛之"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-ept">
+                    <w type="mk" lemma="l080270">
+                      <w type="n" lemma="l051599">
+                        <c type="log">natukuzu</c>
+                      </w>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="log">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="不絶使乃"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031090a">
+                      <c type="log">taye</c>
+                    </w>
+                    <w type="vax-neg-adn" lemma="l000006a">
+                      <c type="log">nu</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l080098">
+                  <c type="log">tukapi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="不通有者"/>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l031878a">
+                <c type="log">yodom</c>
+              </w>
+              <w type="vax-stv-prv" lemma="l000024">
+                <c type="log">yereba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="言下有如"/>
+          <cl type="ip-arg">
+            <cl type="ip-arg">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050041">
+                    <c type="phon">koto</c>
+                  </w>
+                </phr>
+                <w type="p-res" lemma="l000526a">
+                  <c type="phon">si</c>
+                </w>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+              <w type="vb-adn" lemma="l030125a">
+                <c type="log">aru</c>
+              </w>
+            </cl>
+            <w type="adj" lemma="l007004a">
+              <c type="log">goto</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="念鶴鴨"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030399a">
+              <c type="log">omopi</c>
+            </w>
+            <w type="vax-prf-adn" lemma="l000023">
+              <c type="phon">turu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

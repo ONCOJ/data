@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1737">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="大瀧乎"/>
+          <phr type="pp-sbj">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="adj-stm" lemma="l007009a">
+                        <c type="log">opo</c>
+                      </w>
+                      <w type="n" lemma="l052061">
+                        <c type="log">tagi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-acc" lemma="l000534">
+                    <c type="phon">wo</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="過而夏箕爾"/>
+                <w type="vb-ger" lemma="l030926a">
+                  <c type="log">sugwite</c>
+                </w>
+              </cl>
+              <cl type="ip-adv">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l051601">
+                      <c type="phon-kun">natumwi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="傍爲而"/>
+                <w type="vb-ger" lemma="l031101a">
+                  <w type="adj-stm" lemma="l007017">
+                    <c type="log">tika</c>
+                  </w>
+                  <w type="vb-ger" lemma="l031130a">
+                    <c type="log">dukite</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="浄川瀬"/>
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <w type="adj-adn">
+                      <w type="adj-stm" lemma="l007086">
+                        <c type="log">kiywo</c>
+                      </w>
+                      <w type="acp-adn" lemma="l000033">
+                        <c type="log">ki</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050535">
+                    <w type="n" lemma="l050025">
+                      <c type="log">kapa</c>
+                    </w>
+                    <w type="n" lemma="l090058">
+                      <c type="log">se</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="nlog">wo</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="見何明沙"/>
+              <w type="vb-adn" lemma="l031712a">
+                <c type="log">miru</c>
+              </w>
+            </cl>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="phon">ga</c>
+            </w>
+          </phr>
+          <w type="adj-exc">
+            <w type="adj-stm" lemma="l007162">
+              <c type="log">sayake</c>
+            </w>
+            <w type="acp-exc" lemma="l000039">
+              <c type="phon">sa</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

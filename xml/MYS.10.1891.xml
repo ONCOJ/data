@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1891">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="冬隠"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-ept">
+                    <w type="mk-inf" lemma="l091021">
+                      <w type="n" lemma="l051846">
+                        <c type="log">puyu</c>
+                      </w>
+                      <w type="vb-inf" lemma="l080226a">
+                        <c type="phon">gomori</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="春開花"/>
+                  <phr type="np-adv">
+                    <w type="n" lemma="l051724">
+                      <c type="log">paru</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l030778a">
+                    <c type="log">saku</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050083">
+                  <c type="log">pana</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="nlog">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="手折以"/>
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l031100a">
+                <w type="n" lemma="l050012b">
+                  <c type="log">ta</c>
+                </w>
+                <w type="vb-inf" lemma="l031960a">
+                  <c type="log">wori</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-inf" lemma="l031761a">
+              <c type="log">moti</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="千遍限"/>
+          <phr type="np-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="num" lemma="l002013">
+                    <c type="log">ti</c>
+                  </w>
+                  <w type="n" lemma="l050050">
+                    <c type="log">tabi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="nlog">no</c>
+              </w>
+            </phr>
+            <w type="n-dvb" lemma="l030438b">
+              <c type="log">kagiri</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="戀渡鴨"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vb-adc" lemma="l031910a">
+              <c type="log">wataru</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

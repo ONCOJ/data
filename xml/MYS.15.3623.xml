@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3623">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="山乃波爾"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l052494">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="月可多夫気婆"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050004a">
+                <c type="log">tukwi</c>
+              </w>
+            </phr>
+            <w type="vb-prv" lemma="l030480a">
+              <c type="phon">katabukeba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="伊射里須流"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <w type="vb-inf" lemma="l030157a">
+                <c type="phon">izari</c>
+              </w>
+              <w type="vb-adn" lemma="l030919a">
+                <c type="phon">suru</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="安麻能等毛之備"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050163">
+                  <c type="phon">ama</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050183">
+              <w type="n" lemma="l050184">
+                <c type="phon">tomosi</c>
+              </w>
+              <w type="n" lemma="l050009a">
+                <c type="phon">bwi</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="於伎爾奈都佐布"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l052520">
+                <c type="phon">oki</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031289a">
+            <c type="phon">nadusapu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

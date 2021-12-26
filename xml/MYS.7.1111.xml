@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1111">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="古毛"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="n" lemma="l051101">
+                <c type="log">inisipye</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="如此聞乍哉"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-adv">
+                <w type="pro-adv" lemma="l042020">
+                  <c type="log">kaku</c>
+                </w>
+              </phr>
+              <w type="vb-ctt" lemma="l030565a">
+                <c type="log">kikitutu</c>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="phon">ya</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="偲兼"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030886a">
+                <c type="log">sinwopi</c>
+              </w>
+              <w type="vax-spst-stm" lemma="l000015">
+                <c type="phon">kye</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="此古河之"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="log">ko</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l060026">
+                    <w type="pln" lemma="l092023">
+                      <c type="phon-kun">puru</c>
+                    </w>
+                    <w type="n" lemma="l050025">
+                      <c type="log">kapa</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="清瀬之音矣"/>
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <w type="adj-adn">
+                      <w type="adj-stm" lemma="l007086">
+                        <c type="log">kiywo</c>
+                      </w>
+                      <w type="acp-adn" lemma="l000033">
+                        <c type="log">ki</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l090058">
+                    <c type="log">se</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050072">
+                <c type="log">to</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

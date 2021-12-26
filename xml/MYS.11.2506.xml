@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2506">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="事霊"/>
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l051312">
+                          <w type="n" lemma="l050148">
+                            <c type="phon-kun">koto</c>
+                          </w>
+                          <w type="n" lemma="l052507">
+                            <c type="log">dama</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="nlog">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="八十衢"/>
+                    <cl type="ip-rel">
+                      <phr type="np-prd">
+                        <w type="num" lemma="l002008">
+                          <c type="log">ya</c>
+                        </w>
+                        <w type="num" lemma="l002032">
+                          <c type="log">swo</c>
+                        </w>
+                      </phr>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="nlog">no</c>
+                      </w>
+                    </cl>
+                    <w type="n" lemma="l052133">
+                      <c type="log">timata</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="nlog">ni</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="夕占問"/>
+                <phr type="np-gol-ob1">
+                  <w type="n" lemma="l052441">
+                    <c type="log">yupuke</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031226a">
+                  <c type="log">twopu</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="占正謂"/>
+              <w type="n" lemma="l052488">
+                <c type="log">ura</c>
+              </w>
+            </phr>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004073">
+                <c type="log">masani</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031391a">
+              <c type="log">noru</c>
+            </w>
+          </s>
+          <lb id="4" corresp="妹相依"/>
+          <s type="ip-mat">
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l050027">
+                  <c type="log">imo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="nlog">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="pfx-rcp" lemma="l000025">
+                <c type="log">api</c>
+              </w>
+              <w type="vb-stm" lemma="l031887a">
+                <c type="log">yora</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

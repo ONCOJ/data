@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.905">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="和可家礼婆"/>
+            <cl type="ip-adv">
+              <w type="adj-prv">
+                <w type="adj-stm" lemma="l007209">
+                  <c type="phon">waka</c>
+                </w>
+                <w type="acp-prv" lemma="l000033">
+                  <c type="phon">kyereba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="道行之良士"/>
+            <phr type="np-ob1">
+              <w type="n">
+                <w type="n" lemma="l050091">
+                  <c type="log">miti</c>
+                </w>
+                <w type="n-dvb" lemma="l031840b">
+                  <c type="log">yuki</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-ngc" lemma="l031967a">
+              <c type="phon">sirazi</c>
+            </w>
+          </s>
+          <lb id="2" corresp="末比波世武"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l052484">
+                  <c type="phon">mapi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030919a">
+                <c type="phon">se</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="之多敞乃使"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050026">
+                    <c type="phon">sitapye</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l080098">
+                <c type="log">tukapi</c>
+              </w>
+            </phr>
+            <cl type="ip-adv">
+              <lb id="4" corresp="於比弖登保良世"/>
+              <w type="vb-ger" lemma="l030372a">
+                <c type="phon">opite</c>
+              </w>
+            </cl>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l031233a">
+                <c type="phon">topora</c>
+              </w>
+              <w type="vax-rsp-imp" lemma="l000009">
+                <c type="phon">se</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

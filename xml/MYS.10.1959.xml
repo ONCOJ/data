@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1959">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="雨臍之"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="n" lemma="l050001b">
+                        <c type="log">ama</c>
+                      </w>
+                      <w type="n-dvb" lemma="l031458b">
+                        <c type="log">bare</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="雲爾副而"/>
+                <w type="n" lemma="l050115">
+                  <c type="log">kumo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031008a">
+              <c type="log">tagupite</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="霍公鳥"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050160">
+              <c type="log">pototogisu</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="指春日而"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="pln" lemma="l051241">
+                  <c type="plog">kasuga</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="nlog">wo</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030806a">
+              <c type="log">sasite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="従此鳴度"/>
+          <phr type="pp-adv-pth">
+            <phr type="np">
+              <w type="pro-n" lemma="l042029">
+                <c type="log">ko</c>
+              </w>
+            </phr>
+            <w type="p-case-abl" lemma="l000540d">
+              <c type="log">yu</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031267a">
+              <c type="log">naki</c>
+            </w>
+            <w type="vb-adc" lemma="l031910a">
+              <c type="log">wataru</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

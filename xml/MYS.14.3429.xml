@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3429">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="等保都安布美"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007008">
+                  <c type="phon">topo</c>
+                </w>
+                <w type="cop-adn" lemma="l031968">
+                  <c type="phon">tu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="pln" lemma="l050824">
+              <c type="phon-on">apumi</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="伊奈佐保曾江乃"/>
+          <phr type="np">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l051098">
+                  <c type="phon">inasa</c>
+                </w>
+                <w type="n" lemma="l080399">
+                  <w type="adj-stm" lemma="l007149">
+                    <c type="phon">poso</c>
+                  </w>
+                  <w type="n" lemma="l052401">
+                    <c type="phon">ye</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="水乎都久思"/>
+            <w type="n" lemma="l051492">
+              <w type="n" lemma="l050130">
+                <c type="phon">miwo</c>
+              </w>
+              <w type="n" lemma="l000532">
+                <c type="phon">tu</c>
+              </w>
+              <w type="n" lemma="l090104">
+                <c type="phon">kusi</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="3" corresp="安礼乎多能米弖"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="pro-n" lemma="l042083">
+                  <c type="phon">are</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031058a">
+              <c type="phon">tanomete</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="安佐麻之物能乎"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030037a">
+              <c type="phon">asa</c>
+            </w>
+            <w type="vax-sjv-adc" lemma="l000004">
+              <c type="phon">masi</c>
+            </w>
+          </w>
+          <w type="p-conn" lemma="l000516">
+            <c type="log">mo</c>
+            <c type="phon">nowo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

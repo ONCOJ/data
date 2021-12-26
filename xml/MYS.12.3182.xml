@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3182">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="白妙之"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk-adi" lemma="l091087">
+                        <w type="n" lemma="l050620">
+                          <w type="adj-stm" lemma="l007006b">
+                            <c type="log">sirwo</c>
+                          </w>
+                          <w type="n" lemma="l052528">
+                            <c type="phon-kun">tape</c>
+                          </w>
+                        </w>
+                        <w type="cop-adi" lemma="l031965">
+                          <c type="log">no</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="袖之別者"/>
+                    <w type="n" lemma="l052043">
+                      <c type="log">swode</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n-dvb" lemma="l031898b">
+                  <c type="log">wakare</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="雖惜"/>
+            <w type="adj-css">
+              <w type="adj-stm" lemma="l007229">
+                <c type="log">wosi</c>
+              </w>
+              <w type="acp-css" lemma="l000033">
+                <c type="log">kyedomo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="思乱而"/>
+          <cl type="ip-adv">
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030399a">
+                <c type="log">omopi</c>
+              </w>
+              <w type="vb-ger" lemma="l031692a">
+                <c type="log">midarete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="赦鶴鴨"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l031857a">
+              <c type="log">yurusi</c>
+            </w>
+            <w type="vax-prf-adn" lemma="l000023">
+              <c type="phon">turu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

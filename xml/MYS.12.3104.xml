@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3104">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="将相者"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="log">apa</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="log">mu</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="nlog">to</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="千遍雖念"/>
+            <phr type="np-adv">
+              <w type="n">
+                <w type="num" lemma="l002013">
+                  <c type="log">ti</c>
+                </w>
+                <w type="n" lemma="l050050">
+                  <c type="log">tabi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-css" lemma="l030399a">
+              <c type="log">omopedo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="蟻通"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adc">
+                    <w type="pfx-stv" lemma="l000026">
+                      <c type="phon">ari</c>
+                    </w>
+                    <w type="vb-adc" lemma="l030536a">
+                      <c type="log">gaywopu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="人眼乎多"/>
+                <w type="n" lemma="l090707">
+                  <w type="n" lemma="l050046">
+                    <c type="log">pito</c>
+                  </w>
+                  <w type="n" lemma="l050048a">
+                    <c type="log">me</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007009b">
+                <c type="log">opo</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="log">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="戀乍衣居"/>
+          <w type="vb-ctt" lemma="l030731a">
+            <c type="log">kwopwitutu</c>
+          </w>
+          <w type="p-foc" lemma="l000527">
+            <c type="phon">so</c>
+          </w>
+          <w type="vb-pgs-adn" lemma="l031957a">
+            <c type="log">woru</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

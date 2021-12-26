@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.10">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="宇都久志伎"/>
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <w type="adj-adn">
+                      <w type="adj-stm" lemma="l007207">
+                        <c type="phon">utukusi</c>
+                      </w>
+                      <w type="acp-adn" lemma="l000033">
+                        <c type="phon">ki</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="乎米乃佐佐波爾"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l080131">
+                        <c type="phon">wome</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050383">
+                    <c type="phon">sasapa</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="阿羅礼布理"/>
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050836">
+                    <c type="phon">arare</c>
+                  </w>
+                </phr>
+                <w type="vb-inf" lemma="l031559a">
+                  <c type="phon">puri</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="志毛布留等毛"/>
+              <phr type="np-sbj">
+                <w type="n" lemma="l051946">
+                  <c type="phon">simo</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031559a">
+                <c type="phon">puru</c>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="phon">tomo</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="奈加礼曾禰"/>
+            <w type="vb">
+              <w type="cfx-phb" lemma="l000037">
+                <c type="phon">na</c>
+              </w>
+              <w type="vb-stm" lemma="l030548a">
+                <c type="phon">kare</c>
+              </w>
+              <w type="cfx-phb" lemma="l000037">
+                <c type="phon">sone</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="5" corresp="袁米乃佐佐波"/>
+          <phr type="np">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l080131">
+                  <c type="phon">wome</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050383">
+              <c type="phon">sasaba</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.914">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="瀧上乃"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l090304">
+                      <c type="phon">taginoupe</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="三船之山者"/>
+                <w type="pln" lemma="l060152">
+                  <w type="pln" lemma="l080030">
+                    <c type="plog">mipune</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="雖畏"/>
+            <w type="adj-css">
+              <w type="adj-stm" lemma="l007078">
+                <c type="log">kasikwo</c>
+              </w>
+              <w type="acp-css" lemma="l000033">
+                <c type="log">kyedo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="思忘"/>
+          <phr type="pp-sbj">
+            <cl type="ip-rel">
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030399a">
+                  <c type="log">omopi</c>
+                </w>
+                <w type="vb-adn" lemma="l031907a">
+                  <c type="log">wasururu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="時毛日毛無"/>
+            <phr type="pp">
+              <phr type="conjp">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050059">
+                      <c type="log">toki</c>
+                    </w>
+                  </phr>
+                  <w type="p-top" lemma="l000514">
+                    <c type="phon">mo</c>
+                  </w>
+                </phr>
+              </phr>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050090">
+                    <c type="log">pi</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+            </phr>
+          </phr>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007028">
+              <c type="log">na</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="nlog">si</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

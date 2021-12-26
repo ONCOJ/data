@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2033">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="天漢"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050001b">
+                        <c type="log">ama</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="nlog">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050025">
+                    <c type="log">gapa</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="安川原"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l052392">
+                      <c type="log">yasu</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051206">
+                  <c type="log">kapara</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="nlog">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="定而"/>
+            <w type="vb-ger" lemma="l031213a">
+              <c type="log">todomarite</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="神競者"/>
+          <lb id="4" corresp="磨待無"/>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

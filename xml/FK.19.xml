@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.19">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="阿羅礼布楼"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="np-sbj">
+                        <w type="n" lemma="l050836">
+                          <c type="phon">arare</c>
+                        </w>
+                      </phr>
+                      <w type="vb-adc" lemma="l031559a">
+                        <c type="phon">puru</c>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="耆資麼加多皚塢"/>
+                    <w type="pln" lemma="l092004">
+                      <c type="phon">kisima</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l090316">
+                  <c type="phon">take</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="嵯峨紫弥苫"/>
+            <w type="adj-ger">
+              <w type="adj-stm" lemma="l007155">
+                <c type="phon">sagasi</c>
+              </w>
+              <w type="acp-ger" lemma="l000034">
+                <c type="phon">mito</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="区縒刀理我泥底"/>
+          <cl type="ip-adv">
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030620a">
+                <w type="n" lemma="l050114">
+                  <c type="phon">kusa</c>
+                </w>
+                <w type="vb-stm" lemma="l031258a">
+                  <c type="phon">twori</c>
+                </w>
+              </w>
+              <w type="vb-ger" lemma="l030505a">
+                <c type="phon">kanete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊母我堤塢刀楼"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="phon">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050012a">
+                <c type="phon">te</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031258a">
+            <c type="phon">tworu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

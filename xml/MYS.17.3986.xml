@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3986">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="之夫多爾能"/>
+          <phr type="np-adv">
+            <cl type="ip-rel">
+              <phr type="pp-gol-ob1">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l090231">
+                        <c type="phon">sibutani</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="佐伎能安里蘇爾"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l052505">
+                        <c type="phon">saki</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050841">
+                    <c type="phon">ariswo</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="与須流奈美"/>
+              <w type="vb-adn" lemma="l031872a">
+                <c type="phon">yosuru</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l050017">
+              <c type="phon">nami</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="伊夜思久思久爾"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004014">
+              <c type="phon">iya</c>
+            </w>
+            <w type="adv" lemma="l004020b">
+              <c type="phon">sikusikuni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="伊爾之敞於母保由"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l051101">
+              <c type="phon">inisipye</c>
+            </w>
+          </phr>
+          <w type="vb-cls" lemma="l030404a">
+            <c type="phon">omopoyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

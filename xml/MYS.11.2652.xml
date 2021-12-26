@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2652">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="妹之髪"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-zyo">
+                    <phr type="np-ob1">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n" lemma="l050027">
+                            <c type="log">imo</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000503">
+                          <c type="log">ga</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l052532">
+                        <c type="log">kami</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="上小竹葉野之"/>
+                    <w type="vb-inf" lemma="l030023a">
+                      <c type="log">age</c>
+                    </w>
+                  </cl>
+                  <w type="n">
+                    <w type="pln-kke" lemma="l050385">
+                      <c type="phon">takapa</c>
+                    </w>
+                    <w type="n" lemma="l051650">
+                      <c type="log">nwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="放駒"/>
+              <w type="n" lemma="l090640">
+                <w type="vb-stm" lemma="l031425a">
+                  <c type="log">panati</c>
+                </w>
+                <w type="n" lemma="l051377">
+                  <c type="log">gwoma</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="蕩去家良思"/>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030124a">
+                <c type="log">arabwi</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon-kun">ni</c>
+              </w>
+              <w type="vax-mpst-adn" lemma="l000016">
+                <c type="log">kye</c>
+              </w>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="log">rasi</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="不合思者"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-ob1">
+              <w type="vb-nml">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="log">apa</c>
+                </w>
+                <w type="vax-neg-nml" lemma="l000006a">
+                  <c type="log">naku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-prv" lemma="l030399a">
+              <c type="log">omopeba</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

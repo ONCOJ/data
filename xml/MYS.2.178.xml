@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.2.178">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="御立為之"/>
+          <phr type="np-adv">
+            <cl type="ip-rel">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="xtn-inf">
+                    <w type="pfx-hon" lemma="l000035">
+                      <c type="log">mi</c>
+                    </w>
+                    <w type="vb-stm" lemma="l031043a">
+                      <c type="log">tata</c>
+                    </w>
+                    <w type="vax-rsp-inf" lemma="l000009">
+                      <c type="phon">si</c>
+                    </w>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                  <lb id="1" corresp="嶋乎見時"/>
+                  <w type="n" lemma="l090238">
+                    <c type="phon-kun">sima</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <w type="vb-adn" lemma="l031712a">
+                <c type="log">miru</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l050059">
+              <c type="log">toki</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="庭多泉"/>
+          <phr type="np-ob1">
+            <cl type="ip-rel">
+              <cl type="ip-ept">
+                  <w type="mk" lemma="l050599">
+                    <c type="log">nipa</c>
+                    <c type="phon">ta</c>
+                    <c type="phon-kun">dumi</c>
+                  </w>
+              </cl>
+              <lb id="3" corresp="流涙"/>
+              <w type="vb-adn" lemma="l031266a">
+                <c type="log">nagaruru</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l051582">
+              <c type="log">namita</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="止曽金鶴"/>
+          <w type="vb-inf" lemma="l031236a">
+            <c type="log">tome</c>
+          </w>
+          <w type="p-foc" lemma="l000527">
+            <c type="phon">zo</c>
+          </w>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030505a">
+              <c type="log">kane</c>
+            </w>
+            <w type="vax-prf-adn" lemma="l000023">
+              <c type="phon">turu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3619">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="伊蘇乃麻由"/>
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n" lemma="l050104">
+                            <c type="phon">iswo</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050095">
+                        <c type="phon">ma</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-abl" lemma="l000540d">
+                      <c type="phon">yu</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="多芸都山河"/>
+                  <w type="vb-adi" lemma="l030999a">
+                    <c type="phon">tagitu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050226">
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                  <w type="n" lemma="l050025">
+                    <c type="log">kapa</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="2" corresp="多延受安良婆"/>
+              <w type="vb-ifc">
+                <w type="vb-stm" lemma="l031090a">
+                  <c type="phon">taye</c>
+                </w>
+                <w type="vax-neg-ifc" lemma="l000006a">
+                  <c type="phon">zu</c>
+                </w>
+              </w>
+              <w type="vb-cnd" lemma="l030125a">
+                <c type="phon">araba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="麻多母安比見牟"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="adv" lemma="l004022">
+                  <c type="phon">mata</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="pfx-rcp" lemma="l000025">
+                <c type="phon">api</c>
+              </w>
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="秋加多麻気弖"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l050032">
+                <c type="log">aki</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030481a">
+              <c type="phon">katamakete</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

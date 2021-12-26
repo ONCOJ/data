@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.26">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="迦賀那倍弖"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n">
+                <w type="n" lemma="l050033b">
+                  <c type="phon">ka</c>
+                </w>
+                <w type="n" lemma="l050033b">
+                  <c type="phon">ga</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031299a">
+              <c type="phon">nabete</c>
+            </w>
+          </cl>
+          <lb id="1" corresp="用迩波許許能用"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="conjp">
+                <cl type="ip-adv">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l050039">
+                      <c type="phon">ywo</c>
+                    </w>
+                  </phr>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="phon">ni</c>
+                  </w>
+                  <w type="p-top" lemma="l000522">
+                    <c type="phon">pa</c>
+                  </w>
+                </cl>
+                <phr type="np-qfr">
+                  <w type="n">
+                    <w type="num" lemma="l002009">
+                      <c type="phon">kokono</c>
+                    </w>
+                    <w type="n" lemma="l050039">
+                      <c type="phon">ywo</c>
+                    </w>
+                  </w>
+                </phr>
+              </phr>
+              <lb id="2" corresp="比迩波登袁加袁"/>
+              <phr type="np">
+                <cl type="ip-adv">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l050090">
+                      <c type="phon">pi</c>
+                    </w>
+                  </phr>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="phon">ni</c>
+                  </w>
+                  <w type="p-top" lemma="l000522">
+                    <c type="phon">pa</c>
+                  </w>
+                </cl>
+                <phr type="np-qfr">
+                  <w type="n">
+                    <w type="num" lemma="l002010">
+                      <c type="phon">towo</c>
+                    </w>
+                    <w type="cl" lemma="l002017">
+                      <c type="phon">ka</c>
+                    </w>
+                  </w>
+                </phr>
+              </phr>
+            </phr>
+            <w type="p-intj" lemma="l000535">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3070">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="木綿疊"/>
+            <phr type="np-zyo">
+              <cl type="ip-ept">
+                <w type="mk" lemma="l099999">
+                  <w type="n">
+                    <w type="n" lemma="l080043">
+                      <c type="log">yupu</c>
+                    </w>
+                    <w type="n-dvb" lemma="l031025b">
+                      <c type="log">tatami</c>
+                    </w>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="田上山之"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l060106">
+                    <w type="pln" lemma="l060107">
+                      <c type="plog">tanakami</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="狭名葛"/>
+              <w type="n" lemma="l051879">
+                <w type="n" lemma="l080012b">
+                  <c type="phon">sana</c>
+                </w>
+                <w type="n" lemma="l051165">
+                  <c type="log">kadura</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="在去之毛"/>
+            <w type="vb-ger">
+              <w type="pfx-stv" lemma="l000026">
+                <c type="log">ari</c>
+              </w>
+              <w type="vb-ger" lemma="l030841a">
+                <c type="log">sarite</c>
+              </w>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="今不有十万"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <w type="n" lemma="l004025">
+                <c type="log">ima</c>
+              </w>
+            </phr>
+            <w type="cop-ifc">
+              <w type="cop-stm" lemma="l031966">
+                <c type="log">nara</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="phon">tomo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

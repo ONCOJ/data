@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.2.145">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="鳥翔成"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <cl type="ip-adv">
+                  <w type="vb-inf" lemma="l030081a">
+                    <w type="n" lemma="l050001b">
+                      <c type="log">ama</c>
+                    </w>
+                    <w type="vb-inf" lemma="l030451a">
+                      <c type="log">gakeri</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="有我欲比管"/>
+                <w type="vb-ctt">
+                  <w type="pfx-stv" lemma="l000026">
+                    <c type="log">ari</c>
+                  </w>
+                  <w type="vb-ctt" lemma="l030536a">
+                    <c type="phon">gaywopitutu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="見良目杼母"/>
+              <w type="vb-ifc" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="xtn-css" lemma="l000805">
+                <c type="phon">ramedomo</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="人社不知"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000510">
+                <c type="log">koso</c>
+              </w>
+            </phr>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l031967a">
+                <c type="log">sira</c>
+              </w>
+              <w type="vax-neg-exc" lemma="l000006a">
+                <c type="log">ne</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="松者知良武"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l050158">
+                <c type="log">matu</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031967a">
+            <c type="log">siru</c>
+          </w>
+          <w type="xtn-adc" lemma="l000805">
+            <c type="phon">ramu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1709">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="御食向"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-ept">
+                <w type="mk-adc" lemma="l091076">
+                  <w type="n" lemma="l050751">
+                    <w type="pfx-hon" lemma="l000035">
+                      <c type="log">mi</c>
+                    </w>
+                    <w type="n" lemma="l052537">
+                      <c type="log">ke</c>
+                    </w>
+                  </w>
+                  <w type="vb-adc" lemma="l031721a">
+                    <c type="log">mukapu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="南淵山之"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l060270">
+                    <w type="pln" lemma="l051463">
+                      <c type="plog">minabuti</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="巌者"/>
+              <w type="n" lemma="l050493">
+                <c type="log">ipapo</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="log">ni</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="落波太列可"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031559a">
+                    <c type="log">puri</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="log">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l004095">
+                <c type="phon">padare</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="削遺有"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030555a">
+              <w type="vb-stm" lemma="l030596a">
+                <c type="log">kiye</c>
+              </w>
+              <w type="vb-stm" lemma="l031374a">
+                <c type="log">nokori</c>
+              </w>
+            </w>
+            <w type="vax-stv-adn" lemma="l000022">
+              <c type="log">taru</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

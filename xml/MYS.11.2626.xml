@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2626">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="古衣"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l090796">
+                    <w type="adj-stm" lemma="l007151">
+                      <c type="log">puru</c>
+                    </w>
+                    <w type="n" lemma="l051304">
+                      <c type="log">koromo</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="打棄人者"/>
+                <w type="vb-adn" lemma="l030271a">
+                  <c type="log">utituru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="秋風之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l050254">
+                      <w type="n" lemma="l050032">
+                        <c type="log">aki</c>
+                      </w>
+                      <w type="n" lemma="l050008a">
+                        <c type="log">kaze</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="立來時爾"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031043a">
+                    <c type="log">tati</c>
+                  </w>
+                  <w type="vb-adn" lemma="l030612a">
+                    <c type="log">kuru</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050059">
+                <c type="log">toki</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="物念物其"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <w type="vb-adc" lemma="l031775a">
+                <w type="n" lemma="l050042">
+                  <c type="log">mono</c>
+                </w>
+                <w type="vb-adc" lemma="l030399a">
+                  <c type="log">mopu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050042">
+              <c type="log">mono</c>
+            </w>
+          </phr>
+          <w type="p-foc" lemma="l000527">
+            <c type="phon">so</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

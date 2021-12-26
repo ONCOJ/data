@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4066">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="宇能花能"/>
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l052262">
+                      <w type="n" lemma="l052558">
+                        <c type="phon">u</c>
+                      </w>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                      <w type="n" lemma="l050083">
+                        <c type="log">pana</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="佐久都奇多知奴"/>
+                <w type="vb-adc" lemma="l030778a">
+                  <c type="phon">saku</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050004a">
+                <c type="phon">tukwi</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031043a">
+                <c type="phon">tati</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="phon">nu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="保等登芸須"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050160">
+                  <c type="phon">pototogisu</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="伎奈吉等与米余"/>
+              <w type="vb-imp">
+                <w type="vb-stm" lemma="l030585a">
+                  <w type="vb-stm" lemma="l030612a">
+                    <c type="phon">ki</c>
+                  </w>
+                  <w type="vb-stm" lemma="l031267a">
+                    <c type="phon">naki</c>
+                  </w>
+                </w>
+                <w type="vb-imp" lemma="l031246a">
+                  <c type="phon">toyomeyo</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="敷布美多里登母"/>
+            <cl type="ip-adv">
+              <w type="vb-cls">
+                <w type="vb-stm" lemma="l031544a">
+                  <c type="phon">pupumi</c>
+                </w>
+                <w type="vax-stv-cls" lemma="l000022">
+                  <c type="phon">tari</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="phon">tomo</c>
+              </w>
+            </cl>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

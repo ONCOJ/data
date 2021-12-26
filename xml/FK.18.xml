@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.18">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="住吉之"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l052023">
+                        <c type="plog">suminoye</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="大倉向而"/>
+                  <w type="n">
+                    <w type="adj-stm" lemma="l007009a">
+                      <c type="log">opo</c>
+                    </w>
+                    <w type="n" lemma="l090111">
+                      <c type="log">kura</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l031724a">
+                  <c type="log">mukite</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="飛者許曾"/>
+              <w type="vb-cnd" lemma="l031228a">
+                <c type="log">tobaba</c>
+              </w>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="速鳥云目"/>
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <w type="pen" lemma="l090688">
+                  <w type="adj-stm" lemma="l004028">
+                    <c type="log">paya</c>
+                  </w>
+                  <w type="n" lemma="l050970">
+                    <c type="log">tori</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-comp" lemma="l000530">
+                <c type="log">to</c>
+              </w>
+            </cl>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030199a">
+                <c type="log">ipa</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="log">me</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="何速鳥"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="wh-n" lemma="l042003">
+                <c type="log">nani</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000506">
+              <c type="log">ka</c>
+            </w>
+          </phr>
+          <phr type="np">
+            <w type="pen" lemma="l090688">
+              <w type="adj-stm" lemma="l004028">
+                <c type="log">paya</c>
+              </w>
+              <w type="n" lemma="l050970">
+                <c type="log">tori</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4500">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="宇梅能波奈"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052251">
+                    <c type="phon">ume</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050083">
+                <c type="phon">pana</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="香乎加具波之美"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050101">
+                  <c type="log">ka</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007071">
+                <w type="n" lemma="l050101">
+                  <c type="phon">ka</c>
+                </w>
+                <w type="adj-stm" lemma="l007091">
+                  <c type="phon">gupasi</c>
+                </w>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="等保家杼母"/>
+          <cl type="ip-adv">
+            <w type="adj-css">
+              <w type="adj-stm" lemma="l007008">
+                <c type="phon">topo</c>
+              </w>
+              <w type="acp-css" lemma="l000033">
+                <c type="phon">kyedomo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="己許呂母之努爾"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050037">
+                  <c type="phon">kokoro</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l090226">
+                <c type="phon">sinwo</c>
+              </w>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="伎美乎之曾於毛布"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="phon">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030399a">
+            <c type="phon">mopu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

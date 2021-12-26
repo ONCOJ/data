@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3475">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="古非都追母"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <w type="vb-ctt" lemma="l030731a">
+                <c type="phon">kwopwitutu</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+              <lb id="1" corresp="乎良牟等須礼杼"/>
+              <w type="vb-adc">
+                <w type="vb-pgs-stm" lemma="l031957a">
+                  <c type="phon">wora</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="vb-css" lemma="l030919a">
+              <c type="phon">suredo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="遊布麻夜万"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-adv">
+                  <w type="n">
+                    <w type="pln" lemma="l052442">
+                      <c type="phon">yupuma</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="phon">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="3" corresp="可久礼之伎美乎"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030449a">
+                    <c type="phon">kakure</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l004266">
+                <c type="phon">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="於母比可祢都母"/>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030390a">
+              <w type="vb-stm" lemma="l030399a">
+                <c type="phon">omopi</c>
+              </w>
+              <w type="vb-stm" lemma="l030505a">
+                <c type="phon">kane</c>
+              </w>
+            </w>
+            <w type="vax-prf-cls" lemma="l000023">
+              <c type="phon">tu</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

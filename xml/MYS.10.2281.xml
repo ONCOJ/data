@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2281">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="朝露爾"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050723">
+                    <w type="n" lemma="l050139">
+                      <c type="log">asa</c>
+                    </w>
+                    <w type="n" lemma="l052223">
+                      <c type="log">tuyu</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="咲酢左乾垂"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030778a">
+                  <c type="log">saki</c>
+                </w>
+                <w type="vb-stm" lemma="l030933a">
+                  <c type="phon">susabwi</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000022">
+                  <c type="phon">taru</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="鴨頭草之"/>
+            <w type="n" lemma="l090383">
+              <c type="log">tukwikusa</c>
+            </w>
+          </phr>
+          <w type="cop-adi" lemma="l031965">
+            <c type="log">no</c>
+          </w>
+          <lb id="3" corresp="日斜共"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n" lemma="l050090">
+                <c type="log">pi</c>
+              </w>
+            </phr>
+            <w type="vb-adn" lemma="l030668a">
+              <c type="log">kururu</c>
+            </w>
+            <w type="p-conn" lemma="l000542">
+              <c type="log">napeni</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="可消所念"/>
+          <cl type="ip-arg">
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030611a">
+                <c type="log">ke</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="log">nu</c>
+              </w>
+            </w>
+            <w type="xtn-inf">
+              <w type="xtn-stm" lemma="l000801">
+                <c type="log">be</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-cls" lemma="l030404a">
+            <c type="log">omopoyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

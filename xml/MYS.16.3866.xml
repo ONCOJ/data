@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3866">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="奥鳥"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-arg">
+                    <phr type="np-prd">
+                      <cl type="ip-ept">
+                        <w type="mk" lemma="l099999">
+                          <w type="n" lemma="l052520">
+                            <c type="log">oki</c>
+                          </w>
+                          <w type="p-case-gen" lemma="l000532">
+                            <c type="nlog">tu</c>
+                          </w>
+                          <w type="n" lemma="l050970">
+                            <c type="log">tori</c>
+                          </w>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="鴨云船之"/>
+                      <w type="n" lemma="l051191">
+                        <c type="log">kamo</c>
+                      </w>
+                    </phr>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="nlog">to</c>
+                    </w>
+                  </cl>
+                  <w type="vb-adc" lemma="l030199a">
+                    <c type="log">pu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050007a">
+                  <c type="log">pune</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="還來者"/>
+            <w type="vb-cnd">
+              <w type="vb-stm" lemma="l030518a">
+                <c type="log">kapyeri</c>
+              </w>
+              <w type="vb-cnd" lemma="l030612a">
+                <c type="log">koba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="也良乃埼守"/>
+          <phr type="np-sbj">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l052391">
+                  <c type="phon">yara</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n-dvb" lemma="l080228">
+              <w type="n" lemma="l052505">
+                <c type="log">saki</c>
+              </w>
+              <w type="n-dvb" lemma="l031788b">
+                <c type="log">mori</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="早告許曽"/>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l004028">
+                <c type="log">paya</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-imp">
+            <w type="vb-stm" lemma="l031140a">
+              <c type="log">tuge</c>
+            </w>
+            <w type="vb-imp" lemma="l031964a">
+              <c type="phon">koso</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4513">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="伊蘇可気乃"/>
+          <cl type="ip-nmz-sbj">
+            <phr type="pp-adv">
+              <cl type="ip-nmz">
+                <phr type="np-sbj">
+                  <cl type="ip-rel">
+                    <phr type="pp-sbj">
+                      <phr type="np">
+                        <w type="n" lemma="l050195">
+                          <w type="n" lemma="l050104">
+                            <c type="phon">iswo</c>
+                          </w>
+                          <w type="n" lemma="l050011a">
+                            <c type="phon">kage</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="美由流伊気美豆"/>
+                    <w type="vb-adn">
+                      <w type="vb-stm" lemma="l031712a">
+                        <c type="phon">mi</c>
+                      </w>
+                      <w type="vax-pass-adn" lemma="l000011">
+                        <c type="phon">yuru</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l080324">
+                    <w type="n" lemma="l080321">
+                      <c type="phon">ike</c>
+                    </w>
+                    <w type="n" lemma="l050128">
+                      <c type="phon">midu</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="2" corresp="低流麻泥爾"/>
+                <w type="vb-adc" lemma="l031193a">
+                  <c type="phon">teru</c>
+                </w>
+              </cl>
+              <w type="p-res" lemma="l000512b">
+                <c type="phon">madeni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="左家流安之婢乃"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030778a">
+                      <c type="phon">sak</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="phon">yeru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050854">
+                  <c type="phon">asibi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="知良麻久乎思母"/>
+            <w type="vb-nml">
+              <w type="vb-stm" lemma="l031111a">
+                <c type="phon">tira</c>
+              </w>
+              <w type="vax-cjr-nml" lemma="l000002">
+                <c type="phon">maku</c>
+              </w>
+            </w>
+          </cl>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007229">
+              <c type="phon">wosi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.896">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="難破津爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-arg">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l060119">
+                      <w type="pln" lemma="l051586">
+                        <c type="phon-on">nanipa</c>
+                      </w>
+                      <w type="n" lemma="l052171">
+                        <c type="log">tu</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="美船泊農等"/>
+                <phr type="np-sbj">
+                  <w type="n">
+                    <w type="pfx-hon" lemma="l000035">
+                      <c type="phon">mi</c>
+                    </w>
+                    <w type="n" lemma="l050007a">
+                      <c type="log">bune</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="vb-cls">
+                  <w type="vb-stm" lemma="l031421a">
+                    <c type="phon">pate</c>
+                  </w>
+                  <w type="vax-prf-cls" lemma="l000018">
+                    <c type="phon">nu</c>
+                  </w>
+                </w>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="吉許延許婆"/>
+              <w type="vb-inf" lemma="l030569a">
+                <c type="phon">kikoye</c>
+              </w>
+            </cl>
+            <w type="vb-cnd" lemma="l030612a">
+              <c type="phon">koba</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="紐解佐気弖"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l051763">
+                <c type="log">pimo</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031197a">
+              <w type="vb-stm" lemma="l031199a">
+                <c type="log">toki</c>
+              </w>
+              <w type="vb-ger" lemma="l030784a">
+                <c type="phon">sakete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="多知婆志利勢武"/>
+          <w type="vb-inf" lemma="l031038a">
+            <w type="vb-stm" lemma="l031043a">
+              <c type="phon">tati</c>
+            </w>
+            <w type="vb-inf" lemma="l031417a">
+              <c type="phon">basiri</c>
+            </w>
+          </w>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030919a">
+              <c type="phon">se</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

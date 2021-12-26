@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3455">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <lb id="0" corresp="古非思家婆"/>
+              <cl type="ip-adv">
+                <w type="adj-cnd">
+                  <w type="adj-stm" lemma="l007103">
+                    <c type="phon">kwopwisi</c>
+                  </w>
+                  <w type="acp-cnd" lemma="l000033">
+                    <c type="phon">kyeba</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="伎麻世和我勢古"/>
+              <w type="vb-imp">
+                <w type="vb-stm" lemma="l030612a">
+                  <c type="phon">ki</c>
+                </w>
+                <w type="vb-imp" lemma="l030206a">
+                  <c type="phon">mase</c>
+                </w>
+              </w>
+            </cl>
+            <phr type="np-voc">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="phon">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050285">
+                <c type="phon">sekwo</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="2" corresp="可伎都楊疑"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l051179">
+                    <c type="phon">kakitu</c>
+                  </w>
+                  <w type="n" lemma="l050151">
+                    <c type="phon">yagwi</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="宇礼都美可良思"/>
+                <w type="n" lemma="l050022a">
+                  <c type="phon">ure</c>
+                </w>
+              </phr>
+              <w type="vb-inf">
+                <w type="vb-stm" lemma="l031178a">
+                  <c type="phon">tumi</c>
+                </w>
+                <w type="vb-inf" lemma="l030538a">
+                  <c type="phon">karasi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="和礼多知麻多牟"/>
+            <phr type="np-sbj">
+              <w type="pro-n" lemma="l042059">
+                <c type="phon">ware</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031043a">
+                <c type="phon">tati</c>
+              </w>
+              <w type="vb-stm" lemma="l031644a">
+                <c type="phon">mata</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

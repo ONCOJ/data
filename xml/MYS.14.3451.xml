@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3451">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="左奈都良能"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051878">
+                        <c type="phon">sanatura</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="乎可爾安波麻伎"/>
+                  <w type="n" lemma="l052341">
+                    <c type="phon">woka</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <phr type="np-ob1">
+                <w type="n" lemma="l004056">
+                  <c type="phon">apa</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031619a">
+                <c type="phon">maki</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="可奈之伎我"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <cl type="ip-nmz">
+                    <w type="adj-adn">
+                      <w type="adj-stm" lemma="l007022">
+                        <c type="phon">kanasi</c>
+                      </w>
+                      <w type="acp-adn" lemma="l000033">
+                        <c type="phon">ki</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="古麻波多具等毛"/>
+                <w type="n" lemma="l051377">
+                  <c type="phon">kwoma</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-cls" lemma="l031004a">
+              <c type="phon">tagu</c>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="phon">tomo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="和波素登毛波自"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042057">
+                <c type="phon">wa</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <cl type="ip-adv">
+            <phr type="np">
+              <w type="n" lemma="l090010">
+                <c type="phon">swo</c>
+              </w>
+            </phr>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <w type="vb-ngc" lemma="l030373a">
+            <c type="phon">pazi</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

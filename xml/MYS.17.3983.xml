@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3983">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安思比奇能"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk-adi" lemma="l091054">
+                    <w type="n" lemma="l050860">
+                      <c type="phon">asipikwi</c>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="phon">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="夜麻毛知可吉乎"/>
+                <w type="n" lemma="l050034">
+                  <c type="phon">yama</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007017">
+                <c type="phon">tika</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="phon">ki</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000552">
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="保登等芸須"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050160">
+              <c type="phon">pototogisu</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="都奇多都麻泥爾"/>
+          <phr type="pp-adv">
+            <cl type="ip-nmz">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050004a">
+                  <c type="phon">tukwi</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031043a">
+                <c type="phon">tatu</c>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512b">
+              <c type="phon">madeni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="奈仁加吉奈可奴"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="wh-n" lemma="l042003">
+                <c type="phon">nani</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030585a">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="phon">ki</c>
+              </w>
+              <w type="vb-stm" lemma="l031267a">
+                <c type="phon">naka</c>
+              </w>
+            </w>
+            <w type="vax-neg-adn" lemma="l000006a">
+              <c type="phon">nu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

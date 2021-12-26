@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.283">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="墨吉乃"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l052023">
+                        <c type="phon-kun">suminoye</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="得名津爾立而"/>
+                  <w type="pln" lemma="l050999">
+                    <c type="phon-kun">enatu</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031043a">
+                <c type="log">tatite</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="見渡者"/>
+            <w type="vb-prv" lemma="l031715a">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vb-prv" lemma="l031908a">
+                <c type="log">wataseba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="六兒乃泊従"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051534">
+                        <c type="phon-kun">mukwo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n-dvb" lemma="l031234b">
+                    <c type="log">tomari</c>
+                  </w>
+                </phr>
+                <w type="p-case-abl" lemma="l000540d">
+                  <c type="phon">yu</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="出流船人"/>
+              <w type="vb-adn" lemma="l030172a">
+                <c type="log">idu</c>
+                <c type="phon">ru</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l050481">
+              <w type="n" lemma="l050007b">
+                <c type="log">puna</c>
+              </w>
+              <w type="n" lemma="l050046">
+                <c type="log">bito</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

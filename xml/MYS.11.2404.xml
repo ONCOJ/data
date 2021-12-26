@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2404">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="思依"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <w type="vb-inf">
+                    <w type="vb-stm" lemma="l030399a">
+                      <c type="log">omopi</c>
+                    </w>
+                    <w type="vb-inf" lemma="l031887a">
+                      <c type="log">yori</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="見依"/>
+                <cl type="ip-adv">
+                  <w type="vb-ger" lemma="l031712a">
+                    <c type="log">mite</c>
+                  </w>
+                  <w type="p-top" lemma="l000522">
+                    <c type="nlog">pa</c>
+                  </w>
+                </cl>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031887a">
+                    <c type="log">yori</c>
+                  </w>
+                  <w type="vax-prf-stm" lemma="l000018">
+                    <c type="log">ni</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="log">si</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="物有"/>
+              <w type="n" lemma="l050042">
+                <c type="log">mono</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="nlog">ni</c>
+            </w>
+            <w type="vb-prv" lemma="l030125a">
+              <c type="log">areba</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="一日間"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l050451">
+                      <w type="num" lemma="l002001">
+                        <c type="log">pito</c>
+                      </w>
+                      <w type="n" lemma="l050090">
+                        <c type="log">pi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="nlog">no</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050820">
+                  <c type="log">apida</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="nlog">mo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="忘念"/>
+            <w type="vb-ger" lemma="l031907a">
+              <c type="log">wasurete</c>
+            </w>
+          </cl>
+          <w type="vb-exc" lemma="l030399a">
+            <c type="log">omope</c>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="nlog">ya</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

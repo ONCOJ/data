@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3561">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="可奈刀田乎"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n">
+                  <w type="n" lemma="l051198b">
+                    <c type="phon">kana</c>
+                  </w>
+                  <w type="n" lemma="l090263">
+                    <c type="phon">two</c>
+                  </w>
+                  <w type="n" lemma="l050097">
+                    <c type="log">da</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="安良我伎麻由美"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="adj-stm" lemma="l007034">
+                    <c type="phon">ara</c>
+                  </w>
+                  <w type="n" lemma="l050141">
+                    <c type="phon">gaki</c>
+                  </w>
+                  <w type="n" lemma="l050095">
+                    <c type="phon">ma</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540d">
+                <c type="phon">yu</c>
+              </w>
+            </phr>
+            <w type="vb-ifc" lemma="l031712a">
+              <c type="phon">mi</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="比賀刀礼婆"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050090">
+                  <c type="phon">pi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <w type="vb-prv" lemma="l031193a">
+              <c type="phon">tworeba</c>
+            </w>
+          </cl>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-prd">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050001a">
+                    <c type="phon">ame</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="阿米乎万刀能須"/>
+              <w type="vb-adc" lemma="l031644a">
+                <c type="phon">matwo</c>
+              </w>
+            </cl>
+            <w type="cop-sem" lemma="l031965">
+              <c type="phon">nosu</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="伎美乎等麻刀母"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="phon">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <w type="p-comp" lemma="l000530">
+            <c type="phon">to</c>
+          </w>
+          <w type="vb-adc" lemma="l031644a">
+            <c type="phon">matwo</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

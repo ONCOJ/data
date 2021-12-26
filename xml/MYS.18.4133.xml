@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4133">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="波里夫久路"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="np">
+                  <w type="n" lemma="l050507">
+                    <w type="n" lemma="l090710">
+                      <c type="phon">pari</c>
+                    </w>
+                    <w type="n" lemma="l051825">
+                      <c type="phon">bukurwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="己礼波多婆利奴"/>
+                <w type="pro-n" lemma="l042031">
+                  <c type="phon">kore</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031065a">
+                <c type="phon">tabari</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="phon">nu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="須理夫久路"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050508">
+                  <w type="vb-stm" lemma="l030954a">
+                    <c type="phon">suri</c>
+                  </w>
+                  <w type="n" lemma="l051825">
+                    <c type="phon">bukurwo</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="3" corresp="伊麻波衣天之可"/>
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="n" lemma="l004025">
+                    <c type="phon">ima</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <w type="vb-exc">
+                <w type="vb-stm" lemma="l030228a">
+                  <c type="phon">e</c>
+                </w>
+                <w type="vax-prf-stm" lemma="l000023">
+                  <c type="phon">te</c>
+                </w>
+                <w type="vax-spst-exc" lemma="l000015">
+                  <c type="phon">sika</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="於吉奈佐備勢牟"/>
+            <w type="vb-inf" lemma="l030325a">
+              <c type="phon">okinasabwi</c>
+            </w>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030919a">
+                <c type="phon">se</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

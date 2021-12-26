@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1175">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="足柄乃"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <cl type="ip-adv">
+                      <phr type="np">
+                        <phr type="pp">
+                          <phr type="np">
+                            <w type="pln" lemma="l050855">
+                              <c type="plog">asigara</c>
+                            </w>
+                          </phr>
+                          <w type="p-case-gen" lemma="l000520">
+                            <c type="phon">no</c>
+                          </w>
+                        </phr>
+                        <lb id="1" corresp="筥根飛超"/>
+                        <w type="pln" lemma="l051707">
+                          <c type="phon">pakwone</c>
+                        </w>
+                      </phr>
+                      <w type="vb-inf">
+                        <w type="vb-stm" lemma="l031228a">
+                          <c type="log">tobi</c>
+                        </w>
+                        <w type="vb-inf" lemma="l030747a">
+                          <c type="log">kwoye</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="2" corresp="行鶴乃"/>
+                    <w type="vb-adc" lemma="l031840a">
+                      <c type="log">yuku</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l052059">
+                    <c type="log">tadu</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="乏見者"/>
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007025">
+                  <c type="log">tomosi</c>
+                </w>
+                <w type="acp-adn" lemma="l000033">
+                  <c type="log">ki</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-prv" lemma="l031712a">
+              <c type="log">mireba</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="日本之所念"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pln" lemma="l052386">
+                <c type="plog">yamato</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <w type="vb-cls" lemma="l030404a">
+            <c type="log">omopoyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

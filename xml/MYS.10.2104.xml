@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2104">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="朝杲"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <w type="n" lemma="l050236">
+                <w type="n" lemma="l050139">
+                  <c type="log">asa</c>
+                </w>
+                <w type="n" lemma="l051212">
+                  <c type="log">gapo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="nlog">pa</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="朝露負"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l050723">
+                    <w type="n" lemma="l050139">
+                      <c type="log">asa</c>
+                    </w>
+                    <w type="n" lemma="l052223">
+                      <c type="log">tuyu</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l030372a">
+                  <c type="log">opite</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="咲雖云"/>
+              <w type="vb-adc" lemma="l030778a">
+                <c type="log">saku</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="nlog">to</c>
+              </w>
+            </cl>
+            <w type="vb-css" lemma="l030199a">
+              <c type="log">ipedo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="暮陰社"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n">
+                <w type="n" lemma="l050087">
+                  <c type="log">yupu</c>
+                </w>
+                <w type="n" lemma="l050011a">
+                  <c type="log">kage</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="nlog">ni</c>
+            </w>
+            <w type="p-foc" lemma="l000510">
+              <c type="log">koso</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="咲益家礼"/>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l030778a">
+              <c type="log">saki</c>
+            </w>
+            <w type="vb-stm" lemma="l031630a">
+              <c type="log">masari</c>
+            </w>
+            <w type="vax-mpst-exc" lemma="l000016">
+              <c type="phon">kyere</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

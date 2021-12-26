@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.106">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="野麻騰能"/>
+          <cl type="ip-adv">
+            <phr type="pp-pth-ob1">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l052386">
+                      <c type="phon-on">yamato</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="飫斯能毗稜栖嗚"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l080386">
+                      <c type="phon">osi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050537">
+                  <w type="adj-stm" lemma="l007146">
+                    <c type="phon">piro</c>
+                  </w>
+                  <w type="n" lemma="l090058">
+                    <c type="phon">se</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="倭柂羅務騰"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031910a">
+                <c type="phon">watara</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000541">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="阿庸比柂豆矩梨"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l050888">
+                <c type="phon">aywopi</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031045a">
+              <w type="n" lemma="l050012b">
+                <c type="phon">ta</c>
+              </w>
+              <w type="vb-inf" lemma="l031144a">
+                <c type="phon">dukuri</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="擧始豆矩羅符母"/>
+          <w type="vb-adc">
+            <w type="n" lemma="l051308">
+              <c type="phon">kosi</c>
+            </w>
+            <w type="vb-adc" lemma="l032069a">
+              <c type="phon">dukurapu</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

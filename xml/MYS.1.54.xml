@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.1.54">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="巨勢山乃"/>
+            <s type="ip-mat">
+              <phr type="np-arg">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l060077">
+                      <w type="pln" lemma="l051307">
+                        <c type="phon-on">kose</c>
+                      </w>
+                      <w type="n" lemma="l050034">
+                        <c type="log">yama</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="列々椿"/>
+                <w type="n">
+                  <w type="n" lemma="l090405">
+                    <c type="log">tura</c>
+                  </w>
+                  <w type="n" lemma="l090405">
+                    <c type="log">tura</c>
+                  </w>
+                  <w type="n" lemma="l050172">
+                    <c type="log">tubaki</c>
+                  </w>
+                </w>
+              </phr>
+            </s>
+            <lb id="2" corresp="都良々々爾"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l004140">
+                    <c type="phon">turatura</c>
+                  </w>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="phon">ni</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="見乍思奈"/>
+              <w type="vb-ctt" lemma="l031712a">
+                <c type="log">mitutu</c>
+              </w>
+            </cl>
+            <w type="vb-opt" lemma="l030886a">
+              <c type="log">sinwopa</c>
+              <c type="phon">na</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="許湍乃春野乎"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051307">
+                    <c type="phon-on">kose</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="n" lemma="l051724">
+                  <c type="log">paru</c>
+                </w>
+                <w type="n" lemma="l051650">
+                  <c type="log">nwo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

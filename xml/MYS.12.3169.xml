@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3169">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="能登海爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="pp">
+                        <phr type="np">
+                          <phr type="pp">
+                            <phr type="np">
+                              <w type="pln" lemma="l051635">
+                                <c type="phon">noto</c>
+                              </w>
+                            </phr>
+                            <w type="p-case-gen" lemma="l000520">
+                              <c type="nlog">no</c>
+                            </w>
+                          </phr>
+                          <w type="n" lemma="l052517">
+                            <c type="log">umi</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-dat" lemma="l000519">
+                          <c type="phon">ni</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="釣為海部之"/>
+                      <w type="vb-inf" lemma="l031187a">
+                        <c type="log">turi</c>
+                      </w>
+                      <w type="vb-adn" lemma="l030919a">
+                        <c type="log">suru</c>
+                      </w>
+                    </cl>
+                    <w type="n" lemma="l050163">
+                      <c type="log">ama</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="射去火之"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="vb-stm" lemma="l030157a">
+                        <c type="phon">izari</c>
+                      </w>
+                      <w type="n" lemma="l050009a">
+                        <c type="phon">pwi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="光爾伊徃"/>
+                <w type="n-dvb" lemma="l031464b">
+                  <c type="log">pikari</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-imp">
+              <w type="pfx" lemma="l000030">
+                <c type="phon">i</c>
+              </w>
+              <w type="vb-imp" lemma="l030145a">
+                <c type="log">ikye</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="月待香光"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l050004a">
+                <c type="log">tukwi</c>
+              </w>
+            </phr>
+            <w type="vb">
+              <w type="vb-stm" lemma="l031644a">
+                <c type="log">mati</c>
+              </w>
+              <w type="sfx" lemma="l001009">
+                <c type="phon">gateri</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

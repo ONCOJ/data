@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3772">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="可敞里家流"/>
+            <cl type="ip-adv">
+              <cl type="ip-arg">
+                <phr type="np-sbj">
+                  <cl type="ip-rel">
+                    <w type="vb-adn">
+                      <w type="vb-stm" lemma="l030518a">
+                        <c type="phon">kapyeri</c>
+                      </w>
+                      <w type="vax-mpst-adn" lemma="l000016">
+                        <c type="phon">kyeru</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="比等伎多礼里等"/>
+                  <w type="n" lemma="l050046">
+                    <c type="phon">pito</c>
+                  </w>
+                </phr>
+                <w type="vb-cls">
+                  <w type="vb-stm" lemma="l030582a">
+                    <w type="vb-stm" lemma="l030612a">
+                      <c type="phon">ki</c>
+                    </w>
+                    <w type="vb-stm" lemma="l030170a">
+                      <c type="phon">tar</c>
+                    </w>
+                  </w>
+                  <w type="vax-stv-cls" lemma="l000024">
+                    <c type="phon">eri</c>
+                  </w>
+                </w>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="伊比之可婆"/>
+              <w type="vb-prv">
+                <w type="vb-stm" lemma="l030199a">
+                  <c type="phon">ipi</c>
+                </w>
+                <w type="vax-spst-prv" lemma="l000015">
+                  <c type="phon">sikaba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="保等保登之爾吉"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l050725">
+                <c type="phon">potopoto</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030883a">
+                <c type="phon">sini</c>
+              </w>
+              <w type="vax-spst-cls" lemma="l000015">
+                <c type="phon">ki</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="君香登於毛比弖"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="vb-ger" lemma="l030399a">
+              <c type="phon">omopite</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

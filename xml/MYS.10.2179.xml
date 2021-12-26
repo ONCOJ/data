@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2179">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="朝露爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050723">
+                        <w type="n" lemma="l050139">
+                          <c type="log">asa</c>
+                        </w>
+                        <w type="n" lemma="l052223">
+                          <c type="log">tuyu</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="染始"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031335a">
+                      <c type="phon">nipopi</c>
+                    </w>
+                    <w type="vb-stm" lemma="l030982a">
+                      <c type="log">some</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000022">
+                      <c type="log">taru</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="秋山爾"/>
+                <w type="n">
+                  <w type="n" lemma="l050032">
+                    <c type="log">aki</c>
+                  </w>
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="鍾礼莫零"/>
+            <s type="ip-mat">
+              <phr type="np">
+                <w type="n" lemma="l051935">
+                  <c type="phon">sigure</c>
+                </w>
+              </phr>
+            </s>
+            <w type="vb">
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">na</c>
+              </w>
+              <w type="vb-stm" lemma="l031559a">
+                <c type="log">puri</c>
+              </w>
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">so</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="在渡金"/>
+          <cl type="ip-adv">
+            <w type="vb-adc">
+              <w type="pfx-stv" lemma="l000026">
+                <c type="log">ari</c>
+              </w>
+              <w type="vb-adc" lemma="l031910a">
+                <c type="log">wataru</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000504">
+              <c type="phon">gane</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

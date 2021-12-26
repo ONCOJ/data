@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.739">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="後湍山"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="np-zyo">
+                <w type="pln" lemma="l060126">
+                  <w type="pln" lemma="l090267">
+                    <c type="phon-kun">notise</c>
+                  </w>
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="1" corresp="後毛将相常"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n-kke" lemma="l004087">
+                    <c type="log">noti</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="log">apa</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="log">mu</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="念社"/>
+            <w type="vb-exc" lemma="l030399a">
+              <c type="log">omope</c>
+            </w>
+            <w type="p-foc" lemma="l000510">
+              <c type="log">koso</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="可死物乎"/>
+          <cl type="ip-adv">
+            <w type="vb-cls" lemma="l030883a">
+              <c type="log">sinu</c>
+            </w>
+            <w type="xtn-adn">
+              <w type="xtn-stm" lemma="l000801">
+                <c type="log">be</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="log">ki</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="log">mono</c>
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="至今日毛生有"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l051388">
+                <c type="log">kyepu</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000512a">
+              <c type="log">made</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l030146a">
+              <c type="log">ik</c>
+            </w>
+            <w type="vax-stv-exc" lemma="l000024">
+              <c type="log">yere</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

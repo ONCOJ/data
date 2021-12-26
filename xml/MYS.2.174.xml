@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.2.174">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="外爾見之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l052428">
+                      <c type="log">yoso</c>
+                    </w>
+                  </phr>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="phon">ni</c>
+                  </w>
+                </cl>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031712a">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="檀乃岡毛"/>
+              <phr type="np">
+                <w type="pln" lemma="l060197">
+                  <w type="pln" lemma="l060148">
+                    <c type="plog">mayumi</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon-on">no</c>
+                  </w>
+                  <w type="n" lemma="l052341">
+                    <c type="log">woka</c>
+                  </w>
+                </w>
+              </phr>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="君座者"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l030206a">
+              <c type="log">maseba</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="常都御門跡"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007194">
+                    <c type="log">toko</c>
+                  </w>
+                  <w type="cop-adn" lemma="l031968">
+                    <c type="phon">tu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050749">
+                <c type="log">mikadwo</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031968">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="侍宿為鴨"/>
+          <w type="vb-ifc">
+            <w type="n" lemma="l050125">
+              <c type="log">tono</c>
+            </w>
+            <w type="vb-ifc" lemma="l031926a">
+              <c type="log">wi</c>
+            </w>
+          </w>
+          <w type="vb-adn" lemma="l030919a">
+            <c type="log">suru</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

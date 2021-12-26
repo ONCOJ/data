@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1309">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="風吹"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050008a">
+                    <c type="log">kaze</c>
+                  </w>
+                </phr>
+                <w type="vb-prv" lemma="l031516a">
+                  <c type="log">pukeba</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="海荒"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l052517">
+                    <c type="log">umi</c>
+                  </w>
+                </phr>
+                <w type="p-foc" lemma="l000510">
+                  <c type="nlog">koso</c>
+                </w>
+              </phr>
+              <w type="vb-exc" lemma="l030136a">
+                <c type="log">arure</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="明日言"/>
+            <cl type="ip-adv">
+              <cl type="ip-arg">
+                <phr type="np-prd">
+                  <w type="n" lemma="l050864">
+                    <c type="log">asu</c>
+                  </w>
+                </phr>
+                <w type="p-comp" lemma="l000530">
+                  <c type="nlog">to</c>
+                </w>
+              </cl>
+              <w type="vb-cnd" lemma="l030199a">
+                <c type="log">ipaba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="應久"/>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007147">
+                <c type="log">pisasi</c>
+              </w>
+              <w type="acp-adn" lemma="l000032">
+                <c type="nlog">karu</c>
+              </w>
+            </w>
+            <w type="xtn-cls">
+              <w type="xtn-stm" lemma="l000801">
+                <c type="log">be</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="nlog">si</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="公随"/>
+          <s type="ip-mat">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l004266">
+                    <c type="log">kimi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="nlog">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l004001">
+                <c type="log">manima</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="nlog">ni</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

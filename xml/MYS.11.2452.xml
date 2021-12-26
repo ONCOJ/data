@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2452">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="雲谷"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050115">
+                    <c type="log">kumo</c>
+                  </w>
+                </phr>
+                <w type="p-res" lemma="l000502">
+                  <c type="phon-kun">dani</c>
+                </w>
+                <w type="p-top" lemma="l000514">
+                  <c type="nlog">mo</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="灼發"/>
+              <cl type="ip-adv">
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l007174">
+                    <c type="log">siru</c>
+                  </w>
+                  <w type="acp-inf" lemma="l000033">
+                    <c type="log">ku</c>
+                  </w>
+                </w>
+                <w type="p-res" lemma="l000526a">
+                  <c type="nlog">si</c>
+                </w>
+              </cl>
+              <w type="vb-cnd" lemma="l031043a">
+                <c type="log">tataba</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="意追"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031823a">
+              <c type="log">yari</c>
+            </w>
+            <lb id="3" corresp="見乍居"/>
+            <w type="vb-ctt" lemma="l031712a">
+              <c type="log">mitutu</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="nlog">mo</c>
+            </w>
+            <w type="vb-adc">
+              <w type="vb-stv-stm" lemma="l030125a">
+                <c type="log">ara</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="及直相"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l004003b">
+                    <c type="log">tada</c>
+                  </w>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="nlog">ni</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="vb-adc" lemma="l030071a">
+                <c type="log">apu</c>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512b">
+              <c type="log">made</c>
+              <c type="nlog">ni</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4213">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安由乎疾"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l090066">
+                      <c type="phon">ayu</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-acc" lemma="l000534">
+                    <c type="phon">wo</c>
+                  </w>
+                </phr>
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l007010">
+                    <c type="log">ita</c>
+                  </w>
+                  <w type="acp-inf" lemma="l000034">
+                    <c type="log">mi</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="奈呉乃浦廻爾"/>
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051570">
+                        <c type="phon-on">nagwo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l090037">
+                    <c type="log">uramwi</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="与須流浪"/>
+              <w type="vb-adn" lemma="l031872a">
+                <c type="phon">yosuru</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l050017">
+              <c type="log">nami</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="伊夜千重之伎爾"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="np">
+                <w type="adv" lemma="l004014">
+                  <c type="phon">iya</c>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="num" lemma="l002013">
+                  <c type="log">ti</c>
+                </w>
+                <w type="cl" lemma="l002034">
+                  <c type="log">pye</c>
+                </w>
+                <w type="n-dvb" lemma="l030850b">
+                  <c type="phon">siki</c>
+                </w>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="戀度可母"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vb-adc" lemma="l031910a">
+              <c type="log">wataru</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

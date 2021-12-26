@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2138">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="多頭我鳴乃"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l090345">
+                  <w type="n" lemma="l052059">
+                    <c type="phon">tadu</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                  <w type="n" lemma="l050082">
+                    <c type="log">ne</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="今朝鳴奈倍爾"/>
+            <phr type="np-adv">
+              <w type="n" lemma="l051389">
+                <c type="log">kyesa</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031267a">
+              <c type="log">naku</c>
+            </w>
+            <w type="p-conn" lemma="l000542">
+              <c type="phon">napeni</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="鴈鳴者"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l090078">
+                <w type="n" lemma="l050159">
+                  <c type="log">kari</c>
+                </w>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="nlog">ga</c>
+                </w>
+                <w type="n" lemma="l050082">
+                  <c type="log">ne</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="何處指香"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <w type="wh-n" lemma="l042007">
+                <c type="log">iduku</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030805a">
+              <c type="log">sasite</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="雲隠良武"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030655a">
+              <w type="n" lemma="l050115">
+                <c type="log">kumo</c>
+              </w>
+              <w type="vb-stm" lemma="l030448a">
+                <c type="log">gakur</c>
+              </w>
+            </w>
+            <w type="vax-stv-stm" lemma="l000024">
+              <c type="log">e</c>
+              <c type="phon">ra</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

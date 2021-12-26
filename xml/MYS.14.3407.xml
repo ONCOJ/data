@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3407">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="可美都気努"/>
+          <phr type="np">
+            <w type="pln" lemma="l090424">
+              <w type="n" lemma="l050045">
+                <c type="phon-on">kami</c>
+              </w>
+              <w type="cop-adn" lemma="l031968">
+                <c type="phon-on">tu</c>
+              </w>
+              <w type="pln" lemma="l051387">
+                <c type="phon-on">kenwo</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="1" corresp="麻具波思麻度爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051397">
+                    <c type="phon">magupasimadwo</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="安佐日左指"/>
+              <phr type="np-sbj">
+                <w type="n" lemma="l050448">
+                  <w type="n" lemma="l050139">
+                    <c type="phon">asa</c>
+                  </w>
+                  <w type="n" lemma="l050090">
+                    <c type="log">pi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030806a">
+                <c type="phon">sasi</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="麻伎良波之母奈"/>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007106">
+                <c type="phon">makirapasi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+            <w type="p-fnl-xcl" lemma="l000550">
+              <c type="phon">na</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="安利都追見礼婆"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="vb-ctt" lemma="l030125a">
+                <c type="phon">aritutu</c>
+              </w>
+            </cl>
+            <w type="vb-prv" lemma="l031712a">
+              <c type="log">mi</c>
+              <c type="phon">reba</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1242">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="足引之"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-pth">
+                  <cl type="ip-ept">
+                    <w type="mk-adi" lemma="l091054">
+                      <w type="n" lemma="l050860">
+                        <c type="phon-kun">asipiki</c>
+                      </w>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="log">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="山行暮"/>
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </phr>
+                <w type="vb-inf" lemma="l031833a">
+                  <w type="vb-stm" lemma="l031840a">
+                    <c type="log">yuki</c>
+                  </w>
+                  <w type="vb-inf" lemma="l030662a">
+                    <c type="log">kurasi</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="宿借者"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l050030">
+                  <c type="log">yadwo</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l030546a">
+                <c type="log">karaba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="妹立待而"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050027">
+                <c type="log">imo</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l031043a">
+                <c type="log">tati</c>
+              </w>
+              <w type="vb-ger" lemma="l031644a">
+                <c type="log">matite</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="宿将借鴨"/>
+          <phr type="np-ob1">
+            <w type="n" lemma="l050030">
+              <c type="log">yadwo</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030463a">
+              <c type="log">kasa</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

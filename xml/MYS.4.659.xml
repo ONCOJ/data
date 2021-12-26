@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.659">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="豫"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004006">
+                <c type="log">arakazime</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="人事繁"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050328">
+                <w type="n" lemma="l050046">
+                  <c type="log">pito</c>
+                </w>
+                <w type="n" lemma="l050148">
+                  <c type="log">goto</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007167b">
+                <c type="log">sige</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="nlog">si</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="如是有者"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-adv" lemma="l042020">
+                    <c type="log">kaku</c>
+                  </w>
+                </phr>
+                <w type="p-res" lemma="l000526a">
+                  <c type="nlog">si</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l030125a">
+                <c type="log">araba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="四恵也吾背子"/>
+            <phr type="np-adv">
+              <w type="intj" lemma="l051980">
+                <c type="phon">siweya</c>
+              </w>
+            </phr>
+            <phr type="np-voc">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="log">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="nlog">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050285">
+                <c type="log">sekwo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="奥裳何如荒海藻"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051660">
+                  <c type="log">oku</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="wh-adj-stm" lemma="l042002">
+                <c type="log">ika</c>
+              </w>
+              <w type="cop-inf" lemma="l031965">
+                <c type="nlog">ni</c>
+              </w>
+            </w>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="phon">ara</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

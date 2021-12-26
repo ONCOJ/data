@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.9">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="志漏止利乃"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050672">
+                      <w type="adj-stm" lemma="l007006b">
+                        <c type="phon">sirwo</c>
+                      </w>
+                      <w type="n" lemma="l050970">
+                        <c type="phon">tori</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="芳我都都弥乎"/>
+                <w type="n" lemma="l050088">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l080326">
+                  <c type="phon">tutumi</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="都都牟止母"/>
+            <w type="vb-adc" lemma="l031156a">
+              <c type="phon">tutumu</c>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="phon">tomo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="安良布麻目右疑"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adc" lemma="l030123a">
+                  <c type="phon">arapu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050095">
+                <c type="phon">ma</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <w type="adj-adn">
+            <w type="adj-stm" lemma="l007232b">
+              <c type="phon">u</c>
+            </w>
+            <w type="acp-adn" lemma="l000033">
+              <c type="phon">kwi</c>
+            </w>
+          </w>
+          <lb id="4" corresp="波古叡"/>
+          <w type="n" lemma="l051706">
+            <c type="phon">pakwoye</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

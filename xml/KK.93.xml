@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.93">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="比気多能"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l080150">
+                    <c type="phon">piketa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="和加久流須婆良"/>
+              <w type="n">
+                <w type="adj-stm" lemma="l007209">
+                  <c type="phon">waka</c>
+                </w>
+                <w type="n" lemma="l050577">
+                  <c type="phon">kurusu</c>
+                </w>
+                <w type="n" lemma="l051723">
+                  <c type="phon">bara</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="和加久閇爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l080151">
+                  <w type="adj-stm" lemma="l007209">
+                    <c type="phon">waka</c>
+                  </w>
+                  <w type="n" lemma="l051340">
+                    <c type="phon">kupe</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="韋泥弖麻斯母能"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031922a">
+                <w type="vb-stm" lemma="l031927a">
+                  <c type="phon">wi</c>
+                </w>
+                <w type="vb-stm" lemma="l031342a">
+                  <c type="phon">ne</c>
+                </w>
+              </w>
+              <w type="vax-prf-stm" lemma="l000023">
+                <c type="phon">te</c>
+              </w>
+              <w type="vax-sjv-adc" lemma="l000004">
+                <c type="phon">masi</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="phon">mono</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="淤伊爾祁流加母"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030407a">
+              <c type="phon">oi</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-mpst-adn" lemma="l000016">
+              <c type="phon">kyeru</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

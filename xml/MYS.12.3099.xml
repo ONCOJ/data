@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3099">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="紫草乎"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="pp-ob1">
+                    <phr type="np">
+                      <w type="n" lemma="l051539">
+                        <c type="log">murasaki</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-acc" lemma="l000534">
+                      <c type="phon">wo</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="草跡別々"/>
+                  <phr type="pp-src-ob2">
+                    <phr type="np">
+                      <w type="n" lemma="l050114">
+                        <c type="log">kusa</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-com" lemma="l000529">
+                      <c type="phon">to</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc">
+                    <w type="vb-adc" lemma="l031902a">
+                      <c type="log">waku</c>
+                    </w>
+                    <w type="vb-adc" lemma="l031902a">
+                      <c type="log">waku</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="伏鹿之"/>
+                <w type="vb-adc" lemma="l031528a">
+                  <c type="log">pusu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050071">
+                <c type="log">sika</c>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="phon">no</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="野者殊異為而"/>
+          <cl type="ip-adv">
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l051650">
+                  <c type="log">nwo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="adj-ger">
+              <w type="adj-stm" lemma="l090139">
+                <c type="log">koto</c>
+              </w>
+              <w type="cop-ger" lemma="l031965">
+                <c type="log">ni</c>
+                <c type="phon">site</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="心者同"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007138">
+              <c type="log">oyazi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

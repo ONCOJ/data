@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4150">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="朝床爾"/>
+            <cl type="ip-adv">
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l050139">
+                      <c type="log">asa</c>
+                    </w>
+                    <w type="n" lemma="l052148">
+                      <c type="log">doko</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="聞者遙之"/>
+              <w type="vb-prv" lemma="l030565a">
+                <c type="log">kikeba</c>
+              </w>
+            </cl>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007140">
+                <c type="log">paruke</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="phon">si</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="射水河"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="np-pth">
+                  <w type="n">
+                    <w type="pln" lemma="l080013">
+                      <c type="phon">imidu</c>
+                    </w>
+                    <w type="n" lemma="l050025">
+                      <c type="log">kapa</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="3" corresp="朝己藝思都追"/>
+                <phr type="np-adv">
+                  <w type="n" lemma="l050139">
+                    <c type="log">asa</c>
+                  </w>
+                </phr>
+                <w type="vb-inf" lemma="l030698a">
+                  <c type="phon">kogi</c>
+                </w>
+                <w type="vb-ctt" lemma="l030919a">
+                  <c type="phon">situtu</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="唱船人"/>
+              <w type="vb-adc" lemma="l030264a">
+                <c type="log">utapu</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l050481">
+              <w type="n" lemma="l050007b">
+                <c type="log">puna</c>
+              </w>
+              <w type="n" lemma="l050046">
+                <c type="log">bito</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

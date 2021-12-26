@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2437">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="奥藻"/>
+          <phr type="np-zyo">
+            <cl type="ip-rel">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="pp-ob1">
+                    <phr type="np">
+                      <w type="n" lemma="l090653">
+                        <w type="n" lemma="l052520">
+                          <c type="log">oki</c>
+                        </w>
+                        <w type="p-case-gen" lemma="l000532">
+                          <c type="nlog">tu</c>
+                        </w>
+                        <w type="n" lemma="l052491">
+                          <c type="log">mo</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-acc" lemma="l000534">
+                      <c type="nlog">wo</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="隠障浪"/>
+                  <w type="vb-adc" lemma="l032042a">
+                    <c type="log">kakusapu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050017">
+                  <c type="log">nami</c>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="nlog">no</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="五百重浪"/>
+            <w type="n">
+              <w type="num" lemma="l002005">
+                <c type="log">i</c>
+              </w>
+              <w type="num" lemma="l002031">
+                <c type="log">po</c>
+              </w>
+              <w type="cl" lemma="l002034">
+                <c type="log">pye</c>
+              </w>
+            </w>
+            <w type="n" lemma="l050017">
+              <c type="log">nami</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="千重敷々"/>
+          <phr type="np-adv">
+            <w type="n" lemma="l050443">
+              <w type="num" lemma="l002013">
+                <c type="log">ti</c>
+              </w>
+              <w type="cl" lemma="l002034">
+                <c type="log">pye</c>
+              </w>
+            </w>
+            <w type="adv" lemma="l004020b">
+              <c type="phon-kun">sikusiku</c>
+              <c type="nlog">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="戀度鴨"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vb-adc" lemma="l031910a">
+              <c type="log">wataru</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

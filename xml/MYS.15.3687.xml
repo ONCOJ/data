@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3687">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安思必寄能"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050860">
+                        <c type="phon">asipikwi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="山等妣古由留"/>
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </phr>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031228a">
+                    <c type="phon">tobi</c>
+                  </w>
+                  <w type="vb-adn" lemma="l030747a">
+                    <c type="phon">kwoyuru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="可里我祢波"/>
+              <w type="n" lemma="l090078">
+                <w type="n" lemma="l050159">
+                  <c type="phon">kari</c>
+                </w>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+                <w type="n" lemma="l050082">
+                  <c type="phon">ne</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="美也故爾由加波"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="n" lemma="l050129">
+                  <c type="phon">miyakwo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l031840a">
+              <c type="phon">yukaba</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊毛爾安比弖許祢"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050027">
+                <c type="phon">imo</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l030071a">
+              <c type="phon">apite</c>
+            </w>
+          </cl>
+          <w type="vb-opt" lemma="l030612a">
+            <c type="phon">kone</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

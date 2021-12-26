@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2989">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="今更"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004026">
+                <c type="log">imasara</c>
+                <c type="nlog">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="何壮鹿将念"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="wh-n" lemma="l042003">
+                  <c type="log">nani</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030399a">
+                <c type="log">omopa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="梓弓"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l091005">
+                    <w type="n" lemma="l050787">
+                      <w type="n" lemma="l050786">
+                        <c type="log">adusa</c>
+                      </w>
+                      <w type="n" lemma="l052437">
+                        <c type="log">yumi</c>
+                      </w>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="引見縦見"/>
+                <phr type="conjp">
+                  <cl type="ip-adv">
+                    <w type="vb-inf" lemma="l031474a">
+                      <c type="log">piki</c>
+                    </w>
+                    <w type="vb-ifc" lemma="l031712a">
+                      <c type="log">mi</c>
+                    </w>
+                  </cl>
+                </phr>
+              </cl>
+              <cl type="ip-adv">
+                <w type="vb-inf" lemma="l031859a">
+                  <c type="log">yurupe</c>
+                </w>
+                <w type="vb-ifc" lemma="l031712a">
+                  <c type="log">mi</c>
+                </w>
+              </cl>
+            </cl>
+            <lb id="4" corresp="縁西鬼乎"/>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l031887a">
+                <c type="log">yori</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-spst-adn" lemma="l000015">
+                <c type="phon">si</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000516">
+              <c type="log">mono</c>
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

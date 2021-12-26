@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4402" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="知波夜布留"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <cl type="ip-ept">
+                            <w type="mk-adn" lemma="l091071">
+                              <w type="vb-adn" lemma="l032034a">
+                                <c type="phon">tipayaburu</c>
+                              </w>
+                            </w>
+                          </cl>
+                          <lb id="1" corresp="賀美乃美佐賀爾"/>
+                          <w type="n" lemma="l050005a">
+                            <c type="phon">kami</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <w type="n">
+                        <w type="pfx-hon" lemma="l000035">
+                          <c type="phon">mi</c>
+                        </w>
+                        <w type="n" lemma="l090150">
+                          <c type="phon">saka</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="奴佐麻都里"/>
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l051646">
+                      <c type="phon">nusa</c>
+                    </w>
+                  </phr>
+                  <w type="vb-inf" lemma="l031649a">
+                    <c type="phon">maturi</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="伊波屓伊能知波"/>
+                <w type="vb-adc" lemma="l030193a">
+                  <c type="phon">ipapu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l051102">
+                <c type="phon">inoti</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="意毛知知我多米"/>
+          <phr type="np-prd">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l090210">
+                  <w type="n" lemma="l052482">
+                    <c type="phon">omo</c>
+                  </w>
+                  <w type="n" lemma="l050641">
+                    <c type="phon">titi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050063">
+              <c type="phon">tame</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

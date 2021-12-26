@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.13.3271">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="我情"/>
+            <phr type="pp-arg">
+              <cl type="ip-nmz">
+                <phr type="np-ob1">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042057">
+                        <c type="log">wa</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="nlog">ga</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050037">
+                    <c type="log">kokoro</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="焼毛吾有"/>
+                <w type="vb-adc" lemma="l031793a">
+                  <c type="log">yaku</c>
+                </w>
+              </cl>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <phr type="np-prd">
+              <w type="pro-n" lemma="l042059">
+                <c type="log">ware</c>
+              </w>
+            </phr>
+            <w type="cop-ifc" lemma="l031966">
+              <c type="nlog">n</c>
+              <c type="log">ari</c>
+            </w>
+          </s>
+          <lb id="2" corresp="愛八師"/>
+          <cl type="ip-ept">
+            <w type="mk" lemma="l091065">
+              <c type="log">pasiki</c>
+              <c type="phon">yasi</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="君爾戀毛"/>
+          <s type="ip-mat">
+            <phr type="pp-arg">
+              <cl type="ip-nmz">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <w type="n" lemma="l004266">
+                      <c type="log">kimi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adn" lemma="l030731a">
+                  <c type="log">kwopuru</c>
+                </w>
+              </cl>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="我之心柄"/>
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="log">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="log">ga</c>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="n" lemma="l050037">
+                  <c type="log">kokoro</c>
+                </w>
+                <w type="n" lemma="l090088">
+                  <c type="log">kara</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

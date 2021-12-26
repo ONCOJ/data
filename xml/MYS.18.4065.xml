@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4065">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安佐妣良伎"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="np-adv">
+                      <w type="n">
+                        <w type="n" lemma="l050139">
+                          <c type="phon">asa</c>
+                        </w>
+                        <w type="n-dvb" lemma="l031501b">
+                          <c type="phon">biraki</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="伊里江許具奈流"/>
+                    <phr type="np">
+                      <w type="n" lemma="l051122">
+                        <w type="vb-stm" lemma="l030219a">
+                          <c type="phon">iri</c>
+                        </w>
+                        <w type="n" lemma="l052401">
+                          <c type="log">ye</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="vb-adc" lemma="l030698a">
+                      <c type="phon">kogu</c>
+                    </w>
+                    <w type="xtn-adn" lemma="l000804">
+                      <c type="phon">naru</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="可治能於登乃"/>
+                  <w type="n" lemma="l051162">
+                    <c type="phon">kadi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050072">
+                <c type="phon">oto</c>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="phon">no</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="都波良都婆良爾"/>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l004137">
+                <c type="phon">tubaratubara</c>
+              </w>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="吾家之於母保由"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l050019">
+                <c type="log">wagipye</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <w type="vb-cls" lemma="l030404a">
+            <c type="phon">omopoyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1951">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <lb id="0" corresp="慨哉"/>
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007204">
+                  <c type="log">ureta</c>
+                </w>
+                <w type="acp-adn" lemma="l000033">
+                  <c type="log">ki</c>
+                </w>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="log">ya</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="四去霍公鳥"/>
+            <phr type="np">
+              <w type="n">
+                <w type="adj-stm" lemma="l051938">
+                  <c type="phon">siko</c>
+                </w>
+                <w type="n" lemma="l050160">
+                  <c type="log">pototogisu</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+          <lb id="2" corresp="今社者"/>
+          <s type="ip-mat">
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="n" lemma="l004025">
+                  <c type="log">ima</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000511">
+                <c type="log">kosoba</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="音之干蟹"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l051318">
+                    <c type="log">kowe</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="vb-cls" lemma="l030549a">
+                <c type="log">karu</c>
+              </w>
+              <w type="p-conn" lemma="l000504">
+                <c type="phon">gani</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="来喧響目"/>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030585a">
+                <w type="vb-stm" lemma="l030612a">
+                  <c type="log">ki</c>
+                </w>
+                <w type="vb-stm" lemma="l031267a">
+                  <c type="log">naki</c>
+                </w>
+              </w>
+              <w type="vb-stm" lemma="l031246a">
+                <c type="log">toyome</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

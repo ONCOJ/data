@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3944">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="乎美奈敞之"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="np-sbj">
+                      <w type="n" lemma="l050167">
+                        <c type="phon">wominapyesi</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="左伎多流野辺乎"/>
+                    <w type="vb-adn">
+                      <w type="vb-stm" lemma="l030778a">
+                        <c type="phon">saki</c>
+                      </w>
+                      <w type="vax-stv-adn" lemma="l000022">
+                        <c type="phon">taru</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l051651">
+                    <w type="n" lemma="l051650">
+                      <c type="log">nwo</c>
+                    </w>
+                    <w type="n" lemma="l050133">
+                      <c type="log">bye</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="由伎米具利"/>
+              <w type="vb-inf" lemma="l031839a">
+                <w type="vb-stm" lemma="l031840a">
+                  <c type="phon">yuki</c>
+                </w>
+                <w type="vb-inf" lemma="l031748a">
+                  <c type="phon">meguri</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="吉美乎念出"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l004266">
+                  <c type="phon">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l030399a">
+                <c type="log">omopi</c>
+              </w>
+              <w type="vb-inf" lemma="l030172a">
+                <c type="log">de</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="多母登保里伎奴"/>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031089a">
+              <w type="pfx" lemma="l000042">
+                <c type="phon">ta</c>
+              </w>
+              <w type="vb-stm" lemma="l031765a">
+                <c type="phon">motopori</c>
+              </w>
+            </w>
+            <w type="vb-stm" lemma="l030612a">
+              <c type="phon">ki</c>
+            </w>
+            <w type="vax-prf-cls" lemma="l000018">
+              <c type="phon">nu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

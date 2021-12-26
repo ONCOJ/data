@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2629">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="不相友"/>
+            <cl type="ip-adv">
+              <w type="vb-ifc">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="log">apa</c>
+                </w>
+                <w type="vax-neg-ifc" lemma="l000006a">
+                  <c type="log">zu</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="phon">tomo</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="吾波不怨"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042059">
+                  <c type="log">ware</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ngc" lemma="l030309a">
+              <c type="log">uramwizi</c>
+            </w>
+          </s>
+          <lb id="2" corresp="此枕"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-mpt-ob1">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042029">
+                      <c type="log">ko</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050016">
+                  <c type="log">makura</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="吾等念而"/>
+              <cl type="ip-arg">
+                <phr type="np-prd">
+                  <w type="pro-n" lemma="l042059">
+                    <c type="log">ware</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031968">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <w type="vb-ger" lemma="l030399a">
+                <c type="log">omopite</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="枕手左宿座"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031618a">
+                <c type="log">maki</c>
+                <c type="phon">te</c>
+              </w>
+            </cl>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l030817a">
+                <w type="pfx" lemma="l000040">
+                  <c type="phon">sa</c>
+                </w>
+                <w type="vb-stm" lemma="l031342a">
+                  <c type="log">ne</c>
+                </w>
+              </w>
+              <w type="vb-imp" lemma="l030206a">
+                <c type="log">mase</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

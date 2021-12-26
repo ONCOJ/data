@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.827">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="波流佐礼婆"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l051724">
+                    <c type="phon">paru</c>
+                  </w>
+                </phr>
+                <w type="vb-prv" lemma="l030841a">
+                  <c type="phon">sareba</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="許奴礼我久礼弖"/>
+              <w type="vb-ger">
+                <w type="n" lemma="l050021">
+                  <c type="phon">konure</c>
+                </w>
+                <w type="vb-ger" lemma="l030449a">
+                  <c type="phon">gakurete</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="宇具比須曾"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050161">
+                  <c type="phon">ugupisu</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="奈岐弖伊奴奈流"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031267a">
+                <c type="phon">nakite</c>
+              </w>
+            </cl>
+            <w type="vb-cls" lemma="l030186a">
+              <c type="phon">inu</c>
+            </w>
+            <w type="xtn-adn" lemma="l000804">
+              <c type="phon">naru</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="烏梅我志豆延爾"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052251">
+                    <c type="phon">ume</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l051929">
+                <w type="adj-stm" lemma="l080147">
+                  <c type="phon">sidu</c>
+                </w>
+                <w type="n" lemma="l052403">
+                  <c type="phon">ye</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

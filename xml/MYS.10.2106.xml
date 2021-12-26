@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2106">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="沙額田乃"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l090273">
+                    <c type="phon">sanukata</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="野邊乃秋芽子"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051651">
+                    <w type="n" lemma="l051650">
+                      <c type="log">nwo</c>
+                    </w>
+                    <w type="n" lemma="l050133">
+                      <c type="log">pye</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050392">
+                <w type="n" lemma="l050032">
+                  <c type="log">aki</c>
+                </w>
+                <w type="n" lemma="l050149">
+                  <c type="log">pagwi</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="時有者"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <w type="n" lemma="l050059">
+                  <c type="log">toki</c>
+                </w>
+              </phr>
+              <w type="cop-prv" lemma="l031966">
+                <c type="log">nareba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="今盛有"/>
+            <phr type="np-adv">
+              <w type="n" lemma="l004025">
+                <c type="log">ima</c>
+              </w>
+            </phr>
+            <phr type="np-prd">
+              <w type="n-dvb" lemma="l030769b">
+                <c type="log">sakari</c>
+              </w>
+            </phr>
+            <w type="cop-ifc" lemma="l031966">
+              <c type="log">nari</c>
+            </w>
+          </s>
+          <lb id="4" corresp="折而将挿頭"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031960a">
+                <c type="log">worite</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030454a">
+                <c type="log">kazasa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

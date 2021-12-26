@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3801">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="墨之江之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="pln" lemma="l052023">
+                            <c type="phon-kun">suminoye</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="log">no</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="岸野之榛丹"/>
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n">
+                            <w type="n" lemma="l051372">
+                              <c type="log">kwisi</c>
+                            </w>
+                            <w type="n" lemma="l051650">
+                              <c type="log">nwo</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="log">no</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050178">
+                        <c type="log">pari</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="々穂所經迹"/>
+                  <w type="vb-css" lemma="l031336a">
+                    <c type="phon">nipopuredo</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="丹穂葉寐我八"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031335a">
+                    <c type="phon">nipopa</c>
+                  </w>
+                  <w type="vax-neg-adn" lemma="l000006a">
+                    <c type="phon">nu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="pro-n" lemma="l042059">
+                <c type="log">ware</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="丹穂氷而將居"/>
+          <w type="vb-ger" lemma="l031335a">
+            <c type="phon">nipopi</c>
+            <c type="log">te</c>
+          </w>
+          <w type="vb-adc">
+            <w type="vb-pgs-stm" lemma="l031957a">
+              <c type="log">wora</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2870">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="我背子之"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="pro-n" lemma="l042057">
+                            <c type="log">wa</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000503">
+                          <c type="nlog">ga</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050285">
+                        <c type="log">sekwo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="log">ga</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="将来跡語之"/>
+                  <cl type="ip-arg">
+                    <w type="vb-adc">
+                      <w type="vb-stm" lemma="l030612a">
+                        <c type="log">ko</c>
+                      </w>
+                      <w type="vax-cjr-adc" lemma="l000002">
+                        <c type="log">mu</c>
+                      </w>
+                    </w>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="phon">to</c>
+                    </w>
+                  </cl>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l030492a">
+                      <c type="log">katari</c>
+                    </w>
+                    <w type="vax-spst-adn" lemma="l000015">
+                      <c type="phon">si</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="夜者過去"/>
+                <w type="n" lemma="l050039">
+                  <c type="log">ywo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030926a">
+                <c type="log">sugwi</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="phon-kun">nu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="思咲八更々"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <w type="intj" lemma="l051980">
+                <c type="phon">siweya</c>
+              </w>
+            </phr>
+          </s>
+          <s type="ip-mat">
+            <phr type="np-adv">
+              <w type="adv" lemma="l050533">
+                <c type="log">sarasara</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="思許理来目八面"/>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030857a">
+                <c type="phon">sikori</c>
+              </w>
+              <w type="vb-stm" lemma="l030612a">
+                <c type="log">ko</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

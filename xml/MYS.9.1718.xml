@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1718">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="足利思代"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <w type="vb-ger" lemma="l030061a">
+                    <c type="phon">adomopite</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="榜行舟薄"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030693a">
+                    <w type="vb-stm" lemma="l030698a">
+                      <c type="log">kogi</c>
+                    </w>
+                    <w type="vb-stm" lemma="l030186a">
+                      <c type="log">ini</c>
+                    </w>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="log">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050007a">
+                <c type="log">pune</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="高嶋之"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l090294">
+                    <c type="plog">takasima</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="足速之水門爾"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l050788">
+                    <c type="phon-kun">adwo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l051468">
+                <c type="log">minatwo</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="極爾監鴨"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031421a">
+              <c type="log">pate</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-spst-stm" lemma="l000015">
+              <c type="phon">kye</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

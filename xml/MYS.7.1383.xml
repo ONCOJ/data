@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1383">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="名毛伎世婆"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l031276a">
+                <c type="phon">nageki</c>
+              </w>
+              <w type="vb-cnd" lemma="l030919a">
+                <c type="phon">seba</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="人可知見"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031967a">
+                <c type="log">siri</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="log">nu</c>
+              </w>
+            </w>
+            <w type="xtn-inf">
+              <w type="xtn-stm" lemma="l000801">
+                <c type="log">be</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="山川之"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l050226">
+                      <w type="n" lemma="l050034">
+                        <c type="log">yama</c>
+                      </w>
+                      <w type="n" lemma="l050025">
+                        <c type="log">gapa</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="瀧情乎"/>
+                <w type="vb-adc" lemma="l030999a">
+                  <c type="log">tagitu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="塞敢而有鴨"/>
+          <w type="vb-ger">
+            <w type="vb-stm" lemma="l030956a">
+              <c type="log">seki</c>
+            </w>
+            <w type="vb-ger" lemma="l030072a">
+              <c type="log">apete</c>
+            </w>
+          </w>
+          <w type="vb-stv-adn" lemma="l030125a">
+            <c type="log">aru</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

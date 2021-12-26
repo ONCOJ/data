@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1155">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="奈呉乃海之"/>
+          <phr type="np">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l060254">
+                  <w type="pln" lemma="l051570">
+                    <c type="phon-on">nagwo</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                  <w type="n" lemma="l052517">
+                    <c type="log">umi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="朝開之奈凝"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050846">
+                  <c type="log">asake</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l051567">
+              <c type="phon">nagori</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="今日毛鴨"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="n" lemma="l051388">
+                <c type="log">kyepu</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="礒之浦廻爾"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050104">
+                    <c type="log">iswo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090037">
+                <c type="log">uramwi</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="乱而将有"/>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l031692a">
+              <c type="log">midarete</c>
+            </w>
+          </cl>
+          <w type="vb-adn" lemma="l030125a">
+            <c type="log">aru</c>
+          </w>
+          <w type="xtn-adc" lemma="l000805">
+            <c type="log">ramu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

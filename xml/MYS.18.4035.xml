@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4035">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="保等登芸須"/>
+            <phr type="np-voc">
+              <w type="n" lemma="l050160">
+                <c type="phon">pototogisu</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="伊等布登伎奈之"/>
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <w type="vb-adc" lemma="l030180a">
+                  <c type="phon">itopu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050059">
+                <c type="phon">toki</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="phon">si</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="安夜賣具左"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l050358">
+                    <w type="n" lemma="l050882">
+                      <c type="phon">ayamye</c>
+                    </w>
+                    <w type="n" lemma="l050114">
+                      <c type="phon">gusa</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="3" corresp="加豆良爾勢武日"/>
+                <cl type="ip-arg">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l004065">
+                      <c type="phon">kadura</c>
+                    </w>
+                  </phr>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="phon">ni</c>
+                  </w>
+                </cl>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l030919a">
+                    <c type="phon">se</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="phon">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050090">
+                <c type="log">pi</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="許由奈伎和多礼"/>
+            <phr type="pp-pth">
+              <phr type="np">
+                <w type="pro-n" lemma="l042029">
+                  <c type="phon">ko</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540d">
+                <c type="phon">yu</c>
+              </w>
+            </phr>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l031267a">
+                <c type="phon">naki</c>
+              </w>
+              <w type="vb-imp" lemma="l031910a">
+                <c type="phon">watare</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

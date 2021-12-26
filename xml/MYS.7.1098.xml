@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1098">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="木道爾社"/>
+            <cl type="ip-arg">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051371">
+                    <w type="pln" lemma="l092003">
+                      <c type="plog">kwi</c>
+                    </w>
+                    <w type="n" lemma="l050091">
+                      <c type="log">di</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+                <w type="p-foc" lemma="l000510">
+                  <c type="log">koso</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="妹山在云"/>
+              <phr type="np-sbj">
+                <w type="pln" lemma="l060037">
+                  <w type="pln" lemma="l060038">
+                    <c type="plog">imo</c>
+                  </w>
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-cls" lemma="l030125a">
+                <c type="log">ari</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="nlog">to</c>
+              </w>
+            </cl>
+            <w type="vb-exc" lemma="l030199a">
+              <c type="log">ipe</c>
+            </w>
+          </s>
+          <lb id="2" corresp="玉櫛上"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="n" lemma="l091060">
+                    <w type="n" lemma="l052078">
+                      <c type="log">tama</c>
+                    </w>
+                    <w type="n" lemma="l050263">
+                      <c type="log">kusige</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="二上山母"/>
+                <w type="pln" lemma="l092056">
+                  <w type="pln" lemma="l092057">
+                    <c type="plog">putagami</c>
+                  </w>
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="妹許曽有来"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050027">
+                  <c type="log">imo</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+            </phr>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ari</c>
+              </w>
+              <w type="vax-mpst-exc" lemma="l000016">
+                <c type="phon">kyere</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

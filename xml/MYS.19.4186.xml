@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4186">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="山吹乎"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050506">
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                  <w type="n" lemma="l050929">
+                    <c type="phon-kun">buki</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="屋戸爾殖弖波"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050030">
+                  <c type="phon">yadwo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030229a">
+              <c type="log">uwete</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="見其等爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="vb-adn" lemma="l031712a">
+                <c type="log">miru</c>
+              </w>
+              <w type="p-res" lemma="l000546">
+                <c type="phon">gotoni</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="念者不止"/>
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l030399a">
+                <c type="log">omopi</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+              <w type="vb-ifc">
+                <w type="vb-stm" lemma="l031818a">
+                  <c type="log">yama</c>
+                </w>
+                <w type="vax-neg-ifc" lemma="l000006a">
+                  <c type="log">zu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="戀己曽益礼"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n-dvb" lemma="l030731b">
+                  <c type="log">kwopwi</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+            </phr>
+            <w type="vb-exc" lemma="l031630a">
+              <c type="phon">masare</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

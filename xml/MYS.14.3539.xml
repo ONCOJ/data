@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3539">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安受乃宇敞爾"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050897">
+                      <c type="phon">azu</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050029a">
+                  <c type="phon">upye</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="古馬乎都奈伎弖"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l051377">
+                  <c type="phon">kwoma</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031163a">
+              <c type="phon">tunakite</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="安夜抱可等"/>
+          <cl type="ip-adv">
+            <w type="adj-css">
+              <w type="adj-stm" lemma="l007043">
+                <c type="phon">ayapo</c>
+              </w>
+              <w type="acp-css" lemma="l000033">
+                <c type="phon">kato</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="比等豆麻古呂乎"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n">
+                <w type="n" lemma="l050716">
+                  <w type="n" lemma="l050046">
+                    <c type="phon">pito</c>
+                  </w>
+                  <w type="n" lemma="l050120">
+                    <c type="phon">duma</c>
+                  </w>
+                </w>
+                <w type="n" lemma="l050028">
+                  <c type="phon">kwo</c>
+                </w>
+                <w type="sfx" lemma="l001007">
+                  <c type="phon">ro</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="伊吉爾和我須流"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <w type="n-dvb" lemma="l030146b">
+                <c type="phon">iki</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042057">
+                <c type="phon">wa</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="phon">ga</c>
+            </w>
+          </phr>
+          <w type="vb-adn" lemma="l030919a">
+            <c type="phon">suru</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

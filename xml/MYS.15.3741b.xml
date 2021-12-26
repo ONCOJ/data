@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3741b">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="伊能知乎之"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l051102">
+                  <c type="phon">inoti</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="麻多久之安良婆"/>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007227">
+                <c type="phon">mata</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="vb-cnd" lemma="l030125a">
+              <c type="phon">araba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="安里伎奴能"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l091042">
+                    <w type="n" lemma="l080265">
+                      <c type="phon">arikinu</c>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="phon">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="安里弖能乃知毛"/>
+                <w type="vb-ger" lemma="l030125a">
+                  <c type="phon">arite</c>
+                </w>
+                <w type="p-comp" lemma="l090437">
+                  <c type="phon">no</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l004087">
+                <c type="phon">noti</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="安波射良米也母"/>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l030071a">
+              <c type="phon">apa</c>
+            </w>
+            <w type="vax-neg-stm" lemma="l000012">
+              <c type="phon">zara</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="phon">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

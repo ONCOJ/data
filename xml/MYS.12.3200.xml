@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3200">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="飼飯乃浦爾"/>
+          <phr type="np-zyo">
+            <cl type="ip-rel">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051259">
+                        <c type="phon-on">kepi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon-on">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050108">
+                    <c type="log">ura</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="依流白浪"/>
+              <w type="vb-adn" lemma="l031872a">
+                <c type="log">yosu</c>
+                <c type="phon">ru</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l090512">
+              <w type="adj-stm" lemma="l007006a">
+                <c type="log">sira</c>
+              </w>
+              <w type="n" lemma="l050017">
+                <c type="log">nami</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="2" corresp="敷布二"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004020b">
+              <c type="phon">sikusikuni</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="妹之容儀者"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="log">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l052003">
+                <c type="log">sugata</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="所念香毛"/>
+          <w type="vb-adn" lemma="l030404a">
+            <c type="log">omopoyuru</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

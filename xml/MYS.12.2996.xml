@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2996">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="白香付"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l090012">
+                    <c type="phon">sirakatuku</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="木綿者花物"/>
+                <w type="n" lemma="l080043">
+                  <c type="log">yupu</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <phr type="np-prd">
+              <w type="n" lemma="l090646">
+                <w type="n" lemma="l050083">
+                  <c type="log">pana</c>
+                </w>
+                <w type="n" lemma="l050042">
+                  <c type="log">mono</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+          <lb id="2" corresp="事社者"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050148">
+                  <c type="log">koto</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000511">
+                <c type="log">kosoba</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="何時之真坂毛"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="wh-adv" lemma="l042014">
+                      <c type="log">itu</c>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051418">
+                  <c type="phon">masaka</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="常不所忘"/>
+            <phr type="np-adv">
+              <w type="n" lemma="l004004">
+                <c type="log">tune</c>
+              </w>
+            </phr>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l031906a">
+                <c type="log">wasura</c>
+              </w>
+              <w type="vax-pass-stm" lemma="l000011">
+                <c type="log">ye</c>
+              </w>
+              <w type="vax-neg-exc" lemma="l000006a">
+                <c type="log">ne</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

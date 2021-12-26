@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1978">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="橘"/>
+          <cl type="ip-adv">
+            <phr type="pp-gol-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-sbj">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l050150">
+                          <c type="log">tatibana</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="nlog">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="花落里爾"/>
+                    <w type="n" lemma="l050083">
+                      <c type="log">pana</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031111a">
+                    <c type="log">tiru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050051">
+                  <c type="log">satwo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="通名者"/>
+            <w type="vb-cnd">
+              <w type="vb-stm" lemma="l030536a">
+                <c type="log">kaywopi</c>
+              </w>
+              <w type="vax-prf-cnd" lemma="l000018">
+                <c type="phon">na</c>
+                <c type="log">ba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="山霍公鳥"/>
+          <phr type="np-sbj">
+            <w type="n">
+              <w type="n" lemma="l050034">
+                <c type="log">yama</c>
+              </w>
+              <w type="n" lemma="l050160">
+                <c type="log">pototogisu</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="将令響鴨"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031247a">
+              <c type="log">toyomosa</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

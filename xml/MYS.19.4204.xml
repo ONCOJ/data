@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4204">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="吾勢故我"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pro-n" lemma="l042057">
+                          <c type="log">wa</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000503">
+                        <c type="nlog">ga</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l050285">
+                      <c type="phon">sekwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="捧而持流"/>
+                <cl type="ip-adv">
+                  <w type="vb-ger" lemma="l030794a">
+                    <c type="log">sasagete</c>
+                  </w>
+                </cl>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031761a">
+                    <c type="log">mot</c>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000024">
+                    <c type="log">e</c>
+                    <c type="phon">ru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="保寶我之婆"/>
+              <w type="n" lemma="l051806">
+                <c type="phon">popogasipa</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="安多可毛似加"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l050869">
+                <c type="phon">atakamo</c>
+              </w>
+            </phr>
+            <w type="vb-adn" lemma="l031340a">
+              <c type="log">niru</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="青蓋"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007042">
+                  <c type="log">awo</c>
+                </w>
+                <w type="acp-adn" lemma="l000033">
+                  <c type="log">ki</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050244">
+              <w type="n" lemma="l051269">
+                <c type="log">kinu</c>
+              </w>
+              <w type="n" lemma="l051231">
+                <c type="log">gasa</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.107">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="伊波能杯儞"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050014">
+                      <c type="phon">ipa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050029a">
+                  <c type="phon">pe</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="古佐屢渠梅野倶"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050028">
+                <c type="phon">kwo</c>
+              </w>
+              <w type="n" lemma="l051892">
+                <c type="phon">saru</c>
+              </w>
+            </phr>
+            <phr type="np-ob1">
+              <w type="n" lemma="l090190">
+                <c type="phon">kome</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031793a">
+              <c type="phon">yaku</c>
+            </w>
+          </s>
+          <lb id="2" corresp="渠梅多儞母"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <cl type="ip-adv">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <w type="n" lemma="l090190">
+                      <c type="phon">kome</c>
+                    </w>
+                  </phr>
+                  <w type="p-res" lemma="l000502">
+                    <c type="phon">dani</c>
+                  </w>
+                  <w type="p-top" lemma="l000514">
+                    <c type="phon">mo</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="多礙底騰裒囉栖"/>
+                <w type="vb-ger" lemma="l031004a">
+                  <c type="phon">tagete</c>
+                </w>
+              </cl>
+              <w type="vb-imp">
+                <w type="vb-stm" lemma="l031233a">
+                  <c type="phon">topora</c>
+                </w>
+                <w type="vax-rsp-imp" lemma="l000009">
+                  <c type="phon">se</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="歌麻之之能烏膩"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <w type="n" lemma="l050563">
+                    <c type="phon">kamasisi</c>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050640">
+                <w type="n" lemma="l052501">
+                  <c type="phon">wo</c>
+                </w>
+                <w type="n" lemma="l050762">
+                  <c type="phon">di</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

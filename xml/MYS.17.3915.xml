@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3915">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安之比奇能"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <cl type="ip-ept">
+                    <w type="mk-adi" lemma="l091054">
+                      <w type="n" lemma="l050860">
+                        <c type="phon">asipikwi</c>
+                      </w>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="phon">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="山谷古延低"/>
+                  <w type="n">
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                    <w type="n" lemma="l052092">
+                      <c type="log">tani</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l030747a">
+                  <c type="phon">kwoyete</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="野豆可佐爾"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050703">
+                    <w type="n" lemma="l051650">
+                      <c type="log">nwo</c>
+                    </w>
+                    <w type="n" lemma="l050975">
+                      <c type="phon">dukasa</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="今者鳴良牟"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l004025">
+                    <c type="log">ima</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031267a">
+                <c type="log">naku</c>
+              </w>
+              <w type="xtn-adc" lemma="l000805">
+                <c type="phon">ramu</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="宇具比須乃許恵"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050161">
+                  <c type="phon">ugupisu</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l051318">
+              <c type="phon">kowe</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

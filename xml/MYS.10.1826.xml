@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1826">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="春之在者"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n" lemma="l051724">
+                <c type="log">paru</c>
+              </w>
+            </phr>
+            <w type="vb-prv" lemma="l030841a">
+              <c type="log">sareba</c>
+            </w>
+          </cl>
+          <cl type="ip-adv">
+            <lb id="1" corresp="妻乎求等"/>
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050120">
+                    <c type="log">tuma</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <w type="vb-cls" lemma="l031767a">
+                <c type="log">motomu</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="鴬之"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050161">
+                  <c type="log">ugupisu</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="木末乎傳"/>
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050021">
+                    <c type="log">konure</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031146a">
+                <c type="log">tutapi</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="鳴乍本名"/>
+            <w type="vb-ctt" lemma="l031267a">
+              <c type="log">nakitutu</c>
+            </w>
+          </cl>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004010">
+              <c type="phon">motona</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4158">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="毎年爾"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050124">
+                      <c type="log">tosi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l052494">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="鮎之走婆"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050885">
+                  <c type="log">ayu</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l031417a">
+              <c type="log">pasira</c>
+              <c type="phon">ba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="左伎多河"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <w type="pln">
+                <w type="pln" lemma="l051871">
+                  <c type="phon">sakita</c>
+                </w>
+                <w type="n" lemma="l050025">
+                  <c type="log">kapa</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="鸕八頭可頭氣氐"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050156">
+                <c type="log">u</c>
+              </w>
+            </phr>
+            <phr type="np">
+              <w type="n">
+                <w type="num" lemma="l002008">
+                  <c type="log">ya</c>
+                </w>
+                <w type="cl" lemma="l002015">
+                  <c type="log">tu</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030497a">
+              <c type="phon">kadukete</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="河瀬多頭祢牟"/>
+          <phr type="np-ob1">
+            <w type="n" lemma="l050535">
+              <w type="n" lemma="l050025">
+                <c type="log">kapa</c>
+              </w>
+              <w type="n" lemma="l090058">
+                <c type="log">se</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031047a">
+              <c type="phon">tadune</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2126b">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="秋芽子者"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <w type="n" lemma="l050392">
+                <w type="n" lemma="l050032">
+                  <c type="log">aki</c>
+                </w>
+                <w type="n" lemma="l050149">
+                  <c type="log">pagwi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="於鴈不相常"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050159">
+                    <c type="log">kari</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="log">ni</c>
+                </w>
+              </phr>
+              <w type="vb-ngc" lemma="l030071a">
+                <c type="log">apazi</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="言有可聞"/>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030199a">
+                <c type="log">ip</c>
+              </w>
+              <w type="vax-stv-exc" lemma="l000024">
+                <c type="log">yere</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="音乎聞而者"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l051318">
+                  <c type="log">kowe</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030565a">
+              <c type="log">kikite</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="花爾散去流"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <w type="n" lemma="l050083">
+                <c type="log">pana</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l031111a">
+              <c type="log">tiri</c>
+            </w>
+            <w type="vax-prf-adn" lemma="l000018">
+              <c type="phon-kun">nuru</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

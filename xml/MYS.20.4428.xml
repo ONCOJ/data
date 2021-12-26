@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4428" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="和我世奈乎"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="phon">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="n">
+                  <w type="n" lemma="l090126">
+                    <c type="phon">se</c>
+                  </w>
+                  <w type="sfx" lemma="l000065">
+                    <c type="phon">na</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="都久志波夜利弖"/>
+            <phr type="pp-gol-ob2">
+              <phr type="np">
+                <w type="pln" lemma="l090245">
+                  <c type="phon-on">tukusi</c>
+                </w>
+              </phr>
+              <w type="p-case-all" lemma="l000523">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031823a">
+              <c type="phon">yarite</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="宇都久之美"/>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007207">
+                <c type="phon">utukusi</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="叡比波登加奈奈"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l031850b">
+                  <c type="phon">yepi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l031199a">
+                <c type="phon">toka</c>
+              </w>
+              <w type="vax-neg-inf" lemma="l000006b">
+                <c type="phon">nana</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="阿夜爾可毛祢牟"/>
+          <phr type="pp">
+            <phr type="np-adv">
+              <w type="adv" lemma="l004062">
+                <c type="phon">ayani</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031342a">
+              <c type="phon">ne</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

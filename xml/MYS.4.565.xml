@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.565">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="大伴乃"/>
+            <cl type="ip-arg">
+              <phr type="np">
+                <w type="pln" lemma="l060045">
+                  <w type="pln" lemma="l060044">
+                    <c type="plog">opotomo</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon-on">no</c>
+                  </w>
+                  <lb id="1" corresp="見津跡者不云"/>
+                  <w type="pln" lemma="l051485">
+                    <c type="phon-kun">mitu</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </cl>
+            <w type="vb-ngc" lemma="l030199a">
+              <c type="log">ipazi</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="赤根指"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-ept">
+                    <w type="mk-inf" lemma="l091008">
+                      <w type="n" lemma="l050796">
+                        <c type="log">akane</c>
+                      </w>
+                      <w type="vb-inf" lemma="l030806a">
+                        <c type="log">sasi</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="照有月夜爾"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031193a">
+                      <c type="log">ter</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="log">eru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n">
+                  <w type="n" lemma="l050004b">
+                    <c type="log">tuku</c>
+                  </w>
+                  <w type="n" lemma="l050039">
+                    <c type="log">ywo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="直相在登聞"/>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l004003b">
+                  <c type="log">tada</c>
+                </w>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="nlog">ni</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030071a">
+                <c type="log">ap</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="log">yeri</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="phon">tomo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

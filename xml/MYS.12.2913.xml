@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2913">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="何時左右二"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="wh-adv" lemma="l042014">
+                      <c type="log">itu</c>
+                    </w>
+                  </phr>
+                  <w type="p-res" lemma="l000512b">
+                    <c type="log">made</c>
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="将生命曽"/>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l030146a">
+                    <c type="log">ika</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="log">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l051102">
+                <c type="log">inoti</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </s>
+          <lb id="2" corresp="凡者"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l004088">
+                    <c type="log">oboroka</c>
+                  </w>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="log">ni</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="戀乍不有者"/>
+              <w type="vb-ctt" lemma="l030731a">
+                <c type="log">kwopwitutu</c>
+              </w>
+              <w type="vb-cnd">
+                <w type="vb-stm" lemma="l030125a">
+                  <c type="log">ara</c>
+                </w>
+                <w type="vax-neg-cnd" lemma="l000006a">
+                  <c type="log">zupa</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="死上有"/>
+            <cl type="ip-nmz-sbj">
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030883a">
+                  <c type="log">sina</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="log">mu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031630a">
+                <c type="log">masar</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="log">eri</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

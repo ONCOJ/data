@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4172">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="霍公鳥"/>
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050160">
+                  <c type="log">pototogisu</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="來喧響者"/>
+              <w type="vb-prv">
+                <w type="vb-stm" lemma="l030585a">
+                  <w type="vb-stm" lemma="l030612a">
+                    <c type="log">ki</c>
+                  </w>
+                  <w type="vb-stm" lemma="l031267a">
+                    <c type="log">naki</c>
+                  </w>
+                </w>
+                <w type="vb-prv" lemma="l031245a">
+                  <c type="log">toyomeba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="草等良牟"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030620a">
+                <w type="n" lemma="l050114">
+                  <c type="log">kusa</c>
+                </w>
+                <w type="vb-stm" lemma="l031258a">
+                  <c type="phon">tora</c>
+                </w>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="花橘乎"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050627">
+                  <w type="n" lemma="l050083">
+                    <c type="log">pana</c>
+                  </w>
+                  <w type="n" lemma="l050150">
+                    <c type="log">tatibana</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="屋戸爾波不殖而"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050030">
+                  <c type="phon">yadwo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030229a">
+                <c type="log">uwe</c>
+              </w>
+              <w type="vax-neg-ger" lemma="l000006a">
+                <c type="log">zusite</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.681">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="中々爾"/>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l004015">
+                <c type="log">nakanaka</c>
+              </w>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="1" corresp="絶年云者"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <w type="vb-adc" lemma="l031042a">
+                <c type="log">tatu</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </cl>
+            <w type="vb-cnd" lemma="l030199a">
+              <c type="log">ipaba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="如此許"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="pro-adv" lemma="l042020">
+                <c type="log">kaku</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000501">
+              <c type="log">bakari</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="氣緒爾四而"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l090046">
+                    <c type="log">iki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050117">
+                <c type="log">wo</c>
+              </w>
+            </phr>
+            <w type="cop-ger" lemma="l031965">
+              <c type="phon">nisite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="吾将戀八方"/>
+          <phr type="np-sbj">
+            <w type="pro-n" lemma="l042059">
+              <c type="log">ware</c>
+            </w>
+          </phr>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="log">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

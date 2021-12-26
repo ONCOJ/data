@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2066">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="擇月日"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l090725">
+                  <w type="n" lemma="l050004a">
+                    <c type="log">tukwi</c>
+                  </w>
+                  <w type="n" lemma="l050090">
+                    <c type="log">pi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030323a">
+                <c type="log">eri</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="逢義之有者"/>
+            <w type="vb-ger" lemma="l030071a">
+              <c type="log">apite</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="vb-prv" lemma="l030125a">
+              <c type="log">areba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="別乃"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-nmz-sbj">
+                  <w type="vb-nml">
+                    <w type="vb-stm" lemma="l031898a">
+                      <c type="log">wakare</c>
+                    </w>
+                    <w type="vax-cjr-nml" lemma="l000002">
+                      <c type="log">maku</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="惜有君者"/>
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007229">
+                    <c type="log">wosi</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000032">
+                    <c type="log">karu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="明日副裳欲得"/>
+          <phr type="pp-prd">
+            <phr type="np">
+              <w type="n" lemma="l050864">
+                <c type="log">asu</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000525a">
+              <c type="log">sape</c>
+            </w>
+          </phr>
+          <w type="p-fnl-opt" lemma="l000515">
+            <c type="log">moga</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="log">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

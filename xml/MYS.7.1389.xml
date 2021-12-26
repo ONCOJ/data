@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1389">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="礒之浦爾"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <phr type="np-sbj">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n" lemma="l050104">
+                            <c type="log">iswo</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="log">no</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050108">
+                        <c type="log">ura</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="来依白浪"/>
+                  <w type="vb-adc" lemma="l030601a">
+                    <w type="vb-stm" lemma="l030612a">
+                      <c type="log">ki</c>
+                    </w>
+                    <w type="vb-adc" lemma="l031887a">
+                      <c type="log">yoru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l090512">
+                  <w type="adj-stm" lemma="l007006a">
+                    <c type="log">sira</c>
+                  </w>
+                  <w type="n" lemma="l050017">
+                    <c type="log">nami</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="2" corresp="反乍"/>
+              <cl type="ip-adv">
+                <w type="vb-ctt" lemma="l030518a">
+                  <c type="log">kapyeritutu</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="過不勝者"/>
+              <w type="vb-nml">
+                <w type="vb-stm" lemma="l030926a">
+                  <c type="log">sugwi</c>
+                </w>
+                <w type="vb-stm" lemma="l030495a">
+                  <c type="log">kate</c>
+                </w>
+                <w type="vax-neg-nml" lemma="l000006a">
+                  <c type="log">naku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="誰爾絶多倍"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="wh-n" lemma="l042001">
+                <c type="log">tare</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <w type="vb-exc" lemma="l031091a">
+            <c type="phon">tayutape</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

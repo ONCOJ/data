@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.5">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="多賀波麻乃"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l090675">
+                    <w type="adj-stm" lemma="l007005">
+                      <c type="phon">taka</c>
+                    </w>
+                    <w type="n" lemma="l051709">
+                      <c type="phon">pama</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="志多賀是差夜久"/>
+              <w type="n" lemma="l050258">
+                <w type="n" lemma="l050026">
+                  <c type="phon">sita</c>
+                </w>
+                <w type="n" lemma="l050008a">
+                  <c type="phon">kaze</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030836a">
+              <c type="phon">sayaku</c>
+            </w>
+          </s>
+          <lb id="2" corresp="伊毛乎古比"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="phon">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030731a">
+                <c type="phon">kwopi</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="鬥麻止伊波波夜"/>
+            <cl type="ip-adv">
+              <cl type="ip-arg">
+                <phr type="np-prd">
+                  <w type="n" lemma="l050120">
+                    <c type="phon">tuma</c>
+                  </w>
+                </phr>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <w type="vb-cnd" lemma="l030199a">
+                <c type="phon">ipaba</c>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="phon">ya</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="志古止賣志鬥毛"/>
+            <phr type="np-arg">
+              <phr type="np">
+                <w type="n" lemma="l051942">
+                  <c type="phon">sikwotomye</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l080358">
+                <c type="phon">situ</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

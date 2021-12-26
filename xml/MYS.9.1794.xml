@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1794">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="立易"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="vb-adc" lemma="l031032a">
+                  <w type="vb-stm" lemma="l031043a">
+                    <c type="log">tati</c>
+                  </w>
+                  <w type="vb-adc" lemma="l030508a">
+                    <c type="log">kapari</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="月重而"/>
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050004a">
+                    <c type="log">tukwi</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l030455a">
+                  <c type="log">kasanarite</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="難不遇"/>
+              <w type="vb-css">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="log">apa</c>
+                </w>
+                <w type="vax-neg-css" lemma="l000006a">
+                  <c type="log">nedomo</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="核不所忘"/>
+            <phr type="np">
+              <w type="adv" lemma="l004045">
+                <c type="phon-kun">sane</c>
+              </w>
+            </phr>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l031906a">
+                <c type="log">wasura</c>
+              </w>
+              <w type="vax-pass-stm" lemma="l000011">
+                <c type="log">ye</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="面影思天"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <w type="n" lemma="l050196">
+                <c type="log">omokage</c>
+              </w>
+            </phr>
+            <w type="cop-ger" lemma="l031965">
+              <c type="nlog">ni</c>
+              <c type="phon">site</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

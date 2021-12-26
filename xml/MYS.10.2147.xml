@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2147">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="山邊爾"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n" lemma="l050034">
+                            <c type="log">yama</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="log">no</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050133">
+                        <c type="log">pye</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="射去薩雄者"/>
+                  <w type="vb-adc">
+                    <w type="pfx" lemma="l000030">
+                      <c type="phon">i</c>
+                    </w>
+                    <w type="vb-adc" lemma="l031840a">
+                      <c type="log">yuku</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n">
+                  <w type="n" lemma="l051899">
+                    <c type="log">satu</c>
+                  </w>
+                  <w type="n" lemma="l052501">
+                    <c type="log">wo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="雖大有"/>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l004032b">
+                  <c type="log">sapa</c>
+                </w>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="nlog">ni</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-css" lemma="l030125a">
+              <c type="log">aredo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="山爾文野爾文"/>
+          <phr type="pp-adv">
+            <phr type="conjp">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051650">
+                  <c type="log">nwo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+          </phr>
+          <lb id="4" corresp="沙小壮鹿鳴母"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l090193">
+              <w type="pfx" lemma="l000061">
+                <c type="phon">sa</c>
+              </w>
+              <w type="n" lemma="l052501">
+                <c type="phon">wo</c>
+              </w>
+              <w type="n" lemma="l050071">
+                <c type="log">sika</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031267a">
+            <c type="log">naku</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

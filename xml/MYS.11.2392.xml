@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2392">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="中々"/>
+            <phr type="pp-adv-src">
+              <cl type="ip-nmz">
+                <cl type="ip-adv">
+                  <w type="adj-inf">
+                    <w type="adj-stm" lemma="l004015">
+                      <c type="log">nakanaka</c>
+                    </w>
+                    <w type="cop-inf" lemma="l031965">
+                      <c type="nlog">ni</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="不見有従"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031712a">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="vax-neg-stm" lemma="l000012">
+                    <c type="log">zari</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="log">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="p-case-abl" lemma="l000540a">
+                <c type="log">ywori</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="nlog">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="相見"/>
+            <w type="vb-ger">
+              <w type="pfx-rcp" lemma="l000025">
+                <c type="log">api</c>
+              </w>
+              <w type="vb-ger" lemma="l031712a">
+                <c type="log">mite</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="nlog">pa</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="戀心"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007102">
+                    <c type="log">kwoposi</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="log">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="益念"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031637a">
+                <c type="log">masite</c>
+              </w>
+            </cl>
+            <w type="vb-cls" lemma="l030404a">
+              <c type="log">omopoyu</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

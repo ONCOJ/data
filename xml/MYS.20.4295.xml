@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4295">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="多可麻刀能"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-ob1">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pln" lemma="l090292">
+                          <c type="phon-on">takamatwo</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="乎婆奈布伎故酒"/>
+                    <w type="n" lemma="l050399">
+                      <w type="n" lemma="l052502">
+                        <c type="phon">wo</c>
+                      </w>
+                      <w type="n" lemma="l050083">
+                        <c type="phon">bana</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l031516a">
+                      <c type="phon">puki</c>
+                    </w>
+                    <w type="vb-adc" lemma="l030707a">
+                      <c type="phon">kwosu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="秋風爾"/>
+                <w type="n" lemma="l050254">
+                  <w type="n" lemma="l050032">
+                    <c type="log">aki</c>
+                  </w>
+                  <w type="n" lemma="l050008a">
+                    <c type="log">kaze</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="比毛等伎安気奈"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l051763">
+                <c type="phon">pimo</c>
+              </w>
+            </phr>
+            <w type="vb-opt">
+              <w type="vb-stm" lemma="l031199a">
+                <c type="phon">toki</c>
+              </w>
+              <w type="vb-opt" lemma="l030021a">
+                <c type="phon">akena</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="多太奈良受等母"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <w type="adv" lemma="l004003a">
+                <c type="phon">tada</c>
+              </w>
+            </phr>
+            <w type="cop-ifc">
+              <w type="cop-stm" lemma="l031966">
+                <c type="phon">nara</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="phon">zu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="phon">tomo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

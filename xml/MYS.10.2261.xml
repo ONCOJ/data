@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2261">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="泊瀬風"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np">
+                  <w type="n" lemma="l090634">
+                    <w type="pln" lemma="l051737">
+                      <c type="plog">patuse</c>
+                    </w>
+                    <w type="n" lemma="l050008a">
+                      <c type="log">kaze</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="如是吹三更者"/>
+                <phr type="np-adv">
+                  <w type="pro-adv" lemma="l042020">
+                    <c type="log">kaku</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031516a">
+                  <c type="log">puku</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l052415">
+                <c type="log">yopi</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="及何時"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="wh-adv" lemma="l042014">
+                <c type="log">itu</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000512a">
+              <c type="log">made</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="nlog">ka</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="衣片敷"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l051304">
+                <c type="log">koromo</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l030472a">
+              <c type="log">katasiki</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="吾一将宿"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042057">
+                <c type="log">wa</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="nlog">ga</c>
+            </w>
+          </phr>
+          <phr type="np-adv">
+            <w type="n" lemma="l090747">
+              <w type="num" lemma="l002001">
+                <c type="log">pito</c>
+              </w>
+              <w type="cl" lemma="l002016">
+                <c type="log">ri</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031342a">
+              <c type="log">ne</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

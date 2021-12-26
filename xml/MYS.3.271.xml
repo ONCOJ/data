@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.271">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="櫻田部"/>
+            <phr type="pp-pth">
+              <phr type="np">
+                <w type="pln" lemma="l060080">
+                  <c type="plog">sakurada</c>
+                </w>
+              </phr>
+              <w type="p-case-all" lemma="l000523">
+                <c type="phon">pye</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="鶴鳴渡"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l052059">
+                <c type="log">tadu</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031267a">
+                <c type="log">naki</c>
+              </w>
+              <w type="vb-adc" lemma="l031910a">
+                <c type="log">wataru</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="年魚市方"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <w type="pln" lemma="l060019">
+                <w type="pln" lemma="l050887">
+                  <c type="plog">ayuti</c>
+                </w>
+                <w type="n" lemma="l090028">
+                  <c type="phon-kun">gata</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="塩干二家良之"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050170">
+                <c type="log">sipo</c>
+              </w>
+            </phr>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l031510a">
+                <c type="log">pwi</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-mpst-adn" lemma="l000016">
+                <c type="phon">kye</c>
+              </w>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </s>
+          <lb id="4" corresp="鶴鳴渡"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <w type="n" lemma="l052059">
+                <c type="log">tadu</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031267a">
+                <c type="log">naki</c>
+              </w>
+              <w type="vb-adc" lemma="l031910a">
+                <c type="log">wataru</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

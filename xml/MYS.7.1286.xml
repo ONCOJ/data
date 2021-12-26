@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1286">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="開木代"/>
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l052385">
+                    <c type="phon-kun">yamasiro</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="来背社"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051357">
+                    <c type="phon-kun">kuse</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050562">
+                    <c type="log">yasiro</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="草勿手折"/>
+              <w type="n" lemma="l050114">
+                <c type="log">kusa</c>
+              </w>
+            </phr>
+            <w type="vb">
+              <w type="cfx-phb" lemma="l000037">
+                <c type="phon">na</c>
+              </w>
+              <w type="vb-stm" lemma="l031100a">
+                <w type="n" lemma="l050012b">
+                  <c type="log">ta</c>
+                </w>
+                <w type="vb-stm" lemma="l031960a">
+                  <c type="log">wori</c>
+                </w>
+              </w>
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">so</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="己時"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042057">
+                        <c type="log">wa</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="nlog">ga</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050059">
+                    <c type="log">toki</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031968">
+                  <c type="nlog">to</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="立雖榮"/>
+              <w type="vb-cls" lemma="l031035a">
+                <w type="vb-stm" lemma="l031043a">
+                  <c type="log">tati</c>
+                </w>
+                <w type="vb-cls" lemma="l030768a">
+                  <c type="log">sakayu</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="log">tomo</c>
+              </w>
+            </cl>
+            <lb id="5" corresp="草勿手折"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050114">
+                <c type="log">kusa</c>
+              </w>
+            </phr>
+            <w type="vb">
+              <w type="cfx-phb" lemma="l000037">
+                <c type="phon">na</c>
+              </w>
+              <w type="vb-stm" lemma="l031100a">
+                <w type="n" lemma="l050012b">
+                  <c type="log">ta</c>
+                </w>
+                <w type="vb-stm" lemma="l031960a">
+                  <c type="log">wori</c>
+                </w>
+              </w>
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">so</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

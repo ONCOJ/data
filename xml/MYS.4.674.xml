@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.674">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="真玉付"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <cl type="ip-ept">
+                  <w type="mk-adc" lemma="l091061">
+                    <w type="n" lemma="l050612">
+                      <w type="pfx" lemma="l000062">
+                        <c type="log">ma</c>
+                      </w>
+                      <w type="n" lemma="l052078">
+                        <c type="log">tama</c>
+                      </w>
+                    </w>
+                    <w type="vb-adc" lemma="l031130a">
+                      <c type="log">tuku</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="彼此兼手"/>
+                <w type="pro-n" lemma="l042086">
+                  <w type="pro-n" lemma="l042085a">
+                    <c type="log">woti</c>
+                  </w>
+                  <w type="pro-n" lemma="l042035">
+                    <c type="log">koti</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l030504a">
+                <c type="log">kane</c>
+                <c type="phon">te</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="言齒五十戸常"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050148">
+                  <c type="log">koto</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-css" lemma="l030199a">
+              <c type="phon">ipedo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="相而後社"/>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l030071a">
+              <c type="log">apite</c>
+            </w>
+          </cl>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="n" lemma="l004087">
+                <c type="log">noti</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000510">
+              <c type="log">koso</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="悔二破有跡五十戸"/>
+          <cl type="ip-arg">
+            <phr type="np-prd">
+              <w type="n-dvb" lemma="l030659b">
+                <c type="log">kui</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="log">ni</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+            <w type="vb-cls" lemma="l030125a">
+              <c type="log">ari</c>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <w type="vb-exc" lemma="l030199a">
+            <c type="phon">ipe</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

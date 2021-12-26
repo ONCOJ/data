@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2642">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="燈之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l050183">
+                          <c type="log">tomosibwi</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="陰爾蚊蛾欲布"/>
+                    <w type="n" lemma="l050011a">
+                      <c type="log">kage</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l030427a">
+                  <c type="phon">kagaywopu</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="虚蝉之"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052292">
+                    <c type="phon">utusemi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="妹蛾咲状思"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n-dvb" lemma="l031931b">
+                <c type="log">wema</c>
+                <c type="phon">pi</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="面影爾所見"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050196">
+                <w type="n" lemma="l050085">
+                  <c type="log">omo</c>
+                </w>
+                <w type="n" lemma="l050011a">
+                  <c type="log">kage</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031712a">
+              <c type="log">mi</c>
+            </w>
+            <w type="vax-pass-cls" lemma="l000011">
+              <c type="log">yu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

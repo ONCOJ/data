@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1182">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="海人小船"/>
+          <phr type="pp-adv">
+            <cl type="ip-nmz">
+              <cl type="ip-arg">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050163">
+                    <c type="log">ama</c>
+                  </w>
+                  <w type="n" lemma="l050516">
+                    <w type="pfx" lemma="l000060">
+                      <c type="log">wo</c>
+                    </w>
+                    <w type="n" lemma="l050007a">
+                      <c type="log">bune</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="帆毳張流登"/>
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <w type="n" lemma="l090734">
+                      <c type="log">po</c>
+                    </w>
+                  </phr>
+                  <w type="p-foc" lemma="l000506">
+                    <c type="phon">ka</c>
+                  </w>
+                  <w type="p-top" lemma="l000514">
+                    <c type="phon">mo</c>
+                  </w>
+                </phr>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031455a">
+                    <c type="log">par</c>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000024">
+                    <c type="nlog">e</c>
+                    <c type="phon">ru</c>
+                  </w>
+                </w>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="見左右荷"/>
+              <w type="vb-adn" lemma="l031712a">
+                <c type="log">miru</c>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512b">
+              <c type="log">made</c>
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="鞆之浦廻二"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l090260">
+                    <c type="phon-kun">tomo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090037">
+                <c type="log">uramwi</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="浪立有所見"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050017">
+              <c type="log">nami</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031043a">
+              <c type="log">tat</c>
+            </w>
+            <w type="vax-stv-cls" lemma="l000024">
+              <c type="log">eri</c>
+            </w>
+          </w>
+          <w type="p-fnl-evd" lemma="l000513">
+            <c type="log">miyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

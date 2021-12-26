@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.925">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="烏玉之"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk-adi" lemma="l091019">
+                    <w type="n" lemma="l090444">
+                      <c type="phon-kun">nubatama</c>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="log">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="夜之深去者"/>
+                <w type="n" lemma="l050039">
+                  <c type="log">ywo</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l031519a">
+                <c type="log">puke</c>
+              </w>
+              <w type="vb-prv" lemma="l031840a">
+                <c type="log">yukeba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="久木生留"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l080138">
+                    <c type="phon-kun">pisa</c>
+                    <c type="log">gwi</c>
+                  </w>
+                </phr>
+                <w type="vb-adn" lemma="l030374a">
+                  <c type="log">opu</c>
+                  <c type="phon">ru</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="清河原爾"/>
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007086">
+                    <c type="log">kiywo</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="log">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l051206">
+                <c type="log">kapara</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="知鳥數鳴"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050674">
+              <c type="phon">ti</c>
+              <c type="log">dori</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030889a">
+            <w type="adv" lemma="l007013">
+              <c type="log">siba</c>
+            </w>
+            <w type="vb-adc" lemma="l031267a">
+              <c type="log">naku</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

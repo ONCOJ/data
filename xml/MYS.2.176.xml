@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.2.176">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="天地与"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <cl type="ip-arg">
+                  <cl type="ip-adv">
+                    <phr type="pp-ob1">
+                      <phr type="np">
+                        <w type="n" lemma="l050001a">
+                          <c type="log">ame</c>
+                        </w>
+                        <w type="n" lemma="l050015">
+                          <c type="log">tuti</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-com" lemma="l000529">
+                        <c type="log">to</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="共将終登"/>
+                    <w type="adj-inf">
+                      <w type="adj-stm" lemma="l004008">
+                        <c type="log">tomo</c>
+                      </w>
+                      <w type="cop-inf" lemma="l031965">
+                        <c type="nlog">ni</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l031954a">
+                      <c type="log">wope</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="log">mu</c>
+                    </w>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">to</c>
+                  </w>
+                </cl>
+                <lb id="2" corresp="念乍"/>
+                <w type="vb-ctt" lemma="l030399a">
+                  <c type="log">omopitutu</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="奉仕之"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l031121a">
+                  <w type="vb-stm" lemma="l031119a">
+                    <c type="log">tukape</c>
+                  </w>
+                  <w type="vb-stm" lemma="l031649a">
+                    <c type="log">maturi</c>
+                  </w>
+                </w>
+                <w type="vax-spst-adn" lemma="l000015">
+                  <c type="phon">si</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="情違奴"/>
+            <w type="n" lemma="l050037">
+              <c type="log">kokoro</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030994a">
+              <c type="log">tagapi</c>
+            </w>
+            <w type="vax-prf-cls" lemma="l000018">
+              <c type="phon">nu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

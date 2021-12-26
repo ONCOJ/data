@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1101">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="黒玉之"/>
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <cl type="ip-ept">
+                  <w type="mk-adi" lemma="l091019">
+                    <w type="n" lemma="l090444">
+                      <c type="phon-kun">nubatama</c>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="log">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="夜去来者"/>
+                <w type="n" lemma="l052421">
+                  <c type="log">yworu</c>
+                </w>
+              </phr>
+              <w type="vb-prv">
+                <w type="vb-stm" lemma="l030841a">
+                  <c type="log">sari</c>
+                </w>
+                <w type="vb-prv" lemma="l030612a">
+                  <c type="log">kureba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="巻向之"/>
+            <phr type="np-sbj">
+              <w type="pln" lemma="l060248">
+                <w type="pln" lemma="l051533">
+                  <c type="plog">makimuku</c>
+                </w>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+                <lb id="3" corresp="川音高之母"/>
+                <w type="n" lemma="l050025">
+                  <c type="log">kapa</c>
+                </w>
+              </w>
+              <w type="n" lemma="l050072">
+                <c type="log">to</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007005">
+                <c type="log">taka</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="phon">si</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+          <lb id="4" corresp="荒足鴨疾"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l080154">
+                  <c type="phon">arasi</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007199">
+                <c type="log">two</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="log">ki</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

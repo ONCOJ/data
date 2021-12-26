@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.999">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="従千沼廻"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="pln" lemma="l052134">
+                    <c type="phon-kun">tinu</c>
+                  </w>
+                  <w type="n" lemma="l080198">
+                    <c type="log">mwi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540a">
+                <c type="log">ywori</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="雨曽零来"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050001a">
+                  <c type="log">ame</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </phr>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l031559a">
+                <c type="log">puri</c>
+              </w>
+              <w type="vb-adn" lemma="l030612a">
+                <c type="log">kuru</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="四八津之白水郎"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l090452">
+                    <c type="phon-on">sipa</c>
+                    <c type="phon-kun">tu</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050163">
+                <c type="log">ama</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="綱手乾有"/>
+            <phr type="np-ob1">
+              <phr type="conjp">
+                <phr type="np">
+                  <w type="n" lemma="l050065">
+                    <c type="log">ami</c>
+                  </w>
+                </phr>
+              </phr>
+              <phr type="np">
+                <w type="n">
+                  <w type="n" lemma="l050012a">
+                    <c type="log">te</c>
+                  </w>
+                  <w type="n" lemma="l052203">
+                    <c type="log">tuna</c>
+                  </w>
+                </w>
+              </phr>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031585a">
+                <c type="log">pos</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="log">eri</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="沾将堪香聞"/>
+          <s type="ip-mat">
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031354a">
+                <c type="log">nure</c>
+              </w>
+              <w type="vb-stm" lemma="l030073a">
+                <c type="log">ape</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

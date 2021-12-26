@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3062">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="萱草"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n">
+                <w type="n-dvb" lemma="l031907b">
+                  <c type="log">wasure</c>
+                </w>
+                <w type="n" lemma="l050114">
+                  <c type="log">kusa</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="1" corresp="垣毛繁森"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050141">
+                    <c type="log">kaki</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l004052">
+                  <c type="phon">simimi</c>
+                </w>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="雖殖有"/>
+            <w type="vb-css">
+              <w type="vb-stm" lemma="l030229a">
+                <c type="log">uwe</c>
+              </w>
+              <w type="vax-stv-css" lemma="l000022">
+                <c type="log">taredo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="鬼之志許草"/>
+          <s type="ip-mat">
+            <phr type="np-arg">
+              <cl type="ip-rel">
+                <w type="adj-adi">
+                  <w type="adj-stm" lemma="l051938">
+                    <c type="log">siko</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n">
+                <w type="adj-stm" lemma="l051938">
+                  <c type="phon">siko</c>
+                </w>
+                <w type="n" lemma="l050114">
+                  <c type="log">kusa</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+          <lb id="4" corresp="猶戀爾家利"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004021">
+              <c type="log">napo</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="phon">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.1054">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="泉川"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="np">
+                        <w type="pln" lemma="l060027">
+                          <w type="pln" lemma="l051156">
+                            <c type="plog">idumi</c>
+                          </w>
+                          <w type="n" lemma="l050025">
+                            <c type="log">gapa</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="徃瀬乃水之"/>
+                      <w type="vb-adc" lemma="l031840a">
+                        <c type="log">yuku</c>
+                      </w>
+                    </cl>
+                    <w type="n" lemma="l090058">
+                      <c type="log">se</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050128">
+                  <c type="log">midu</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="絶者許曽"/>
+            <w type="vb-cnd" lemma="l031090a">
+              <c type="log">tayeba</c>
+            </w>
+            <w type="p-foc" lemma="l000510">
+              <c type="phon">koso</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="大宮地"/>
+          <phr type="np-sbj">
+            <w type="n">
+              <w type="adj-stm" lemma="l007009a">
+                <c type="log">opo</c>
+              </w>
+              <w type="n" lemma="l050018">
+                <c type="log">miya</c>
+              </w>
+              <w type="n" lemma="l050060">
+                <c type="log">tokoro</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="遷徃目"/>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l030277a">
+              <c type="log">uturopi</c>
+            </w>
+            <w type="vb-stm" lemma="l031840a">
+              <c type="log">yuka</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="phon">me</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

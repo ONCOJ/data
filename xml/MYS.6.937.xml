@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.937">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="徃廻"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="vb-inf" lemma="l031839a">
+                  <w type="vb-stm" lemma="l031840a">
+                    <c type="log">yuki</c>
+                  </w>
+                  <w type="vb-inf" lemma="l031748a">
+                    <c type="log">meguri</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="雖見将飽八"/>
+              <w type="vb-ifc" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="phon">tomo</c>
+              </w>
+            </cl>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030020c">
+                <c type="log">aka</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="log">me</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="名寸隅乃"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051574">
+                        <c type="phon-kun">nakisumi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="船瀬之濱爾"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l090265">
+                        <c type="phon">punase</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l051709">
+                    <c type="log">pama</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="四寸流思良名美"/>
+              <w type="vb-adc" lemma="l030849a">
+                <c type="phon">sikiru</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l090512">
+              <w type="adj-stm" lemma="l007006a">
+                <c type="phon">sira</c>
+              </w>
+              <w type="n" lemma="l050017">
+                <c type="phon">nami</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

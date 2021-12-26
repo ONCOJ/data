@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3877">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="紅爾"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051346">
+                    <c type="log">kurenawi</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="染而之衣"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030904a">
+                  <c type="log">sime</c>
+                </w>
+                <w type="vax-prf-stm" lemma="l000023">
+                  <c type="phon">te</c>
+                </w>
+                <w type="vax-spst-adn" lemma="l000015">
+                  <c type="phon">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l051304">
+              <c type="log">koromo</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="雨零而"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050001a">
+                  <c type="log">ame</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031559a">
+                <c type="log">purite</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="爾保比波雖爲"/>
+            <w type="vb-inf" lemma="l031335a">
+              <c type="phon">nipopi</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+            <w type="vb-cls" lemma="l030919a">
+              <c type="log">su</c>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="log">tomo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="移波米也毛"/>
+          <w type="vb-exc">
+            <w type="vb-stm" lemma="l030276a">
+              <c type="log">uturo</c>
+              <c type="phon">pa</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="phon">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1390">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="淡海之海"/>
+            <cl type="ip-adv">
+              <phr type="np">
+                <w type="pln" lemma="l060178">
+                  <w type="pln" lemma="l050824">
+                    <c type="plog">apumi</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                  <w type="n" lemma="l052517">
+                    <c type="log">umi</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="1" corresp="浪恐登"/>
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050017">
+                    <c type="log">nami</c>
+                  </w>
+                </phr>
+                <w type="adj-ger">
+                  <w type="adj-stm" lemma="l007078">
+                    <c type="log">kasikwo</c>
+                  </w>
+                  <w type="acp-ger" lemma="l000034">
+                    <c type="log">mi</c>
+                    <c type="phon">to</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="風守"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l050008a">
+                  <c type="log">kaze</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031667a">
+                <c type="log">mamori</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="年者也将經去"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l050124">
+                  <c type="log">tosi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="phon">ya</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031512a">
+                <c type="log">pe</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon-kun">na</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="榜者無二"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-prd">
+              <cl type="ip-nmz-sbj">
+                <w type="vb-adc" lemma="l030698a">
+                  <c type="log">kogu</c>
+                </w>
+                <w type="p-comp" lemma="l000530">
+                  <c type="nlog">to</c>
+                </w>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </cl>
+              <w type="adj-cls">
+                <w type="adj-stm" lemma="l007028">
+                  <c type="log">na</c>
+                </w>
+                <w type="acp-cls" lemma="l000033">
+                  <c type="nlog">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

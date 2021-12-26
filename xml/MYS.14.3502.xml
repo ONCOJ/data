@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3502">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="和我目豆麻"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="phon">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l080236">
+                <c type="phon">meduma</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="比等波左久礼杼"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050046">
+                  <c type="phon">pito</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-css" lemma="l030789a">
+              <c type="phon">sakuredo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="安佐我保能"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <w type="n" lemma="l050236">
+                <w type="n" lemma="l050139">
+                  <c type="phon">asa</c>
+                </w>
+                <w type="n" lemma="l051212">
+                  <c type="phon">gapo</c>
+                </w>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="phon">no</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="等思佐倍己其登"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050124">
+                  <c type="phon">tosi</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000525a">
+                <c type="phon">sape</c>
+              </w>
+            </phr>
+            <phr type="np-prd">
+              <w type="n" lemma="l051286">
+                <c type="phon">kogoto</c>
+              </w>
+            </phr>
+          </cl>
+          <lb id="4" corresp="和波佐可流我倍"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042057">
+                <c type="phon">wa</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030770a">
+            <c type="phon">sakaru</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000554">
+            <c type="phon">gape</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

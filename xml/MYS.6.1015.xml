@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.1015">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="玉敷而"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l052078">
+                    <c type="log">tama</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l030852a">
+                  <c type="log">sikite</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="待益欲利者"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031644a">
+                  <c type="log">mata</c>
+                </w>
+                <w type="vax-sjv-adc" lemma="l000004">
+                  <c type="phon">masi</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-case-abl" lemma="l000540a">
+              <c type="phon">ywori</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="多鷄蘇香仁"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-adv">
+                  <w type="adv" lemma="l004123">
+                    <c type="phon">takyeswokani</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="来有今夜四"/>
+                <w type="vb-adc" lemma="l030582a">
+                  <w type="vb-stm" lemma="l030612a">
+                    <c type="log">ki</c>
+                  </w>
+                  <w type="vb-adc" lemma="l030170a">
+                    <c type="log">taru</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l051320">
+                <w type="pro-n" lemma="l042029">
+                  <c type="log">ko</c>
+                </w>
+                <w type="n" lemma="l052415">
+                  <c type="log">yopi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="樂所念"/>
+          <cl type="ip-arg">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007182">
+                <c type="log">tanwosi</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-cls" lemma="l030404a">
+            <c type="log">omopoyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

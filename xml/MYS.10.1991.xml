@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1991">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="霍公鳥"/>
+          <cl type="ip-prp">
+            <phr type="np-ob1">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="np-sbj">
+                        <w type="n" lemma="l050160">
+                          <c type="log">pototogisu</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="来鳴動"/>
+                      <w type="vb-adc">
+                        <w type="vb-stm" lemma="l030585a">
+                          <w type="vb-stm" lemma="l030612a">
+                            <c type="log">ki</c>
+                          </w>
+                          <w type="vb-stm" lemma="l031267a">
+                            <c type="log">naki</c>
+                          </w>
+                        </w>
+                        <w type="vb-adc" lemma="l031247a">
+                          <c type="log">toyomosu</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="2" corresp="岡邊有"/>
+                    <w type="n" lemma="l052341">
+                      <c type="log">woka</c>
+                    </w>
+                    <w type="n" lemma="l050133">
+                      <c type="log">pye</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="log">n</c>
+                  </w>
+                </phr>
+                <w type="vb-adn" lemma="l030125a">
+                  <c type="log">aru</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="藤浪見者"/>
+              <w type="n" lemma="l090511">
+                <w type="n" lemma="l051820">
+                  <c type="log">pudi</c>
+                </w>
+                <w type="n" lemma="l050017">
+                  <c type="log">nami</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-ifc" lemma="l031712a">
+              <c type="log">mi</c>
+            </w>
+            <w type="p-conn" lemma="l000551">
+              <c type="log">ni</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="君者不来登夜"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <w type="vb-ngc" lemma="l030708a">
+            <c type="log">kozi</c>
+          </w>
+          <w type="p-comp" lemma="l000530">
+            <c type="phon">to</c>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

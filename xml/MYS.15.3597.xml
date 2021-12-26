@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3597">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="和多都美能"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052325">
+                    <c type="phon">watatumi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="於伎津之良奈美"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052520">
+                    <c type="phon">oki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000532">
+                  <c type="phon">tu</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090512">
+                <w type="adj-stm" lemma="l007006a">
+                  <c type="phon">sira</c>
+                </w>
+                <w type="n" lemma="l050017">
+                  <c type="phon">nami</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="多知久良思"/>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031043a">
+                <c type="phon">tati</c>
+              </w>
+              <w type="vb-cls" lemma="l030612a">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </s>
+          <lb id="3" corresp="安麻乎等女等母"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <w type="n">
+                <w type="n" lemma="l050001b">
+                  <c type="phon">ama</c>
+                </w>
+                <w type="n" lemma="l050145">
+                  <c type="phon">woto</c>
+                  <c type="log">mye</c>
+                </w>
+                <w type="sfx" lemma="l001002">
+                  <c type="phon">domo</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="4" corresp="思麻我久流見由"/>
+            <w type="vb-adc" lemma="l030898a">
+              <w type="n" lemma="l050078">
+                <c type="phon">sima</c>
+              </w>
+              <w type="vb-adc" lemma="l030448a">
+                <c type="phon">gakuru</c>
+              </w>
+            </w>
+            <w type="p-fnl-evd" lemma="l000513">
+              <c type="log">mi</c>
+              <c type="phon">yu</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

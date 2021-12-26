@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1475">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="何之可毛"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="wh-n" lemma="l042003">
+                  <c type="log">nani</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="幾許戀流"/>
+            <phr type="np-adv">
+              <w type="pro-adv" lemma="l042038">
+                <c type="log">kokodaku</c>
+              </w>
+            </phr>
+            <w type="vb-adn" lemma="l030731a">
+              <c type="log">kwopu</c>
+              <c type="phon">ru</c>
+            </w>
+          </s>
+          <lb id="2" corresp="霍公鳥"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <cl type="ip-rel">
+                  <phr type="np-sbj">
+                    <w type="n" lemma="l050160">
+                      <c type="log">pototogisu</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="鳴音聞者"/>
+                  <w type="vb-adc" lemma="l031267a">
+                    <c type="log">naku</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051318">
+                  <c type="log">kowe</c>
+                </w>
+              </phr>
+              <w type="vb-prv" lemma="l030565a">
+                <c type="log">kikeba</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="戀許曽益礼"/>
+            <w type="vb-inf" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="p-foc" lemma="l000510">
+              <c type="phon">koso</c>
+            </w>
+            <w type="vb-exc" lemma="l031630a">
+              <c type="log">masa</c>
+              <c type="phon">re</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

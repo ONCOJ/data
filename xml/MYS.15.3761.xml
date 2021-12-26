@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3761">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="与能奈可能"/>
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l090648">
+                    <w type="n" lemma="l050040">
+                      <c type="phon">yo</c>
+                    </w>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                    <w type="n" lemma="l050069">
+                      <c type="phon">naka</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="都年能己等和利"/>
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <w type="n" lemma="l004004">
+                    <c type="phon">tune</c>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l051316">
+                <c type="phon">kotowari</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="可久左麻爾"/>
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <w type="n" lemma="l050529">
+                  <w type="adv" lemma="l042020">
+                    <c type="phon">kaku</c>
+                  </w>
+                  <w type="n" lemma="l090187">
+                    <c type="phon">sama</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="奈里伎爾家良之"/>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l031317a">
+                <c type="phon">nari</c>
+              </w>
+              <w type="vb-stm" lemma="l030612a">
+                <c type="phon">ki</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-mpst-adn" lemma="l000016">
+                <c type="phon">kye</c>
+              </w>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="須恵之多祢可良"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030920a">
+                    <c type="phon">suwe</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l052091">
+                <c type="phon">tane</c>
+              </w>
+            </phr>
+            <w type="p-case-abl" lemma="l000508a">
+              <c type="phon">kara</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

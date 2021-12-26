@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.1056">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="𡢳嬬等之"/>
+          <phr type="np-sbj">
+            <cl type="ip-zyo">
+              <cl type="ip-arg">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="n" lemma="l050145">
+                        <c type="log">wotomye</c>
+                      </w>
+                      <w type="sfx" lemma="l001003">
+                        <c type="log">ra</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="log">ga</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="續麻繁云"/>
+                <phr type="np-ob1">
+                  <w type="n" lemma="l052252">
+                    <w type="vb-stm" lemma="l030293a">
+                      <c type="log">umi</c>
+                    </w>
+                    <w type="n" lemma="l052503">
+                      <c type="log">wo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l030442a">
+                  <c type="log">kaku</c>
+                </w>
+                <w type="p-comp" lemma="l000530">
+                  <c type="nlog">to</c>
+                </w>
+              </cl>
+              <w type="vb-adc" lemma="l030199a">
+                <c type="log">ipu</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="鹿脊之山"/>
+            <w type="pln" lemma="l060243">
+              <w type="pln" lemma="l051233">
+                <c type="phon-kun">kase</c>
+              </w>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+              <w type="n" lemma="l050034">
+                <c type="log">yama</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="3" corresp="時之徃者"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050059">
+                  <c type="log">toki</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l031840a">
+                <c type="log">yuk</c>
+              </w>
+              <w type="vax-stv-prv" lemma="l000024">
+                <c type="log">yereba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="京師跡成宿"/>
+          <cl type="ip-arg">
+            <phr type="np-prd">
+              <w type="n" lemma="l050129">
+                <c type="log">miyakwo</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031968">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031317a">
+              <c type="log">nari</c>
+            </w>
+            <w type="vax-prf-cls" lemma="l000018">
+              <c type="phon">nu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

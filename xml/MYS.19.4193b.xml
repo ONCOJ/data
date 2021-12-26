@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4193b">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="霍公鳥"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-sbj">
+                    <w type="n" lemma="l050160">
+                      <c type="log">pototogisu</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="鳴羽觸爾毛"/>
+                  <w type="vb-adc" lemma="l031267a">
+                    <c type="log">naku</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l080088b">
+                  <c type="log">paburi</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="落奴倍美"/>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031111a">
+                <c type="log">tiri</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="phon">nu</c>
+              </w>
+            </w>
+            <w type="xtn-inf">
+              <w type="xtn-stm" lemma="l000801">
+                <c type="phon">be</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="袖爾古伎納都"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="pp-gol-ob2">
+                <phr type="np">
+                  <w type="n" lemma="l052043">
+                    <c type="log">swode</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <w type="vb-cls">
+                <w type="vb-stm" lemma="l030695a">
+                  <w type="vb-stm" lemma="l030697a">
+                    <c type="phon">kwoki</c>
+                  </w>
+                  <w type="vb-stm" lemma="l030223a">
+                    <c type="phon">re</c>
+                  </w>
+                </w>
+                <w type="vax-prf-cls" lemma="l000023">
+                  <c type="phon">tu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="藤浪乃花也"/>
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l090511">
+                    <w type="n" lemma="l051820">
+                      <c type="log">pudi</c>
+                    </w>
+                    <w type="n" lemma="l050017">
+                      <c type="log">nami</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050083">
+                <c type="log">pana</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4196">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="月立之"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="np-sbj">
+                        <w type="n" lemma="l050004a">
+                          <c type="log">tukwi</c>
+                        </w>
+                      </phr>
+                      <w type="vb-adn">
+                        <w type="vb-stm" lemma="l031043a">
+                          <c type="log">tati</c>
+                        </w>
+                        <w type="vax-spst-adn" lemma="l000015">
+                          <c type="phon">si</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="日欲里乎伎都追"/>
+                    <w type="n" lemma="l050090">
+                      <c type="log">pi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-abl" lemma="l000540a">
+                    <c type="phon">ywori</c>
+                  </w>
+                </phr>
+                <w type="vb-ctt" lemma="l031940a">
+                  <c type="phon">wokitutu</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="敲自努比"/>
+              <cl type="ip-adv">
+                <cl type="ip-adv">
+                  <w type="vb-inf">
+                    <w type="pfx-mph" lemma="l000043">
+                      <c type="log">uti</c>
+                    </w>
+                    <w type="vb-inf" lemma="l030886a">
+                      <c type="phon">zinwopi</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="麻泥騰伎奈可奴"/>
+                <w type="vb-css" lemma="l031644a">
+                  <c type="phon">matedo</c>
+                </w>
+              </cl>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030585a">
+                  <w type="vb-stm" lemma="l030612a">
+                    <c type="phon">ki</c>
+                  </w>
+                  <w type="vb-stm" lemma="l031267a">
+                    <c type="phon">naka</c>
+                  </w>
+                </w>
+                <w type="vax-neg-adn" lemma="l000006a">
+                  <c type="phon">nu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="霍公鳥可母"/>
+            <w type="n" lemma="l050160">
+              <c type="log">pototogisu</c>
+            </w>
+          </phr>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

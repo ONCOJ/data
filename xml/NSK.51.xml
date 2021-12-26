@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.51">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="那珥波臂苔"/>
+            <phr type="np-sbj">
+              <w type="n">
+                <w type="pln" lemma="l051586">
+                  <c type="phon-on">nanipa</c>
+                </w>
+                <w type="n" lemma="l050046">
+                  <c type="phon-on">pito</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="1" corresp="須儒赴泥苔羅齊"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050512">
+                <w type="n" lemma="l052037">
+                  <c type="phon">suzu</c>
+                </w>
+                <w type="n" lemma="l050007a">
+                  <c type="phon">pune</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l031258a">
+                <c type="phon">tora</c>
+              </w>
+              <w type="vax-rsp-imp" lemma="l000009">
+                <c type="phon">se</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="許辞那豆瀰"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l051308">
+                  <c type="phon">kosi</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031290a">
+                <c type="phon">nadumi</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="曾能赴尼苔羅齊"/>
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042040">
+                    <c type="phon">so</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050007a">
+                <c type="phon">pune</c>
+              </w>
+            </phr>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l031258a">
+                <c type="phon">tora</c>
+              </w>
+              <w type="vax-rsp-imp" lemma="l000009">
+                <c type="phon">se</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="於朋瀰赴泥苔礼"/>
+          <s type="ip-mat">
+            <phr type="np-ob1">
+              <w type="n">
+                <w type="pfx-hon" lemma="l000038">
+                  <c type="phon">opomi</c>
+                </w>
+                <w type="n" lemma="l050007a">
+                  <c type="phon">pune</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-imp" lemma="l031258a">
+              <c type="phon">tore</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

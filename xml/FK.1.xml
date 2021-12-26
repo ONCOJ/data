@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="FK.1">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="許智多鶏波"/>
+            <cl type="ip-adv">
+              <w type="adj-cnd">
+                <w type="adj-stm" lemma="l007089">
+                  <w type="n" lemma="l050148">
+                    <c type="phon">kot</c>
+                  </w>
+                  <w type="adj-stm" lemma="l007010">
+                    <c type="phon">ita</c>
+                  </w>
+                </w>
+                <w type="acp-cnd" lemma="l000033">
+                  <c type="phon">kyeba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="乎婆頭勢夜麻能"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="pln" lemma="l050914">
+                        <c type="phon">wobatuse</c>
+                      </w>
+                      <w type="n" lemma="l050034">
+                        <c type="phon">yama</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="伊波帰爾母"/>
+                <w type="n" lemma="l050277">
+                  <w type="n" lemma="l050014">
+                    <c type="phon">ipa</c>
+                  </w>
+                  <w type="n" lemma="l052473">
+                    <c type="phon">kwi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="為弖許母郎奈牟"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031926a">
+                <c type="phon">wite</c>
+              </w>
+            </cl>
+            <w type="vb-opt" lemma="l030744a">
+              <c type="phon">komoranamu</c>
+            </w>
+          </s>
+          <lb id="4" corresp="奈古非叙和支母"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <w type="vb">
+                <w type="cfx-phb" lemma="l000037">
+                  <c type="phon">na</c>
+                </w>
+                <w type="vb-stm" lemma="l030731a">
+                  <c type="phon">kwopwi</c>
+                </w>
+                <w type="cfx-phb" lemma="l000037">
+                  <c type="phon">so</c>
+                </w>
+              </w>
+            </cl>
+            <phr type="np-voc">
+              <w type="n" lemma="l050020">
+                <c type="phon">wagimo</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

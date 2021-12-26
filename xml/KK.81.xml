@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.81">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="意富麻弊"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="np">
+                    <phr type="conjp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="adj-stm" lemma="l007009a">
+                            <c type="phon">opo</c>
+                          </w>
+                          <w type="n" lemma="l050052">
+                            <c type="phon">mapye</c>
+                          </w>
+                        </w>
+                      </phr>
+                    </phr>
+                    <lb id="1" corresp="袁麻弊須久泥賀"/>
+                    <phr type="np">
+                      <w type="n">
+                        <w type="pfx" lemma="l000060">
+                          <c type="phon">wo</c>
+                        </w>
+                        <w type="n" lemma="l050052">
+                          <c type="phon">mapye</c>
+                        </w>
+                      </w>
+                    </phr>
+                  </phr>
+                  <w type="pen" lemma="l052013">
+                    <c type="phon">sukune</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="加那斗加宜"/>
+              <w type="n">
+                <w type="n" lemma="l051198b">
+                  <c type="phon">kana</c>
+                </w>
+                <w type="n" lemma="l090263">
+                  <c type="phon">two</c>
+                </w>
+                <w type="n" lemma="l050011a">
+                  <c type="phon">kage</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="加久余理許泥"/>
+            <phr type="np-adv">
+              <w type="pro-adv" lemma="l042020">
+                <c type="phon">kaku</c>
+              </w>
+            </phr>
+            <w type="vb-opt">
+              <w type="vb-stm" lemma="l031887a">
+                <c type="phon">yori</c>
+              </w>
+              <w type="vb-opt" lemma="l030612a">
+                <c type="phon">kone</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="阿米多知夜米牟"/>
+          <s type="ip-mat">
+            <phr type="np-ob1">
+              <w type="n" lemma="l050001a">
+                <c type="phon">ame</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031043a">
+                <c type="phon">tati</c>
+              </w>
+              <w type="vb-stm" lemma="l031819a">
+                <c type="phon">yame</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

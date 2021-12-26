@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.720">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="村肝之"/>
+          <phr type="pp-ob1">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="np-sbj">
+                  <cl type="ip-ept">
+                    <w type="mk-adi" lemma="l051537">
+                      <w type="n">
+                        <w type="n" lemma="l004060">
+                          <c type="phon-kun">mura</c>
+                        </w>
+                        <w type="n" lemma="l051265">
+                          <c type="log">kimo</c>
+                        </w>
+                      </w>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="log">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="情揣而"/>
+                  <w type="n" lemma="l050037">
+                    <c type="log">kokoro</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l030629a">
+                  <c type="log">kudakete</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="如此許"/>
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="pro-adv" lemma="l042020">
+                    <c type="log">kaku</c>
+                  </w>
+                </phr>
+                <w type="p-res" lemma="l000501">
+                  <c type="log">bakari</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="余戀良苦乎"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="log">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="nlog">ga</c>
+                </w>
+              </phr>
+              <w type="vb-nml" lemma="l030731a">
+                <c type="log">kwopu</c>
+                <c type="phon">raku</c>
+              </w>
+            </cl>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="不知香安類良武"/>
+          <w type="vb-ifc">
+            <w type="vb-stm" lemma="l031967a">
+              <c type="log">sira</c>
+            </w>
+            <w type="vax-neg-ifc" lemma="l000006a">
+              <c type="log">zu</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000506">
+            <c type="phon">ka</c>
+          </w>
+          <w type="vb-adn" lemma="l030125a">
+            <c type="phon">aru</c>
+          </w>
+          <w type="xtn-adc" lemma="l000805">
+            <c type="phon">ramu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

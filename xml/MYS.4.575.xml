@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.575">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="草香江之"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="pln" lemma="l060070">
+                            <w type="pln" lemma="l051355">
+                              <c type="phon-kun">kusaka</c>
+                            </w>
+                            <w type="n" lemma="l052401">
+                              <c type="log">ye</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="入江二求食"/>
+                      <w type="n" lemma="l051122">
+                        <c type="log">iriye</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l030033a">
+                    <c type="log">asaru</c>
+                  </w>
+                </cl>
+                <lb id="2" corresp="蘆鶴乃"/>
+                <w type="n" lemma="l050597">
+                  <w type="n" lemma="l052471">
+                    <c type="log">asi</c>
+                  </w>
+                  <w type="n" lemma="l052059">
+                    <c type="log">tadu</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="log">no</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="痛多豆多頭思"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l090051a">
+                <c type="log">ana</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007181">
+                <c type="phon">tadutadusi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="友無二指天"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050968">
+                  <c type="log">tomo</c>
+                </w>
+              </phr>
+              <w type="adj-cls">
+                <w type="adj-stm" lemma="l007028">
+                  <c type="log">na</c>
+                </w>
+                <w type="acp-cls" lemma="l000033">
+                  <c type="nlog">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="cop-ger" lemma="l031965">
+              <c type="phon">nisite</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

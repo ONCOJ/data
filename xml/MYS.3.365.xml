@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.365">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="塩津山"/>
+            <cl type="ip-adv">
+              <phr type="np-pth-ob1">
+                <w type="pln" lemma="l060089">
+                  <w type="pln" lemma="l051961">
+                    <c type="plog">sipotu</c>
+                  </w>
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="1" corresp="打越去者"/>
+              <w type="vb-prv">
+                <w type="pfx-mph" lemma="l000043">
+                  <c type="log">uti</c>
+                </w>
+                <w type="vb-stm" lemma="l030747a">
+                  <c type="log">kwoye</c>
+                </w>
+                <w type="vb-prv" lemma="l031840a">
+                  <c type="log">yukeba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="我乗有"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042054">
+                        <c type="log">a</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="nlog">ga</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031390a">
+                      <c type="log">nor</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="log">eru</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="馬曽爪突"/>
+                <w type="n" lemma="l052245">
+                  <c type="log">uma</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000527">
+                <c type="phon">so</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031171a">
+              <w type="n" lemma="l050122b">
+                <c type="log">tuma</c>
+              </w>
+              <w type="vb-adc" lemma="l031132a">
+                <c type="phon">duku</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="家戀良霜"/>
+          <s type="ip-mat">
+            <phr type="np-ob1">
+              <w type="n" lemma="l050006a">
+                <c type="log">ipye</c>
+              </w>
+            </phr>
+            <w type="vb-cls" lemma="l030731a">
+              <c type="log">kwopu</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

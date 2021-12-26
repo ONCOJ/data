@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3574">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="乎佐刀奈流"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="pp-ob1">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="pfx" lemma="l000060">
+                            <c type="phon">wo</c>
+                          </w>
+                          <w type="n" lemma="l050051">
+                            <c type="phon">satwo</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-dat" lemma="l000519">
+                        <c type="phon">n</c>
+                      </w>
+                    </phr>
+                    <w type="vb-adn" lemma="l030125a">
+                      <c type="phon">aru</c>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="波奈多知波奈乎"/>
+                  <w type="n" lemma="l050627">
+                    <w type="n" lemma="l050083">
+                      <c type="phon">pana</c>
+                    </w>
+                    <w type="n" lemma="l050150">
+                      <c type="phon">tatibana</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="比伎余治弖"/>
+              <cl type="ip-adv">
+                <w type="vb-ger" lemma="l031470a">
+                  <w type="vb-stm" lemma="l031474a">
+                    <c type="phon">piki</c>
+                  </w>
+                  <w type="vb-ger" lemma="l031877a">
+                    <c type="phon">yodite</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="乎良無登須礼杼"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031960a">
+                  <c type="phon">wora</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+              <w type="cop-inf" lemma="l031968">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="vb-css" lemma="l030919a">
+              <c type="phon">suredo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="宇良和可美許曾"/>
+          <w type="adj-inf">
+            <w type="adj-stm" lemma="l080424">
+              <w type="n" lemma="l050109">
+                <c type="phon">ura</c>
+              </w>
+              <w type="adj-stm" lemma="l007209">
+                <c type="phon">waka</c>
+              </w>
+            </w>
+            <w type="acp-inf" lemma="l000034">
+              <c type="phon">mi</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000510">
+            <c type="phon">koso</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.15">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="夜麻登能"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l052386">
+                        <c type="phon-on">yamato</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="多加佐士怒袁"/>
+                  <w type="pln" lemma="l080282">
+                    <w type="pln" lemma="l051911">
+                      <c type="phon">takasazi</c>
+                    </w>
+                    <w type="n" lemma="l051650">
+                      <c type="phon">nwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="那那由久"/>
+              <phr type="np-adv">
+                <w type="num" lemma="l002007">
+                  <c type="phon">nana</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031840a">
+                <c type="phon">yuku</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="袁登賣杼母"/>
+            <w type="n">
+              <w type="n" lemma="l050145">
+                <c type="phon">wotomye</c>
+              </w>
+              <w type="sfx" lemma="l001002">
+                <c type="phon">domo</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="多禮袁志摩加牟"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="wh-n" lemma="l042001">
+                <c type="phon">tare</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031618a">
+              <c type="phon">maka</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

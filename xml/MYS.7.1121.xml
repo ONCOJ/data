@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1121">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="妹等所"/>
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l050027">
+                      <c type="log">imo</c>
+                    </w>
+                    <w type="sfx" lemma="l001003">
+                      <c type="log">ra</c>
+                    </w>
+                    <w type="sfx" lemma="l001011">
+                      <c type="log">gari</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="我通路"/>
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="log">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="nlog">ga</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031840a">
+                  <c type="log">yuku</c>
+                </w>
+              </cl>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050091">
+                    <c type="log">miti</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="細竹為酢寸"/>
+              <w type="n" lemma="l052568">
+                <w type="n" lemma="l050164">
+                  <c type="log">sinwo</c>
+                </w>
+                <w type="n" lemma="l050165">
+                  <c type="phon">susuki</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="我通"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042059">
+                    <c type="log">ware</c>
+                  </w>
+                </phr>
+                <w type="p-res" lemma="l000526a">
+                  <c type="nlog">si</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l030536a">
+                <c type="log">kaywopaba</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="靡細竹原"/>
+            <w type="vb-imp" lemma="l031294a">
+              <c type="log">nabikye</c>
+            </w>
+          </cl>
+          <phr type="np">
+            <w type="n" lemma="l050406">
+              <w type="n" lemma="l050164">
+                <c type="log">sinwo</c>
+              </w>
+              <w type="n" lemma="l051723">
+                <c type="log">para</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

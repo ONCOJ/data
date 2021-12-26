@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.125">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="多致播那播"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050150">
+                <c type="phon">tatibana</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="於能我曳多曳多"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042074">
+                    <c type="phon">ono</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="n" lemma="l052402">
+                  <c type="phon">yeda</c>
+                </w>
+                <w type="n" lemma="l052402">
+                  <c type="phon">yeda</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="那例例騰母"/>
+            <w type="vb-css">
+              <w type="vb-stm" lemma="l031317a">
+                <c type="phon">nar</c>
+              </w>
+              <w type="vax-stv-css" lemma="l000024">
+                <c type="phon">eredomo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="陁麻爾農矩騰岐"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <w type="n" lemma="l052078">
+                    <c type="phon">tama</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+              </cl>
+              <w type="vb-adc" lemma="l031346a">
+                <c type="phon">nuku</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l050059">
+              <c type="phon">toki</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="於野児弘儞農倶"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="adj-cls">
+                  <w type="adj-stm" lemma="l007138">
+                    <c type="phon">oyazi</c>
+                  </w>
+                  <w type="acp-cls" lemma="l000033">
+                    <c type="null">*</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050117">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031346a">
+            <c type="phon">nuku</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

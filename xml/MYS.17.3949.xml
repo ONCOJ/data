@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3949">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安麻射加流"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk-adc" lemma="l091035">
+                        <w type="n" lemma="l050001b">
+                          <c type="phon">ama</c>
+                        </w>
+                        <w type="vb-adc" lemma="l030770a">
+                          <c type="phon">zakaru</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="比奈爾安流和礼乎"/>
+                    <w type="n" lemma="l050089">
+                      <c type="phon">pina</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adn" lemma="l030125a">
+                  <c type="phon">aru</c>
+                </w>
+              </cl>
+              <w type="pro-n" lemma="l042059">
+                <c type="phon">ware</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="宇多我多毛"/>
+          <cl type="ip-adv">
+            <phr type="np-adv">
+              <w type="adv" lemma="l052280">
+                <c type="phon">utagatamo</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="比母登吉佐気低"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l051763">
+                <c type="phon">pimo</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031197a">
+              <w type="vb-stm" lemma="l031199a">
+                <c type="phon">toki</c>
+              </w>
+              <w type="vb-ger" lemma="l030784a">
+                <c type="phon">sakete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="於毛保須良米也"/>
+          <w type="vb-adc" lemma="l030402a">
+            <c type="phon">omoposu</c>
+          </w>
+          <w type="xtn-exc" lemma="l000805">
+            <c type="phon">rame</c>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

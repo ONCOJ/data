@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.45">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="瀰箇始報"/>
+          <phr type="np">
+            <cl type="ip-ept">
+              <w type="mk" lemma="l051448">
+                <c type="phon">mikasipo</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="破利摩波椰摩智"/>
+            <w type="n">
+              <w type="pln" lemma="l080113">
+                <c type="phon">parima</c>
+              </w>
+              <w type="pen" lemma="l080114">
+                <c type="phon">payamati</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="2" corresp="以播区娜輸"/>
+          <cl type="ip-adv">
+            <cl type="ip-ept">
+              <w type="mk-adc" lemma="l099999">
+                <w type="n" lemma="l050014">
+                  <c type="phon">ipa</c>
+                </w>
+                <w type="vb-adc" lemma="l030631a">
+                  <c type="phon">kudasu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="伽之古倶等望"/>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007078">
+                <c type="phon">kasikwo</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000531">
+              <c type="phon">tomo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="阿例椰始儺破務"/>
+          <phr type="np-sbj">
+            <w type="pro-n" lemma="l042083">
+              <c type="phon">are</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031798a">
+              <c type="phon">yasinapa</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3920">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="鶉鳴"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <cl type="ip-arg">
+                  <cl type="ip-ept">
+                    <w type="mk-inf" lemma="l090417">
+                      <w type="n" lemma="l052239">
+                        <c type="log">udura</c>
+                      </w>
+                      <w type="vb-inf" lemma="l031267a">
+                        <c type="log">naki</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="布流之登比等波"/>
+                  <w type="adj-cls">
+                    <w type="adj-stm" lemma="l007151">
+                      <c type="phon">puru</c>
+                    </w>
+                    <w type="acp-cls" lemma="l000033">
+                      <c type="phon">si</c>
+                    </w>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">to</c>
+                  </w>
+                </cl>
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l050046">
+                      <c type="phon">pito</c>
+                    </w>
+                  </phr>
+                  <w type="p-top" lemma="l000522">
+                    <c type="phon">pa</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="於毛敞礼騰"/>
+                <w type="vb-css">
+                  <w type="vb-stm" lemma="l030399a">
+                    <c type="phon">omop</c>
+                  </w>
+                  <w type="vax-stv-css" lemma="l000024">
+                    <c type="phon">yeredo</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="花橘乃"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050627">
+                    <w type="n" lemma="l050083">
+                      <c type="log">pana</c>
+                    </w>
+                    <w type="n" lemma="l050150">
+                      <c type="log">tatibana</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="爾保敷許乃屋度"/>
+              <w type="vb-adc" lemma="l031335a">
+                <c type="phon">nipopu</c>
+              </w>
+            </cl>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042029">
+                  <c type="phon">ko</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050030">
+              <c type="phon">yadwo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

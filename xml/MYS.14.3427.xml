@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3427">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="筑紫奈留"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <w type="pln" lemma="l090245">
+                      <c type="phon-on">tukusi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">n</c>
+                  </w>
+                </phr>
+                <w type="vb-adn" lemma="l030125a">
+                  <c type="phon">aru</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="爾抱布児由恵爾"/>
+              <cl type="ip-rel">
+                <w type="vb-adc" lemma="l031335a">
+                  <c type="phon">nipopu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050028">
+                <c type="log">kwo</c>
+              </w>
+            </phr>
+            <w type="p-conn" lemma="l000539">
+              <c type="phon">yuweni</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="美知能久乃"/>
+          <phr type="np-ob1">
+            <cl type="ip-rel">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051484">
+                        <c type="phon-on">mitinoku</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="可刀利乎登女乃"/>
+                  <w type="n">
+                    <w type="pln" lemma="l051251">
+                      <c type="phon-on">katwori</c>
+                    </w>
+                    <w type="n" lemma="l050145">
+                      <c type="phon">woto</c>
+                      <c type="log">mye</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="由比思比毛等久"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l031850a">
+                  <c type="phon">yupi</c>
+                </w>
+                <w type="vax-spst-adn" lemma="l000015">
+                  <c type="phon">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l051763">
+              <c type="phon">pimo</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031199a">
+            <c type="phon">toku</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

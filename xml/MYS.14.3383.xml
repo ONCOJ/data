@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3383">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="宇麻具多能"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l052246">
+                      <c type="phon">umaguta</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="祢呂爾可久里為"/>
+                <w type="n">
+                  <w type="n" lemma="l052485">
+                    <c type="phon">ne</c>
+                  </w>
+                  <w type="sfx" lemma="l001007">
+                    <c type="phon">ro</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030448a">
+                <c type="phon">kakuri</c>
+              </w>
+              <w type="vb-ifc" lemma="l031926a">
+                <c type="phon">wi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="可久太爾毛"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="pro-adv" lemma="l042020">
+                  <c type="phon">kaku</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000502">
+                <c type="phon">dani</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="久爾乃登保可婆"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l051337">
+                  <c type="phon">kuni</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="adj-cnd">
+              <w type="adj-stm" lemma="l007008">
+                <c type="phon">topo</c>
+              </w>
+              <w type="acp-cnd" lemma="l000033">
+                <c type="phon">kaba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="奈我目保里勢牟"/>
+          <phr type="np">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042055">
+                  <c type="phon">na</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050048a">
+              <c type="log">me</c>
+            </w>
+          </phr>
+          <w type="vb-inf" lemma="l031599a">
+            <c type="phon">pori</c>
+          </w>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030919a">
+              <c type="phon">se</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

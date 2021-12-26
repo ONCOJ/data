@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.1.61">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="大夫之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-zyo">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l080256">
+                      <w type="adj-stm" lemma="l007110">
+                        <c type="log">masura</c>
+                      </w>
+                      <w type="n" lemma="l052501">
+                        <c type="log">wo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="得物矢手挿"/>
+                <cl type="ip-adv">
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l051901">
+                      <w type="n" lemma="l051899">
+                        <c type="phon">satu</c>
+                      </w>
+                      <w type="n" lemma="l052580">
+                        <c type="phon">ya</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="vb-inf" lemma="l031061a">
+                    <w type="n" lemma="l050012b">
+                      <c type="log">ta</c>
+                    </w>
+                    <w type="vb-inf" lemma="l031413a">
+                      <c type="log">basami</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="立向"/>
+                <cl type="ip-adv">
+                  <w type="vb-inf" lemma="l031039a">
+                    <w type="vb-stm" lemma="l031043a">
+                      <c type="log">tati</c>
+                    </w>
+                    <w type="vb-inf" lemma="l031721a">
+                      <c type="log">mukapi</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="射流圓方波"/>
+                <w type="vb-adn" lemma="l030222a">
+                  <c type="log">i</c>
+                  <c type="phon">ru</c>
+                </w>
+              </cl>
+              <w type="pln" lemma="l090033">
+                <c type="phon-kun">matwokata</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="見爾清潔之"/>
+          <cl type="ip-adv">
+            <w type="vb-adn" lemma="l031712a">
+              <c type="log">miru</c>
+            </w>
+            <w type="p-conn" lemma="l000551">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007162">
+              <c type="log">sayake</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="phon">si</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

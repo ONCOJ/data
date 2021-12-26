@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3643b">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="於吉敞欲里"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050425">
+                  <w type="n" lemma="l052520">
+                    <c type="phon">oki</c>
+                  </w>
+                  <w type="n" lemma="l050133">
+                    <c type="phon">pye</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540a">
+                <c type="phon">ywori</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="布奈妣等能煩流"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050481">
+                <w type="n" lemma="l050007b">
+                  <c type="phon">puna</c>
+                </w>
+                <w type="n" lemma="l050046">
+                  <c type="phon">bito</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031385a">
+              <c type="phon">noboru</c>
+            </w>
+          </s>
+          <lb id="2" corresp="与妣与勢弖"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-ger">
+                <w type="vb-stm" lemma="l031880a">
+                  <c type="phon">ywobi</c>
+                </w>
+                <w type="vb-ger" lemma="l031873a">
+                  <c type="phon">yosete</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="多妣能夜杼里乎"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050049">
+                      <c type="phon">tabi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n-dvb" lemma="l031807b">
+                  <c type="phon">yadori</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="伊射都氣夜良奈"/>
+            <s type="ip-mat">
+              <phr type="np">
+                <w type="intj" lemma="l051153">
+                  <c type="phon">iza</c>
+                </w>
+              </phr>
+            </s>
+            <w type="vb-opt">
+              <w type="vb-stm" lemma="l031140a">
+                <c type="phon">tuge</c>
+              </w>
+              <w type="vb-opt" lemma="l031823a">
+                <c type="phon">yarana</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

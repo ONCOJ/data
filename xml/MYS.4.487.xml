@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.487">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="淡海路乃"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pln" lemma="l060192">
+                          <w type="pln" lemma="l050824">
+                            <c type="plog">apumi</c>
+                          </w>
+                          <w type="n" lemma="l050091">
+                            <c type="log">di</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="鳥篭之山有"/>
+                    <w type="pln" lemma="l060112">
+                      <w type="pln" lemma="l052153">
+                        <c type="phon-kun">tokwo</c>
+                      </w>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                      <w type="n" lemma="l050034">
+                        <c type="log">yama</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="nlog">n</c>
+                  </w>
+                </phr>
+                <w type="vb-adn" lemma="l030125a">
+                  <c type="log">aru</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="不知哉川"/>
+              <w type="pln" lemma="l060025">
+                <w type="pln" lemma="l051128">
+                  <c type="phon-kun">isaya</c>
+                </w>
+                <w type="n" lemma="l050025">
+                  <c type="log">gapa</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="3" corresp="氣乃己呂其侶波"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050033a">
+                      <c type="phon">ke</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050306">
+                  <c type="phon">korogoro</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="戀乍裳将有"/>
+            <w type="vb-ctt" lemma="l030731a">
+              <c type="log">kwopwitutu</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <cl type="ip-adv">
+            <w type="vb-adc">
+              <w type="vb-stv-stm" lemma="l030125a">
+                <c type="log">ara</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

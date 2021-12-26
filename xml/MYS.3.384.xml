@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.384">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="吾屋戸爾"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="log">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="nlog">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050030">
+                  <c type="log">yadwo</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="韓藍種生之"/>
+            <phr type="np-ob1">
+              <w type="n">
+                <w type="pln" lemma="l051219">
+                  <c type="log">kara</c>
+                </w>
+                <w type="n" lemma="l050879">
+                  <c type="log">awi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l030320a">
+              <w type="vb-stm" lemma="l030229a">
+                <c type="log">uwe</c>
+              </w>
+              <w type="vb-inf" lemma="l030378a">
+                <c type="log">opo</c>
+                <c type="phon">si</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="雖干"/>
+          <cl type="ip-adv">
+            <w type="vb-css">
+              <w type="vb-stm" lemma="l030548a">
+                <c type="log">kare</c>
+              </w>
+              <w type="vax-prf-css" lemma="l000018">
+                <c type="log">nuredo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="不懲而亦毛"/>
+          <cl type="ip-adv">
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030754a">
+                <c type="log">kori</c>
+              </w>
+              <w type="vax-neg-ger" lemma="l000006a">
+                <c type="log">zute</c>
+              </w>
+            </w>
+          </cl>
+          <cl type="ip-arg">
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="adv" lemma="l004022">
+                  <c type="log">mata</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="将蒔登曽念"/>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031619a">
+                <c type="log">maka</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </cl>
+          <w type="vb-adc" lemma="l030399a">
+            <c type="log">omopu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2798">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="伊勢乃白水郎之"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-arg">
+                    <phr type="pp-sbj">
+                      <phr type="np">
+                        <phr type="pp">
+                          <phr type="np">
+                            <w type="pln" lemma="l051129">
+                              <c type="phon-on">ise</c>
+                            </w>
+                          </phr>
+                          <w type="p-case-gen" lemma="l000520">
+                            <c type="phon">no</c>
+                          </w>
+                        </phr>
+                        <w type="n" lemma="l050163">
+                          <c type="log">ama</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="朝魚夕菜爾"/>
+                    <cl type="ip-adv">
+                      <phr type="np-prd">
+                        <phr type="conjp">
+                          <phr type="np">
+                            <w type="adv" lemma="l050850">
+                              <c type="log">asa</c>
+                              <c type="phon">na</c>
+                            </w>
+                          </phr>
+                        </phr>
+                        <phr type="np">
+                          <w type="adv" lemma="l050849">
+                            <c type="log">yupu</c>
+                            <c type="phon">na</c>
+                          </w>
+                        </phr>
+                      </phr>
+                      <w type="cop-inf" lemma="l031965">
+                        <c type="phon">ni</c>
+                      </w>
+                    </cl>
+                    <lb id="2" corresp="潜云"/>
+                    <w type="vb-adc" lemma="l030496a">
+                      <c type="log">kaduku</c>
+                    </w>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="nlog">to</c>
+                    </w>
+                  </cl>
+                  <w type="vb-adc" lemma="l030199a">
+                    <c type="log">ipu</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="鰒貝之"/>
+                <w type="n" lemma="l050814">
+                  <c type="log">apabi</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000520">
+                <c type="nlog">no</c>
+              </w>
+              <w type="n" lemma="l052551">
+                <c type="log">kapi</c>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="log">no</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="獨念荷指天"/>
+          <phr type="np-prd">
+            <w type="n">
+              <w type="adj-stm" lemma="l090031">
+                <c type="log">kata</c>
+              </w>
+              <w type="n" lemma="l030399b">
+                <c type="log">mopi</c>
+              </w>
+            </w>
+          </phr>
+          <w type="cop-ger" lemma="l031965">
+            <c type="phon">nisite</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

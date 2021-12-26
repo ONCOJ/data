@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.1.82">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="浦佐夫流"/>
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <w type="vb-adn" lemma="l030302a">
+                  <c type="phon">urasaburu</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="情佐麻祢之"/>
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="pfx" lemma="l000040">
+                <c type="phon">sa</c>
+              </w>
+              <w type="adj-stm" lemma="l007231">
+                <c type="phon">mane</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="phon">si</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="久堅乃"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-ob1">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <cl type="ip-ept">
+                        <w type="mk-adi" lemma="l091020">
+                          <w type="n" lemma="l051784">
+                            <c type="phon">pisakata</c>
+                          </w>
+                          <w type="cop-adi" lemma="l031965">
+                            <c type="phon">no</c>
+                          </w>
+                        </w>
+                      </cl>
+                      <lb id="3" corresp="天之四具礼能"/>
+                      <w type="n" lemma="l050001a">
+                        <c type="log">ame</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l051935">
+                    <c type="phon">sigure</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="流相見者"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031266a">
+                  <c type="log">nagar</c>
+                </w>
+                <w type="vb-adc" lemma="l030071a">
+                  <c type="log">apu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-prv" lemma="l031712a">
+              <c type="log">mireba</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

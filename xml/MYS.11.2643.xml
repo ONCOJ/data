@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2643">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="玉戈之"/>
+          <phr type="np-ob1">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <cl type="ip-zyo">
+                  <cl type="ip-adv">
+                    <phr type="np">
+                      <cl type="ip-ept">
+                        <w type="mk-adi" lemma="l091026">
+                          <w type="n" lemma="l050495">
+                            <w type="n" lemma="l052078">
+                              <c type="log">tama</c>
+                            </w>
+                            <w type="n" lemma="l051802">
+                              <c type="log">poko</c>
+                            </w>
+                          </w>
+                          <w type="cop-adi" lemma="l031965">
+                            <c type="log">no</c>
+                          </w>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="道行疲"/>
+                      <w type="n" lemma="l050091">
+                        <c type="log">miti</c>
+                      </w>
+                    </phr>
+                    <w type="vb-inf">
+                      <w type="vb-stm" lemma="l031840a">
+                        <c type="log">yuki</c>
+                      </w>
+                      <w type="vb-inf" lemma="l031124a">
+                        <c type="log">tukare</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="伊奈武思侶"/>
+                  <phr type="np">
+                    <w type="n" lemma="l080142">
+                      <w type="n" lemma="l090045b">
+                        <c type="phon">ina</c>
+                      </w>
+                      <w type="n" lemma="l051549">
+                        <c type="phon">musiro</c>
+                      </w>
+                    </w>
+                  </phr>
+                </cl>
+                <lb id="3" corresp="敷而毛君乎"/>
+                <w type="vb-ger-kke" lemma="l030852a">
+                  <c type="log">sikite</c>
+                </w>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </cl>
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l004266">
+                    <c type="log">kimi</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="將見因母鴨"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031712a">
+                  <c type="log">mi</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="log">mu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l052527">
+              <c type="log">yosi</c>
+            </w>
+          </phr>
+          <w type="p-fnl-opt" lemma="l000515">
+            <c type="phon">moga</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

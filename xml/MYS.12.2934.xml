@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2934">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="味澤相"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l032062">
+                    <c type="phon-kun">adisapapu</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="目者非不飽"/>
+                <w type="n" lemma="l050048a">
+                  <c type="log">me</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+              <w type="vb-exc">
+                <w type="vb-stm" lemma="l030020a">
+                  <c type="log">aka</c>
+                </w>
+                <w type="vax-neg-stm" lemma="l000012">
+                  <c type="log">zara</c>
+                </w>
+                <w type="vax-neg-exc" lemma="l000006a">
+                  <c type="log">ne</c>
+                </w>
+              </w>
+          </cl>
+          <lb id="2" corresp="携"/>
+          <phr type="pp-sbj">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <w type="vb-inf" lemma="l031046a">
+                  <c type="log">tadusapari</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="不問事毛"/>
+              <w type="vb-nml">
+                <w type="vb-stm" lemma="l030718a">
+                  <w type="n" lemma="l050148">
+                    <c type="log">koto</c>
+                  </w>
+                  <w type="vb-stm" lemma="l031226a">
+                    <c type="log">twopa</c>
+                  </w>
+                </w>
+                <w type="vax-neg-nml" lemma="l000006a">
+                  <c type="log">naku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="苦勞有来"/>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007096">
+              <c type="log">kurusi</c>
+            </w>
+            <w type="acp-stm" lemma="l000032">
+              <c type="log">kari</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="phon-kun">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3925">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="新"/>
+            <cl type="ip-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <cl type="ip-rel">
+                        <w type="adj-adn">
+                          <w type="adj-stm" lemma="l007040">
+                            <c type="log">aratasi</c>
+                          </w>
+                          <w type="acp-adn" lemma="l000033">
+                            <c type="log">ki</c>
+                          </w>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="年乃婆自米爾"/>
+                      <w type="n" lemma="l050124">
+                        <c type="log">tosi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n-dvb" lemma="l031416b">
+                    <c type="phon">pazime</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="豊乃登之"/>
+              <phr type="np-ob1">
+                <cl type="ip-rel">
+                  <w type="adj-adi">
+                    <w type="adj-stm" lemma="l004134">
+                      <c type="log">toyo</c>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="phon">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050124">
+                  <c type="phon">tosi</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="思流須登奈良之"/>
+              <w type="vb-adc" lemma="l030915a">
+                <c type="phon">sirusu</c>
+              </w>
+              <w type="p-conn" lemma="l000541">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="cop-adn" lemma="l031965">
+              <c type="phon">na</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="雪能敷礼流波"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050075">
+                    <c type="log">yuki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l031559a">
+                  <c type="phon">pur</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000024">
+                  <c type="phon">eru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

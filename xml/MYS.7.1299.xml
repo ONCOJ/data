@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1299">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安治村"/>
+          <cl type="ip-arg">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="pp-sbj">
+                      <phr type="np">
+                        <w type="n" lemma="l050142">
+                          <c type="phon">adi</c>
+                        </w>
+                        <w type="n" lemma="l004060">
+                          <c type="phon">mura</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="nlog">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="十依海"/>
+                    <w type="vb-adc" lemma="l031261a">
+                      <c type="phon">towoyoru</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l052517">
+                    <c type="log">umi</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="nlog">ni</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="船浮"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l050007a">
+                  <c type="log">pune</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l030239a">
+                <c type="log">ukete</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="白玉採"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050611">
+                <w type="adj-stm" lemma="l007006a">
+                  <c type="log">sira</c>
+                </w>
+                <w type="n" lemma="l052078">
+                  <c type="log">tama</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031258a">
+              <c type="log">toru</c>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="nlog">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="人所知勿"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="nlog">ni</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031967a">
+              <c type="log">sira</c>
+            </w>
+            <w type="vax-pass-cls" lemma="l000011">
+              <c type="log">yu</c>
+            </w>
+          </w>
+          <w type="p-fnl-phb" lemma="l000517">
+            <c type="log">na</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

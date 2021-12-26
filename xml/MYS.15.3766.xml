@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3766">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="宇流波之等"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <w type="adj-cls">
+                <w type="adj-stm" lemma="l007205">
+                  <c type="phon">urupasi</c>
+                </w>
+                <w type="acp-cls" lemma="l000033">
+                  <c type="null">*</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="於毛比之於毛婆波"/>
+            <w type="vb-inf" lemma="l030399a">
+              <c type="phon">omopi</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="vb-cnd" lemma="l030399a">
+              <c type="phon">omopaba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="之多婢毛爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050460">
+                    <w type="n" lemma="l050026">
+                      <c type="phon">sita</c>
+                    </w>
+                    <w type="n" lemma="l051763">
+                      <c type="phon">bimo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="由比都気毛知弖"/>
+              <w type="vb-inf" lemma="l031849a">
+                <w type="vb-stm" lemma="l031850a">
+                  <c type="phon">yupi</c>
+                </w>
+                <w type="vb-inf" lemma="l031137a">
+                  <c type="phon">tuke</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-ger" lemma="l031761a">
+              <c type="phon">motite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="夜麻受之努波世"/>
+          <cl type="ip-adv">
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l031818a">
+                <c type="phon">yama</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="phon">zu</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-imp">
+            <w type="vb-stm" lemma="l030886a">
+              <c type="phon">sinwopa</c>
+            </w>
+            <w type="vax-rsp-imp" lemma="l000009">
+              <c type="phon">se</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

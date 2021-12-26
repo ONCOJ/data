@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3736">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="等保久安礼婆"/>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007008">
+                <c type="phon">topo</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+            <w type="vb-prv" lemma="l030125a">
+              <c type="phon">areba</c>
+            </w>
+          </cl>
+          <lb id="1" corresp="一日一夜毛"/>
+          <cl type="ip-arg">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="conjp">
+                      <phr type="np">
+                        <w type="n" lemma="l050451">
+                          <w type="num" lemma="l002001">
+                            <c type="log">pito</c>
+                          </w>
+                          <w type="n" lemma="l050090">
+                            <c type="log">pi</c>
+                          </w>
+                        </w>
+                      </phr>
+                    </phr>
+                    <phr type="np">
+                      <w type="n">
+                        <w type="num" lemma="l002001">
+                          <c type="log">pito</c>
+                        </w>
+                        <w type="n" lemma="l050039">
+                          <c type="log">ywo</c>
+                        </w>
+                      </w>
+                    </phr>
+                  </phr>
+                  <w type="p-top" lemma="l000514">
+                    <c type="phon">mo</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="於母波受弖"/>
+                <w type="vb-ger">
+                  <w type="vb-stm" lemma="l030399a">
+                    <c type="phon">omopa</c>
+                  </w>
+                  <w type="vax-neg-ger" lemma="l000006a">
+                    <c type="phon">zute</c>
+                  </w>
+                </w>
+                <lb id="3" corresp="安流良牟母能等"/>
+                <w type="vb-stv-adn" lemma="l030125a">
+                  <c type="phon">aru</c>
+                </w>
+                <w type="xtn-adc" lemma="l000805">
+                  <c type="phon">ramu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050042">
+                <c type="phon">mono</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031968">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="於毛保之賣須奈"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030402a">
+              <c type="phon">omoposi</c>
+            </w>
+            <w type="vb-adc" lemma="l031751a">
+              <c type="phon">myesu</c>
+            </w>
+          </w>
+          <w type="p-fnl-phb" lemma="l000517">
+            <c type="phon">na</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3770">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="安治麻野爾"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="pp-sbj">
+                      <phr type="np">
+                        <cl type="ip-rel">
+                          <phr type="pp">
+                            <phr type="np">
+                              <w type="n">
+                                <w type="pln" lemma="l050777">
+                                  <c type="phon">adima</c>
+                                </w>
+                                <w type="n" lemma="l051650">
+                                  <c type="log">nwo</c>
+                                </w>
+                              </w>
+                            </phr>
+                            <w type="p-case-dat" lemma="l000519">
+                              <c type="phon">ni</c>
+                            </w>
+                          </phr>
+                          <lb id="1" corresp="屋杼礼流君我"/>
+                          <w type="vb-adn">
+                            <w type="vb-stm" lemma="l031807a">
+                              <c type="phon">yador</c>
+                            </w>
+                            <w type="vax-stv-adn" lemma="l000024">
+                              <c type="phon">eru</c>
+                            </w>
+                          </w>
+                        </cl>
+                        <w type="n" lemma="l004266">
+                          <c type="log">kimi</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000503">
+                        <c type="phon">ga</c>
+                      </w>
+                    </phr>
+                    <lb id="2" corresp="可反里許武"/>
+                    <w type="vb-adc">
+                      <w type="vb-stm" lemma="l030518a">
+                        <c type="phon">kapyeri</c>
+                      </w>
+                      <w type="vb-stm" lemma="l030612a">
+                        <c type="phon">ko</c>
+                      </w>
+                      <w type="vax-cjr-adc" lemma="l000002">
+                        <c type="phon">mu</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="等伎能牟可倍乎"/>
+                  <w type="n" lemma="l050059">
+                    <c type="phon">toki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n-dvb" lemma="l031722b">
+                <c type="phon">mukape</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="伊都等可麻多武"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <w type="wh-adv" lemma="l042014">
+                <c type="phon">itu</c>
+              </w>
+            </phr>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031644a">
+              <c type="phon">mata</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

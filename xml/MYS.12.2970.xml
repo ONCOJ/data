@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2970">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="桃花褐"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="np-zyo">
+                  <cl type="ip-rel">
+                    <phr type="np-prd">
+                      <w type="n">
+                        <w type="n" lemma="l090387">
+                          <c type="log">tukwi</c>
+                        </w>
+                        <w type="n-dvb" lemma="l030982b">
+                          <c type="log">some</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="nlog">no</c>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="淺等乃衣"/>
+                  <cl type="ip-rel">
+                    <w type="adj-inf">
+                      <w type="adj-stm" lemma="l050853">
+                        <c type="log">asa</c>
+                        <c type="phon">ra</c>
+                      </w>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="phon">no</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l051304">
+                    <c type="log">koromo</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="淺爾"/>
+                <phr type="np-adv-kke">
+                  <w type="adv" lemma="l004059">
+                    <c type="log">asaraka</c>
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="念而妹爾"/>
+                <w type="vb-ger" lemma="l030399a">
+                  <c type="log">omopite</c>
+                </w>
+              </cl>
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="将相物香裳"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="log">apa</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="log">mu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050042">
+              <c type="log">mono</c>
+            </w>
+          </phr>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.98">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="比羅可駄喩"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l090034">
+                  <c type="phon">pirakata</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540d">
+                <c type="phon">yu</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="輔曳輔枳能朋楼"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l051845">
+                  <c type="phon">puye</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031516a">
+                <c type="phon">puki</c>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l031385a">
+              <c type="phon">noboru</c>
+            </w>
+          </s>
+          <lb id="2" corresp="阿符美能野"/>
+          <s type="ip-mat">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l050824">
+                        <c type="phon-on">apumi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050182">
+                    <c type="phon">ya</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="皚那能倭倶吾伊"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l051256">
+                      <c type="phon">kena</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050292">
+                  <w type="adj-stm" lemma="l007210">
+                    <c type="phon">waku</c>
+                  </w>
+                  <w type="n" lemma="l050028">
+                    <c type="phon">gwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-nom" lemma="l000505">
+                <c type="phon">i</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="輔曳符枳能朋楼"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l051845">
+                  <c type="phon">puye</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031516a">
+                <c type="phon">puki</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-adc" lemma="l031385a">
+                <c type="phon">noboru</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.783">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="前年之"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l052368">
+                      <w type="pro-n" lemma="l042085b">
+                        <c type="log">woto</c>
+                      </w>
+                      <w type="n" lemma="l050124">
+                        <c type="log">tosi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="先年従"/>
+                <w type="n" lemma="l051873">
+                  <w type="n" lemma="l050116">
+                    <c type="log">saki</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000532">
+                    <c type="log">tu</c>
+                  </w>
+                  <w type="n" lemma="l050124">
+                    <c type="log">tosi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540a">
+                <c type="log">ywori</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="至今年"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="pro-n" lemma="l042029">
+                  <c type="log">ko</c>
+                </w>
+                <w type="n" lemma="l050124">
+                  <c type="log">tosi</c>
+                </w>
+              </phr>
+              <w type="p-case-all" lemma="l000512a">
+                <c type="log">made</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="戀跡奈何毛"/>
+            <w type="vb-css" lemma="l030731a">
+              <c type="log">kwopure</c>
+              <c type="phon">do</c>
+            </w>
+          </cl>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="wh-n" lemma="l042003">
+                <c type="log">na</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="log">zo</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="妹爾相難"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l050027">
+                <c type="log">imo</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030071a">
+              <c type="log">api</c>
+            </w>
+            <w type="adj-stm" lemma="l090070">
+              <c type="log">kata</c>
+            </w>
+            <w type="vax-spst-cls" lemma="l000015">
+              <c type="log">ki</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

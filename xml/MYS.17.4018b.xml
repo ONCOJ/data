@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.4018b">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="美奈刀可是"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050260">
+                <w type="n" lemma="l051468">
+                  <c type="phon">minatwo</c>
+                </w>
+                <w type="n" lemma="l050008a">
+                  <c type="phon">kaze</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="1" corresp="佐牟久布久良之"/>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007159">
+                  <c type="phon">samu</c>
+                </w>
+                <w type="acp-inf" lemma="l000033">
+                  <c type="phon">ku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-adc" lemma="l031516a">
+              <c type="phon">puku</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </s>
+          <lb id="2" corresp="奈呉乃江爾"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l060256">
+                    <w type="pln" lemma="l051570">
+                      <c type="phon-on">nagwo</c>
+                    </w>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon-on">no</c>
+                    </w>
+                    <w type="n" lemma="l052401">
+                      <c type="log">ye</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="都麻欲妣可波之"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l050120">
+                  <c type="phon">tuma</c>
+                </w>
+              </phr>
+              <w type="vb-inf">
+                <w type="vb-stm" lemma="l031880a">
+                  <c type="phon">ywobi</c>
+                </w>
+                <w type="vb-inf" lemma="l030507a">
+                  <c type="phon">kapasi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="多豆佐和久奈里"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l052059">
+                <c type="phon">tadu</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030843a">
+              <c type="phon">sawaku</c>
+            </w>
+            <w type="xtn-ifc" lemma="l000804">
+              <c type="phon">nari</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

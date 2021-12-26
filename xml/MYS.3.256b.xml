@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.256b">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="武庫乃海能"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051534">
+                        <c type="phon-on">mukwo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l052517">
+                    <c type="log">umi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="d波好有之"/>
+              <w type="n" lemma="l051615">
+                <c type="phon">nipa</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007015">
+                <c type="log">yo</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+            <w type="vb-adn" lemma="l030125a">
+              <c type="log">a</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="log">ra</c>
+              <c type="phon">si</c>
+            </w>
+          </s>
+          <lb id="2" corresp="伊射里爲流"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <w type="vb-inf" lemma="l030157a">
+                      <c type="phon">izari</c>
+                    </w>
+                    <w type="vb-adn" lemma="l030919a">
+                      <c type="log">su</c>
+                      <c type="phon">ru</c>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="海部乃釣船"/>
+                  <w type="n" lemma="l050163">
+                    <c type="log">ama</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050513">
+                <w type="vb-stm" lemma="l031187a">
+                  <c type="log">turi</c>
+                </w>
+                <w type="n" lemma="l050007a">
+                  <c type="log">bune</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="4" corresp="浪上従所見"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050017">
+                      <c type="log">nami</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050029a">
+                  <c type="log">upe</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540d">
+                <c type="log">yu</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vax-pass-cls" lemma="l000011">
+                <c type="log">yu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

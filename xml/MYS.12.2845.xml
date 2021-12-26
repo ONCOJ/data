@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2845">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="忘哉"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <cl type="ip-adv">
+                  <cl type="ip-arg">
+                    <w type="vb-cls" lemma="l031907a">
+                      <c type="log">wasuru</c>
+                    </w>
+                    <w type="p-foc" lemma="l000537">
+                      <c type="log">ya</c>
+                    </w>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="nlog">to</c>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="語"/>
+                  <w type="vb-inf">
+                    <w type="n" lemma="l050042">
+                      <c type="log">mono</c>
+                    </w>
+                    <w type="vb-inf" lemma="l030492a">
+                      <c type="log">gatari</c>
+                    </w>
+                  </w>
+                  <w type="vb-ger" lemma="l030919a">
+                    <c type="log">site</c>
+                  </w>
+                </cl>
+                <lb id="2" corresp="意遣"/>
+                <phr type="np-ob1">
+                  <w type="n" lemma="l050037">
+                    <c type="log">kokoro</c>
+                  </w>
+                </phr>
+                <w type="vb-inf" lemma="l031823a">
+                  <c type="log">yari</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="雖過不過"/>
+              <w type="vb-css" lemma="l030927a">
+                <c type="log">sugusedo</c>
+              </w>
+            </cl>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030926a">
+                <c type="log">sugwi</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="猶戀"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004021">
+              <c type="log">napo</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="log">ni</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="log">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

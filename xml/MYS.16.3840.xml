@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3840">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="寺々之"/>
+          <cl type="ip-nmz">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l052126">
+                      <c type="log">tera</c>
+                    </w>
+                    <w type="n" lemma="l052126">
+                      <c type="log">dera</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="女餓鬼申久"/>
+              <w type="n">
+                <w type="n" lemma="l050132">
+                  <c type="log">mye</c>
+                </w>
+                <w type="n" lemma="l051003">
+                  <c type="log">gakwi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-nml" lemma="l031678a">
+              <c type="log">mawosa</c>
+              <c type="phon">ku</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="大神乃"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="adj-stm" lemma="l007009a">
+                      <c type="log">opo</c>
+                    </w>
+                    <w type="pln" lemma="l051490">
+                      <c type="plog">miwa</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="男餓鬼被給而"/>
+              <w type="n">
+                <w type="n" lemma="l052501">
+                  <c type="log">wo</c>
+                </w>
+                <w type="n" lemma="l051003">
+                  <c type="log">gakwi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031065a">
+              <c type="log">tabarite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="其子將播"/>
+          <phr type="np-ob1">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042040">
+                  <c type="log">so</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050028">
+              <c type="log">kwo</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030290a">
+              <c type="log">umapa</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1441">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="打霧之"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <w type="vb-inf">
+                <w type="pfx-mph" lemma="l000043">
+                  <c type="log">uti</c>
+                </w>
+                <w type="vb-inf" lemma="l030602a">
+                  <c type="log">kwirasi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="雪者零乍"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050075">
+                  <c type="log">yuki</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ctt" lemma="l031559a">
+              <c type="log">puritutu</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="然為我二"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l090204">
+              <c type="phon">sikasugani</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="吾宅乃苑爾"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l050019">
+                      <c type="log">wagipye</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l051993">
+                <c type="log">sono</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="鴬鳴裳"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050161">
+              <c type="log">ugupisu</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031267a">
+            <c type="log">naku</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

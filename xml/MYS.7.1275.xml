@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1275">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="住吉"/>
+            <phr type="np-voc">
+              <cl type="ip-rel">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pln" lemma="l052023">
+                          <c type="plog">suminoye</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="nlog">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="小田苅為子"/>
+                    <w type="n">
+                      <w type="pfx" lemma="l000060">
+                        <c type="log">wo</c>
+                      </w>
+                      <w type="n" lemma="l050097">
+                        <c type="log">da</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-acc" lemma="l000534">
+                    <c type="nlog">wo</c>
+                  </w>
+                </phr>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l030545a">
+                    <c type="log">kara</c>
+                  </w>
+                  <w type="vax-rsp-adc" lemma="l000009">
+                    <c type="log">su</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050028">
+                <c type="log">kwo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="賎鴨無"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l042087">
+                  <c type="log">yatukwo</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="adj-adn">
+              <w type="adj-stm" lemma="l007028">
+                <c type="log">na</c>
+              </w>
+              <w type="acp-adn" lemma="l000033">
+                <c type="log">ki</c>
+              </w>
+            </w>
+          </s>
+          <lb id="3" corresp="奴雖在"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l042087">
+                  <c type="log">yatukwo</c>
+                </w>
+              </phr>
+              <w type="vb-css" lemma="l030125a">
+                <c type="log">aredo</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="妹御為"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050027">
+                      <c type="log">imo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="nlog">ga</c>
+                  </w>
+                </phr>
+                <w type="n">
+                  <w type="pfx-hon" lemma="l000035">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="n" lemma="l050063">
+                    <c type="log">tame</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="nlog">to</c>
+              </w>
+            </cl>
+            <lb id="5" corresp="私田苅"/>
+            <phr type="np-ob1">
+              <w type="n">
+                <w type="n" lemma="l052323">
+                  <c type="log">watakusi</c>
+                </w>
+                <w type="n" lemma="l050097">
+                  <c type="log">da</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030545a">
+              <c type="log">karu</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

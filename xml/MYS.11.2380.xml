@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2380">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <cl type="ip-adv">
+            <lb id="0" corresp="早敷哉"/>
+            <cl type="ip-ept">
+              <w type="mk" lemma="l091065">
+                <c type="phon">pasikiyasi</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="誰障鴨"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="wh-n" lemma="l042000">
+                  <c type="log">ta</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="log">ga</c>
+              </w>
+            </phr>
+            <w type="vb-exc" lemma="l030825a">
+              <c type="log">sapure</c>
+            </w>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="玉桙"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <cl type="ip-ept">
+                <w type="mk-adi" lemma="l091026">
+                  <w type="n" lemma="l050495">
+                    <w type="n" lemma="l052078">
+                      <c type="log">tama</c>
+                    </w>
+                    <w type="n" lemma="l051802">
+                      <c type="log">poko</c>
+                    </w>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="nlog">no</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="路見遺"/>
+              <w type="n" lemma="l050091">
+                <c type="log">miti</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031714a">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vb-ger" lemma="l031907a">
+                <c type="log">wasurete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="公不來座"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="nlog">ga</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030612a">
+              <c type="log">ki</c>
+            </w>
+            <w type="vb-stm" lemma="l030206a">
+              <c type="log">masa</c>
+            </w>
+            <w type="vax-neg-adn" lemma="l000006a">
+              <c type="log">nu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.554">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="古人乃"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l090798">
+                      <w type="adj-stm" lemma="l007151">
+                        <c type="log">puru</c>
+                      </w>
+                      <w type="n" lemma="l050046">
+                        <c type="log">pito</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="令食有"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031079a">
+                    <c type="log">tamape</c>
+                  </w>
+                  <w type="vax-ctv-stm" lemma="l000010">
+                    <c type="log">sime</c>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000022">
+                    <c type="log">taru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="吉備能酒"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051263">
+                    <c type="phon-on">kibwi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050073a">
+                <c type="log">sake</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="病者為便無"/>
+            <cl type="ip-adv">
+              <w type="vb-cnd" lemma="l031817a">
+                <c type="log">yamaba</c>
+              </w>
+            </cl>
+            <phr type="np-sbj">
+              <w type="n" lemma="l051999">
+                <c type="phon">subye</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007028">
+                <c type="log">na</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="nlog">si</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="貫簀賜牟"/>
+          <s type="ip-mat">
+            <phr type="np-ob1">
+              <w type="n" lemma="l051641">
+                <c type="log">nukisu</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031065a">
+                <c type="log">tabara</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

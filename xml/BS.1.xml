@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="BS.1">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="美阿止都久留"/>
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="np-ob1">
+                        <w type="n">
+                          <w type="pfx-hon" lemma="l000035">
+                            <c type="phon">mi</c>
+                          </w>
+                          <w type="n" lemma="l050877">
+                            <c type="phon">ato</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="vb-adc" lemma="l031144a">
+                        <c type="phon">tukuru</c>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="伊志乃比鼻伎波"/>
+                    <w type="n" lemma="l051130">
+                      <c type="phon">isi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n-dvb" lemma="l031497b">
+                  <c type="phon">pibiki</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="阿米爾伊多利"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050001a">
+                  <c type="phon">ame</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l030170a">
+              <c type="phon">itari</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="都知佐閇由須礼"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050015">
+                  <c type="phon">tuti</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000525a">
+                <c type="phon">sape</c>
+              </w>
+            </phr>
+            <w type="vb-exc" lemma="l031842a">
+              <c type="phon">yusure</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="知知波波賀多米爾"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050402">
+                    <w type="n" lemma="l050641">
+                      <c type="phon">titi</c>
+                    </w>
+                    <w type="n" lemma="l051720">
+                      <c type="phon">papa</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050063">
+                <c type="phon">tame</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <lb id="5" corresp="毛呂比止乃多米爾"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050486">
+                    <w type="adj-stm" lemma="l007011">
+                      <c type="phon">moro</c>
+                    </w>
+                    <w type="n" lemma="l050046">
+                      <c type="phon">pito</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050063">
+                <c type="phon">tame</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

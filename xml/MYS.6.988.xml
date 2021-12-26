@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.988">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="春草者"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l090712">
+                  <w type="n" lemma="l051724">
+                    <c type="log">paru</c>
+                  </w>
+                  <w type="n" lemma="l050114">
+                    <c type="log">kusa</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="後波落易"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="n" lemma="l004087">
+                  <c type="log">noti</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030277a">
+              <c type="log">uturopu</c>
+            </w>
+          </s>
+          <lb id="2" corresp="巌成"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <w type="n" lemma="l050493">
+                    <c type="log">ipapo</c>
+                  </w>
+                </phr>
+                <w type="cop-sem" lemma="l031965">
+                  <c type="phon">nasu</c>
+                </w>
+              </cl>
+              <lb id="3" corresp="常磐爾座"/>
+              <phr type="np-prd">
+                <w type="n" lemma="l052146">
+                  <c type="log">tokipa</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vb-imp" lemma="l030206a">
+                <c type="log">imase</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="貴吾君"/>
+            <phr type="np-voc">
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007024">
+                    <c type="log">taputwo</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="log">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="log">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="nlog">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

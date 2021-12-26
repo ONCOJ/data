@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3098">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="於能礼故"/>
+          <cl type="ip-adv">
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="pro-n" lemma="l042076">
+                  <c type="phon">onore</c>
+                </w>
+              </phr>
+              <w type="p-conn" lemma="l000539">
+                <c type="log">yuwe</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="所詈而居者"/>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l031392a">
+                <c type="log">nora</c>
+              </w>
+              <w type="vax-pass-ger" lemma="l000011">
+                <c type="log">yete</c>
+              </w>
+            </w>
+            <w type="vb-pgs-prv" lemma="l031957a">
+              <c type="log">woreba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="駿馬之"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n">
+                      <w type="adj-stm" lemma="l007042">
+                        <c type="log">awo</c>
+                      </w>
+                      <w type="n" lemma="l052245">
+                        <c type="log">uma</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="面高夫駄爾"/>
+                <w type="n" lemma="l050939">
+                  <c type="phon-kun">omotaka</c>
+                  <c type="phon">buta</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="乗而應来哉"/>
+            <w type="vb-ger" lemma="l031390a">
+              <c type="log">norite</c>
+            </w>
+          </cl>
+          <w type="vb-cls" lemma="l030612a">
+            <c type="log">ku</c>
+          </w>
+          <w type="xtn-cls">
+            <w type="xtn-stm" lemma="l000801">
+              <c type="log">be</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="nlog">si</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="log">ya</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.13.3238">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="相坂乎"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="pln" lemma="l050827">
+                  <c type="phon">apusaka</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="打出而見者"/>
+            <cl type="ip-adv">
+              <w type="vb-ger">
+                <w type="pfx-mph" lemma="l000043">
+                  <c type="log">uti</c>
+                </w>
+                <w type="vb-ger" lemma="l030172a">
+                  <c type="log">idete</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-prv" lemma="l031712a">
+              <c type="log">mireba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="淡海之海"/>
+          <phr type="np">
+            <w type="pln" lemma="l060178">
+              <w type="pln" lemma="l050824">
+                <c type="plog">apumi</c>
+              </w>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+              <w type="n" lemma="l052517">
+                <c type="log">umi</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="3" corresp="白木綿花爾"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <w type="n" lemma="l080389">
+                <w type="adj-stm" lemma="l007006a">
+                  <c type="log">sira</c>
+                </w>
+                <w type="n" lemma="l080043">
+                  <c type="log">yupu</c>
+                </w>
+                <w type="n" lemma="l050083">
+                  <c type="log">bana</c>
+                </w>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="浪立渡"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050017">
+              <c type="log">nami</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031043a">
+              <c type="log">tati</c>
+            </w>
+            <w type="vb-adc" lemma="l031910a">
+              <c type="log">wataru</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

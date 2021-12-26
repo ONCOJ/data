@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1725">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="古之"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l051101">
+                        <c type="log">inisipye</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="賢人之"/>
+                  <cl type="ip-rel">
+                    <w type="adj-adn">
+                      <w type="adj-stm" lemma="l007156">
+                        <c type="log">sakasi</c>
+                      </w>
+                      <w type="acp-adn" lemma="l000033">
+                        <c type="log">ki</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050046">
+                    <c type="log">pito</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="遊兼"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030041a">
+                  <c type="log">aswobi</c>
+                </w>
+                <w type="vax-spst-stm" lemma="l000015">
+                  <c type="log">kye</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="log">mu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="吉野川原"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l052425">
+                  <c type="plog">yosinwo</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l051206">
+              <c type="log">kapara</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="雖見不飽鴨"/>
+          <cl type="ip-adv">
+            <w type="vb-css" lemma="l031712a">
+              <c type="log">miredo</c>
+            </w>
+          </cl>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030020a">
+              <c type="log">aka</c>
+            </w>
+            <w type="vax-neg-adn" lemma="l000006a">
+              <c type="log">nu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

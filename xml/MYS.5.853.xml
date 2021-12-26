@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.853">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="阿佐里須流"/>
+            <cl type="ip-adv">
+              <cl type="ip-arg">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <w type="vb-inf" lemma="l030033a">
+                      <c type="phon">asari</c>
+                    </w>
+                    <w type="vb-adn" lemma="l030919a">
+                      <c type="phon">suru</c>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="阿末能古等母等"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050163">
+                        <c type="phon">ama</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050667">
+                    <w type="n" lemma="l050028">
+                      <c type="phon">kwo</c>
+                    </w>
+                    <w type="sfx" lemma="l001002">
+                      <c type="phon">domo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="比得波伊倍騰"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050046">
+                    <c type="phon">pito</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <w type="vb-css" lemma="l030199a">
+                <c type="phon">ipedo</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="美流爾之良延奴"/>
+            <cl type="ip-adv">
+              <w type="vb-adn" lemma="l031712a">
+                <c type="phon">miru</c>
+              </w>
+              <w type="p-conn" lemma="l000551">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031967a">
+                <c type="phon">sira</c>
+              </w>
+              <w type="vax-pass-stm" lemma="l000011">
+                <c type="phon">ye</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="phon">nu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="有麻必等能古等"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050468">
+                      <w type="adj-stm" lemma="l007021">
+                        <c type="phon">uma</c>
+                      </w>
+                      <w type="n" lemma="l050046">
+                        <c type="phon">pito</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050028">
+                  <c type="phon">kwo</c>
+                </w>
+              </phr>
+            </cl>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

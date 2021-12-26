@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3454">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="爾波爾多都"/>
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051615">
+                      <c type="phon">nipa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031043a">
+                  <c type="phon">tatu</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="安佐提古夫須麻"/>
+              <w type="n">
+                <w type="n" lemma="l080090">
+                  <w type="n" lemma="l052495">
+                    <c type="phon">asa</c>
+                  </w>
+                  <w type="n" lemma="l080091">
+                    <c type="phon">te</c>
+                  </w>
+                </w>
+                <w type="n" lemma="l050518">
+                  <w type="pfx" lemma="l000063">
+                    <c type="phon">kwo</c>
+                  </w>
+                  <w type="n" lemma="l051838">
+                    <c type="phon">busuma</c>
+                  </w>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="許余比太爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051320">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="phon">ko</c>
+                  </w>
+                  <w type="n" lemma="l052415">
+                    <c type="phon">yopi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000502">
+                <c type="phon">dani</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="都麻余之許西祢"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l050120">
+                <c type="phon">tuma</c>
+              </w>
+            </phr>
+            <w type="vb-opt">
+              <w type="vb-stm" lemma="l031871a">
+                <c type="phon">yosi</c>
+              </w>
+              <w type="vb-opt" lemma="l031964a">
+                <c type="phon">kosene</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="安佐提古夫須麻"/>
+          <phr type="np">
+            <w type="n">
+              <w type="n" lemma="l080090">
+                <w type="n" lemma="l052495">
+                  <c type="phon">asa</c>
+                </w>
+                <w type="n" lemma="l080091">
+                  <c type="phon">te</c>
+                </w>
+              </w>
+              <w type="n" lemma="l050518">
+                <w type="pfx" lemma="l000063">
+                  <c type="phon">kwo</c>
+                </w>
+                <w type="n" lemma="l051838">
+                  <c type="phon">busuma</c>
+                </w>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4482">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="保里延故要"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <cl type="ip-adv">
+                      <phr type="np-pth-ob1">
+                        <w type="n" lemma="l080410">
+                          <w type="vb-stm" lemma="l031598a">
+                            <c type="phon">pori</c>
+                          </w>
+                          <w type="n" lemma="l052401">
+                            <c type="phon">ye</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="vb-inf" lemma="l030747a">
+                        <c type="phon">kwoye</c>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="等保伎佐刀麻弖"/>
+                    <phr type="pp">
+                      <phr type="np">
+                        <cl type="ip-rel">
+                          <w type="adj-adn">
+                            <w type="adj-stm" lemma="l007008">
+                              <c type="phon">topo</c>
+                            </w>
+                            <w type="acp-adn" lemma="l000033">
+                              <c type="phon">ki</c>
+                            </w>
+                          </w>
+                        </cl>
+                        <w type="n" lemma="l050051">
+                          <c type="phon">satwo</c>
+                        </w>
+                      </phr>
+                      <w type="p-res" lemma="l000512a">
+                        <c type="phon">made</c>
+                      </w>
+                    </phr>
+                    <lb id="2" corresp="於久利家流"/>
+                    <w type="vb-adn">
+                      <w type="vb-stm" lemma="l030331a">
+                        <c type="phon">okuri</c>
+                      </w>
+                      <w type="vax-mpst-adn" lemma="l000016">
+                        <c type="phon">kyeru</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="伎美我許己呂波"/>
+                  <w type="n" lemma="l004266">
+                    <c type="phon">kimi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050037">
+                <c type="phon">kokoro</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="和須良由麻之自"/>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031906a">
+              <c type="phon">wasura</c>
+            </w>
+            <w type="vax-pass-cls" lemma="l000011">
+              <c type="phon">yu</c>
+            </w>
+          </w>
+          <w type="xtn-cls">
+            <w type="xtn-stm" lemma="l000802">
+              <c type="phon">masizi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

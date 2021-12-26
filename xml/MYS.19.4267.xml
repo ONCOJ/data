@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4267">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="須賣呂伎能"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052029">
+                    <c type="phon">sumyeroki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="御代万代爾"/>
+              <w type="n">
+                <w type="pfx-hon" lemma="l000035">
+                  <c type="log">mi</c>
+                </w>
+                <w type="n" lemma="l050040">
+                  <c type="log">yo</c>
+                </w>
+              </w>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="num" lemma="l002014">
+                    <c type="log">yorodu</c>
+                  </w>
+                  <w type="n" lemma="l050040">
+                    <c type="log">yo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="如是許曽"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="pro-adv" lemma="l042020">
+                  <c type="log">kaku</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="nlog">si</c>
+              </w>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="見為安伎良目米"/>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l031751a">
+                <c type="log">myesi</c>
+              </w>
+              <w type="vb-stm" lemma="l030019a">
+                <c type="phon">akirame</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="立年之葉爾"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adc" lemma="l031043a">
+                  <c type="log">tatu</c>
+                </w>
+              </cl>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050124">
+                    <c type="log">tosi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l052494">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

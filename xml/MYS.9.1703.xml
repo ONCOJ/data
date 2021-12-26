@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1703">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="雲隠"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <w type="vb-inf" lemma="l030655a">
+                      <w type="n" lemma="l050115">
+                        <c type="log">kumo</c>
+                      </w>
+                      <w type="vb-inf" lemma="l030448a">
+                        <c type="log">gakuri</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="鴈鳴時"/>
+                  <phr type="np-sbj">
+                    <w type="n" lemma="l050159">
+                      <c type="log">kari</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031267a">
+                    <c type="log">naku</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050059">
+                  <c type="log">toki</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="nlog">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="秋山"/>
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="n" lemma="l050032">
+                      <c type="log">aki</c>
+                    </w>
+                    <w type="n" lemma="l050034">
+                      <c type="log">yama</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="黄葉片待"/>
+              <w type="n-dvb" lemma="l031780b">
+                <c type="log">momiti</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030483a">
+              <w type="adj-stm" lemma="l090031">
+                <c type="log">kata</c>
+              </w>
+              <w type="vb-adc" lemma="l031644a">
+                <c type="log">matu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="時者雖過"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050059">
+                  <c type="log">toki</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-css" lemma="l030926a">
+              <c type="log">suguredo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

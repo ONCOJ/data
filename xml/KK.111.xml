@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.111">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="阿佐遅波良"/>
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <phr type="np">
+                    <w type="n" lemma="l050404">
+                      <w type="adj-stm" lemma="l007235">
+                        <c type="phon">asa</c>
+                      </w>
+                      <w type="n" lemma="l050761">
+                        <c type="phon">di</c>
+                      </w>
+                      <w type="n" lemma="l051723">
+                        <c type="phon">para</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="袁陀爾袁須疑弖"/>
+                  <w type="n">
+                    <w type="pfx" lemma="l000060">
+                      <c type="phon">wo</c>
+                    </w>
+                    <w type="n" lemma="l052092">
+                      <c type="phon">dani</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l030926a">
+                <c type="phon">sugwite</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="毛毛豆多布"/>
+            <phr type="np-sbj">
+              <cl type="ip-ept">
+                <w type="mk-adc" lemma="l091030">
+                  <w type="num" lemma="l002012">
+                    <c type="phon">mwomwo</c>
+                  </w>
+                  <w type="vb-adc" lemma="l031147a">
+                    <c type="phon">dutapu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="奴弖由良久母"/>
+              <w type="n" lemma="l051648">
+                <c type="phon">nute</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031856a">
+              <c type="phon">yuraku</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+          <lb id="4" corresp="淤岐米久良斯母"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <w type="pen" lemma="l051657">
+                <c type="phon">okime</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030612a">
+              <c type="phon">ku</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

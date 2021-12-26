@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.280">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="去来兒等"/>
+          <phr type="np-adv">
+            <w type="intj" lemma="l051153">
+              <c type="phon">iza</c>
+            </w>
+          </phr>
+          <phr type="np-voc">
+            <w type="n" lemma="l050667">
+              <w type="n" lemma="l050028">
+                <c type="log">kwo</c>
+              </w>
+              <w type="sfx" lemma="l001002">
+                <c type="log">domo</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="1" corresp="倭部早"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="pln" lemma="l052386">
+                <c type="plog">yamato</c>
+              </w>
+            </phr>
+            <w type="p-case-all" lemma="l000523">
+              <c type="phon">pye</c>
+            </w>
+          </phr>
+          <cl type="ip-adv">
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l004028">
+                <c type="log">paya</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="白菅乃"/>
+          <phr type="np-gol-ob1">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="adj-stm" lemma="l007006a">
+                    <c type="log">sira</c>
+                  </w>
+                  <w type="n" lemma="l050010a">
+                    <c type="log">suge</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="真野乃榛原"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l051408">
+                  <c type="plog">manwo</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l090698">
+              <w type="n" lemma="l050178">
+                <c type="log">pari</c>
+              </w>
+              <w type="n" lemma="l051723">
+                <c type="log">para</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="4" corresp="手折而将歸"/>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l031100a">
+              <w type="n" lemma="l050012b">
+                <c type="log">ta</c>
+              </w>
+              <w type="vb-ger" lemma="l031960a">
+                <c type="log">worite</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031840a">
+              <c type="log">yuka</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

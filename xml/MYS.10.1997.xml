@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1997">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="久方之"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk-adi" lemma="l091020">
+                    <w type="n" lemma="l051784">
+                      <c type="phon">pisakata</c>
+                    </w>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="log">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="天漢原丹"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050001b">
+                      <c type="log">ama</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051206">
+                  <c type="log">kapara</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="奴延鳥之"/>
+            <cl type="ip-ept">
+              <w type="mk" lemma="l090529">
+                <w type="n" lemma="l090528">
+                  <w type="n" lemma="l050179">
+                    <c type="phon">nuye</c>
+                  </w>
+                  <w type="n" lemma="l050970">
+                    <c type="log">dori</c>
+                  </w>
+                </w>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="log">no</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="裏歎座都"/>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l030304a">
+                <w type="n" lemma="l050109">
+                  <c type="log">ura</c>
+                </w>
+                <w type="vb-stm" lemma="l031268a">
+                  <c type="log">nake</c>
+                </w>
+              </w>
+              <w type="vb-stm" lemma="l030206a">
+                <c type="log">masi</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000023">
+                <c type="phon">tu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="乏諸手丹"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <phr type="np-sbj">
+                <w type="n" lemma="l051999">
+                  <c type="log">subye</c>
+                </w>
+              </phr>
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007028">
+                  <c type="log">na</c>
+                </w>
+                <w type="acp-adn" lemma="l000033">
+                  <c type="log">ki</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512b">
+              <c type="phon">madeni</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

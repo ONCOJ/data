@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.6.927">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="足引之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-ept">
+                <w type="mk-adi" lemma="l091054">
+                  <w type="n" lemma="l050860">
+                    <c type="phon-kun">asipiki</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="山毛野毛"/>
+              <w type="n" lemma="l050034">
+                <c type="log">yama</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="nlog">ni</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l051650">
+                <c type="log">nwo</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="nlog">ni</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="御猟人"/>
+          <phr type="np-sbj">
+            <w type="n">
+              <w type="pfx-hon" lemma="l000035">
+                <c type="log">mi</c>
+              </w>
+              <w type="n-dvb" lemma="l030547b">
+                <c type="log">kari</c>
+              </w>
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="3" corresp="得物矢手挟"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l051901">
+                <w type="n" lemma="l051899">
+                  <c type="log">satu</c>
+                </w>
+                <w type="n" lemma="l052580">
+                  <c type="log">ya</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031061a">
+              <w type="n" lemma="l050012b">
+                <c type="log">ta</c>
+              </w>
+              <w type="vb-inf" lemma="l031413a">
+                <c type="log">basami</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="散動而有所見"/>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030843a">
+              <c type="log">sawaki</c>
+            </w>
+            <w type="vax-stv-cls" lemma="l000022">
+              <c type="log">tari</c>
+            </w>
+          </w>
+          <w type="p-fnl-evd" lemma="l000513">
+            <c type="log">miyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

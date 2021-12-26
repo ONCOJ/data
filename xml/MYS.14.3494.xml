@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3494">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="児毛知夜麻"/>
+            <cl type="ip-arg">
+              <phr type="pp-adv">
+                <cl type="ip-nmz">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <phr type="np">
+                        <w type="pln" lemma="l090130">
+                          <c type="phon">kwomoti</c>
+                        </w>
+                        <w type="n" lemma="l050034">
+                          <c type="phon">yama</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="和可加敞流弖能"/>
+                      <w type="n" lemma="l050230">
+                        <w type="adj-stm" lemma="l007209">
+                          <c type="phon">waka</c>
+                        </w>
+                        <w type="n" lemma="l050630">
+                          <c type="phon">kapyerute</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="毛美都麻弖"/>
+                  <w type="vb-adc" lemma="l031780a">
+                    <c type="phon">momitu</c>
+                  </w>
+                </cl>
+                <w type="p-res" lemma="l000512a">
+                  <c type="phon">made</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="宿毛等和波毛布"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031342a">
+                  <c type="log">ne</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mo</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042057">
+                  <c type="phon">wa</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030399a">
+              <c type="phon">mopu</c>
+            </w>
+          </s>
+          <lb id="4" corresp="汝波安杼可毛布"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pro-n" lemma="l042055">
+                  <c type="log">na</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <phr type="pp">
+              <phr type="np-adv">
+                <w type="wh-adv" lemma="l042078b">
+                  <c type="phon">ado</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030399a">
+              <c type="phon">mopu</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

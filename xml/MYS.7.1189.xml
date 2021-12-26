@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1189">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="大海爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="adj-stm" lemma="l007009a">
+                    <c type="log">opo</c>
+                  </w>
+                  <w type="n" lemma="l052517">
+                    <c type="log">umi</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="荒莫吹"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l080154">
+                <c type="phon">arasi</c>
+              </w>
+            </phr>
+            <w type="vb">
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">na</c>
+              </w>
+              <w type="vb-stm" lemma="l031516a">
+                <c type="log">puki</c>
+              </w>
+              <w type="cfx-phb" lemma="l000037">
+                <c type="log">so</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="四長鳥"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <phr type="pp-adv">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <cl type="ip-ept">
+                        <w type="mk" lemma="l099999">
+                          <w type="n" lemma="l051951">
+                            <c type="phon">sinaga</c>
+                          </w>
+                          <w type="n" lemma="l050970">
+                            <c type="log">dori</c>
+                          </w>
+                        </w>
+                      </cl>
+                      <lb id="3" corresp="居名之湖爾"/>
+                      <w type="pln" lemma="l090047">
+                        <c type="phon-kun">wina</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l051468">
+                    <c type="log">minatwo</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="舟泊左右手"/>
+              <phr type="np-sbj">
+                <w type="n" lemma="l050007a">
+                  <c type="log">pune</c>
+                </w>
+              </phr>
+              <w type="vb-adn" lemma="l031421a">
+                <c type="log">paturu</c>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512a">
+              <c type="log">made</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

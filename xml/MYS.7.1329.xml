@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1329">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="陸奥之"/>
+          <cl type="ip-adv">
+            <cl type="ip-zyo">
+              <phr type="np-gol-ob1">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l051484">
+                        <c type="plog">mitinoku</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="吾田多良真弓"/>
+                  <w type="pln" lemma="l050775">
+                    <c type="phon">adatara</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051435">
+                  <c type="log">mayumi</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="著絃而"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l050989">
+                  <c type="log">tura</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l031402a">
+                <c type="log">pakete</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="引者香人之"/>
+            <w type="vb-cnd" lemma="l031474a">
+              <c type="log">pikaba</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l050046">
+                <c type="log">pito</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="log">no</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="吾乎事将成"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="pro-n" lemma="l042057">
+                <c type="log">wa</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030719a">
+              <w type="n" lemma="l050148">
+                <c type="log">koto</c>
+              </w>
+              <w type="vb-stm" lemma="l031279a">
+                <c type="log">nasa</c>
+              </w>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

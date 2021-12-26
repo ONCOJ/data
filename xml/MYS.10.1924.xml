@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1924">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="大夫之"/>
+            <phr type="np-ob1">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l080256">
+                      <w type="adj-stm" lemma="l007110">
+                        <c type="log">masura</c>
+                      </w>
+                      <w type="n" lemma="l052501">
+                        <c type="log">wo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="log">ga</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="伏居嘆而"/>
+                <cl type="ip-adv">
+                  <cl type="ip-adv">
+                    <w type="vb-ifc">
+                      <w type="vb-stm" lemma="l031528a">
+                        <c type="log">pusi</c>
+                      </w>
+                      <w type="vb-ifc" lemma="l031926a">
+                        <c type="log">wi</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="vb-ger" lemma="l031276a">
+                    <c type="log">nagekite</c>
+                  </w>
+                </cl>
+                <lb id="2" corresp="造有"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031144a">
+                    <c type="log">tukuri</c>
+                  </w>
+                  <w type="vax-stv-adn" lemma="l000022">
+                    <c type="log">taru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="四垂柳之"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l090199">
+                    <w type="n-dvb" lemma="l030871b">
+                      <c type="phon">si</c>
+                      <c type="log">dari</c>
+                    </w>
+                    <w type="n" lemma="l050151">
+                      <c type="log">yanagwi</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="蘰為吾妹"/>
+              <w type="n" lemma="l004065">
+                <c type="log">kadura</c>
+              </w>
+            </phr>
+            <w type="vb-imp" lemma="l030919a">
+              <c type="log">se</c>
+            </w>
+          </cl>
+          <phr type="np-voc">
+            <w type="n" lemma="l050020">
+              <c type="log">wagimo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

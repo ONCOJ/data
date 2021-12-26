@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3917">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="保登等芸須"/>
+            <phr type="np">
+              <w type="n" lemma="l050160">
+                <c type="phon">pototogisu</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="夜音奈都可思"/>
+            <phr type="np-sbj">
+              <w type="n">
+                <w type="n" lemma="l050039">
+                  <c type="log">ywo</c>
+                </w>
+                <w type="n" lemma="l051318">
+                  <c type="log">kowe</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007125">
+                <c type="phon">natukasi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="安美指者"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np">
+                <w type="n" lemma="l050065">
+                  <c type="phon">ami</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l030805a">
+                <c type="log">sasaba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="花者須具登毛"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050083">
+                    <c type="log">pana</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <w type="vb-cls" lemma="l030926a">
+                <c type="phon">sugu</c>
+              </w>
+              <w type="p-conn" lemma="l000531">
+                <c type="phon">tomo</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="可礼受加奈可牟"/>
+            <cl type="ip-adv">
+              <w type="vb-ifc">
+                <w type="vb-stm" lemma="l030550a">
+                  <c type="phon">kare</c>
+                </w>
+                <w type="vax-neg-ifc" lemma="l000006a">
+                  <c type="phon">zu</c>
+                </w>
+              </w>
+              <w type="p-foc" lemma="l000506">
+                <c type="phon">ka</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031267a">
+                <c type="phon">naka</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

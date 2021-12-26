@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.109">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="波魯波魯爾"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l004098">
+                    <c type="phon">parwobarwo</c>
+                  </w>
+                  <w type="cop-inf" lemma="l031965">
+                    <c type="phon">ni</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="渠騰曾枳擧喩屢"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050148">
+                    <c type="phon">koto</c>
+                  </w>
+                </phr>
+                <w type="p-foc" lemma="l000527">
+                  <c type="phon">so</c>
+                </w>
+              </phr>
+              <w type="vb-adn" lemma="l030569a">
+                <c type="phon">kikoyuru</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="之麻能野父播羅"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050078">
+                  <c type="phon">sima</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l090705">
+              <w type="n" lemma="l080037">
+                <c type="phon">yabu</c>
+              </w>
+              <w type="n" lemma="l051723">
+                <c type="phon">para</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

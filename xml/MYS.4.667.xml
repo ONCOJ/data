@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.667">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="戀々而"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="vb-ger">
+                  <w type="vb-stm" lemma="l030731a">
+                    <c type="log">kwopwi</c>
+                  </w>
+                  <w type="vb-ger" lemma="l030731a">
+                    <c type="log">kwopwite</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="相有物乎"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030071a">
+                  <c type="log">api</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000022">
+                  <c type="log">taru</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000516">
+                <c type="log">mono</c>
+                <c type="phon">wo</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="月四有者"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050004a">
+                    <c type="log">tukwi</c>
+                  </w>
+                </phr>
+                <w type="p-res" lemma="l000526a">
+                  <c type="phon">si</c>
+                </w>
+              </phr>
+              <w type="vb-prv" lemma="l030125a">
+                <c type="log">areba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="夜波隠良武"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050039">
+                  <c type="log">ywo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030744a">
+              <c type="log">komoru</c>
+            </w>
+            <w type="xtn-adc" lemma="l000805">
+              <c type="phon">ramu</c>
+            </w>
+          </s>
+          <lb id="4" corresp="須臾羽蟻待"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="adj-cls">
+                <w type="adj-stm" lemma="l004042b">
+                  <c type="log">simasi</c>
+                </w>
+                <w type="acp-cls" lemma="l000033">
+                  <c type="null">*</c>
+                </w>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </cl>
+            <w type="vb-exc">
+              <w type="pfx-stv" lemma="l000026">
+                <c type="phon">ari</c>
+              </w>
+              <w type="vb-exc" lemma="l031644a">
+                <c type="log">mate</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

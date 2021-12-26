@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3537a">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="久敞胡之爾"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="n">
+                      <w type="n" lemma="l051341">
+                        <c type="phon">kupye</c>
+                      </w>
+                      <w type="sfx" lemma="l080230">
+                        <c type="phon">gwosi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="武芸波武古宇馬能"/>
+                <phr type="np-ob1">
+                  <w type="n" lemma="l051524">
+                    <c type="phon">mugi</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031444a">
+                  <c type="phon">pamu</c>
+                </w>
+              </cl>
+              <w type="n">
+                <w type="pfx" lemma="l000063">
+                  <c type="phon">kwo</c>
+                </w>
+                <w type="n" lemma="l052245">
+                  <c type="phon">uma</c>
+                </w>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="phon">no</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="波都波都爾"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-adv">
+                  <w type="adv" lemma="l050422">
+                    <c type="phon">patupatuni</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="安比見之児良之"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030071a">
+                    <c type="phon">api</c>
+                  </w>
+                  <w type="vb-stm" lemma="l031712a">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n">
+                <w type="n" lemma="l050028">
+                  <c type="log">kwo</c>
+                </w>
+                <w type="sfx" lemma="l001003">
+                  <c type="phon">ra</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="安夜爾可奈思母"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004062">
+              <c type="phon">ayani</c>
+            </w>
+          </phr>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007022">
+              <c type="phon">kanasi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

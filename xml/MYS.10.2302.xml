@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2302">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="或者之"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="adv" lemma="l004019">
+                  <c type="phon">kedasiku</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="痛情無跡"/>
+            <cl type="ip-arg">
+              <phr type="np-adv">
+                <w type="adv" lemma="l090051a">
+                  <c type="log">ana</c>
+                </w>
+              </phr>
+              <w type="adj">
+                <w type="adj-stm">
+                  <w type="n" lemma="l050037">
+                    <c type="log">kokoro</c>
+                  </w>
+                  <w type="adj-stm" lemma="l007028">
+                    <c type="log">na</c>
+                  </w>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="将念"/>
+            <w type="vb-adc" lemma="l030399a">
+              <c type="log">omopu</c>
+            </w>
+            <w type="xtn-adc" lemma="l000805">
+              <c type="log">ramu</c>
+            </w>
+          </s>
+          <lb id="3" corresp="秋之長夜乎"/>
+          <s type="ip-mat">
+            <phr type="pp-pth">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050032">
+                      <c type="log">aki</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l090489">
+                  <w type="adj-stm" lemma="l007007">
+                    <c type="log">naga</c>
+                  </w>
+                  <w type="n" lemma="l050039">
+                    <c type="log">ywo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="寤臥耳"/>
+            <w type="vb-nml">
+              <w type="vb-stm" lemma="l030185a">
+                <w type="n" lemma="l050103">
+                  <c type="log">i</c>
+                </w>
+                <w type="vb-stm" lemma="l031342a">
+                  <c type="log">ne</c>
+                </w>
+              </w>
+              <w type="vb-nml" lemma="l031528a">
+                <c type="log">pusaku</c>
+              </w>
+            </w>
+            <w type="p-res" lemma="l000521">
+              <c type="log">nomwi</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

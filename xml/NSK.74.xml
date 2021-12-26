@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.74">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="飫瀰能古簸"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np-prd">
+                  <w type="n" lemma="l051665">
+                    <c type="phon">omi</c>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050028">
+                <c type="phon">kwo</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="多倍能波伽摩鳴"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l052528">
+                      <c type="phon">tape</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051701">
+                  <c type="phon">pakama</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="那那陛鳴糸"/>
+            <phr type="np">
+              <w type="n" lemma="l050440">
+                <w type="num" lemma="l002007">
+                  <c type="phon">nana</c>
+                </w>
+                <w type="cl" lemma="l002034">
+                  <c type="phon">pye</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031946a">
+              <c type="phon">wosi</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="爾播爾陀陀始諦"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051615">
+                  <c type="phon">nipa</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l031043a">
+                <c type="phon">tata</c>
+              </w>
+              <w type="vax-rsp-ger" lemma="l000009">
+                <c type="phon">site</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="阿遥比那陀須暮"/>
+          <phr type="np-ob1">
+            <w type="n" lemma="l050888">
+              <c type="phon">aywopi</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031283a">
+            <c type="phon">nadasu</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

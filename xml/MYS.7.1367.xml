@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1367">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="三國山"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <cl type="ip-arg">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="pln" lemma="l080184">
+                            <c type="phon-kun">mikuni</c>
+                          </w>
+                          <w type="n" lemma="l050034">
+                            <c type="log">yama</c>
+                          </w>
+                        </w>
+                        <lb id="1" corresp="木末爾住歴"/>
+                        <w type="n" lemma="l050021">
+                          <c type="log">konure</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-dat" lemma="l000519">
+                        <c type="phon">ni</c>
+                      </w>
+                    </phr>
+                    <w type="vb-adc" lemma="l030949a">
+                      <c type="log">sumapu</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="武佐左妣乃"/>
+                  <w type="n" lemma="l051547">
+                    <c type="phon">musasabi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="此待鳥如"/>
+              <phr type="np-ob1">
+                <w type="n" lemma="l050970">
+                  <c type="log">tori</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031644a">
+                <c type="log">matu</c>
+              </w>
+            </cl>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007004b">
+                <c type="log">goto</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="吾俟将痩"/>
+          <phr type="np-sbj">
+            <w type="pro-n" lemma="l042059">
+              <c type="log">ware</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031644a">
+              <c type="log">mati</c>
+            </w>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031799a">
+                <c type="log">yase</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

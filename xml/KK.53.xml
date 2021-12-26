@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.53">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="淤志弖流夜"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l091068">
+                        <w type="vb-adc" lemma="l030340a">
+                          <w type="vb-stm" lemma="l030349a">
+                            <c type="phon">osi</c>
+                          </w>
+                          <w type="vb-adc" lemma="l031193a">
+                            <c type="phon">teru</c>
+                          </w>
+                        </w>
+                        <w type="p-foc" lemma="l000537">
+                          <c type="phon">ya</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="那爾波能佐岐用"/>
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pln" lemma="l051586">
+                          <c type="phon-on">nanipa</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon-on">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l052505">
+                      <c type="phon">saki</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-abl" lemma="l000540b">
+                    <c type="phon">ywo</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="伊傅多知弖"/>
+                <w type="vb-ger" lemma="l030176a">
+                  <w type="vb-stm" lemma="l030172a">
+                    <c type="phon">ide</c>
+                  </w>
+                  <w type="vb-ger" lemma="l031043a">
+                    <c type="phon">tatite</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="和賀久迩美禮波"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="phon">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="vb-prv">
+                <w type="n" lemma="l051337">
+                  <c type="phon">kuni</c>
+                </w>
+                <w type="vb-prv" lemma="l031712a">
+                  <c type="phon">mireba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="阿波志摩"/>
+            <phr type="pp-sbj">
+              <phr type="conjp">
+                <phr type="np">
+                  <w type="pln" lemma="l050818">
+                    <c type="phon-on">apasima</c>
+                  </w>
+                </phr>
+              </phr>
+              <lb id="5" corresp="淤能碁呂志摩"/>
+              <phr type="conjp">
+                <phr type="np">
+                  <w type="pln" lemma="l051670">
+                    <w type="n" lemma="l080365">
+                      <c type="phon">onogoro</c>
+                    </w>
+                    <w type="n" lemma="l050078">
+                      <c type="phon">sima</c>
+                    </w>
+                  </w>
+                </phr>
+              </phr>
+              <lb id="6" corresp="阿遅摩佐能"/>
+              <phr type="np">
+                <w type="pln" lemma="l080366">
+                  <w type="n" lemma="l050778">
+                    <c type="phon">adimasa</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                  <lb id="7" corresp="志摩母美由"/>
+                  <w type="n" lemma="l050078">
+                    <c type="phon">sima</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="phon">mi</c>
+              </w>
+              <w type="vax-pass-cls" lemma="l000011">
+                <c type="phon">yu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="8" corresp="佐気都志摩美由"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <w type="pln" lemma="l092020">
+                <w type="pln" lemma="l080364">
+                  <c type="phon">saketu</c>
+                </w>
+                <w type="n" lemma="l050078">
+                  <c type="phon">sima</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="phon">mi</c>
+              </w>
+              <w type="vax-pass-cls" lemma="l000011">
+                <c type="phon">yu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

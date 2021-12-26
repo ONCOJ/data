@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.879">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="余呂豆余爾"/>
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n">
+                    <w type="num" lemma="l002014">
+                      <c type="phon">yorodu</c>
+                    </w>
+                    <w type="n" lemma="l050040">
+                      <c type="phon">yo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="伊麻志多麻比提"/>
+              <w type="vb-ger">
+                <w type="vb-stm" lemma="l030206a">
+                  <c type="phon">imasi</c>
+                </w>
+                <w type="vb-ger" lemma="l031077a">
+                  <c type="phon">tamapite</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="阿米能志多"/>
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050001a">
+                    <c type="phon">ame</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050026">
+                <c type="phon">sita</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="麻乎志多麻波祢"/>
+            <w type="vb-opt" lemma="l031677a">
+              <w type="vb-stm" lemma="l031678a">
+                <c type="phon">mawosi</c>
+              </w>
+              <w type="vb-opt" lemma="l031077a">
+                <c type="phon">tamapane</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="美加度佐良受弖"/>
+          <cl type="ip-adv">
+            <phr type="np-src-ob1">
+              <w type="n" lemma="l050749">
+                <c type="phon">mikadwo</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l030841a">
+                <c type="phon">sara</c>
+              </w>
+              <w type="vax-neg-ger" lemma="l000006a">
+                <c type="phon">zute</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

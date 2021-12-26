@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.669">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <lb id="0" corresp="足引之"/>
+              <cl type="ip-ept">
+                <w type="mk-adi" lemma="l091054">
+                  <w type="n" lemma="l050860">
+                    <c type="phon-kun">asipiki</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="山橘乃"/>
+              <phr type="np-prd">
+                <w type="n" lemma="l050628">
+                  <w type="n" lemma="l050034">
+                    <c type="log">yama</c>
+                  </w>
+                  <w type="n" lemma="l050150">
+                    <c type="log">tatibana</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="cop-adi" lemma="l031965">
+                <c type="phon">no</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="色丹出与"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-prd">
+                  <w type="n" lemma="l050105">
+                    <c type="log">iro</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+              </cl>
+              <w type="vb-imp" lemma="l030172a">
+                <c type="log">ide</c>
+                <c type="phon">yo</c>
+              </w>
+            </cl>
+          </s>
+          <lb id="3" corresp="語言継而"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-ger">
+                <w type="vb-stm" lemma="l030489a">
+                  <c type="log">katarapi</c>
+                </w>
+                <w type="vb-ger" lemma="l031139a">
+                  <c type="log">tugite</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="相事毛将有"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adc" lemma="l030071a">
+                    <c type="log">apu</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050041">
+                  <c type="log">koto</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ara</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

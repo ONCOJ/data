@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2808">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="眉根掻"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l051437">
+                  <w type="n" lemma="l051436">
+                    <c type="log">maywo</c>
+                  </w>
+                  <w type="n" lemma="l050036">
+                    <c type="log">ne</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030440a">
+                <c type="log">kaki</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="鼻火紐解"/>
+            <cl type="ip-adv">
+              <w type="vb-ifc" lemma="l031426a">
+                <w type="n" lemma="l050084">
+                  <c type="log">pana</c>
+                </w>
+                <w type="vb-ifc" lemma="l031511a">
+                  <c type="phon">pwi</c>
+                </w>
+              </w>
+            </cl>
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l051763">
+                  <c type="log">pimo</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l031200a">
+                <c type="log">toke</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="待八方"/>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031644a">
+                <c type="log">mat</c>
+              </w>
+              <w type="vax-stv-cls" lemma="l000024">
+                <c type="log">eri</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="何時毛將見跡"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="pp-adv">
+                    <phr type="np">
+                      <w type="wh-adv" lemma="l042014">
+                        <c type="log">itu</c>
+                      </w>
+                    </phr>
+                    <w type="p-foc" lemma="l000506">
+                      <c type="nlog">ka</c>
+                    </w>
+                    <w type="p-top" lemma="l000514">
+                      <c type="phon">mo</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l031712a">
+                      <c type="log">mi</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="log">mu</c>
+                    </w>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">to</c>
+                  </w>
+                </cl>
+                <lb id="4" corresp="戀來吾乎"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030731a">
+                    <c type="log">kwopwi</c>
+                  </w>
+                  <w type="vb-stm" lemma="l030612a">
+                    <c type="log">ko</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="log">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="pro-n" lemma="l042059">
+                <c type="log">ware</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

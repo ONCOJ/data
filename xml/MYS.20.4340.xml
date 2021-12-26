@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4340" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="等知波波江"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n">
+                  <w type="n" lemma="l050641">
+                    <c type="phon">toti</c>
+                  </w>
+                  <w type="n" lemma="l051720">
+                    <c type="phon">papa</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-intj" lemma="l000538">
+                <c type="phon">ye</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="已波比弖麻多祢"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l030193a">
+                <c type="phon">ipapite</c>
+              </w>
+            </cl>
+            <w type="vb-opt" lemma="l031644a">
+              <c type="phon">matane</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="豆久志奈流"/>
+          <phr type="pp">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <cl type="ip-rel">
+                    <phr type="pp-ob1">
+                      <phr type="np">
+                        <w type="pln" lemma="l090245">
+                          <c type="phon-on">tukusi</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-dat" lemma="l000519">
+                        <c type="phon">n</c>
+                      </w>
+                    </phr>
+                    <w type="vb-adn" lemma="l030125a">
+                      <c type="phon">aru</c>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="美豆久白玉"/>
+                  <cl type="ip-rel">
+                    <w type="vb-adc">
+                      <w type="vb-adc" lemma="l031699a">
+                        <c type="phon">miduku</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050611">
+                    <w type="adj-stm" lemma="l007006a">
+                      <c type="log">sira</c>
+                    </w>
+                    <w type="n" lemma="l052078">
+                      <c type="log">tama</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="4" corresp="等里弖久麻弖爾"/>
+                <w type="vb-ger" lemma="l031258a">
+                  <c type="phon">torite</c>
+                </w>
+              </cl>
+              <w type="vb-cls" lemma="l030612a">
+                <c type="phon">ku</c>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512b">
+              <c type="phon">madeni</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

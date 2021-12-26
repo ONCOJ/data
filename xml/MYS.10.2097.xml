@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2097">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="鴈鳴之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="pp-sbj">
+                        <phr type="np">
+                          <w type="n" lemma="l090078">
+                            <w type="n" lemma="l050159">
+                              <c type="log">kari</c>
+                            </w>
+                            <w type="p-case-gen" lemma="l000503">
+                              <c type="nlog">ga</c>
+                            </w>
+                            <w type="n" lemma="l050082">
+                              <c type="log">ne</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="log">no</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="来喧牟日及"/>
+                      <w type="vb-adc">
+                        <w type="vb-stm" lemma="l030585a">
+                          <w type="vb-stm" lemma="l030612a">
+                            <c type="log">ki</c>
+                          </w>
+                          <w type="vb-stm" lemma="l031267a">
+                            <c type="log">naka</c>
+                          </w>
+                        </w>
+                        <w type="vax-cjr-adc" lemma="l000002">
+                          <c type="phon">mu</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <w type="n" lemma="l050090">
+                      <c type="log">pi</c>
+                    </w>
+                  </phr>
+                  <w type="p-res" lemma="l000512a">
+                    <c type="log">made</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="見乍将有"/>
+                <w type="vb-ctt" lemma="l031712a">
+                  <c type="log">mitutu</c>
+                </w>
+                <w type="vb-adc">
+                  <w type="vb-stv-stm" lemma="l030125a">
+                    <c type="log">ara</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="log">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="此芽子原爾"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="log">ko</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090592">
+                <w type="n" lemma="l050149">
+                  <c type="log">pagwi</c>
+                </w>
+                <w type="n" lemma="l051723">
+                  <c type="log">para</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="雨勿零根"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <w type="n" lemma="l050001a">
+                <c type="log">ame</c>
+              </w>
+            </phr>
+          </s>
+          <w type="vb">
+            <w type="cfx-phb" lemma="l000037">
+              <c type="log">na</c>
+            </w>
+            <w type="vb-stm" lemma="l031559a">
+              <c type="log">puri</c>
+            </w>
+            <w type="cfx-phb" lemma="l000037">
+              <c type="log">so</c>
+              <c type="phon">ne</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

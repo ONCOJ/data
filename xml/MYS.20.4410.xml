@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4410">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="美蘇良由久"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="np-pth">
+                      <w type="n">
+                        <w type="pfx-hon" lemma="l000035">
+                          <c type="phon">mi</c>
+                        </w>
+                        <w type="n" lemma="l052049">
+                          <c type="phon">swora</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="vb-adc" lemma="l031840a">
+                      <c type="phon">yuku</c>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="久母母都可比等"/>
+                  <w type="n" lemma="l050115">
+                    <c type="phon">kumo</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+              <phr type="np-prd">
+                <w type="n" lemma="l080098">
+                  <c type="phon">tukapi</c>
+                </w>
+              </phr>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="比等波伊倍等"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <w type="n" lemma="l050046">
+                  <c type="phon">pito</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-css" lemma="l030199a">
+              <c type="phon">ipedo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="伊弊頭刀夜良牟"/>
+          <phr type="np-ob1">
+            <cl type="ip-rel">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050720">
+                  <w type="n" lemma="l050006a">
+                    <c type="phon">ipye</c>
+                  </w>
+                  <w type="n" lemma="l052220">
+                    <c type="phon">dutwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031823a">
+                  <c type="phon">yara</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="多豆伎之良受母"/>
+            <w type="n" lemma="l050096">
+              <c type="phon">taduki</c>
+            </w>
+          </phr>
+          <w type="vb-ifc">
+            <w type="vb-stm" lemma="l031967a">
+              <c type="phon">sira</c>
+            </w>
+            <w type="vax-neg-ifc" lemma="l000006a">
+              <c type="phon">zu</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

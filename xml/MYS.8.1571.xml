@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1571">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="春日野爾"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l060053">
+                  <w type="pln" lemma="l051241">
+                    <c type="plog">kasuga</c>
+                  </w>
+                  <w type="n" lemma="l051650">
+                    <c type="log">nwo</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="鍾礼零所見"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l051935">
+                <c type="phon">sigure</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031559a">
+              <c type="log">puru</c>
+            </w>
+            <w type="p-fnl-evd" lemma="l000513">
+              <c type="log">miyu</c>
+            </w>
+          </s>
+          <lb id="2" corresp="明日従者"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="n" lemma="l050864">
+                    <c type="log">asu</c>
+                  </w>
+                </phr>
+                <w type="p-case-abl" lemma="l000540a">
+                  <c type="log">ywori</c>
+                </w>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="黄葉頭刺牟"/>
+              <phr type="np-ob1">
+                <w type="n-dvb" lemma="l031780b">
+                  <c type="log">momiti</c>
+                </w>
+              </phr>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l030454a">
+                  <c type="log">kaza</c>
+                  <c type="phon">sa</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="4" corresp="高圓乃山"/>
+            <phr type="np">
+              <w type="pln" lemma="l060198">
+                <w type="pln" lemma="l090292">
+                  <c type="phon-kun">takamatwo</c>
+                </w>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon-on">no</c>
+                </w>
+                <w type="n" lemma="l050034">
+                  <c type="log">yama</c>
+                </w>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

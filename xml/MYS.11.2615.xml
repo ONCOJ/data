@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2615">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="敷栲乃"/>
+          <cl type="ip-adv">
+            <phr type="pp-arg">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <phr type="pp-ob1">
+                      <phr type="np">
+                        <cl type="ip-ept">
+                          <w type="mk-adi" lemma="l091022">
+                            <w type="n" lemma="l050619">
+                              <w type="n-dvb" lemma="l030850b">
+                                <c type="log">siki</c>
+                              </w>
+                              <w type="n" lemma="l052528">
+                                <c type="log">tape</c>
+                              </w>
+                            </w>
+                            <w type="cop-adi" lemma="l031965">
+                              <c type="phon">no</c>
+                            </w>
+                          </w>
+                        </cl>
+                        <lb id="1" corresp="枕巻而"/>
+                        <w type="n" lemma="l050016">
+                          <c type="log">makura</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-acc" lemma="l000534">
+                        <c type="nlog">wo</c>
+                      </w>
+                    </phr>
+                    <w type="vb-ger" lemma="l031618a">
+                      <c type="log">makite</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="妹与吾"/>
+                  <phr type="pp-sbj">
+                    <phr type="conjp">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n" lemma="l050027">
+                            <c type="log">imo</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-com" lemma="l000529">
+                          <c type="phon">to</c>
+                        </w>
+                      </phr>
+                    </phr>
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pro-n" lemma="l042057">
+                          <c type="log">wa</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-com" lemma="l000529">
+                        <c type="nlog">to</c>
+                      </w>
+                    </phr>
+                  </phr>
+                  <lb id="3" corresp="寐夜者無而"/>
+                  <w type="vb-adn" lemma="l031342a">
+                    <c type="log">nuru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050039">
+                  <c type="log">ywo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="adj-ger">
+              <w type="adj-stm" lemma="l007028">
+                <c type="log">na</c>
+              </w>
+              <w type="acp-ger" lemma="l000033">
+                <c type="log">kute</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="年曽經來"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="n" lemma="l050124">
+                <c type="log">tosi</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l031512a">
+              <c type="log">pe</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="nlog">ni</c>
+            </w>
+            <w type="vax-mpst-adn" lemma="l000016">
+              <c type="log">kyeru</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

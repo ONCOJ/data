@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3765">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="麻蘇可我美"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-ept">
+                <w type="mk" lemma="l091017">
+                  <w type="n" lemma="l050194">
+                    <w type="pfx" lemma="l000064">
+                      <c type="phon">maswo</c>
+                    </w>
+                    <w type="n" lemma="l052543">
+                      <c type="phon">kagami</c>
+                    </w>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="可気弖之奴敞等"/>
+              <w type="vb-ger" lemma="l030443a">
+                <c type="phon">kakete</c>
+              </w>
+            </cl>
+            <w type="vb-imp" lemma="l030886a">
+              <c type="phon">sinupye</c>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="麻都里太須"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l031649a">
+                    <c type="phon">maturi</c>
+                  </w>
+                  <w type="vb-adc" lemma="l030164a">
+                    <c type="phon">dasu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="可多美乃母能乎"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l090071">
+                    <c type="phon">katami</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050042">
+                <c type="phon">mono</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="比等爾之賣須奈"/>
+          <phr type="pp-ob2">
+            <phr type="np">
+              <w type="n" lemma="l050046">
+                <c type="phon">pito</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030906a">
+            <c type="phon">simyesu</c>
+          </w>
+          <w type="p-fnl-phb" lemma="l000517">
+            <c type="phon">na</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3815">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="白玉之"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050611">
+                      <w type="adj-stm" lemma="l007006a">
+                        <c type="log">sira</c>
+                      </w>
+                      <w type="n" lemma="l052078">
+                        <c type="log">tama</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="緒絶者信"/>
+                <w type="n" lemma="l080415b">
+                  <w type="n" lemma="l050117">
+                    <c type="log">wo</c>
+                  </w>
+                  <w type="n-dvb" lemma="l031090b">
+                    <c type="log">daye</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004050">
+                <c type="log">makoto</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="雖然"/>
+            <w type="vb-css" lemma="l030848a">
+              <c type="log">sikaredomo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="其緒又貫"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042040">
+                    <c type="log">so</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050117">
+                <c type="log">wo</c>
+              </w>
+            </phr>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004022">
+                <c type="log">mata</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031346a">
+              <c type="log">nuki</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="人持去家有"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050046">
+              <c type="log">pito</c>
+            </w>
+          </phr>
+          <w type="vb-inf" lemma="l031761a">
+            <c type="log">moti</c>
+          </w>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l030186a">
+              <c type="log">ini</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="log">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

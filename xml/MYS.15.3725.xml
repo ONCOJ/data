@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3725">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="和我世故之"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="phon">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050285">
+                  <c type="phon">sekwo</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="気太之麻可良婆"/>
+            <cl type="ip-adv">
+              <phr type="np-adv">
+                <w type="adv" lemma="l004019">
+                  <c type="phon">kedasi</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l031613a">
+                <c type="phon">makaraba</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="思漏多倍乃"/>
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l091087">
+                    <w type="n" lemma="l050620">
+                      <w type="adj-stm" lemma="l007006b">
+                        <c type="phon">sirwo</c>
+                      </w>
+                      <w type="n" lemma="l052528">
+                        <c type="phon">tape</c>
+                      </w>
+                    </w>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="蘇低乎布良左祢"/>
+                <w type="n" lemma="l052043">
+                  <c type="phon">swode</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-opt">
+              <w type="vb-stm" lemma="l031560a">
+                <c type="phon">pura</c>
+              </w>
+              <w type="vax-rsp-opt" lemma="l000009">
+                <c type="phon">sane</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="見都追志努波牟"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-ctt" lemma="l031712a">
+                <c type="log">mi</c>
+                <c type="phon">tutu</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030886a">
+                <c type="phon">sinupa</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

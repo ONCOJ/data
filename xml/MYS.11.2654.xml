@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2654">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="君戀"/>
+          <phr type="pp-adv">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="pp-ob1">
+                    <phr type="np">
+                      <w type="n" lemma="l004266">
+                        <c type="log">kimi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="nlog">ni</c>
+                    </w>
+                  </phr>
+                  <w type="vb-inf" lemma="l030731a">
+                    <c type="log">kwopwi</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="寝不宿朝明"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030185a">
+                    <w type="n" lemma="l050103">
+                      <c type="log">i</c>
+                    </w>
+                    <w type="vb-stm" lemma="l031342a">
+                      <c type="log">ne</c>
+                    </w>
+                  </w>
+                  <w type="vax-neg-adn" lemma="l000006a">
+                    <c type="log">nu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050846">
+                <c type="log">asake</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="nlog">ni</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="誰乗流"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="wh-n" lemma="l042000">
+                <c type="log">ta</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="nlog">ga</c>
+            </w>
+          </phr>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <w type="vb-adn">
+                      <w type="vb-stm" lemma="l031390a">
+                        <c type="log">nor</c>
+                      </w>
+                      <w type="vax-stv-adn" lemma="l000024">
+                        <c type="log">e</c>
+                        <c type="phon">ru</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="馬足音"/>
+                  <w type="n" lemma="l052245">
+                    <c type="log">uma</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050064">
+                    <c type="log">a</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050072">
+                <c type="log">oto</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="nlog">so</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="吾聞爲"/>
+          <phr type="pp-xpr-ob2">
+            <phr type="np">
+              <w type="pro-n" lemma="l042059">
+                <c type="log">ware</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="nlog">ni</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-adn" lemma="l032077a">
+              <c type="log">kikasuru</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

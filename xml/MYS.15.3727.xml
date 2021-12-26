@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3727">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="知里比治能"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np">
+                    <w type="n" lemma="l050455">
+                      <w type="n" lemma="l090375">
+                        <c type="phon">tiri</c>
+                      </w>
+                      <w type="n" lemma="l051749">
+                        <c type="phon">pidi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon">no</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="可受爾母安良奴"/>
+                <phr type="np-prd">
+                  <w type="n" lemma="l050057">
+                    <c type="phon">kazu</c>
+                  </w>
+                </phr>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030125a">
+                    <c type="phon">ara</c>
+                  </w>
+                  <w type="vax-neg-adn" lemma="l000006a">
+                    <c type="phon">nu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="2" corresp="和礼由恵爾"/>
+              <w type="pro-n" lemma="l042059">
+                <c type="phon">ware</c>
+              </w>
+            </phr>
+            <w type="p-conn" lemma="l000539">
+              <c type="phon">yuweni</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="於毛比和夫良牟"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-cls">
+                  <w type="vb-stm" lemma="l030399a">
+                    <c type="phon">omopi</c>
+                  </w>
+                  <w type="vb-cls" lemma="l031915a">
+                    <c type="phon">wabu</c>
+                  </w>
+                </w>
+                <w type="xtn-adc" lemma="l000805">
+                  <c type="phon">ramu</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="伊母我可奈思佐"/>
+              <w type="n" lemma="l050027">
+                <c type="phon">imo</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="phon">ga</c>
+            </w>
+          </phr>
+          <w type="adj-exc">
+            <w type="adj-stm" lemma="l007022">
+              <c type="phon">kanasi</c>
+            </w>
+            <w type="acp-exc" lemma="l000039">
+              <c type="phon">sa</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

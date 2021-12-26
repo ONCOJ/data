@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.381">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="思家登"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l050006a">
+                  <c type="log">ipye</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l030399a">
+                <c type="log">mopu</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="情進莫"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030937a">
+              <c type="log">susumu</c>
+            </w>
+            <w type="p-fnl-phb" lemma="l000517">
+              <c type="log">na</c>
+            </w>
+          </s>
+          <lb id="2" corresp="風候"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-inf">
+                <w type="n" lemma="l050008b">
+                  <c type="log">kaza</c>
+                </w>
+                <w type="vb-inf" lemma="l031667a">
+                  <c type="log">mamori</c>
+                </w>
+              </w>
+              <lb id="3" corresp="好為而伊麻世"/>
+              <cl type="ip-adv">
+                <w type="adj-inf">
+                  <w type="adj-stm" lemma="l007015">
+                    <c type="log">yo</c>
+                  </w>
+                  <w type="acp-inf" lemma="l000033">
+                    <c type="log">ku</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="vb-ger" lemma="l030919a">
+                <c type="log">site</c>
+              </w>
+            </cl>
+            <w type="vb-imp" lemma="l030206a">
+              <c type="phon">imase</c>
+            </w>
+          </s>
+          <lb id="4" corresp="荒其路"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <w type="adj-cls">
+                <w type="adj-stm" lemma="l007034">
+                  <c type="log">ara</c>
+                </w>
+                <w type="acp-cls" lemma="l000033">
+                  <c type="nlog">si</c>
+                </w>
+              </w>
+            </cl>
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042040">
+                    <c type="log">so</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050091">
+                <c type="log">miti</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

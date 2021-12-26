@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.112">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="意岐米母夜"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pen" lemma="l051657">
+                  <c type="phon">okime</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="phon">ya</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="阿布美能於岐米"/>
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l050824">
+                    <c type="phon-on">apumi</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon-on">no</c>
+                </w>
+              </phr>
+              <w type="pen" lemma="l051657">
+                <c type="phon-on">okime</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="2" corresp="阿須用理波"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050864">
+                <c type="phon">asu</c>
+              </w>
+            </phr>
+            <w type="p-case-abl" lemma="l000540a">
+              <c type="phon">ywori</c>
+            </w>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="美夜麻賀久理弖"/>
+          <cl type="ip-adv">
+            <w type="vb-ger">
+              <w type="pfx-hon" lemma="l000035">
+                <c type="phon">mi</c>
+              </w>
+              <w type="n" lemma="l050034">
+                <c type="phon">yama</c>
+              </w>
+              <w type="vb-ger" lemma="l030448a">
+                <c type="phon">gakurite</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="美延受加母阿良牟"/>
+          <w type="vb-ifc">
+            <w type="vb-stm" lemma="l031712a">
+              <c type="phon">mi</c>
+            </w>
+            <w type="vax-pass-stm" lemma="l000011">
+              <c type="phon">ye</c>
+            </w>
+            <w type="vax-neg-ifc" lemma="l000006a">
+              <c type="phon">zu</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000506">
+            <c type="phon">ka</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030125a">
+              <c type="phon">ara</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

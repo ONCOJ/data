@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.902">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="水沫奈須"/>
+          <cl type="ip-arg">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <phr type="np-prd">
+                      <w type="n" lemma="l051469">
+                        <c type="log">minawa</c>
+                      </w>
+                    </phr>
+                    <w type="cop-sem" lemma="l031965">
+                      <c type="phon">nasu</c>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="微命母"/>
+                  <w type="adj-adn">
+                    <w type="adj-stm" lemma="l007225">
+                      <c type="log">moro</c>
+                    </w>
+                    <w type="acp-adn" lemma="l000033">
+                      <c type="log">ki</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051102">
+                  <c type="log">inoti</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="楮縄能"/>
+            <cl type="ip-ept">
+              <w type="mk-adi" lemma="l080191">
+                <w type="n" lemma="l052072">
+                  <w type="n" lemma="l052070">
+                    <c type="log">taku</c>
+                  </w>
+                  <w type="n" lemma="l051590">
+                    <c type="log">napa</c>
+                  </w>
+                </w>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="千尋爾母何等"/>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l080192">
+                <c type="log">tipiro</c>
+              </w>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </w>
+            <w type="p-fnl-opt" lemma="l000515">
+              <c type="phon">moga</c>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="慕久良志都"/>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031356a">
+              <c type="log">negapi</c>
+            </w>
+            <w type="vb-stm" lemma="l030662a">
+              <c type="phon">kurasi</c>
+            </w>
+            <w type="vax-prf-cls" lemma="l000023">
+              <c type="phon">tu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

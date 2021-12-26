@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.861">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="麻都良河波"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <phr type="np">
+                  <w type="pln" lemma="l060223">
+                    <w type="pln" lemma="l051428">
+                      <c type="phon-on">matura</c>
+                    </w>
+                    <w type="n" lemma="l050025">
+                      <c type="phon-on">gapa</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="可波能世波夜美"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050025">
+                      <c type="phon">kapa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l090058">
+                  <c type="phon">se</c>
+                </w>
+              </phr>
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l004028">
+                  <c type="phon">paya</c>
+                </w>
+                <w type="acp-inf" lemma="l000034">
+                  <c type="phon">mi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="久礼奈為能"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="np-prd">
+                      <w type="n" lemma="l051346">
+                        <c type="phon">kurenawi</c>
+                      </w>
+                    </phr>
+                    <w type="cop-adi" lemma="l031965">
+                      <c type="phon">no</c>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="母能須蘇奴例弖"/>
+                  <w type="n" lemma="l050099">
+                    <c type="phon">mo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050079">
+                <c type="phon">suswo</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031354a">
+              <c type="phon">nurete</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="阿由可都流良武"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l050885">
+                <c type="phon">ayu</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031187a">
+            <c type="phon">turu</c>
+          </w>
+          <w type="xtn-adc" lemma="l000805">
+            <c type="phon">ramu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3209">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="春日在"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <cl type="ip-rel">
+                        <phr type="pp">
+                          <phr type="np">
+                            <w type="pln" lemma="l051241">
+                              <c type="plog">kasuga</c>
+                            </w>
+                          </phr>
+                          <w type="p-case-dat" lemma="l000519">
+                            <c type="log">n</c>
+                          </w>
+                        </phr>
+                        <w type="vb-adn" lemma="l030125a">
+                          <c type="log">aru</c>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="三笠乃山爾"/>
+                      <w type="pln" lemma="l060150">
+                        <w type="pln" lemma="l090004">
+                          <c type="phon-kun">mikasa</c>
+                        </w>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="phon">no</c>
+                        </w>
+                        <w type="n" lemma="l050034">
+                          <c type="log">yama</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="居雲乎"/>
+                  <w type="vb-adn" lemma="l031926a">
+                    <c type="log">wiru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050115">
+                  <c type="log">kumo</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="出見毎"/>
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l030172a">
+                <c type="log">ide</c>
+              </w>
+            </cl>
+            <w type="vb-adn" lemma="l031712a">
+              <c type="log">miru</c>
+            </w>
+            <w type="p-res" lemma="l000546">
+              <c type="log">gotoni</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="君乎之曽念"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l030399a">
+            <c type="log">omopu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

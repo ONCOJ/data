@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3474">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="宇恵太気能"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050603">
+                      <w type="vb-stm" lemma="l030229a">
+                        <c type="phon">uwe</c>
+                      </w>
+                      <w type="n" lemma="l050013a">
+                        <c type="phon">dake</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="毛登左倍登与美"/>
+                <w type="n" lemma="l051520">
+                  <c type="phon">moto</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000525a">
+                <c type="phon">sape</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031245a">
+              <c type="phon">toyomi</c>
+            </w>
+          </cl>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <lb id="2" corresp="伊弖弖伊奈婆"/>
+              <w type="vb-ger" lemma="l030172a">
+                <c type="phon">idete</c>
+              </w>
+            </cl>
+            <w type="vb-cnd" lemma="l030186a">
+              <c type="phon">inaba</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="伊豆思牟伎弖可"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <w type="wh-n" lemma="l042008">
+                <c type="phon">idusi</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031724a">
+              <c type="phon">mukite</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊毛我奈気可牟"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050027">
+                <c type="phon">imo</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="phon">ga</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031276a">
+              <c type="phon">nageka</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

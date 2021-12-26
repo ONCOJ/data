@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2511">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="隠口乃"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l091015">
+                    <w type="vb-stm" lemma="l030744a">
+                      <c type="log">komori</c>
+                    </w>
+                    <w type="n" lemma="l051322">
+                      <c type="log">ku</c>
+                    </w>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="豊泊瀬道者"/>
+                <w type="n">
+                  <w type="adj-stm" lemma="l004134">
+                    <c type="log">toyo</c>
+                  </w>
+                  <w type="n" lemma="l090635">
+                    <w type="pln" lemma="l051737">
+                      <c type="plog">patuse</c>
+                    </w>
+                    <w type="n" lemma="l050091">
+                      <c type="log">di</c>
+                    </w>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="常滑乃"/>
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052149">
+                    <w type="adj-stm" lemma="l007194">
+                      <c type="log">toko</c>
+                    </w>
+                    <w type="n" lemma="l090450">
+                      <c type="log">namye</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="恐道曽"/>
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007078">
+                    <c type="log">kasikwo</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="log">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050091">
+                <c type="log">miti</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </s>
+          <lb id="4" corresp="戀由眼"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <cl type="ip-nmz">
+                <w type="vb-nml" lemma="l030731a">
+                  <c type="log">kwopuraku</c>
+                </w>
+              </cl>
+              <w type="p-top" lemma="l000522">
+                <c type="nlog">pa</c>
+              </w>
+            </phr>
+            <phr type="np-adv">
+              <w type="adv" lemma="l004011a">
+                <c type="phon">yume</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

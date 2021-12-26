@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2435">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="淡海々"/>
+          <cl type="ip-adv">
+            <phr type="np-zyo">
+              <phr type="np">
+                <w type="pln" lemma="l060178">
+                  <w type="pln" lemma="l050824">
+                    <c type="plog">apumi</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                  <w type="n" lemma="l052517">
+                    <c type="log">umi</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="1" corresp="奥白浪"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052520">
+                    <c type="log">oki</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000532">
+                  <c type="nlog">tu</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090512">
+                <w type="adj-stm" lemma="l007006a">
+                  <c type="log">sira</c>
+                </w>
+                <w type="n" lemma="l050017">
+                  <c type="log">nami</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="雖不知"/>
+            <w type="vb-css">
+              <w type="vb-stm" lemma="l031967a">
+                <c type="log">sira</c>
+              </w>
+              <w type="vax-neg-css" lemma="l000006a">
+                <c type="log">nedomo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="妹所云"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <w type="n">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                  <w type="sfx" lemma="l001011">
+                    <c type="log">gari</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-comp" lemma="l000530">
+                <c type="nlog">to</c>
+              </w>
+            </cl>
+            <w type="vb-cnd" lemma="l030199a">
+              <c type="log">ipaba</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="七日越來"/>
+          <phr type="np-adv">
+            <w type="n">
+              <w type="num" lemma="l002007">
+                <c type="log">nanu</c>
+              </w>
+              <w type="cl" lemma="l002017">
+                <c type="log">ka</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030747a">
+              <c type="log">kwoye</c>
+            </w>
+            <w type="vb-stm" lemma="l030612a">
+              <c type="log">ko</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

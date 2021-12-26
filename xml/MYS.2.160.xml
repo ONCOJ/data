@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.2.160">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="燃火物"/>
+            <cl type="ip-arg">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <w type="vb-adn" lemma="l031784a">
+                      <c type="log">moyuru</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050009a">
+                    <c type="log">pwi</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000514">
+                  <c type="phon">mo</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="取而裸而"/>
+              <cl type="ip-adv">
+                <w type="vb-ger" lemma="l031258a">
+                  <c type="log">torite</c>
+                </w>
+              </cl>
+              <cl type="ip-adv">
+                <w type="vb-ger" lemma="l031156a">
+                  <c type="log">tutumite</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="福路庭"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051825">
+                    <c type="phon">pukurwo</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="log">ni</c>
+                </w>
+                <w type="p-top" lemma="l000522">
+                  <c type="log">pa</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="入澄不言八面"/>
+              <w type="vb-cls" lemma="l030223a">
+                <c type="log">iru</c>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030199a">
+                <c type="log">ipa</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="phon">ya</c>
+            </w>
+          </s>
+          <lb id="4" corresp="智男雲"/>
+          <s type="ip-mat">
+            <phr type="np-ob1">
+              <w type="n" lemma="l050085">
+                <c type="log">omo</c>
+              </w>
+            </phr>
+            <w type="vb-nml">
+              <w type="vb-stm" lemma="l031967a">
+                <c type="log">sira</c>
+              </w>
+              <w type="vax-neg-nml" lemma="l000006a">
+                <c type="phon">naku</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

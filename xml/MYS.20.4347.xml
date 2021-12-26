@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4347" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="伊閇爾之弖"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050006a">
+                    <c type="phon">ipe</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l030919a">
+                <c type="phon">site</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="古非都都安良受波"/>
+            <w type="vb-ctt" lemma="l030731a">
+              <c type="phon">kwopwitutu</c>
+            </w>
+            <w type="vb-cnd">
+              <w type="vb-stv-stm" lemma="l030125a">
+                <c type="phon">ara</c>
+              </w>
+              <w type="vax-neg-cnd" lemma="l000006a">
+                <c type="phon">zupa</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="奈我波気流"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042055">
+                        <c type="phon">na</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031401a">
+                      <c type="phon">pak</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="phon">eru</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="多知爾奈里弖母"/>
+                <w type="n" lemma="l052508">
+                  <c type="phon">tati</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <w type="vb-ger" lemma="l031317a">
+              <c type="phon">narite</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊波非弖之加母"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030193a">
+              <c type="phon">ipapi</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000023">
+              <c type="phon">te</c>
+            </w>
+            <w type="vax-spst-adn" lemma="l000015">
+              <c type="phon">si</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

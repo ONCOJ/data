@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4339" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="久爾米具留"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <phr type="np">
+                <w type="n" lemma="l051337">
+                  <c type="phon">kuni</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031748a">
+                <c type="phon">meguru</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="阿等利加麻気利"/>
+            <phr type="np">
+              <phr type="conjp">
+                <w type="n" lemma="l050875">
+                  <c type="phon">atori</c>
+                </w>
+              </phr>
+              <phr type="conjp">
+                <w type="n" lemma="l051191">
+                  <c type="phon">kama</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l080244">
+                <c type="phon">keri</c>
+              </w>
+            </phr>
+          </phr>
+          <lb id="2" corresp="由伎米久利"/>
+          <phr type="pp-adv">
+            <cl type="ip-nmz">
+              <cl type="ip-adv">
+                <w type="vb-inf" lemma="l031839a">
+                  <w type="vb-stm" lemma="l031840a">
+                    <c type="phon">yuki</c>
+                  </w>
+                  <w type="vb-inf" lemma="l031748a">
+                    <c type="phon">meguri</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="加比利久麻弖爾"/>
+              <w type="vb-cls">
+                <w type="vb-stm" lemma="l030518c">
+                  <c type="phon">kapiri</c>
+                </w>
+                <w type="vb-cls" lemma="l030612a">
+                  <c type="phon">ku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-res" lemma="l000512b">
+              <c type="phon">madeni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="已波比弖麻多祢"/>
+          <cl type="ip-adv">
+            <w type="vb-ger" lemma="l030193a">
+              <c type="phon">ipapite</c>
+            </w>
+          </cl>
+          <w type="vb-opt" lemma="l031644a">
+            <c type="phon">matane</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

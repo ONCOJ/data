@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3173">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="松浦舟"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <cl type="ip-rel">
+                  <phr type="np-sbj">
+                    <w type="n">
+                      <w type="pln" lemma="l051428">
+                        <c type="plog">matura</c>
+                      </w>
+                      <w type="n" lemma="l050007a">
+                        <c type="log">bune</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="乱穿江之"/>
+                  <w type="vb-adc" lemma="l030843a">
+                    <c type="log">sawaku</c>
+                  </w>
+                </cl>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l080410">
+                      <w type="vb-stm" lemma="l031598a">
+                        <c type="log">pori</c>
+                      </w>
+                      <w type="n" lemma="l052401">
+                        <c type="log">ye</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="水尾早"/>
+                <w type="n" lemma="l050130">
+                  <c type="log">miwo</c>
+                </w>
+              </phr>
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l004028">
+                  <c type="log">paya</c>
+                </w>
+                <w type="acp-inf" lemma="l000034">
+                  <c type="log">mi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="楫取間無"/>
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l051162">
+                    <c type="log">kadi</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031258a">
+                  <c type="log">toru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050095">
+                <c type="log">ma</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007028">
+                <c type="log">na</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="所念鴨"/>
+          <w type="vb-adn" lemma="l030404a">
+            <c type="log">omopoyuru</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4414" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="於保伎美乃"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050267">
+                    <w type="adj-stm" lemma="l007009a">
+                      <c type="phon">opo</c>
+                    </w>
+                    <w type="n" lemma="l004266">
+                      <c type="phon">kimi</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="美己等可之古美"/>
+              <w type="n" lemma="l050752">
+                <w type="pfx-hon" lemma="l000035">
+                  <c type="phon">mi</c>
+                </w>
+                <w type="n" lemma="l050148">
+                  <c type="phon">koto</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007078">
+                <c type="phon">kasikwo</c>
+              </w>
+              <w type="acp-inf" lemma="l000034">
+                <c type="phon">mi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="宇都久之気"/>
+          <cl type="ip-adv">
+            <phr type="np-src-ob1">
+              <cl type="ip-rel">
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007207">
+                    <c type="phon">utukusi</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="phon">ke</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="麻古我弖波奈利"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050286">
+                    <w type="pfx" lemma="l000062">
+                      <c type="phon">ma</c>
+                    </w>
+                    <w type="n" lemma="l050028">
+                      <c type="phon">kwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050012a">
+                <c type="phon">te</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031427a">
+              <c type="phon">panari</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="之末豆多比由久"/>
+          <w type="vb-adc">
+            <w type="n" lemma="l030900a">
+              <w type="n" lemma="l050078">
+                <c type="phon">sima</c>
+              </w>
+              <w type="n" lemma="l031146a">
+                <c type="phon">dutapi</c>
+              </w>
+            </w>
+            <w type="vb-adc" lemma="l031840a">
+              <c type="phon">yuku</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

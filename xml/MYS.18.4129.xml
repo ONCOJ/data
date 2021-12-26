@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4129">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="芳理夫久路"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l050507">
+                    <w type="n" lemma="l090710">
+                      <c type="phon">pari</c>
+                    </w>
+                    <w type="n" lemma="l051825">
+                      <c type="phon">bukurwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="1" corresp="等利安宜麻敞爾於吉"/>
+                <w type="vb-inf">
+                  <w type="vb-stm" lemma="l031258a">
+                    <c type="phon">tori</c>
+                  </w>
+                  <w type="vb-inf" lemma="l030023a">
+                    <c type="phon">age</c>
+                  </w>
+                </w>
+              </cl>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050052">
+                    <c type="phon">mapye</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030327a">
+                <c type="phon">oki</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="可辺佐倍波"/>
+            <w type="vb-prv" lemma="l030515a">
+              <c type="phon">kapyesapeba</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="於能等母於能夜"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="np">
+                <w type="intj" lemma="l080002">
+                  <c type="phon">ono</c>
+                </w>
+              </phr>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </cl>
+            <phr type="pp">
+              <phr type="np">
+                <w type="intj" lemma="l080002">
+                  <c type="phon">ono</c>
+                </w>
+              </phr>
+              <w type="p-intj" lemma="l000548">
+                <c type="phon">ya</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="4" corresp="宇良毛都芸多利"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050109">
+                <c type="phon">ura</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031139a">
+              <c type="phon">tugi</c>
+            </w>
+            <w type="vax-stv-cls" lemma="l000022">
+              <c type="phon">tari</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

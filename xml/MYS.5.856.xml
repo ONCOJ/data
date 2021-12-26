@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.856">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="麻都良奈流"/>
+          <phr type="np-ob1">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <phr type="pp">
+                      <phr type="np">
+                        <cl type="ip-rel">
+                          <phr type="pp-ob1">
+                            <phr type="np">
+                              <w type="pln" lemma="l051428">
+                                <c type="phonon">matura</c>
+                              </w>
+                            </phr>
+                            <w type="p-case-dat" lemma="l000519">
+                              <c type="phon">n</c>
+                            </w>
+                          </phr>
+                          <w type="vb-adn" lemma="l030125a">
+                            <c type="phon">aru</c>
+                          </w>
+                        </cl>
+                        <lb id="1" corresp="多麻之麻河波爾"/>
+                        <w type="pln" lemma="l092051">
+                          <w type="pln" lemma="l092049">
+                            <c type="phon">tama</c>
+                          </w>
+                          <w type="n" lemma="l050078">
+                            <c type="phon">sima</c>
+                          </w>
+                          <w type="n" lemma="l050025">
+                            <c type="phon">kapa</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-dat" lemma="l000519">
+                        <c type="phon">ni</c>
+                      </w>
+                    </phr>
+                    <lb id="2" corresp="阿由都流等"/>
+                    <phr type="np-ob1">
+                      <w type="n" lemma="l050885">
+                        <c type="phon">ayu</c>
+                      </w>
+                    </phr>
+                    <w type="vb-adc" lemma="l031187a">
+                      <c type="phon">turu</c>
+                    </w>
+                    <w type="p-conn" lemma="l000541">
+                      <c type="phon">to</c>
+                    </w>
+                  </cl>
+                  <lb id="3" corresp="多多勢流古良何"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031043a">
+                      <c type="phon">tata</c>
+                    </w>
+                    <w type="vax-rsp-stm" lemma="l000009">
+                      <c type="phon">s</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="phon">eru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n">
+                  <w type="n" lemma="l050028">
+                    <c type="phon">kwo</c>
+                  </w>
+                  <w type="sfx" lemma="l001003">
+                    <c type="phon">ra</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="phon">ga</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="伊弊遅斯良受毛"/>
+            <w type="n">
+              <w type="n" lemma="l050006a">
+                <c type="phon">ipye</c>
+              </w>
+              <w type="n" lemma="l050091">
+                <c type="phon">di</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-ifc">
+            <w type="vb-stm" lemma="l031967a">
+              <c type="phon">sira</c>
+            </w>
+            <w type="vax-neg-ifc" lemma="l000006a">
+              <c type="phon">zu</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

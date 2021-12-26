@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.569">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="辛人之"/>
+          <cl type="ip-adv">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-arg">
+                  <phr type="np-ob1">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="pln" lemma="l051219">
+                            <c type="phon-kun">kara</c>
+                          </w>
+                          <w type="n" lemma="l050046">
+                            <c type="log">pito</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="衣染云"/>
+                    <w type="n" lemma="l051304">
+                      <c type="log">koromo</c>
+                    </w>
+                  </phr>
+                  <w type="vb-cls" lemma="l030904a">
+                    <c type="log">simu</c>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="nlog">to</c>
+                  </w>
+                </cl>
+                <w type="vb-adc" lemma="l030199a">
+                  <c type="log">pu</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="紫之"/>
+              <w type="n" lemma="l051539">
+                <c type="log">murasaki</c>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="phon">no</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="情爾染而"/>
+          <cl type="ip-adv">
+            <phr type="pp-gol-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050037">
+                  <c type="log">kokoro</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030903a">
+              <c type="log">simite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="所念鴨"/>
+          <w type="vb-adn" lemma="l030404a">
+            <c type="log">omopoyuru</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

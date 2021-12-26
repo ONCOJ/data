@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.8.1576">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="此岳爾"/>
+          <cl type="ip-nmz-arg">
+            <phr type="pp-adv">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042029">
+                      <c type="log">ko</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l052341">
+                  <c type="log">woka</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="小壮鹿履起"/>
+            <phr type="np-arg">
+              <w type="n" lemma="l050546">
+                <w type="n" lemma="l052501">
+                  <c type="log">wo</c>
+                </w>
+                <w type="n" lemma="l050071">
+                  <c type="log">sika</c>
+                </w>
+              </w>
+            </phr>
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l031547a">
+                <w type="vb-stm" lemma="l031553a">
+                  <c type="log">pumi</c>
+                </w>
+                <w type="vb-inf" lemma="l030333a">
+                  <c type="log">okosi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="宇加埿良比"/>
+            <cl type="ip-adv">
+              <w type="vb-inf" lemma="l030233a">
+                <c type="phon">ukanerapi</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="可聞可聞為良久"/>
+            <phr type="np-adv">
+              <w type="adv" lemma="l080166">
+                <c type="phon">kamokamo</c>
+              </w>
+            </phr>
+            <w type="vb-nml" lemma="l030919a">
+              <c type="log">su</c>
+              <c type="phon">raku</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="君故爾許曽"/>
+          <phr type="pp-prd">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-conn" lemma="l000539">
+              <c type="log">yuweni</c>
+            </w>
+            <w type="p-foc" lemma="l000510">
+              <c type="phon">koso</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

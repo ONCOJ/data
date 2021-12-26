@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4055">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="可敞流未能"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-pth">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n">
+                          <w type="pln" lemma="l090160">
+                            <c type="phon">kapyeru</c>
+                          </w>
+                          <w type="n" lemma="l080198">
+                            <c type="phon">mwi</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="美知由可牟日波"/>
+                    <w type="n" lemma="l050091">
+                      <c type="phon">miti</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l031840a">
+                      <c type="phon">yuka</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050090">
+                  <c type="log">pi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="伊都婆多野"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l090330">
+                      <c type="phon">itupata</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="佐可爾蘇泥布礼"/>
+                <w type="n" lemma="l090150">
+                  <c type="phon">saka</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <phr type="np-ob1">
+              <w type="n" lemma="l052043">
+                <c type="phon">swode</c>
+              </w>
+            </phr>
+            <w type="vb-imp" lemma="l031560a">
+              <c type="phon">pure</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="和礼乎事於毛波婆"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="pro-n" lemma="l042059">
+                  <c type="phon">ware</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <w type="vb-cnd" lemma="l030399a">
+              <c type="phon">omopaba</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

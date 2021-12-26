@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3697">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="毛母布祢乃"/>
+          <phr type="np-sbj">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="n" lemma="l050514">
+                        <w type="num" lemma="l002012">
+                          <c type="phon">momo</c>
+                        </w>
+                        <w type="n" lemma="l050007a">
+                          <c type="phon">pune</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="波都流対馬能"/>
+                  <w type="vb-adn" lemma="l031421a">
+                    <c type="phon">paturu</c>
+                  </w>
+                </cl>
+                <w type="pln" lemma="l052215">
+                  <c type="plog">tusima</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="安佐治山"/>
+            <w type="pln">
+              <w type="pln" lemma="l080375">
+                <c type="phon">asadi</c>
+              </w>
+              <w type="n" lemma="l050034">
+                <c type="log">yama</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="3" corresp="志具礼能安米爾"/>
+          <phr type="pp-adv-agt">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051935">
+                    <c type="phon">sigure</c>
+                  </w>
+                </phr>
+                <w type="cop-adi" lemma="l031965">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050001a">
+                <c type="phon">ame</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="毛美多比爾家里"/>
+          <w type="vb-cls">
+            <w type="vb-stm" lemma="l031779a">
+              <c type="phon">momitapi</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-mpst-cls" lemma="l000016">
+              <c type="phon">kyeri</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

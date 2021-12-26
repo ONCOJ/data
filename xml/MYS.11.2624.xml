@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.11.2624">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="紅之"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l051346">
+                      <c type="log">kurenawi</c>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="深染衣"/>
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n">
+                      <w type="adj-stm" lemma="l090128">
+                        <c type="log">kwo</c>
+                      </w>
+                      <w type="n-dvb" lemma="l030982b">
+                        <c type="log">some</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="nlog">no</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051304">
+                  <c type="log">koromo</c>
+                </w>
+              </phr>
+            </cl>
+            <lb id="2" corresp="色深"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050105">
+                <c type="log">iro</c>
+              </w>
+            </phr>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007150">
+                  <c type="log">puka</c>
+                </w>
+                <w type="acp-inf" lemma="l000033">
+                  <c type="nlog">ku</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="染西鹿齒蚊"/>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l030903a">
+                <c type="log">simi</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-spst-prv" lemma="l000015">
+                <c type="phon">sikaba</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="遺不得鶴"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l031907a">
+              <c type="log">wasure</c>
+            </w>
+            <w type="vb-stm" lemma="l030505a">
+              <c type="log">kane</c>
+            </w>
+            <w type="vax-prf-adn" lemma="l000023">
+              <c type="phon">turu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

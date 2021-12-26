@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.9.1699">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="巨椋乃"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l060285">
+                    <c type="phon-kun">opokura</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="入江響奈理"/>
+              <w type="n" lemma="l051122">
+                <w type="vb-stm" lemma="l030219a">
+                  <c type="log">iri</c>
+                </w>
+                <w type="n" lemma="l052401">
+                  <c type="log">ye</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031245a">
+              <c type="log">toyomu</c>
+            </w>
+            <w type="xtn-ifc" lemma="l000804">
+              <c type="phon">nari</c>
+            </w>
+          </s>
+          <lb id="2" corresp="射目人乃"/>
+          <s type="ip-mat">
+            <phr type="pp-pth-ob1">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l099999">
+                    <w type="n" lemma="l090056">
+                      <c type="log">ime</c>
+                    </w>
+                    <w type="n" lemma="l050046">
+                      <c type="log">pito</c>
+                    </w>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="伏見何田井爾"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l051837">
+                      <c type="phon">pusimi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l052120">
+                  <c type="log">tawi</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="鴈渡良之"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050159">
+                <c type="log">kari</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031910a">
+              <c type="log">wataru</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="phon">rasi</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

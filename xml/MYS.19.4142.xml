@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4142">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="春日爾"/>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="pp">
+                    <phr type="np">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n" lemma="l051724">
+                            <c type="log">paru</c>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="log">no</c>
+                        </w>
+                      </phr>
+                      <w type="n" lemma="l050090">
+                        <c type="log">pi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="張流柳乎"/>
+                  <w type="vb-adn">
+                    <w type="vb-stm" lemma="l031455a">
+                      <c type="log">par</c>
+                    </w>
+                    <w type="vax-stv-adn" lemma="l000024">
+                      <c type="log">eru</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050151">
+                  <c type="log">yanagwi</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="取持而"/>
+            <w type="vb-ger" lemma="l031256a">
+              <w type="vb-stm" lemma="l031258a">
+                <c type="log">tori</c>
+              </w>
+              <w type="vb-ger" lemma="l031761a">
+                <c type="log">motite</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="見者京之"/>
+          <cl type="ip-adv">
+            <w type="vb-prv" lemma="l031712a">
+              <c type="log">mireba</c>
+            </w>
+          </cl>
+          <phr type="np-sbj">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050129">
+                  <c type="log">miyakwo</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="大路所念"/>
+            <w type="n" lemma="l052574">
+              <w type="adj-stm" lemma="l007009a">
+                <c type="log">opo</c>
+              </w>
+              <w type="n" lemma="l050091">
+                <c type="log">ti</c>
+              </w>
+            </w>
+          </phr>
+          <w type="vb-cls" lemma="l030404a">
+            <c type="log">omopoyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

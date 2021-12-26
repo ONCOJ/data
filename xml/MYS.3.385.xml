@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.385">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="霰零"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk-inf" lemma="l091040">
+                    <w type="n" lemma="l050836">
+                      <c type="log">arare</c>
+                    </w>
+                    <w type="vb-inf" lemma="l031559a">
+                      <c type="log">puri</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="吉志美我高嶺乎"/>
+                <w type="pln" lemma="l060065">
+                  <w type="pln" lemma="l051373">
+                    <c type="phon-on">kwisimi</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon-on">ga</c>
+                  </w>
+                  <w type="n" lemma="l090316">
+                    <c type="log">take</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="險跡"/>
+            <w type="adj-ger">
+              <w type="adj-stm" lemma="l007155">
+                <c type="log">sagasi</c>
+              </w>
+              <w type="acp-ger" lemma="l000034">
+                <c type="log">mi</c>
+                <c type="phon">to</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="草取叵奈和"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l050114">
+                <c type="log">kusa</c>
+              </w>
+            </phr>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l031258a">
+                <c type="log">tori</c>
+              </w>
+              <w type="vb-inf" lemma="l031425a">
+                <c type="phon">panati</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="妹手乎取"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="log">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="nlog">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050012a">
+                <c type="log">te</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031258a">
+            <c type="log">toru</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

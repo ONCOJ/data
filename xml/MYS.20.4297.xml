@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4297">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="乎美奈弊之"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <phr type="conjp">
+                  <phr type="np">
+                    <w type="n" lemma="l050167">
+                      <c type="phon">wominapyesi</c>
+                    </w>
+                  </phr>
+                </phr>
+                <lb id="1" corresp="安伎波疑之努芸"/>
+                <phr type="np">
+                  <w type="n" lemma="l050392">
+                    <w type="n" lemma="l050032">
+                      <c type="phon">aki</c>
+                    </w>
+                    <w type="n" lemma="l050149">
+                      <c type="phon">pagwi</c>
+                    </w>
+                  </w>
+                </phr>
+              </phr>
+              <w type="vb-inf" lemma="l030885a">
+                <c type="phon">sinwogi</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="左乎之可能"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l090193">
+                  <w type="pfx" lemma="l000061">
+                    <c type="phon">sa</c>
+                  </w>
+                  <w type="n" lemma="l052501">
+                    <c type="phon">wo</c>
+                  </w>
+                  <w type="n" lemma="l050071">
+                    <c type="phon">sika</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="都由和気奈加牟"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l052223">
+                <c type="phon">tuyu</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031903a">
+                <c type="phon">wake</c>
+              </w>
+              <w type="vb-stm" lemma="l031267a">
+                <c type="phon">naka</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="多加麻刀能野曾"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l090292">
+                    <c type="phon-on">takamatwo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l051650">
+                <c type="log">nwo</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

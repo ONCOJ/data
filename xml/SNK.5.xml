@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="SNK.5">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <lb id="0" corresp="海行波"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np">
+                <w type="n" lemma="l052517">
+                  <c type="log">umi</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l031840a">
+                <c type="log">yuka</c>
+                <c type="phon">ba</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="美豆久屍"/>
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <w type="vb-adc">
+                  <w type="n" lemma="l050092">
+                    <c type="phon">mi</c>
+                  </w>
+                  <w type="vb-adc" lemma="l031134a">
+                    <c type="phon">duku</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l051157">
+                <c type="log">kabane</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="2" corresp="山行波"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np">
+                <w type="n" lemma="l050034">
+                  <c type="log">yama</c>
+                </w>
+              </phr>
+              <w type="vb-cnd" lemma="l031840a">
+                <c type="log">yuka</c>
+                <c type="phon">ba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="草牟須屍"/>
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="np-sbj">
+                  <w type="n" lemma="l050114">
+                    <c type="log">kusa</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l031730a">
+                  <c type="phon">musu</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l051157">
+                <c type="log">kabane</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="4" corresp="王乃"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050267">
+                      <w type="adj-stm" lemma="l007009a">
+                        <c type="log">opo</c>
+                      </w>
+                      <w type="n" lemma="l004266">
+                        <c type="log">kimi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="5" corresp="幣爾去曾死米"/>
+                <w type="n" lemma="l050133">
+                  <c type="phon">pye</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+            </phr>
+            <w type="vb-exc">
+              <w type="vb-stm" lemma="l030883a">
+                <c type="log">sina</c>
+              </w>
+              <w type="vax-cjr-exc" lemma="l000002">
+                <c type="phon">me</c>
+              </w>
+            </w>
+          </s>
+          <lb id="6" corresp="能杼爾波不死"/>
+          <s type="ip-mat">
+            <phr type="np-adv">
+              <w type="adv" lemma="l004086">
+                <c type="phon">nodoni</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ngc" lemma="l030883a">
+              <c type="log">sinazi</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

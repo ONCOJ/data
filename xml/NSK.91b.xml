@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="NSK.91b">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="於弥能姑能"/>
+          <phr type="np-voc">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l051665">
+                      <c type="phon">omi</c>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="phon">no</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050028">
+                  <c type="phon">kwo</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="phon">no</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="耶陛可羅可枳"/>
+            <w type="n" lemma="l050444">
+              <w type="num" lemma="l002008">
+                <c type="phon">ya</c>
+              </w>
+              <w type="cl" lemma="l002034">
+                <c type="phon">pye</c>
+              </w>
+            </w>
+            <w type="n" lemma="l050207">
+              <w type="pln" lemma="l051219">
+                <c type="phon-on">kara</c>
+              </w>
+              <w type="n" lemma="l050141">
+                <c type="phon">kaki</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="2" corresp="始陁騰余瀰"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <cl type="ip-adv">
+                  <phr type="np">
+                    <w type="n" lemma="l050026">
+                      <c type="phon">sita</c>
+                    </w>
+                  </phr>
+                  <w type="vb-inf" lemma="l031245a">
+                    <c type="phon">toyomi</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="那為与釐據魔"/>
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l051602">
+                      <c type="phon">nawi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="vb-cnd">
+                  <w type="vb-stm" lemma="l031887a">
+                    <c type="phon">yori</c>
+                  </w>
+                  <w type="vb-cnd" lemma="l030612a">
+                    <c type="phon">koba</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="弥黎夢之魔柯枳"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031824a">
+                  <c type="phon">yare</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050209">
+              <w type="n" lemma="l051919">
+                <c type="phon">siba</c>
+              </w>
+              <w type="n" lemma="l050141">
+                <c type="phon">kaki</c>
+              </w>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

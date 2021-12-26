@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.5.828">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="比等期等爾"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050046">
+                      <c type="phon">pito</c>
+                    </w>
+                  </phr>
+                  <w type="p-res" lemma="l000546">
+                    <c type="phon">gotoni</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="乎理加射之都都"/>
+                <w type="vb-inf" lemma="l031960a">
+                  <c type="phon">wori</c>
+                </w>
+              </cl>
+              <w type="vb-ctt" lemma="l030454a">
+                <c type="phon">kazasitutu</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="阿蘇倍等母"/>
+            <w type="vb-css" lemma="l030041a">
+              <c type="phon">aswobedomo</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="伊夜米豆良之岐"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <phr type="np-adv">
+                  <w type="adv" lemma="l004014">
+                    <c type="phon">iya</c>
+                  </w>
+                </phr>
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007113">
+                    <c type="phon">medurasi</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="phon">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="烏梅能波奈加母"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l052251">
+                    <c type="phon">ume</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050083">
+                <c type="phon">pana</c>
+              </w>
+            </phr>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

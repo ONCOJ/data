@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3210">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="足桧木乃"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <phr type="np-zyo">
+                    <cl type="ip-ept">
+                      <w type="mk-adi" lemma="l091054">
+                        <w type="n" lemma="l050860">
+                          <c type="log">asi</c>
+                          <c type="phon">pikwi</c>
+                        </w>
+                        <w type="cop-adi" lemma="l031965">
+                          <c type="phon">no</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="片山雉"/>
+                    <w type="n">
+                      <w type="adj-stm" lemma="l090031">
+                        <c type="log">kata</c>
+                      </w>
+                      <w type="n" lemma="l050034">
+                        <c type="log">yama</c>
+                      </w>
+                      <w type="n" lemma="l050180">
+                        <c type="log">kigisi</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <lb id="2" corresp="立徃牟"/>
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l031043a">
+                      <c type="log">tati</c>
+                    </w>
+                    <w type="vb-stm" lemma="l031840a">
+                      <c type="log">yuka</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="君爾後而"/>
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030332a">
+              <c type="log">okurete</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="打四鶏目八方"/>
+          <w type="adj-exc">
+            <w type="adj-stm" lemma="l080116">
+              <c type="phon">utusi</c>
+            </w>
+            <w type="acp-stm" lemma="l000033">
+              <c type="phon">kye</c>
+            </w>
+            <w type="vax-cjr-exc" lemma="l000002">
+              <c type="phon">me</c>
+            </w>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

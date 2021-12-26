@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3219">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="豊國乃"/>
+          <cl type="ip-adv">
+            <phr type="np-pth">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l090465">
+                    <c type="plog">toyokuni</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="聞之長濱"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l051264">
+                    <c type="phon">kiku</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090680">
+                <w type="adj-stm" lemma="l007007">
+                  <c type="log">naga</c>
+                </w>
+                <w type="n" lemma="l051709">
+                  <c type="log">pama</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="2" corresp="去晩"/>
+            <w type="vb-inf" lemma="l031833a">
+              <w type="vb-stm" lemma="l031840a">
+                <c type="log">yuki</c>
+              </w>
+              <w type="vb-inf" lemma="l030662a">
+                <c type="log">kurasi</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="日之昏去者"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050090">
+                  <c type="log">pi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l030668a">
+                <c type="log">kure</c>
+              </w>
+              <w type="vax-prf-prv" lemma="l000018">
+                <c type="phon-kun">nure</c>
+                <c type="log">ba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="妹食序念"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l050027">
+                <c type="log">imo</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <w type="p-foc" lemma="l000527">
+            <c type="phon">so</c>
+          </w>
+          <w type="vb-adc" lemma="l030399a">
+            <c type="log">omopu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

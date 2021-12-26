@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3773">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="君我牟多"/>
+            <cl type="ip-adv">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l004266">
+                      <c type="log">kimi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l051550">
+                  <c type="phon">muta</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="由可麻之毛能乎"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031840a">
+                  <c type="phon">yuka</c>
+                </w>
+                <w type="vax-sjv-adc" lemma="l000004">
+                  <c type="phon">masi</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000516">
+                <c type="phon">monowo</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="於奈自許等"/>
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <w type="adj-cls">
+                  <w type="adj-stm" lemma="l007134">
+                    <c type="phon">onazi</c>
+                  </w>
+                  <w type="acp-cls" lemma="l000033">
+                    <c type="null">*</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050041">
+                <c type="phon">koto</c>
+              </w>
+            </phr>
+          </s>
+          <lb id="3" corresp="於久礼弖乎礼杼"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l030332a">
+                <c type="phon">okurete</c>
+              </w>
+              <w type="vb-pgs-css" lemma="l031957a">
+                <c type="phon">woredo</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="与伎許等毛奈之"/>
+            <phr type="pp-arg">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="adj-adn">
+                    <w type="adj-stm" lemma="l007015">
+                      <c type="phon">yo</c>
+                    </w>
+                    <w type="acp-adn" lemma="l000033">
+                      <c type="phon">ki</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050041">
+                  <c type="phon">koto</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="phon">si</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

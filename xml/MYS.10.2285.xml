@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2285">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="秋芽子之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-zyo">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l050392">
+                          <w type="n" lemma="l050032">
+                            <c type="log">aki</c>
+                          </w>
+                          <w type="n" lemma="l050149">
+                            <c type="log">pagwi</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="花野乃為酢寸"/>
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l090645">
+                          <w type="n" lemma="l050083">
+                            <c type="log">pana</c>
+                          </w>
+                          <w type="n" lemma="l051650">
+                            <c type="log">nwo</c>
+                          </w>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l050165">
+                      <c type="phon">susuki</c>
+                    </w>
+                  </phr>
+                  <cl type="ip-adv">
+                    <lb id="2" corresp="穂庭不出"/>
+                    <phr type="np-prd">
+                      <w type="n" lemma="l080146">
+                        <c type="phon-kun">po</c>
+                      </w>
+                    </phr>
+                    <w type="cop-inf" lemma="l031965">
+                      <c type="phon-kun">ni</c>
+                    </w>
+                    <w type="p-top" lemma="l000522">
+                      <c type="phon-kun">pa</c>
+                    </w>
+                  </cl>
+                  <w type="vb-ifc">
+                    <w type="vb-stm" lemma="l030172a">
+                      <c type="log">ide</c>
+                    </w>
+                    <w type="vax-neg-ifc" lemma="l000006a">
+                      <c type="log">zu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="吾戀度"/>
+                <phr type="pp-xpr-sbj">
+                  <phr type="np">
+                    <w type="pro-n" lemma="l042057">
+                      <c type="log">wa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="log">ga</c>
+                  </w>
+                </phr>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l030731a">
+                    <c type="log">kwopwi</c>
+                  </w>
+                  <w type="vb-adc" lemma="l031910a">
+                    <c type="log">wataru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="隠嬬波母"/>
+              <w type="n" lemma="l050713">
+                <w type="vb-stm" lemma="l030744a">
+                  <c type="log">komori</c>
+                </w>
+                <w type="n" lemma="l050120">
+                  <c type="log">duma</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.3975">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="和賀勢故迩"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042057">
+                        <c type="phon">wa</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050285">
+                    <c type="phon">sekwo</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="古非須敞奈可利"/>
+              <w type="vb-inf" lemma="l030731a">
+                <c type="phon">kwopwi</c>
+              </w>
+            </cl>
+            <phr type="np-sbj">
+              <w type="n" lemma="l051999">
+                <c type="phon">subye</c>
+              </w>
+            </phr>
+            <w type="adj-ifc">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-ifc" lemma="l000033">
+                <c type="phon">kari</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="安之可伎能"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk-adi" lemma="l091048">
+                        <w type="n" lemma="l050203">
+                          <w type="n" lemma="l052471">
+                            <c type="phon">asi</c>
+                          </w>
+                          <w type="n" lemma="l050141">
+                            <c type="phon">kaki</c>
+                          </w>
+                        </w>
+                        <w type="cop-adi" lemma="l031965">
+                          <c type="phon">no</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="3" corresp="保可爾奈気加布"/>
+                    <w type="n" lemma="l051801">
+                      <c type="phon">poka</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adc" lemma="l032038a">
+                  <c type="phon">nagekapu</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="安礼之可奈思母"/>
+              <w type="pro-n" lemma="l042083">
+                <c type="phon">are</c>
+              </w>
+            </phr>
+            <w type="p-res" lemma="l000526a">
+              <c type="phon">si</c>
+            </w>
+          </phr>
+          <w type="adj-cls">
+            <w type="adj-stm" lemma="l007022">
+              <c type="phon">kanasi</c>
+            </w>
+            <w type="acp-cls" lemma="l000033">
+              <c type="null">*</c>
+            </w>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

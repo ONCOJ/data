@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4346" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="知知波波我"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <w type="n" lemma="l050402">
+                      <w type="n" lemma="l050641">
+                        <c type="phon">titi</c>
+                      </w>
+                      <w type="n" lemma="l051720">
+                        <c type="phon">papa</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="可之良加伎奈弖"/>
+                <cl type="ip-adv">
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l051239">
+                      <c type="phon">kasira</c>
+                    </w>
+                  </phr>
+                  <w type="vb-inf">
+                    <w type="pfx-mph" lemma="l000031">
+                      <c type="phon">kaki</c>
+                    </w>
+                    <w type="vb-inf" lemma="l031285a">
+                      <c type="phon">nade</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="佐久安例弖"/>
+                <cl type="ip-arg">
+                  <w type="adv" lemma="l090495">
+                    <c type="phon">saku</c>
+                  </w>
+                  <w type="vb-imp" lemma="l030125a">
+                    <c type="phon">are</c>
+                  </w>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">te</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="伊比之気等婆是"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030199a">
+                    <c type="phon">ipi</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l051311">
+                <w type="n" lemma="l050148">
+                  <c type="phon">keto</c>
+                </w>
+                <w type="n" lemma="l052480">
+                  <c type="phon">ba</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">ze</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="和須礼加祢豆流"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l031907a">
+              <c type="phon">wasure</c>
+            </w>
+            <w type="vb-stm" lemma="l030505a">
+              <c type="phon">kane</c>
+            </w>
+            <w type="vax-prf-adn" lemma="l000023">
+              <c type="phon">turu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

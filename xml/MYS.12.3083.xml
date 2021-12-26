@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.3083">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="戀事"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <w type="vb-adn" lemma="l030731a">
+                  <c type="log">kwopuru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050041">
+                <c type="log">koto</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="益今者"/>
+            <w type="vb-prv" lemma="l031630a">
+              <c type="log">masareba</c>
+            </w>
+          </cl>
+          <phr type="pp-adv">
+            <phr type="np">
+              <w type="n" lemma="l004025">
+                <c type="log">ima</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="玉緒之"/>
+          <cl type="ip-arg">
+            <cl type="ip-adv">
+              <cl type="ip-ept">
+                <w type="mk-adi" lemma="l091027">
+                  <w type="n" lemma="l052078">
+                    <c type="log">tama</c>
+                  </w>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="nlog">no</c>
+                  </w>
+                  <w type="n" lemma="l050117">
+                    <c type="log">wo</c>
+                  </w>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="絶而乱而"/>
+              <cl type="ip-adv">
+                <w type="vb-ger" lemma="l031090a">
+                  <c type="log">tayete</c>
+                </w>
+              </cl>
+              <w type="vb-ger" lemma="l031692a">
+                <c type="log">midarete</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="可死所念"/>
+            <w type="vb-cls" lemma="l030883a">
+              <c type="log">sinu</c>
+            </w>
+            <w type="xtn-inf">
+              <w type="xtn-stm" lemma="l000801">
+                <c type="log">be</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <w type="vb-cls" lemma="l030404a">
+            <c type="log">omopoyu</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

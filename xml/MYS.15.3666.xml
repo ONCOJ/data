@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3666">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="由布佐礼婆"/>
+            <cl type="ip-adv">
+              <w type="vb-prv" lemma="l031851a">
+                <w type="n" lemma="l050087">
+                  <c type="phon">yupu</c>
+                </w>
+                <w type="vb-prv" lemma="l030841a">
+                  <c type="phon">sareba</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="安伎可是左牟思"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050254">
+                <w type="n" lemma="l050032">
+                  <c type="phon">aki</c>
+                </w>
+                <w type="n" lemma="l050008a">
+                  <c type="phon">kaze</c>
+                </w>
+              </w>
+            </phr>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007159">
+                <c type="phon">samu</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="phon">si</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="和伎母故我"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050290">
+                    <w type="n" lemma="l050020">
+                      <c type="phon">wagimo</c>
+                    </w>
+                    <w type="n" lemma="l050028">
+                      <c type="phon">kwo</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="等伎安良比其呂母"/>
+              <w type="n" lemma="l050315">
+                <w type="n" lemma="l031199b">
+                  <c type="phon">toki</c>
+                </w>
+                <w type="vb-stm" lemma="l030123a">
+                  <c type="phon">arapi</c>
+                </w>
+                <w type="n" lemma="l051304">
+                  <c type="phon">goromo</c>
+                </w>
+              </w>
+            </phr>
+            <lb id="4" corresp="由伎弖波也伎牟"/>
+            <cl type="ip-adv">
+              <w type="vb-ger" lemma="l031840a">
+                <c type="phon">yukite</c>
+              </w>
+            </cl>
+            <phr type="np-adv">
+              <w type="adj-stm" lemma="l004028">
+                <c type="phon">paya</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l030608a">
+                <c type="phon">ki</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

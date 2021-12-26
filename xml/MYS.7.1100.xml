@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1100">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="巻向之"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-prd">
+                    <cl type="ip-rel">
+                      <cl type="ip-adv">
+                        <phr type="pp">
+                          <phr type="np">
+                            <phr type="pp">
+                              <phr type="np">
+                                <w type="pln" lemma="l051533">
+                                  <c type="plog">makimuku</c>
+                                </w>
+                              </phr>
+                              <w type="p-case-gen" lemma="l000520">
+                                <c type="log">no</c>
+                              </w>
+                            </phr>
+                            <lb id="1" corresp="病足之川由"/>
+                            <phr type="np">
+                              <w type="pln" lemma="l060246">
+                                <w type="pln" lemma="l050811">
+                                  <c type="phon-kun">anasi</c>
+                                </w>
+                                <w type="p-case-gen" lemma="l000520">
+                                  <c type="log">no</c>
+                                </w>
+                                <w type="n" lemma="l050025">
+                                  <c type="log">kapa</c>
+                                </w>
+                              </w>
+                            </phr>
+                          </phr>
+                          <w type="p-case-abl" lemma="l000540d">
+                            <c type="log">yu</c>
+                          </w>
+                        </phr>
+                        <lb id="2" corresp="徃水之"/>
+                        <w type="vb-adc" lemma="l031840a">
+                          <c type="log">yuku</c>
+                        </w>
+                      </cl>
+                    </cl>
+                    <w type="n" lemma="l050128">
+                      <c type="log">midu</c>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="絶事無"/>
+                <w type="vb-adn" lemma="l031090a">
+                  <c type="log">tayuru</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l050041">
+                <c type="log">koto</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007028">
+                <c type="log">na</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="又反将見"/>
+          <phr type="np-adv">
+            <w type="adv" lemma="l004022">
+              <c type="log">mata</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030517a">
+              <w type="vb-stm" lemma="l030518a">
+                <c type="log">kapyeri</c>
+              </w>
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

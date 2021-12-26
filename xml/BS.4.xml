@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="BS.4">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="己乃美阿止"/>
+            <phr type="np-voc">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042029">
+                    <c type="phon">ko</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n">
+                <w type="pfx-hon" lemma="l000035">
+                  <c type="phon">mi</c>
+                </w>
+                <w type="n" lemma="l050877">
+                  <c type="phon">ato</c>
+                </w>
+              </w>
+            </phr>
+            <cl type="ip-adv">
+              <lb id="1" corresp="夜与呂豆比賀利乎"/>
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="n">
+                    <w type="num" lemma="l002008">
+                      <c type="phon">ya</c>
+                    </w>
+                    <w type="num" lemma="l002014">
+                      <c type="phon">yorodu</c>
+                    </w>
+                    <w type="n-dvb" lemma="l031464b">
+                      <c type="phon">pikari</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="波奈知伊太志"/>
+              <w type="vb-inf">
+                <w type="vb-stm" lemma="l031425a">
+                  <c type="phon">panati</c>
+                </w>
+                <w type="vb-inf" lemma="l030164a">
+                  <c type="phon">idasi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="毛呂毛呂須久比"/>
+            <cl type="ip-adv">
+              <phr type="np">
+                <w type="n" lemma="l051514">
+                  <c type="phon">moromoro</c>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030928a">
+                <c type="phon">sukupi</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="和多志多麻波奈"/>
+            <w type="vb-opt">
+              <w type="vb-stm" lemma="l031908a">
+                <c type="phon">watasi</c>
+              </w>
+              <w type="vb-opt" lemma="l031077a">
+                <c type="phon">tamapana</c>
+              </w>
+            </w>
+          </s>
+          <lb id="5" corresp="須久比多麻波奈"/>
+          <s type="ip-mat">
+            <w type="vb-opt">
+              <w type="vb-stm" lemma="l030928a">
+                <c type="phon">sukupi</c>
+              </w>
+              <w type="vb-opt" lemma="l031077a">
+                <c type="phon">tamapana</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

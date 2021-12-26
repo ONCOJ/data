@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1409">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="秋山"/>
+          <phr type="pp-arg">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <cl type="ip-adv">
+                    <phr type="np-ob1">
+                      <phr type="pp">
+                        <phr type="np">
+                          <w type="n">
+                            <w type="n" lemma="l050032">
+                              <c type="log">aki</c>
+                            </w>
+                            <w type="n" lemma="l050034">
+                              <c type="log">yama</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000520">
+                          <c type="nlog">no</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="黄葉a怜"/>
+                      <w type="n-dvb" lemma="l031780b">
+                        <c type="log">momiti</c>
+                      </w>
+                    </phr>
+                    <w type="vb-inf" lemma="l030069a">
+                      <c type="log">aparebi</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="浦觸而"/>
+                  <w type="vb-ger" lemma="l030307a">
+                    <c type="phon">urabure</c>
+                    <c type="log">te</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="入西妹者"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030220a">
+                    <c type="log">iri</c>
+                  </w>
+                  <w type="vax-prf-stm" lemma="l000018">
+                    <c type="phon">ni</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050027">
+                <c type="log">imo</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="待不来"/>
+          <cl type="ip-adv">
+            <w type="vb-css" lemma="l031644a">
+              <c type="log">matedo</c>
+            </w>
+          </cl>
+          <w type="vb-ifc">
+            <w type="vb-stm" lemma="l030612a">
+              <c type="log">ki</c>
+            </w>
+            <w type="vb-stm" lemma="l030206a">
+              <c type="log">masa</c>
+            </w>
+            <w type="vax-neg-ifc" lemma="l000006a">
+              <c type="log">zu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

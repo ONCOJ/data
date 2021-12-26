@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3491">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="楊奈疑許曾"/>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050151">
+                  <c type="phon">yanagwi</c>
+                </w>
+              </phr>
+              <w type="p-foc" lemma="l000510">
+                <c type="phon">koso</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="伎礼波伴要須礼"/>
+            <cl type="ip-adv">
+              <w type="vb-prv" lemma="l030606a">
+                <c type="phon">kireba</c>
+              </w>
+            </cl>
+            <w type="vb-inf" lemma="l031447a">
+              <c type="phon">paye</c>
+            </w>
+            <w type="vb-exc" lemma="l030919a">
+              <c type="phon">sure</c>
+            </w>
+          </s>
+          <lb id="2" corresp="余能比等乃"/>
+          <s type="ip-mat">
+            <phr type="pp-ob1">
+              <cl type="ip-nmz">
+                <phr type="pp-sbj">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l050040">
+                          <c type="phon">yo</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="phon">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l050046">
+                      <c type="phon">pito</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <phr type="pp">
+                  <phr type="np">
+                    <lb id="3" corresp="古非爾思奈武乎"/>
+                    <w type="n-dvb" lemma="l030731b">
+                      <c type="phon">kwopwi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <w type="vb-adc">
+                  <w type="vb-stm" lemma="l030883a">
+                    <c type="phon">sina</c>
+                  </w>
+                  <w type="vax-cjr-adc" lemma="l000002">
+                    <c type="phon">mu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="伊可爾世余等曾"/>
+            <cl type="ip-arg">
+              <w type="adj-inf">
+                <w type="wh-adj-stm" lemma="l042002">
+                  <c type="phon">ika</c>
+                </w>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-imp" lemma="l030919a">
+              <c type="phon">seyo</c>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

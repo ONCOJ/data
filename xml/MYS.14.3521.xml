@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3521">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="可良須等布"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-arg">
+                  <phr type="np">
+                    <w type="n" lemma="l051223">
+                      <c type="phon">karasu</c>
+                    </w>
+                  </phr>
+                  <w type="p-comp" lemma="l000530">
+                    <c type="phon">to</c>
+                  </w>
+                </cl>
+                <w type="vb-adc" lemma="l030199a">
+                  <c type="phon">pu</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="於保乎曾杼里能"/>
+              <w type="n" lemma="l050670">
+                <w type="adj-stm" lemma="l007009a">
+                  <c type="phon">opo</c>
+                </w>
+                <w type="n" lemma="l052359">
+                  <c type="phon">woso</c>
+                </w>
+                <w type="n" lemma="l050970">
+                  <c type="phon">dori</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="phon">no</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="麻左弖爾毛"/>
+          <phr type="pp-mpt">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="adv" lemma="l004074">
+                      <c type="phon">masadeni</c>
+                    </w>
+                  </phr>
+                  <w type="p-top" lemma="l000514">
+                    <c type="phon">mo</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="伎麻左奴伎美乎"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030612a">
+                    <c type="phon">ki</c>
+                  </w>
+                  <w type="vb-stm" lemma="l030206a">
+                    <c type="phon">masa</c>
+                  </w>
+                  <w type="vax-neg-adn" lemma="l000006a">
+                    <c type="phon">nu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l004266">
+                <c type="phon">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="許呂久等曾奈久"/>
+          <cl type="ip-arg">
+            <phr type="np-adv">
+              <w type="n" lemma="l090146">
+                <c type="phon">koroku</c>
+              </w>
+            </phr>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </cl>
+          <w type="vb-adc" lemma="l031267a">
+            <c type="phon">naku</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

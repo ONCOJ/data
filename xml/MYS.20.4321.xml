@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4321" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="可之古伎夜"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <cl type="ip-rel">
+                  <w type="adj-adn">
+                    <w type="adj-stm" lemma="l007078">
+                      <c type="phon">kasikwo</c>
+                    </w>
+                    <w type="acp-adn" lemma="l000033">
+                      <c type="phon">ki</c>
+                    </w>
+                  </w>
+                  <w type="p-foc" lemma="l000537">
+                    <c type="phon">ya</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="美許等加我布理"/>
+                <w type="n" lemma="l050752">
+                  <w type="pfx-hon" lemma="l000035">
+                    <c type="phon">mi</c>
+                  </w>
+                  <w type="n" lemma="l050148">
+                    <c type="phon">koto</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-inf" lemma="l030423a">
+                <c type="phon">kagapuri</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="阿須由利也"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050864">
+                  <c type="phon">asu</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540c">
+                <c type="phon">yuri</c>
+              </w>
+              <w type="p-foc" lemma="l000537">
+                <c type="phon">ya</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="加曳我牟多祢牟"/>
+            <phr type="np-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051252">
+                    <c type="phon">kaye</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l051550">
+                <c type="phon">muta</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031342a">
+                <c type="phon">ne</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="伊牟奈之爾志弖"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-sbj">
+                <w type="n" lemma="l050027">
+                  <c type="phon">imu</c>
+                </w>
+              </phr>
+              <w type="adj-cls">
+                <w type="adj-stm" lemma="l007028">
+                  <c type="phon">na</c>
+                </w>
+                <w type="acp-cls" lemma="l000033">
+                  <c type="phon">si</c>
+                </w>
+              </w>
+            </cl>
+            <w type="cop-ger" lemma="l031965">
+              <c type="phon">nisite</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

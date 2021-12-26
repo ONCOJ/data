@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3818">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="朝霞"/>
+          <phr type="np">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l099999">
+                    <w type="n" lemma="l050139">
+                      <c type="log">asa</c>
+                    </w>
+                    <w type="n" lemma="l090183">
+                      <c type="log">kasumi</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="香火屋之下乃"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l051216">
+                      <w type="n" lemma="l051215">
+                        <c type="phon">kapwi</c>
+                      </w>
+                      <w type="n" lemma="l050182">
+                        <c type="phon">ya</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050026">
+                  <c type="log">sita</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="鳴川津"/>
+            <cl type="ip-rel">
+              <w type="vb-adc" lemma="l031267a">
+                <c type="phon">naku</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l052560">
+              <c type="phon">kapadu</c>
+            </w>
+          </phr>
+          <lb id="3" corresp="之努比管有常"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <cl type="ip-arg">
+                <w type="vb-ctt" lemma="l030886a">
+                  <c type="phon">sinwopitutu</c>
+                </w>
+                <w type="vb-stv-ifc" lemma="l030125a">
+                  <c type="phon">ari</c>
+                </w>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <lb id="4" corresp="將告兒毛欲得"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031140a">
+                  <c type="phon">tuge</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l050028">
+              <c type="phon">kwo</c>
+            </w>
+          </phr>
+          <w type="p-fnl-opt" lemma="l000515">
+            <c type="phon">moga</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

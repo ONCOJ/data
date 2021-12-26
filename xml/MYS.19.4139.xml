@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4139">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="春苑"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051724">
+                    <c type="log">paru</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l051993">
+                <c type="log">sono</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="紅爾保布"/>
+            <phr type="np-prd">
+              <w type="n" lemma="l051346">
+                <c type="log">kurenawi</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031335a">
+              <c type="phon">nipopu</c>
+            </w>
+          </s>
+          <lb id="2" corresp="桃花"/>
+          <s type="ip-mat">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="np-sbj">
+                        <phr type="pp">
+                          <phr type="np">
+                            <w type="n" lemma="l051504">
+                              <c type="log">momo</c>
+                            </w>
+                          </phr>
+                          <w type="p-case-gen" lemma="l000520">
+                            <c type="nlog">no</c>
+                          </w>
+                        </phr>
+                        <w type="n" lemma="l050083">
+                          <c type="log">pana</c>
+                        </w>
+                        <lb id="3" corresp="下照道爾"/>
+                      </phr>
+                      <w type="vb-adc" lemma="l030867a">
+                        <w type="n" lemma="l050026">
+                          <c type="log">sita</c>
+                        </w>
+                        <w type="vb-adc" lemma="l031193a">
+                          <c type="log">deru</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <w type="n" lemma="l050091">
+                      <c type="log">miti</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-dat" lemma="l000519">
+                    <c type="phon">ni</c>
+                  </w>
+                </phr>
+                <lb id="4" corresp="出立d嬬"/>
+                <w type="vb-adc" lemma="l030176a">
+                  <w type="vb-stm" lemma="l030172a">
+                    <c type="log">ide</c>
+                  </w>
+                  <w type="vb-adc" lemma="l031043a">
+                    <c type="log">tatu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050145">
+                <c type="log">wotomye</c>
+              </w>
+            </phr>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

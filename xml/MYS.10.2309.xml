@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2309">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="祝部等之"/>
+          <cl type="ip-arg">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <phr type="pp-sbj">
+                        <phr type="np">
+                          <w type="n">
+                            <w type="n" lemma="l090674">
+                              <c type="log">papuri</c>
+                            </w>
+                            <w type="sfx" lemma="l001003">
+                              <c type="log">ra</c>
+                            </w>
+                          </w>
+                        </phr>
+                        <w type="p-case-gen" lemma="l000503">
+                          <c type="log">ga</c>
+                        </w>
+                      </phr>
+                      <lb id="1" corresp="齊經社之"/>
+                      <w type="vb-adc" lemma="l030193a">
+                        <c type="log">ipapu</c>
+                      </w>
+                    </cl>
+                    <w type="n" lemma="l050562">
+                      <c type="log">yasiro</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="黄葉毛"/>
+                <w type="n" lemma="l050388">
+                  <w type="vb-stm" lemma="l031780a">
+                    <c type="log">momiti</c>
+                  </w>
+                  <w type="n" lemma="l052480">
+                    <c type="log">ba</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="標縄越而"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n">
+                  <w type="n" lemma="l090177">
+                    <c type="log">sime</c>
+                  </w>
+                  <w type="n" lemma="l051590">
+                    <c type="log">napa</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l030747a">
+                <c type="log">kwoyete</c>
+              </w>
+            </cl>
+            <lb id="4" corresp="落云物乎"/>
+            <w type="vb-adc" lemma="l031111a">
+              <c type="log">tiru</c>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="nlog">to</c>
+            </w>
+          </cl>
+          <w type="vb-adc" lemma="l030199a">
+            <c type="log">ipu</c>
+          </w>
+          <w type="p-conn" lemma="l000516">
+            <c type="log">mono</c>
+            <c type="phon">wo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

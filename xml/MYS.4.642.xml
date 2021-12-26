@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.4.642">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="吾妹兒爾"/>
+          <cl type="ip-arg">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <cl type="ip-adv">
+                  <phr type="pp-ob1">
+                    <phr type="np">
+                      <w type="n" lemma="l050290">
+                        <w type="n" lemma="l050020">
+                          <c type="log">wagimo</c>
+                        </w>
+                        <w type="n" lemma="l050028">
+                          <c type="log">kwo</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <w type="p-case-dat" lemma="l000519">
+                      <c type="phon">ni</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="戀而乱者"/>
+                  <w type="vb-ger" lemma="l030731a">
+                    <c type="log">kwopwite</c>
+                  </w>
+                </cl>
+                <w type="vb-cnd" lemma="l031692a">
+                  <c type="log">midareba</c>
+                </w>
+              </cl>
+              <lb id="2" corresp="久流部寸二"/>
+              <phr type="pp-gol-ob1">
+                <phr type="np">
+                  <w type="n" lemma="l051349">
+                    <c type="phon">kurubyeki</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="懸而縁与"/>
+              <w type="vb-ger" lemma="l030443a">
+                <c type="log">kakete</c>
+              </w>
+            </cl>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031872a">
+                <c type="log">yose</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+            <w type="cop-inf" lemma="l031968">
+              <c type="log">to</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="余戀始"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042057">
+                <c type="log">wa</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="nlog">ga</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vb-stm" lemma="l030982a">
+              <c type="log">some</c>
+            </w>
+            <w type="vax-spst-adn" lemma="l000015">
+              <c type="log">si</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

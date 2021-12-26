@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3404">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="可美都気努"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <phr type="np">
+                  <phr type="np">
+                    <w type="pln" lemma="l090424">
+                      <w type="n" lemma="l050045">
+                        <c type="phon-on">kami</c>
+                      </w>
+                      <w type="cop-adn" lemma="l031968">
+                        <c type="phon-on">tu</c>
+                      </w>
+                      <w type="pln" lemma="l051387">
+                        <c type="phon-on">kenwo</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="安蘇能麻素武良"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l050867">
+                        <c type="phon">aswo</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n">
+                    <w type="n" lemma="l050568">
+                      <c type="phon">maswo</c>
+                    </w>
+                    <w type="n" lemma="l004060">
+                      <c type="phon">mura</c>
+                    </w>
+                  </w>
+                </phr>
+                <lb id="2" corresp="可伎武太伎"/>
+                <w type="vb-inf">
+                  <w type="pfx-mph" lemma="l000031">
+                    <c type="phon">kaki</c>
+                  </w>
+                  <w type="vb-inf" lemma="l031736a">
+                    <c type="phon">mudaki</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="奴礼杼安加奴乎"/>
+              <w type="vb-css" lemma="l031342a">
+                <c type="phon">nuredo</c>
+              </w>
+            </cl>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030020a">
+                <c type="phon">aka</c>
+              </w>
+              <w type="vax-neg-adn" lemma="l000006a">
+                <c type="phon">nu</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000552">
+              <c type="phon">wo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="安杼加安我世牟"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="wh-adv" lemma="l042078b">
+                <c type="phon">ado</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </phr>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <w type="pro-n" lemma="l042054">
+                <c type="phon">a</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="phon">ga</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030919a">
+              <c type="phon">se</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1313">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="紅之"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <cl type="ip-rel">
+                      <phr type="np-prd">
+                        <w type="n" lemma="l051346">
+                          <c type="log">kurenawi</c>
+                        </w>
+                      </phr>
+                      <w type="cop-adi" lemma="l031965">
+                        <c type="nlog">no</c>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="深染之衣"/>
+                    <w type="n">
+                      <w type="adj-stm" lemma="l007233">
+                        <c type="log">ko</c>
+                      </w>
+                      <w type="n-dvb" lemma="l030981b">
+                        <c type="log">zome</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l051304">
+                  <c type="log">koromo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="下著而"/>
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="n" lemma="l050026">
+                    <c type="log">sita</c>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="nlog">ni</c>
+                </w>
+              </phr>
+              <w type="vb-ger" lemma="l030608a">
+                <c type="log">kite</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="上取著者"/>
+            <phr type="pp-adv">
+              <phr type="np">
+                <w type="n" lemma="l050029a">
+                  <c type="log">upe</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="nlog">ni</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031258a">
+              <c type="log">tori</c>
+            </w>
+            <w type="vb-cnd" lemma="l030608a">
+              <c type="log">kiba</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="事将成鴨"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030719a">
+              <w type="n" lemma="l050148">
+                <c type="log">koto</c>
+              </w>
+              <w type="vb-stm" lemma="l031279a">
+                <c type="log">nasa</c>
+              </w>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="log">mu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1385">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="真鉇持"/>
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-ept">
+                    <w type="mk-inf" lemma="l099999">
+                      <w type="n">
+                        <w type="pfx" lemma="l000062">
+                          <c type="log">ma</c>
+                        </w>
+                        <w type="n" lemma="l090075">
+                          <c type="log">kana</c>
+                        </w>
+                      </w>
+                      <w type="vb-inf" lemma="l031761a">
+                        <c type="log">moti</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="弓削河原之"/>
+                  <w type="pln" lemma="l052433">
+                    <c type="phon-kun">yuge</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="nlog">no</c>
+                </w>
+              </phr>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050025">
+                    <c type="log">kapara</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="埋木之"/>
+              <w type="n" lemma="l052254">
+                <w type="vb-stm" lemma="l080134">
+                  <c type="log">umore</c>
+                </w>
+                <w type="n" lemma="l050003a">
+                  <c type="log">gwi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="cop-adi" lemma="l031965">
+              <c type="log">no</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="不可顕"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-prd">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <w type="vb-adn" lemma="l030121a">
+                    <c type="log">araparu</c>
+                  </w>
+                  <w type="xtn-adn">
+                    <w type="xtn-stm" lemma="l000802">
+                      <c type="log">masizi</c>
+                    </w>
+                    <w type="acp-adn" lemma="l000033">
+                      <c type="log">ki</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="4" corresp="事爾不有君"/>
+                <w type="n" lemma="l050041">
+                  <c type="log">koto</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vb-nml">
+                <w type="vb-stm" lemma="l030125a">
+                  <c type="log">ara</c>
+                </w>
+                <w type="vax-neg-nml" lemma="l000006a">
+                  <c type="log">na</c>
+                  <c type="phon">ku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

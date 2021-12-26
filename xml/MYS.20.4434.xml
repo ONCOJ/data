@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4434">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="比婆里安我流"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <phr type="pp-prd">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="np-sbj">
+                      <w type="n" lemma="l051746">
+                        <c type="phon">pibari</c>
+                      </w>
+                    </phr>
+                    <w type="vb-adc" lemma="l030014a">
+                      <c type="phon">agaru</c>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="波流弊等佐夜爾"/>
+                  <w type="n" lemma="l051724">
+                    <c type="phon">paru</c>
+                  </w>
+                </phr>
+                <w type="p-case-all" lemma="l000523">
+                  <c type="phon">pye</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031968">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l090188a">
+                  <c type="phon">saya</c>
+                </w>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="奈理奴礼波"/>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l031317a">
+                <c type="phon">nari</c>
+              </w>
+              <w type="vax-prf-prv" lemma="l000018">
+                <c type="phon">nureba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="美夜古母美要受"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050129">
+                  <c type="phon">miyakwo</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="phon">mi</c>
+              </w>
+              <w type="vax-pass-stm" lemma="l000011">
+                <c type="phon">ye</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="phon">zu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="可須美多奈妣久"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l090183">
+              <c type="phon">kasumi</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031055a">
+            <c type="phon">tanabiku</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1830">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="打靡"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <cl type="ip-ept">
+                <w type="mk-adc" lemma="l099999">
+                  <w type="pfx-mph" lemma="l000043">
+                    <c type="log">uti</c>
+                  </w>
+                  <w type="vb-adc" lemma="l031294a">
+                    <c type="log">nabiku</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="1" corresp="春去来者"/>
+              <w type="n" lemma="l051724">
+                <c type="log">paru</c>
+              </w>
+            </phr>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l030841a">
+                <c type="log">sari</c>
+              </w>
+              <w type="vb-prv" lemma="l030612a">
+                <c type="log">kureba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="小竹之末丹"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050164">
+                      <c type="log">sinwo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050022a">
+                  <c type="log">ure</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="尾羽打觸而"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l052502">
+                <c type="log">wo</c>
+              </w>
+              <w type="n" lemma="l050088">
+                <c type="log">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="pfx-mph" lemma="l000043">
+                <c type="log">uti</c>
+              </w>
+              <w type="vb-ger" lemma="l031562a">
+                <c type="log">purete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="鴬鳴毛"/>
+          <phr type="np-sbj">
+            <w type="n" lemma="l050161">
+              <c type="log">ugupisu</c>
+            </w>
+          </phr>
+          <w type="vb-adc" lemma="l031267a">
+            <c type="log">naku</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

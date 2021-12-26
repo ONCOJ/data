@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.2.156">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="三諸之"/>
+          <phr type="np">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l080132">
+                  <c type="phon-kun">mimoro</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="神之神須疑"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l050005a">
+                  <c type="log">kamwi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="log">no</c>
+              </w>
+            </phr>
+            <w type="n" lemma="l050580">
+              <w type="n" lemma="l050005b">
+                <c type="log">kamu</c>
+              </w>
+              <w type="n" lemma="l090693">
+                <c type="phon">sugwi</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="2" corresp="已具耳"/>
+          <w type="word" lemma="l099997">
+            <c type="ill">xxx</c>
+          </w>
+          <lb id="3" corresp="矣自得見監乍共"/>
+          <w type="word" lemma="l099997">
+            <c type="ill">xxx</c>
+          </w>
+          <lb id="4" corresp="不寝夜叙多"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030185a">
+                    <w type="n" lemma="l050103">
+                      <c type="log">i</c>
+                    </w>
+                    <w type="vb-stm" lemma="l031342a">
+                      <c type="log">ne</c>
+                    </w>
+                  </w>
+                  <w type="vax-neg-adn" lemma="l000006a">
+                    <c type="log">nu</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l050039">
+                <c type="log">ywo</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">zo</c>
+            </w>
+          </phr>
+          <w type="adj-adn">
+            <w type="adj-stm" lemma="l007009b">
+              <c type="log">opo</c>
+            </w>
+            <w type="acp-adn" lemma="l000033">
+              <c type="nlog">ki</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

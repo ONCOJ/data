@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.4019">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="安麻射可流"/>
+            <phr type="np-prd">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <cl type="ip-nmz-sbj">
+                    <phr type="np-prd">
+                      <cl type="ip-ept">
+                        <w type="mk-adc" lemma="l091035">
+                          <w type="n" lemma="l050001b">
+                            <c type="phon">ama</c>
+                          </w>
+                          <w type="vb-adc" lemma="l030770a">
+                            <c type="phon">zakaru</c>
+                          </w>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="比奈等毛之流久"/>
+                      <w type="n" lemma="l050089">
+                        <c type="phon">pina</c>
+                      </w>
+                    </phr>
+                    <w type="p-comp" lemma="l000530">
+                      <c type="phon">to</c>
+                    </w>
+                    <w type="p-top" lemma="l000514">
+                      <c type="phon">mo</c>
+                    </w>
+                  </cl>
+                  <w type="adj-inf">
+                    <w type="adj-stm" lemma="l007174">
+                      <c type="phon">siru</c>
+                    </w>
+                    <w type="acp-inf" lemma="l000033">
+                      <c type="phon">ku</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="許己太久母"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pro-adv" lemma="l042038">
+                      <c type="phon">kokodaku</c>
+                    </w>
+                  </phr>
+                  <w type="p-top" lemma="l000514">
+                    <c type="phon">mo</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="之気伎孤悲可毛"/>
+                <w type="adj-adn">
+                  <w type="adj-stm" lemma="l007167b">
+                    <c type="phon">sige</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="phon">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n-dvb" lemma="l030731b">
+                <c type="phon">kwopwi</c>
+              </w>
+            </phr>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="奈具流日毛奈久"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <w type="vb-adc" lemma="l031270a">
+                    <c type="phon">naguru</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050090">
+                  <c type="log">pi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007028">
+                <c type="phon">na</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

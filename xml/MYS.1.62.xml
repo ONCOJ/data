@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.1.62">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="在根良"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="np">
+                  <cl type="ip-ept">
+                    <w type="mk-cls" lemma="l099999">
+                      <w type="n" lemma="l050840">
+                        <c type="phon">arine</c>
+                      </w>
+                      <w type="adj-cls">
+                        <w type="adj-stm" lemma="l007015">
+                          <c type="phon">yo</c>
+                        </w>
+                        <w type="acp-cls" lemma="l000033">
+                          <c type="phon">si</c>
+                        </w>
+                      </w>
+                    </w>
+                  </cl>
+                  <lb id="1" corresp="對馬乃渡"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pln" lemma="l052215">
+                        <c type="phon">tusima</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n-dvb" lemma="l031910b">
+                    <c type="log">watari</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="々中爾"/>
+                <w type="n">
+                  <w type="n" lemma="l052322">
+                    <c type="phon">wata</c>
+                  </w>
+                  <w type="n" lemma="l050069">
+                    <c type="log">naka</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="幣取向而"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l051646">
+                <c type="log">nusa</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l031255a">
+              <w type="vb-stm" lemma="l031258a">
+                <c type="log">tori</c>
+              </w>
+              <w type="vb-ger" lemma="l031724a">
+                <c type="log">mukete</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="早還許年"/>
+          <phr type="np-adv">
+            <w type="adj-stm" lemma="l004028">
+              <c type="log">paya</c>
+            </w>
+          </phr>
+          <w type="vb-opt">
+            <w type="vb-stm" lemma="l030518a">
+              <c type="log">kapyeri</c>
+            </w>
+            <w type="vb-opt" lemma="l030612a">
+              <c type="phon">kone</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

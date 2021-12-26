@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.19.4255">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="秋時花"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-sbj">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="n" lemma="l050032">
+                          <c type="log">aki</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="nlog">no</c>
+                      </w>
+                    </phr>
+                    <w type="n" lemma="l050083">
+                      <c type="log">pana</c>
+                    </w>
+                  </phr>
+                  <lb id="1" corresp="種爾有等"/>
+                  <w type="adj-inf">
+                    <w type="adj-stm" lemma="l080416">
+                      <c type="log">kusagusa</c>
+                    </w>
+                    <w type="cop-inf" lemma="l031965">
+                      <c type="phon">ni</c>
+                    </w>
+                  </w>
+                  <w type="vb-css" lemma="l030125a">
+                    <c type="log">are</c>
+                    <c type="phon">do</c>
+                  </w>
+                </cl>
+                <lb id="2" corresp="色別爾"/>
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="n" lemma="l050105">
+                      <c type="log">iro</c>
+                    </w>
+                  </phr>
+                  <w type="p-res" lemma="l000546">
+                    <c type="phon">gotoni</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="見之明良牟流"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031751a">
+                    <c type="log">mye</c>
+                    <c type="phon">si</c>
+                  </w>
+                  <w type="vb-adn" lemma="l030019a">
+                    <c type="log">aki</c>
+                    <c type="phon">ramuru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="4" corresp="今日之貴左"/>
+              <w type="n" lemma="l051388">
+                <c type="log">kyepu</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="log">no</c>
+            </w>
+          </phr>
+          <w type="adj-exc">
+            <w type="adj-stm" lemma="l007024">
+              <c type="log">taputwo</c>
+            </w>
+            <w type="acp-exc" lemma="l000039">
+              <c type="phon">sa</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

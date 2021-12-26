@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2207">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="吾屋戸之"/>
+            <phr type="np-sbj">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042057">
+                    <c type="log">wa</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="nlog">ga</c>
+                </w>
+              </phr>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050030">
+                    <c type="log">yadwo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="淺茅色付"/>
+              <w type="n" lemma="l050637">
+                <c type="log">asadi</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l030224a">
+              <w type="n" lemma="l050105">
+                <c type="log">iro</c>
+              </w>
+              <w type="vb-adc" lemma="l031130a">
+                <c type="log">duku</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="吉魚張之"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <phr type="pp">
+                      <phr type="np">
+                        <w type="pln" lemma="l052414">
+                          <c type="phon-kun">yonabari</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-gen" lemma="l000520">
+                        <c type="log">no</c>
+                      </w>
+                    </phr>
+                    <lb id="3" corresp="夏身之上爾"/>
+                    <w type="pln" lemma="l051601">
+                      <c type="phon-kun">natumwi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="log">no</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050029a">
+                  <c type="log">upe</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="四具礼零疑"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l051935">
+                <c type="phon">sigure</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031559a">
+              <c type="log">puru</c>
+            </w>
+            <w type="xtn-cls" lemma="l000806">
+              <c type="log">rasi</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="KK.110">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="意布袁余志"/>
+            <s type="ip-mat">
+              <phr type="pp">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <phr type="np-ob1">
+                      <cl type="ip-ept">
+                        <w type="mk-cls" lemma="l090438">
+                          <w type="n" lemma="l051680">
+                            <c type="phon">opuwo</c>
+                          </w>
+                          <w type="adj-cls">
+                            <w type="adj-stm" lemma="l007015">
+                              <c type="phon">yo</c>
+                            </w>
+                            <w type="acp-cls" lemma="l000033">
+                              <c type="phon">si</c>
+                            </w>
+                          </w>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="斯毘都久阿麻余"/>
+                      <w type="n" lemma="l051920">
+                        <c type="phon">sibi</c>
+                      </w>
+                    </phr>
+                    <w type="vb-adc" lemma="l031132a">
+                      <c type="phon">tuku</c>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050001b">
+                    <c type="phon">ama</c>
+                  </w>
+                </phr>
+                <w type="p-intj" lemma="l000538">
+                  <c type="phon">yo</c>
+                </w>
+              </phr>
+            </s>
+            <lb id="2" corresp="斯賀阿禮婆"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="pro-n" lemma="l042084">
+                    <c type="phon">si</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ga</c>
+                </w>
+              </phr>
+              <w type="vb-prv" lemma="l030136a">
+                <c type="phon">areba</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="宇良胡本斯祁牟"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050109">
+                <c type="phon">ura</c>
+              </w>
+            </phr>
+            <w type="adj-adc">
+              <w type="adj-stm" lemma="l007102">
+                <c type="phon">kwoposi</c>
+              </w>
+              <w type="acp-stm" lemma="l000033">
+                <c type="phon">kye</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="phon">mu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="斯毘都久志毘"/>
+          <phr type="np">
+            <cl type="ip-rel">
+              <phr type="np-ob1">
+                <w type="n" lemma="l051920">
+                  <c type="phon">sibi</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031132a">
+                <c type="phon">tuku</c>
+              </w>
+            </cl>
+            <w type="n" lemma="l051920">
+              <c type="phon">sibi</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

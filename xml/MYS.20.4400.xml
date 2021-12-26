@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4400">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="伊弊於毛布等"/>
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <cl type="ip-adv">
+                      <phr type="np-ob1">
+                        <w type="n" lemma="l050006a">
+                          <c type="phon">ipye</c>
+                        </w>
+                      </phr>
+                      <w type="vb-adc" lemma="l030399a">
+                        <c type="phon">omopu</c>
+                      </w>
+                      <w type="p-conn" lemma="l000541">
+                        <c type="phon">to</c>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="伊乎祢受乎礼婆"/>
+                    <phr type="pp-ob1">
+                      <phr type="np">
+                        <w type="n" lemma="l050103">
+                          <c type="phon">i</c>
+                        </w>
+                      </phr>
+                      <w type="p-case-acc" lemma="l000534">
+                        <c type="phon">wo</c>
+                      </w>
+                    </phr>
+                    <w type="vb-ifc">
+                      <w type="vb-stm" lemma="l031342a">
+                        <c type="phon">ne</c>
+                      </w>
+                      <w type="vax-neg-ifc" lemma="l000006a">
+                        <c type="phon">zu</c>
+                      </w>
+                    </w>
+                    <w type="vb-pgs-prv" lemma="l031957a">
+                      <c type="phon">woreba</c>
+                    </w>
+                  </cl>
+                  <lb id="2" corresp="多頭我奈久"/>
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <w type="n" lemma="l052059">
+                        <c type="phon">tadu</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <w type="vb-adc" lemma="l031267a">
+                    <c type="phon">naku</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="安之弊毛美要受"/>
+                <w type="n" lemma="l050423">
+                  <c type="phon">asipye</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000514">
+                <c type="phon">mo</c>
+              </w>
+            </phr>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="phon">mi</c>
+              </w>
+              <w type="vax-pass-stm" lemma="l000011">
+                <c type="phon">ye</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="phon">zu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="波流乃可須美爾"/>
+          <phr type="pp">
+            <phr type="np">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l051724">
+                    <c type="phon">paru</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l090183">
+                <c type="phon">kasumi</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

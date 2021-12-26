@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4120">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="見麻久保里"/>
+          <cl type="ip-adv">
+            <cl type="ip-arg">
+              <cl type="ip-nmz-ob1">
+                <w type="vb-nml">
+                  <w type="vb-stm" lemma="l031712a">
+                    <c type="log">mi</c>
+                  </w>
+                  <w type="vax-cjr-nml" lemma="l000002">
+                    <c type="phon">maku</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="vb-inf" lemma="l031599a">
+                <c type="phon">pori</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="於毛比之奈倍爾"/>
+            <w type="vb-adn">
+              <w type="vb-stm" lemma="l030399a">
+                <c type="phon">omopi</c>
+              </w>
+              <w type="vax-spst-adn" lemma="l000015">
+                <c type="phon">si</c>
+              </w>
+            </w>
+            <w type="p-conn" lemma="l000542">
+              <c type="phon">napeni</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="賀都良賀気"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np-ob1">
+                    <w type="n" lemma="l004065">
+                      <c type="phon">kadura</c>
+                    </w>
+                  </phr>
+                  <w type="vb-inf" lemma="l030443a">
+                    <c type="phon">kake</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="香具波之君乎"/>
+                <w type="adj-cls">
+                  <w type="adj-stm" lemma="l007071">
+                    <w type="n" lemma="l050101">
+                      <c type="log">ka</c>
+                    </w>
+                    <w type="adj-stm" lemma="l007091">
+                      <c type="phon">gupasi</c>
+                    </w>
+                  </w>
+                  <w type="acp-cls" lemma="l000033">
+                    <c type="null">*</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="安比見都流賀母"/>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030071a">
+              <c type="phon">api</c>
+            </w>
+            <w type="vb-stm" lemma="l031712a">
+              <c type="log">mi</c>
+            </w>
+            <w type="vax-prf-adn" lemma="l000023">
+              <c type="phon">turu</c>
+            </w>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.1992">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="隠耳"/>
+            <cl type="ip-adv">
+              <cl type="ip-adv">
+                <w type="vb-inf" lemma="l030744a">
+                  <c type="log">komori</c>
+                </w>
+                <w type="p-res" lemma="l000521">
+                  <c type="log">nomwi</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="戀者苦"/>
+              <w type="vb-prv" lemma="l030731a">
+                <c type="log">kwopureba</c>
+              </w>
+            </cl>
+            <w type="adj-cls">
+              <w type="adj-stm" lemma="l007096">
+                <c type="log">kurusi</c>
+              </w>
+              <w type="acp-cls" lemma="l000033">
+                <c type="null">*</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="瞿麦之"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <phr type="np-prd">
+                    <w type="n" lemma="l051561">
+                      <c type="log">nadesikwo</c>
+                    </w>
+                  </phr>
+                  <w type="cop-adi" lemma="l031965">
+                    <c type="log">no</c>
+                  </w>
+                </cl>
+                <lb id="3" corresp="花爾開出与"/>
+                <w type="n" lemma="l050083">
+                  <c type="log">pana</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l030778a">
+                <c type="log">saki</c>
+              </w>
+              <w type="vb-imp" lemma="l030172a">
+                <c type="log">de</c>
+                <c type="phon">yo</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="朝旦将見"/>
+          <s type="ip-mat">
+            <phr type="np-adv">
+              <w type="n" lemma="l050851">
+                <c type="log">asanasana</c>
+              </w>
+            </phr>
+            <w type="vb-adc">
+              <w type="vb-stm" lemma="l031712a">
+                <c type="log">mi</c>
+              </w>
+              <w type="vax-cjr-adc" lemma="l000002">
+                <c type="log">mu</c>
+              </w>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

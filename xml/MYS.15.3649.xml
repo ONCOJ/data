@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3649">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="可母自毛能"/>
+          <cl type="ip-adv">
+            <cl type="ip-ept">
+              <w type="mk" lemma="l099999">
+                <w type="n">
+                  <w type="n" lemma="l051191">
+                    <c type="phon">kamo</c>
+                  </w>
+                  <w type="sfx" lemma="l001010">
+                    <c type="phon">zimono</c>
+                  </w>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="宇伎祢乎須礼婆"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n-dvb" lemma="l090538b">
+                  <w type="vb-stm" lemma="l030238a">
+                    <c type="phon">uki</c>
+                  </w>
+                  <w type="n-dvb" lemma="l031342b">
+                    <c type="phon">ne</c>
+                  </w>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <w type="vb-prv" lemma="l030919a">
+              <c type="phon">sureba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="美奈能和多"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l080059">
+                    <w type="n" lemma="l080060">
+                      <c type="phon">mina</c>
+                    </w>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                    <w type="n" lemma="l080006">
+                      <c type="phon">wata</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="3" corresp="可具呂伎可美爾"/>
+                <w type="adj-adn">
+                  <w type="pfx" lemma="l000048">
+                    <c type="phon">ka</c>
+                  </w>
+                  <w type="adj-stm" lemma="l007097">
+                    <c type="phon">guro</c>
+                  </w>
+                  <w type="acp-adn" lemma="l000033">
+                    <c type="phon">ki</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l052532">
+                <c type="phon">kami</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="都由曾於伎爾家類"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l052223">
+                <c type="phon">tuyu</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030327a">
+              <c type="phon">oki</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">ni</c>
+            </w>
+            <w type="vax-mpst-adn" lemma="l000016">
+              <c type="phon">kyeru</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.12.2983">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="高麗劔"/>
+          <phr type="np-adv">
+            <cl type="ip-ept">
+              <w type="mk" lemma="l080290">
+                <w type="pln" lemma="l051292">
+                  <c type="plog">koma</c>
+                </w>
+                <w type="n" lemma="l052211">
+                  <c type="log">turugi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="己之景迹故"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l042057">
+                  <c type="log">wa</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="log">ga</c>
+              </w>
+            </phr>
+            <w type="n">
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+              <w type="n" lemma="l090088">
+                <c type="log">kara</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="2" corresp="外耳"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l052428">
+                  <c type="log">yoso</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000521">
+                <c type="log">nomwi</c>
+              </w>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="nlog">ni</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="見乍哉君乎"/>
+            <w type="vb-ctt" lemma="l031712a">
+              <c type="log">mitutu</c>
+            </w>
+            <w type="p-foc" lemma="l000537">
+              <c type="log">ya</c>
+            </w>
+          </cl>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="log">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="戀渡奈牟"/>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030731a">
+              <c type="log">kwopwi</c>
+            </w>
+            <w type="vb-stm" lemma="l031910a">
+              <c type="log">watari</c>
+            </w>
+            <w type="vax-prf-stm" lemma="l000018">
+              <c type="phon">na</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

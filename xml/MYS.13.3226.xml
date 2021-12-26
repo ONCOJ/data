@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.13.3226">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="沙邪礼浪"/>
+          <phr type="pp-sbj">
+            <cl type="ip-nmz">
+              <phr type="np-xpr">
+                <cl type="ip-rel">
+                  <cl type="ip-adv">
+                    <phr type="np-sbj">
+                      <w type="n" lemma="l051909">
+                        <w type="adj-stm" lemma="l051908">
+                          <c type="phon">sazare</c>
+                        </w>
+                        <w type="n" lemma="l050017">
+                          <c type="log">nami</c>
+                        </w>
+                      </w>
+                    </phr>
+                    <lb id="1" corresp="浮而流"/>
+                    <w type="vb-ger" lemma="l030238a">
+                      <c type="log">ukite</c>
+                    </w>
+                  </cl>
+                  <w type="vb-adn" lemma="l031266a">
+                    <c type="log">nagaruru</c>
+                  </w>
+                </cl>
+                <lb id="2" corresp="長谷河"/>
+                <w type="pln" lemma="l060131">
+                  <w type="pln" lemma="l051737">
+                    <c type="plog">patuse</c>
+                  </w>
+                  <w type="n" lemma="l050025">
+                    <c type="log">gapa</c>
+                  </w>
+                </w>
+              </phr>
+              <lb id="3" corresp="可依礒之"/>
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <cl type="ip-rel">
+                    <w type="vb-adc" lemma="l031887a">
+                      <c type="log">yoru</c>
+                    </w>
+                    <w type="xtn-adn">
+                      <w type="xtn-stm" lemma="l000801">
+                        <c type="log">be</c>
+                      </w>
+                      <w type="acp-adn" lemma="l000033">
+                        <c type="log">ki</c>
+                      </w>
+                    </w>
+                  </cl>
+                  <w type="n" lemma="l050104">
+                    <c type="log">iswo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="log">no</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="無蚊不怜也"/>
+              <w type="adj-adn">
+                <w type="adj-stm" lemma="l007028">
+                  <c type="log">na</c>
+                </w>
+                <w type="acp-adn" lemma="l000033">
+                  <c type="log">ki</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-case-gen" lemma="l000503">
+              <c type="phon">ga</c>
+            </w>
+          </phr>
+          <w type="adj-exc">
+            <w type="adj-stm" lemma="l007154">
+              <c type="log">sabusi</c>
+            </w>
+            <w type="acp-exc" lemma="l000039">
+              <c type="log">sa</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4085">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="夜伎多知乎"/>
+          <cl type="ip-adv">
+            <phr type="pp-gol">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <cl type="ip-ept">
+                      <w type="mk" lemma="l080246">
+                        <w type="n" lemma="l050625">
+                          <w type="vb-stm" lemma="l031793a">
+                            <c type="phon">yaki</c>
+                          </w>
+                          <w type="n" lemma="l052508">
+                            <c type="phon">tati</c>
+                          </w>
+                        </w>
+                        <w type="p-intj" lemma="l000535">
+                          <c type="phon">wo</c>
+                        </w>
+                      </w>
+                    </cl>
+                    <lb id="1" corresp="刀奈美能勢伎爾"/>
+                    <w type="pln-kke" lemma="l092034">
+                      <c type="phon">twonami</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <w type="n-dvb" lemma="l030956b">
+                  <c type="phon">seki</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="安須欲里波"/>
+            <phr type="pp-src">
+              <phr type="np">
+                <w type="n" lemma="l050864">
+                  <c type="phon">asu</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540a">
+                <c type="phon">ywori</c>
+              </w>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <lb id="3" corresp="毛利敞夜里蘇倍"/>
+            <phr type="np-ob1">
+              <w type="n" lemma="l051511">
+                <w type="n-dvb" lemma="l031788b">
+                  <c type="phon">mori</c>
+                </w>
+                <w type="n" lemma="l050942">
+                  <c type="phon">bye</c>
+                </w>
+              </w>
+            </phr>
+            <w type="vb-inf">
+              <w type="vb-stm" lemma="l031823a">
+                <c type="phon">yari</c>
+              </w>
+              <w type="vb-inf" lemma="l030976a">
+                <c type="phon">swope</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="伎美乎等登米牟"/>
+          <phr type="pp-ob1">
+            <phr type="np">
+              <w type="n" lemma="l004266">
+                <c type="phon">kimi</c>
+              </w>
+            </phr>
+            <w type="p-case-acc" lemma="l000534">
+              <c type="phon">wo</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l031215a">
+              <c type="phon">todome</c>
+            </w>
+            <w type="vax-cjr-adc" lemma="l000002">
+              <c type="phon">mu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

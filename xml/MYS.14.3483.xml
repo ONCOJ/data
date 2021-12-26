@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3483">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="比流等家波"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <cl type="ip-adv">
+                  <phr type="np">
+                    <w type="n" lemma="l051781">
+                      <c type="phon">piru</c>
+                    </w>
+                  </phr>
+                  <w type="vb-prv" lemma="l031199a">
+                    <c type="phon">tokyeba</c>
+                  </w>
+                </cl>
+                <lb id="1" corresp="等家奈敞比毛乃"/>
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l031199a">
+                    <c type="phon">tokye</c>
+                  </w>
+                  <w type="vax-neg-adn" lemma="l000045">
+                    <c type="phon">napye</c>
+                  </w>
+                </w>
+              </cl>
+              <w type="n" lemma="l051763">
+                <c type="phon">pimo</c>
+              </w>
+            </phr>
+            <w type="p-case-gen" lemma="l000520">
+              <c type="phon">no</c>
+            </w>
+          </phr>
+          <lb id="2" corresp="和賀西奈爾"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="pro-n" lemma="l042057">
+                        <c type="phon">wa</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <w type="n">
+                    <w type="n" lemma="l090126">
+                      <c type="phon">se</c>
+                    </w>
+                    <w type="sfx" lemma="l000065">
+                      <c type="phon">na</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-dat" lemma="l000519">
+                  <c type="phon">ni</c>
+                </w>
+              </phr>
+              <lb id="3" corresp="阿比与流可毛"/>
+              <w type="vb-adc">
+                <w type="pfx-rcp" lemma="l000025">
+                  <c type="phon">api</c>
+                </w>
+                <w type="vb-adc" lemma="l031887a">
+                  <c type="phon">yoru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="p-fnl-mph" lemma="l000507">
+              <c type="phon">kamo</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="欲流等家也須家"/>
+          <phr type="np-adv">
+            <w type="n" lemma="l052421">
+              <c type="phon">yworu</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l031199a">
+              <c type="phon">tokye</c>
+            </w>
+            <w type="adj-stm" lemma="l007002">
+              <c type="phon">yasu</c>
+            </w>
+            <w type="acp-adn" lemma="l000033">
+              <c type="phon">kye</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1273">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="住吉"/>
+          <phr type="np-sbj">
+            <phr type="pp">
+              <phr type="np">
+                <w type="pln" lemma="l052023">
+                  <c type="plog">suminoye</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="nlog">no</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="波豆麻公之"/>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051698">
+                  <c type="phon">paduma</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000520">
+                <c type="nlog">no</c>
+              </w>
+            </phr>
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-gen" lemma="l000503">
+                <c type="log">ga</c>
+              </w>
+            </phr>
+            <lb id="2" corresp="馬乗衣"/>
+            <w type="n">
+              <w type="n" lemma="l052245">
+                <c type="log">uma</c>
+              </w>
+              <w type="n-dvb" lemma="l031390b">
+                <c type="log">nori</c>
+              </w>
+              <w type="n" lemma="l051304">
+                <c type="log">koromo</c>
+              </w>
+            </w>
+          </phr>
+          <lb id="3" corresp="雜豆臈"/>
+          <phr type="np-prd">
+            <cl type="ip-rel">
+              <cl type="ip-adv">
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <cl type="ip-rel">
+                      <w type="vb-adc" lemma="l032074a">
+                        <c type="phon">sapidurapu</c>
+                      </w>
+                    </cl>
+                    <lb id="4" corresp="漢女乎座而"/>
+                    <w type="n" lemma="l050883">
+                      <w type="n" lemma="l050881">
+                        <c type="log">aya</c>
+                      </w>
+                      <w type="n" lemma="l050132">
+                        <c type="log">mye</c>
+                      </w>
+                    </w>
+                  </phr>
+                  <w type="p-case-acc" lemma="l000534">
+                    <c type="phon">wo</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l030920a">
+                  <c type="log">suwete</c>
+                </w>
+              </cl>
+              <lb id="5" corresp="縫衣叙"/>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l031350a">
+                  <c type="log">nup</c>
+                </w>
+                <w type="vax-stv-adn" lemma="l000024">
+                  <c type="log">yeru</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l051304">
+              <c type="log">koromo</c>
+            </w>
+          </phr>
+          <w type="p-foc" lemma="l000527">
+            <c type="phon">zo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

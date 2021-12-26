@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.10.2069">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="天漢"/>
+          <phr type="pp-sbj">
+            <phr type="np">
+              <cl type="ip-rel">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l050001b">
+                        <c type="log">ama</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="nlog">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050025">
+                    <c type="log">gapa</c>
+                  </w>
+                </phr>
+                <lb id="1" corresp="瀬毎幣"/>
+                <phr type="pp-adv">
+                  <phr type="np">
+                    <w type="n" lemma="l090058">
+                      <c type="log">se</c>
+                    </w>
+                  </phr>
+                  <w type="p-res" lemma="l000546">
+                    <c type="log">gotoni</c>
+                  </w>
+                </phr>
+                <phr type="pp-ob1">
+                  <phr type="np">
+                    <w type="n" lemma="l051646">
+                      <c type="log">nusa</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-acc" lemma="l000534">
+                    <c type="nlog">wo</c>
+                  </w>
+                </phr>
+                <lb id="2" corresp="奉"/>
+                <w type="vb-adc" lemma="l031049a">
+                  <w type="vb-stm" lemma="l031044a">
+                    <c type="log">tate</c>
+                  </w>
+                  <w type="vb-adc" lemma="l031649a">
+                    <c type="log">maturu</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="情者君乎"/>
+              <w type="n" lemma="l050037">
+                <c type="log">kokoro</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="log">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="幸来座跡"/>
+          <cl type="ip-nmz-prd">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007230">
+                  <c type="log">saki</c>
+                </w>
+                <w type="acp-inf" lemma="l000033">
+                  <c type="log">ku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-imp">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="log">ki</c>
+              </w>
+              <w type="vb-imp" lemma="l030206a">
+                <c type="log">mase</c>
+              </w>
+            </w>
+            <w type="p-comp" lemma="l000530">
+              <c type="phon">to</c>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

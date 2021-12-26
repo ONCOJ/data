@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.3.235b">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="王"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050267">
+                <w type="adj-stm" lemma="l007009a">
+                  <c type="log">opo</c>
+                </w>
+                <w type="n" lemma="l004266">
+                  <c type="log">kimi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="nlog">pa</c>
+            </w>
+          </phr>
+          <lb id="1" corresp="神座者"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <w type="n" lemma="l050005a">
+                <c type="log">kamwi</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="nlog">ni</c>
+            </w>
+            <w type="p-res" lemma="l000526a">
+              <c type="nlog">si</c>
+            </w>
+            <w type="vb-prv" lemma="l030206a">
+              <c type="log">maseba</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="雲隠"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adc" lemma="l030655a">
+                  <w type="n" lemma="l050115">
+                    <c type="log">kumo</c>
+                  </w>
+                  <w type="vb-adc" lemma="l030448a">
+                    <c type="log">gakuru</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="伊加土山爾"/>
+              <w type="pln" lemma="l060023">
+                <w type="n" lemma="l051077">
+                  <c type="phon-on">ika</c>
+                  <c type="phon-kun">duti</c>
+                </w>
+                <w type="n" lemma="l050034">
+                  <c type="log">yama</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="宮敷座"/>
+          <phr type="np-ob1">
+            <w type="n" lemma="l050018">
+              <c type="log">miya</c>
+            </w>
+          </phr>
+          <w type="vb-adc">
+            <w type="vb-stm" lemma="l030853a">
+              <c type="log">siki</c>
+            </w>
+            <w type="vb-adc" lemma="l030206a">
+              <c type="log">imasu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

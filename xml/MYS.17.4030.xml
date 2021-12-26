@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.17.4030">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="宇具比須波"/>
+            <cl type="ip-adv">
+              <phr type="pp-sbj">
+                <phr type="np">
+                  <w type="n" lemma="l050161">
+                    <c type="phon">ugupisu</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="伊麻波奈可牟等"/>
+              <phr type="pp-adv">
+                <phr type="np">
+                  <w type="n" lemma="l004025">
+                    <c type="phon">ima</c>
+                  </w>
+                </phr>
+                <w type="p-top" lemma="l000522">
+                  <c type="phon">pa</c>
+                </w>
+              </phr>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031267a">
+                  <c type="phon">naka</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="phon">mu</c>
+                </w>
+              </w>
+              <w type="p-comp" lemma="l000530">
+                <c type="phon">to</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="可多麻低婆"/>
+            <w type="vb-prv" lemma="l030483a">
+              <w type="adj-stm" lemma="l090031">
+                <c type="phon">kata</c>
+              </w>
+              <w type="vb-prv" lemma="l031644a">
+                <c type="phon">mateba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="可須美多奈妣吉"/>
+          <cl type="ip-adv">
+            <phr type="np-sbj">
+              <w type="n" lemma="l090183">
+                <c type="phon">kasumi</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l031055a">
+              <c type="phon">tanabiki</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="都奇波倍爾都追"/>
+          <cl type="ip-adv">
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="n" lemma="l050004a">
+                  <c type="phon">tukwi</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-ctt">
+              <w type="vb-stm" lemma="l031512a">
+                <c type="phon">pe</c>
+              </w>
+              <w type="vax-prf-ctt" lemma="l000018">
+                <c type="phon">nitutu</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

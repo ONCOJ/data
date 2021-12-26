@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1387">
+      <ab type="transliteration">
+        <s type="cp-final">
+          <cl type="ip-sub">
+            <lb id="0" corresp="伏超従"/>
+            <cl type="ip-adv">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="pln" lemma="l080139">
+                    <c type="phon-kun">pusikwoye</c>
+                  </w>
+                </phr>
+                <w type="p-case-abl" lemma="l000540d">
+                  <c type="log">yu</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="去益物乎"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031840a">
+                  <c type="log">yuka</c>
+                </w>
+                <w type="vax-sjv-adc" lemma="l000004">
+                  <c type="phon">masi</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000516">
+                <c type="log">mono</c>
+                <c type="phon">wo</c>
+              </w>
+            </cl>
+            <lb id="2" corresp="間守爾"/>
+            <cl type="ip-adv">
+              <w type="vb-adc" lemma="l031666a">
+                <c type="log">mamorapu</c>
+              </w>
+              <w type="p-conn" lemma="l000551">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <lb id="3" corresp="所打沾"/>
+            <w type="vb-cls">
+              <w type="pfx-mph" lemma="l000043">
+                <c type="log">uti</c>
+              </w>
+              <w type="vb-stm" lemma="l031351a">
+                <c type="log">nurasa</c>
+              </w>
+              <w type="vax-pass-stm" lemma="l000011">
+                <c type="log">ye</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000018">
+                <c type="nlog">nu</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="4" corresp="浪不數為而"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <w type="n" lemma="l050017">
+                <c type="log">nami</c>
+              </w>
+            </phr>
+            <w type="vb-ger">
+              <w type="vb-stm" lemma="l031883a">
+                <c type="log">yoma</c>
+              </w>
+              <w type="vax-neg-ger" lemma="l000006a">
+                <c type="log">zusite</c>
+              </w>
+            </w>
+          </cl>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

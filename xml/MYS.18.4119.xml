@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4119">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="伊爾之敞欲"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <w type="n" lemma="l051101">
+                  <c type="phon">inisipye</c>
+                </w>
+              </phr>
+              <w type="p-case-abl" lemma="l000540b">
+                <c type="phon">ywo</c>
+              </w>
+            </phr>
+            <lb id="1" corresp="之怒比爾家礼婆"/>
+            <w type="vb-prv">
+              <w type="vb-stm" lemma="l030886a">
+                <c type="phon">sinwopi</c>
+              </w>
+              <w type="vax-prf-stm" lemma="l000018">
+                <c type="phon">ni</c>
+              </w>
+              <w type="vax-mpst-prv" lemma="l000016">
+                <c type="phon">kyereba</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="2" corresp="保等登伎須"/>
+          <cl type="ip-adv">
+            <phr type="np-ob1">
+              <cl type="ip-rel">
+                <phr type="np">
+                  <w type="n" lemma="l050160">
+                    <c type="phon">pototogisu</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="奈久許恵伎吉弖"/>
+                <w type="vb-adc" lemma="l031267a">
+                  <c type="phon">naku</c>
+                </w>
+              </cl>
+              <w type="n" lemma="l051318">
+                <c type="phon">kowe</c>
+              </w>
+            </phr>
+            <w type="vb-ger" lemma="l030565a">
+              <c type="phon">kikite</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="古非之吉物乃乎"/>
+          <w type="adj-adn">
+            <w type="adj-stm" lemma="l007103">
+              <c type="phon">kwopwisi</c>
+            </w>
+            <w type="acp-adn" lemma="l000033">
+              <c type="phon">ki</c>
+            </w>
+          </w>
+          <w type="p-conn" lemma="l000516">
+            <c type="log">mo</c>
+            <c type="phon">nowo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

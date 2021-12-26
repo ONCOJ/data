@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="BS.21">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <lb id="0" corresp="x都xxx"/>
+          <w type="word" lemma="l099997">
+            <c type="ill">x</c>
+            <c type="phon">tu</c>
+            <c type="ill">xxx</c>
+          </w>
+          <lb id="1" corresp="xxxx比多留"/>
+          <w type="word" lemma="l099997">
+            <c type="ill">xxxx</c>
+            <c type="phon">pitaru</c>
+          </w>
+          <lb id="2" corresp="x乃多爾"/>
+          <cl type="ip-adv">
+            <phr type="np-prd">
+              <phr type="pp">
+                <phr type="np">
+                  <w type="word" lemma="l099997">
+                    <c type="ill">x</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000520">
+                  <c type="phon">no</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050063">
+                <c type="phon">ta</c>
+              </w>
+            </phr>
+            <w type="cop-inf" lemma="l031965">
+              <c type="phon">ni</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="久須理師毛止牟"/>
+          <s type="ip-mat">
+            <phr type="np-sbj">
+              <w type="n" lemma="l051362">
+                <c type="phon">kusurisi</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031767a">
+              <c type="phon">motomu</c>
+            </w>
+          </s>
+          <lb id="4" corresp="与岐比止毛止无"/>
+          <s type="cp-final">
+            <cl type="ip-sub">
+              <phr type="np-sbj">
+                <cl type="ip-rel">
+                  <w type="adj-adn">
+                    <w type="adj-stm" lemma="l007015">
+                      <c type="phon">yo</c>
+                    </w>
+                    <w type="acp-adn" lemma="l000033">
+                      <c type="phon">ki</c>
+                    </w>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050046">
+                  <c type="phon">pito</c>
+                </w>
+              </phr>
+              <w type="vb-adc" lemma="l031767a">
+                <c type="phon">motomu</c>
+              </w>
+            </cl>
+            <lb id="5" corresp="佐麻佐牟我多米爾"/>
+            <cl type="ip-adv">
+              <phr type="np-prd">
+                <cl type="ip-rel">
+                  <w type="vb-adc">
+                    <w type="vb-stm" lemma="l030830a">
+                      <c type="phon">samasa</c>
+                    </w>
+                    <w type="vax-cjr-adc" lemma="l000002">
+                      <c type="phon">mu</c>
+                    </w>
+                  </w>
+                  <w type="p-comp" lemma="l090436">
+                    <c type="phon">ga</c>
+                  </w>
+                </cl>
+                <w type="n" lemma="l050063">
+                  <c type="phon">tame</c>
+                </w>
+              </phr>
+              <w type="cop-inf" lemma="l031965">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

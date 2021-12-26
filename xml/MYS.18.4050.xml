@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.18.4050">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="米豆良之伎"/>
+          <phr type="np-sbj">
+            <cl type="ip-rel">
+              <cl type="ip-arg">
+                <cl type="ip-adv">
+                  <phr type="pp-sbj">
+                    <phr type="np">
+                      <cl type="ip-rel">
+                        <w type="adj-adn">
+                          <w type="adj-stm" lemma="l007113">
+                            <c type="phon">medurasi</c>
+                          </w>
+                          <w type="acp-adn" lemma="l000033">
+                            <c type="phon">ki</c>
+                          </w>
+                        </w>
+                      </cl>
+                      <lb id="1" corresp="吉美我伎麻佐婆"/>
+                      <w type="n" lemma="l004266">
+                        <c type="phon">kimi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000503">
+                      <c type="phon">ga</c>
+                    </w>
+                  </phr>
+                  <w type="vb-cnd">
+                    <w type="vb-stm" lemma="l030612a">
+                      <c type="phon">ki</c>
+                    </w>
+                    <w type="vb-cnd" lemma="l030206a">
+                      <c type="phon">masaba</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="2" corresp="奈家等伊比之"/>
+                <w type="vb-imp" lemma="l031267a">
+                  <c type="phon">nakye</c>
+                </w>
+                <w type="p-comp" lemma="l000530">
+                  <c type="phon">to</c>
+                </w>
+              </cl>
+              <w type="vb-adn">
+                <w type="vb-stm" lemma="l030199a">
+                  <c type="phon">ipi</c>
+                </w>
+                <w type="vax-spst-adn" lemma="l000015">
+                  <c type="phon">si</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="夜麻保登等芸須"/>
+            <w type="n" lemma="l050034">
+              <c type="phon">yama</c>
+            </w>
+            <w type="n" lemma="l050160">
+              <c type="phon">pototogisu</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="奈爾加伎奈可奴"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="wh-n" lemma="l042003">
+                <c type="phon">nani</c>
+              </w>
+            </phr>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030585a">
+              <w type="vb-stm" lemma="l030612a">
+                <c type="phon">ki</c>
+              </w>
+              <w type="vb-stm" lemma="l031267a">
+                <c type="phon">naka</c>
+              </w>
+            </w>
+            <w type="vax-neg-adn" lemma="l000006a">
+              <c type="phon">nu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

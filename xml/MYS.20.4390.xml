@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.20.4390" type="sakimori uta">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="牟浪他麻乃"/>
+          <cl type="ip-adv">
+            <phr type="pp">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk" lemma="l099999">
+                    <w type="n" lemma="l050613">
+                      <w type="n" lemma="l004060">
+                        <c type="phon">mura</c>
+                      </w>
+                      <w type="n" lemma="l052078">
+                        <c type="phon">tama</c>
+                      </w>
+                    </w>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="1" corresp="久留爾久枳作之"/>
+                <w type="n" lemma="l051348">
+                  <c type="phon">kuru</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <phr type="np-ob1">
+              <w type="n" lemma="l051328">
+                <c type="phon">kugi</c>
+              </w>
+            </phr>
+            <w type="vb-inf" lemma="l030807a">
+              <c type="phon">sasi</c>
+            </w>
+          </cl>
+          <lb id="2" corresp="加多米等之"/>
+          <phr type="pp">
+            <phr type="np">
+              <cl type="ip-rel">
+                <w type="vb-adn">
+                  <w type="vb-stm" lemma="l030486a">
+                    <c type="phon">katame</c>
+                  </w>
+                  <w type="vax-prf-stm" lemma="l000023">
+                    <c type="phon">to</c>
+                  </w>
+                  <w type="vax-spst-adn" lemma="l000015">
+                    <c type="phon">si</c>
+                  </w>
+                </w>
+              </cl>
+              <lb id="3" corresp="以母加去去里波"/>
+              <phr type="pp">
+                <phr type="np">
+                  <w type="n" lemma="l050027">
+                    <c type="phon">imo</c>
+                  </w>
+                </phr>
+                <w type="p-case-gen" lemma="l000503">
+                  <c type="phon">ka</c>
+                </w>
+              </phr>
+              <w type="n" lemma="l050037">
+                <c type="phon">kokoro</c>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000522">
+              <c type="phon">pa</c>
+            </w>
+          </phr>
+          <lb id="4" corresp="阿用久奈米加母"/>
+          <w type="vb-adc" lemma="l030113a">
+            <c type="phon">aywoku</c>
+          </w>
+          <w type="xtn-exc" lemma="l000805">
+            <c type="phon">name</c>
+          </w>
+          <w type="p-fnl-mph" lemma="l000507">
+            <c type="phon">kamo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

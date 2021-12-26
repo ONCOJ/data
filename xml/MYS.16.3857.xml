@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.16.3857">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="飯喫騰"/>
+            <cl type="ip-adv">
+              <phr type="np-ob1">
+                <w type="n" lemma="l052511">
+                  <c type="log">ipi</c>
+                </w>
+              </phr>
+              <w type="vb-css" lemma="l031444a">
+                <c type="log">pamedo</c>
+              </w>
+            </cl>
+            <lb id="1" corresp="味母不在"/>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007021">
+                <c type="log">uma</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="log">ku</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ara</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="2" corresp="雖行徃"/>
+          <s type="ip-mat">
+            <cl type="ip-adv">
+              <w type="vb-css" lemma="l030185a">
+                <w type="n" lemma="l050103">
+                  <c type="log">i</c>
+                </w>
+                <w type="vb-css" lemma="l031342a">
+                  <c type="log">nuredomo</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="3" corresp="安久毛不有"/>
+            <w type="adj-inf">
+              <w type="adj-stm" lemma="l007002">
+                <c type="log">yasu</c>
+              </w>
+              <w type="acp-inf" lemma="l000033">
+                <c type="phon">ku</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+            <w type="vb-ifc">
+              <w type="vb-stm" lemma="l030125a">
+                <c type="log">ara</c>
+              </w>
+              <w type="vax-neg-ifc" lemma="l000006a">
+                <c type="log">zu</c>
+              </w>
+            </w>
+          </s>
+          <lb id="4" corresp="赤根佐須"/>
+          <s type="ip-mat">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <cl type="ip-ept">
+                  <w type="mk-adc" lemma="l091008">
+                    <w type="n" lemma="l050796">
+                      <c type="phon">akane</c>
+                    </w>
+                    <w type="vb-adc" lemma="l030806a">
+                      <c type="phon">sasu</c>
+                    </w>
+                  </w>
+                </cl>
+                <lb id="5" corresp="君之情志"/>
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l004266">
+                      <c type="log">kimi</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="log">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l050037">
+                  <c type="log">kokoro</c>
+                </w>
+              </phr>
+              <w type="p-res" lemma="l000526a">
+                <c type="phon">si</c>
+              </w>
+            </phr>
+            <lb id="6" corresp="忘可祢津藻"/>
+            <w type="vb-cls">
+              <w type="vb-stm" lemma="l031907a">
+                <c type="log">wasure</c>
+              </w>
+              <w type="vb-stm" lemma="l030505a">
+                <c type="phon">kane</c>
+              </w>
+              <w type="vax-prf-cls" lemma="l000023">
+                <c type="phon">tu</c>
+              </w>
+            </w>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

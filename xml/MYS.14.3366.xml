@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.14.3366">
+      <ab type="transliteration">
+        <s type="multi-sentence">
+          <s type="ip-mat">
+            <lb id="0" corresp="麻可奈思美"/>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l007105">
+                  <w type="pfx" lemma="l000062">
+                    <c type="phon">ma</c>
+                  </w>
+                  <w type="adj-stm" lemma="l007022">
+                    <c type="phon">kanasi</c>
+                  </w>
+                </w>
+                <w type="acp-inf" lemma="l000034">
+                  <c type="phon">mi</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="1" corresp="佐祢爾和波由久"/>
+            <cl type="ip-prp">
+              <w type="vb-inf" lemma="l030817a">
+                <w type="pfx" lemma="l000040">
+                  <c type="phon">sa</c>
+                </w>
+                <w type="vb-inf" lemma="l031342a">
+                  <c type="phon">ne</c>
+                </w>
+              </w>
+              <w type="p-conn" lemma="l000551">
+                <c type="phon">ni</c>
+              </w>
+            </cl>
+            <phr type="pp-sbj">
+              <phr type="np">
+                <w type="pro-n" lemma="l042057">
+                  <c type="phon">wa</c>
+                </w>
+              </phr>
+              <w type="p-top" lemma="l000522">
+                <c type="phon">pa</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031840a">
+              <c type="phon">yuku</c>
+            </w>
+          </s>
+          <lb id="2" corresp="可麻久良能"/>
+          <s type="ip-mat">
+            <phr type="pp">
+              <phr type="np">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="pln" lemma="l090084">
+                      <c type="phon">kamakura</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000520">
+                    <c type="phon">no</c>
+                  </w>
+                </phr>
+                <lb id="3" corresp="美奈能瀬河伯爾"/>
+                <w type="pln" lemma="l051912">
+                  <c type="log">minanosegapa</c>
+                </w>
+              </phr>
+              <w type="p-case-dat" lemma="l000519">
+                <c type="phon">ni</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="思保美都奈武賀"/>
+            <phr type="np-sbj">
+              <w type="n" lemma="l050170">
+                <c type="phon">sipo</c>
+              </w>
+            </phr>
+            <w type="vb-adc" lemma="l031695a">
+              <c type="phon">mitu</c>
+            </w>
+            <w type="xtn-adc" lemma="l000805">
+              <c type="phon">namu</c>
+            </w>
+            <w type="p-foc" lemma="l000506">
+              <c type="phon">ka</c>
+            </w>
+          </s>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

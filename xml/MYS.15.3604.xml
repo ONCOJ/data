@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.15.3604">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="妹我素弖"/>
+          <cl type="ip-adv">
+            <cl type="ip-adv">
+              <phr type="np-src-ob1">
+                <phr type="pp">
+                  <phr type="np">
+                    <w type="n" lemma="l050027">
+                      <c type="log">imo</c>
+                    </w>
+                  </phr>
+                  <w type="p-case-gen" lemma="l000503">
+                    <c type="phon">ga</c>
+                  </w>
+                </phr>
+                <w type="n" lemma="l052043">
+                  <c type="phon">swode</c>
+                </w>
+              </phr>
+              <lb id="1" corresp="和可礼弖比左爾"/>
+              <w type="vb-ger" lemma="l031898a">
+                <c type="phon">wakarete</c>
+              </w>
+            </cl>
+            <cl type="ip-adv">
+              <w type="adj-inf">
+                <w type="adj-stm" lemma="l004102">
+                  <c type="phon">pisa</c>
+                </w>
+                <w type="cop-inf" lemma="l031965">
+                  <c type="phon">ni</c>
+                </w>
+              </w>
+            </cl>
+            <lb id="2" corresp="奈里奴礼杼"/>
+            <w type="vb-css">
+              <w type="vb-stm" lemma="l031317a">
+                <c type="phon">nari</c>
+              </w>
+              <w type="vax-prf-css" lemma="l000018">
+                <c type="phon">nuredo</c>
+              </w>
+            </w>
+          </cl>
+          <lb id="3" corresp="比登比母伊毛乎"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l050451">
+                <w type="num" lemma="l002001">
+                  <c type="phon">pito</c>
+                </w>
+                <w type="n" lemma="l050090">
+                  <c type="phon">pi</c>
+                </w>
+              </w>
+            </phr>
+            <w type="p-top" lemma="l000514">
+              <c type="phon">mo</c>
+            </w>
+          </phr>
+          <cl type="ip-adv">
+            <phr type="pp-ob1">
+              <phr type="np">
+                <w type="n" lemma="l050027">
+                  <c type="phon">imo</c>
+                </w>
+              </phr>
+              <w type="p-case-acc" lemma="l000534">
+                <c type="phon">wo</c>
+              </w>
+            </phr>
+            <lb id="4" corresp="和須礼弖於毛倍也"/>
+            <w type="vb-ger" lemma="l031907a">
+              <c type="phon">wasurete</c>
+            </w>
+          </cl>
+          <w type="vb-exc" lemma="l030399a">
+            <c type="phon">omope</c>
+          </w>
+          <w type="p-foc" lemma="l000537">
+            <c type="phon">ya</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

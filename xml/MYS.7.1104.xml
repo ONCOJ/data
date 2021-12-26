@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1104">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="馬並而"/>
+          <cl type="ip-adv">
+            <cl type="ip-nmz-ob1">
+              <cl type="ip-adv">
+                <phr type="np-ob1">
+                  <w type="n" lemma="l052245">
+                    <c type="log">uma</c>
+                  </w>
+                </phr>
+                <w type="vb-ger" lemma="l031305a">
+                  <c type="log">namete</c>
+                </w>
+              </cl>
+              <lb id="1" corresp="三芳野河乎"/>
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <w type="pln" lemma="l060165">
+                    <w type="pln" lemma="l060163">
+                      <w type="pfx-hon" lemma="l000035">
+                        <c type="phon-kun">mi</c>
+                      </w>
+                      <w type="pln" lemma="l052425">
+                        <c type="phon-kun">yosinwo</c>
+                      </w>
+                    </w>
+                    <w type="n" lemma="l050025">
+                      <c type="log">gapa</c>
+                    </w>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="phon">wo</c>
+                </w>
+              </phr>
+              <lb id="2" corresp="欲見"/>
+              <w type="vb-nml">
+                <w type="vb-stm" lemma="l031712a">
+                  <c type="log">mi</c>
+                </w>
+                <w type="vax-cjr-nml" lemma="l000002">
+                  <c type="log">maku</c>
+                </w>
+              </w>
+            </cl>
+            <w type="vb-inf" lemma="l031599a">
+              <c type="log">pori</c>
+            </w>
+          </cl>
+          <lb id="3" corresp="打越来而曽"/>
+          <cl type="ip-adv">
+            <w type="vb-ger">
+              <w type="pfx-mph" lemma="l000043">
+                <c type="log">uti</c>
+              </w>
+              <w type="vb-stm" lemma="l030747a">
+                <c type="log">kwoye</c>
+              </w>
+              <w type="vb-ger" lemma="l030612a">
+                <c type="log">kite</c>
+              </w>
+            </w>
+            <w type="p-foc" lemma="l000527">
+              <c type="phon">so</c>
+            </w>
+          </cl>
+          <lb id="4" corresp="瀧爾遊鶴"/>
+          <phr type="pp">
+            <phr type="np">
+              <w type="n" lemma="l052061">
+                <c type="log">taki</c>
+              </w>
+            </phr>
+            <w type="p-case-dat" lemma="l000519">
+              <c type="phon">ni</c>
+            </w>
+          </phr>
+          <w type="vb-adn">
+            <w type="vb-stm" lemma="l030041a">
+              <c type="log">aswobi</c>
+            </w>
+            <w type="vax-prf-adn" lemma="l000023">
+              <c type="phon">turu</c>
+            </w>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>

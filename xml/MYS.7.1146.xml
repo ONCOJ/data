@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader type="text"/>
+  <text>
+    <body xml:id="MYS.7.1146">
+      <ab type="transliteration">
+        <s type="ip-mat">
+          <lb id="0" corresp="目頬敷"/>
+          <phr type="np-arg">
+            <cl type="ip-rel">
+              <phr type="pp-ob1">
+                <phr type="np">
+                  <phr type="pp">
+                    <phr type="np">
+                      <cl type="ip-zyo">
+                        <phr type="pp">
+                          <phr type="np">
+                            <cl type="ip-rel">
+                              <w type="adj-adn">
+                                <w type="adj-stm" lemma="l007113">
+                                  <c type="phon">medurasi</c>
+                                </w>
+                                <w type="acp-adn" lemma="l000033">
+                                  <c type="phon">ki</c>
+                                </w>
+                              </w>
+                            </cl>
+                            <lb id="1" corresp="人乎吾家爾"/>
+                            <w type="n" lemma="l050046">
+                              <c type="log">pito</c>
+                            </w>
+                          </phr>
+                          <w type="p-case-acc" lemma="l000534">
+                            <c type="phon">wo</c>
+                          </w>
+                        </phr>
+                        <cl type="ip-ept">
+                          <w type="mk" lemma="l099999">
+                            <w type="n" lemma="l050019">
+                              <c type="log">wagipye</c>
+                            </w>
+                            <w type="p-case-dat" lemma="l000519">
+                              <c type="phon">ni</c>
+                            </w>
+                          </w>
+                        </cl>
+                      </cl>
+                      <lb id="2" corresp="住吉之"/>
+                      <w type="pln" lemma="l052023">
+                        <c type="plog">suminoye</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="log">no</c>
+                    </w>
+                  </phr>
+                  <lb id="3" corresp="岸乃黄土"/>
+                  <phr type="pp">
+                    <phr type="np">
+                      <w type="n" lemma="l051372">
+                        <c type="log">kwisi</c>
+                      </w>
+                    </phr>
+                    <w type="p-case-gen" lemma="l000520">
+                      <c type="phon">no</c>
+                    </w>
+                  </phr>
+                  <w type="n" lemma="l050504">
+                    <c type="log">panipu</c>
+                  </w>
+                </phr>
+                <w type="p-case-acc" lemma="l000534">
+                  <c type="nlog">wo</c>
+                </w>
+              </phr>
+              <lb id="4" corresp="将見因毛欲得"/>
+              <w type="vb-adc">
+                <w type="vb-stm" lemma="l031712a">
+                  <c type="log">mi</c>
+                </w>
+                <w type="vax-cjr-adc" lemma="l000002">
+                  <c type="log">mu</c>
+                </w>
+              </w>
+            </cl>
+            <w type="n" lemma="l052527">
+              <c type="log">yosi</c>
+            </w>
+          </phr>
+          <w type="p-fnl-opt" lemma="l000515">
+            <c type="log">moga</c>
+          </w>
+          <w type="p-top" lemma="l000514">
+            <c type="phon">mo</c>
+          </w>
+        </s>
+      </ab>
+    </body>
+  </text>
+</TEI>
